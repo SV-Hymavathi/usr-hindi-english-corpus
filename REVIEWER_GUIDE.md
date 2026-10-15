@@ -14,8 +14,8 @@ Python 3.8+ with the standard library is enough.
 ## 2. Go to the tool
 
 ```bash
-git clone <repository URL>
-cd <repository folder>/usr2chunk
+git clone https://github.com/SV-Hymavathi/usr-hindi-english-corpus.git
+cd usr-hindi-english-corpus/usr2chunk
 chmod +x run.sh
 ```
 

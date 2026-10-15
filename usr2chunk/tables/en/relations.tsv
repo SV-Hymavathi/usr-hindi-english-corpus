@@ -1,0 +1,41 @@
+# USR relation -> default English adposition ("-" = none). Lexical refinements in prep_lists.tsv
+k1	-
+k2	-
+k1s	-
+k2s	as
+k2p	to
+k3	with	refined: by (prep_lists by_heads / gerund / passive agent)
+k4	to
+k4a	to
+k5	from
+k5prk	with	material (user decision: built with sand stone)
+k7	in	refined: on/at/among
+k7p	in	refined: on/at
+k7t	in	refined: on/at/for/since/none
+k7a	according to
+r6	of	possessive pronoun goes before the head
+rt	for
+rh	because of
+rs	as
+rask1	along with
+ru	like
+rblak	after
+rblpk	before
+rblsk	on
+rkl	till
+rhh	between
+rv	than
+rdl	near
+krvn	-	manner adverb
+mod	-
+dem	-
+quant	-
+card	-
+ord	-
+intf	-
+rn	among	partitive (me se)
+k2as	along with	associative ("ke sAWa")
+rask3	with
+mk1	by
+rd	towards
+rasneg	without

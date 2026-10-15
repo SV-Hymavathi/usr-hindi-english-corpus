@@ -1,0 +1,26 @@
+# list	words (space separated)
+on_heads	part laina ruta marga purnima saptami dashami trtiya tritiya caturdashi ekadashi amavasya jayanti roda bank banks base line lines platform platforms top wall walls gate gates corner corners side sides border borders threshold pillar pillars structure structures road roads route routes track tracks coast shore surface roof edge edges floor day days date occasion eve evening monday tuesday wednesday thursday friday saturday sunday lotus back channel dashahara diwali holi tongue screen breast earth globe paper axis latitude latitudes path moon cancer capricorn equator meridian meridians map ground portal scale basis observation sphere railway
+at_heads	confluence distance height end night noon midnight dawn present gate door entrance levels poles pole midday point points
+by_heads	name names visit visits evidence evidences means completion grace order car cars bus buses train trains ship ships boat boats plane air road rail bridge bridges passenger bus train car boat road air
+for_time	long first second third last short some
+none_time	now today tomorrow yesterday once twice daily annually everyday then as
+from_heads	view sight viewpoint perspective standpoint
+among_heads	public people tourists scholars historians devotees pilgrims visitors
+none_time_mods	next previous following each every
+transitive_only	show see find connect join attach organize organise build construct establish install hold consider call celebrate conduct depict present describe mention locate situate store keep incline cover
+motion_verbs	come go arrive reach return
+stative_verbs	stand sit lie hang sleep
+degree_adjectives	extreme special particular general
+dative_subject_verbs	get obtain receive feel like see
+impersonal_verbs	say tell believe consider know call name state
+no_as_verbs	make define keep
+male_person_nouns	god lord king prince emperor saint sage son brother father grandson maharaja raja monk descendant
+direct_goal_verbs	reach enter approach
+obligation_tams	nA_ho_1 nA_cAhie_1 nA_padZa_1 nA_padZawA_hE_1
+duration_heads	centuries years months weeks days hours minutes ages decades seconds period
+into_verbs	fall drop pour jump plunge sink
+on_heads_when_located	nadi river lake sea coast
+location_verbs	situated located settled built standing
+postnominal_heads	having
+sentence_adverbs	in fact actually indeed in reality
+infinitive_object_verbs	try attempt want decide wish plan

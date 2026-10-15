@@ -1,0 +1,6245 @@
+<sent_id=G001>
+#सूर्यास्त के बाद आकाश को देखना कितना अच्छा लगता है।
+sUryAswa_1 1 - - 2:r6 - - - -
+bAxa_1 2 - - 4:k7t - - - -
+AkASa_1 3 - - 4:k2 - - - -
+xeKa_1 4 - kqw 7:k1 - - - -
+$kim 5 - - 6:intf - - - -
+acCA_1 6 - - 7:k1s - - - -
+laga_22-wA_hE_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G002>
+#आसमान में पहले एक या दो चमकते बिंदु ही दिखते हैं,
+AsamAna_1 1 - - 7:k7p - - - -
+pahale_5 2 - - 7:k7t - - - -
+eka_1 3 numex - - - - - 10:op1
+xo_1 4 numex - - - - - 10:op2
+[disjunct_1] 10 - - 6:card - - - -
+camaka_4 5 - - 6:rvks - - - -
+biMxu_2 6 - pl 7:k1 - hI_1 - -
+xiKa_91-wA_hE_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G002b>
+#लेकिन बाद में इनकी संख्या बढ़ती जाती है।
+bAxa_18 1 - - 4:k7t - - - -
+$wyax 2 - pl 3:r6 G002.6:coref proximal - -
+saMKyA_1 3 - - 4:k1 - - - -
+baDZa_1-wA_jA_wA_hE_1 4 - - 0:main G002.7:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=G003>
+#आप उनकी गणना नहीं कर सकते।
+$addressee 1 - - 20:k1 - respect - -
+$wyax 2 - pl 3:r6 - distal - -
+gaNanA_1 3 - - - - - - 20:kriyAmUla
+nahIM_1 4 - - 20:neg - - - -
+kara_1-0_sakawA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G004>
+#संपूर्ण आकाश छोटी-छोटी चमकदार वस्तुओं से भर जाता है,
+saMpUrNa_1 1 - - 2:mod - - - -
+AkASa_1 2 - - 6:k1 - - - -
+CotA_1 3 - - 5:mod - - - -
+camakaxAra_1 4 - - 5:mod - - - -
+vaswu_3 5 - pl 6:k3 - - - -
+Bara_1-wA_hE_1 6 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=G004b>
+#जिनमें से कुछ चमकीले होते हैं
+$yax 1 - pl 2:r6 G004.5:coref - - -
+kuCa_1 2 - - 4:k1 - - - -
+camakIlA_5 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G004c>
+#एवं कुछ धुँधले।
+kuCa_1 1 - - 3:k1 - - - -
+XuMXalA_1 2 - - 3:k1s - - - -
+hE_1-pres 3 - - 0:main G004b.4:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G005>
+#ऐसा प्रतीत होता है,
+EsA_1 1 - - 3:k1 - - - -
+prawIwa_1 2 - - - - - - 3:kriyAmUla
+ho_1-wA_hE_1 4 - - - - - - 3:verbalizer
+[cp_1] 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G005b>
+#मानो आकाश में हीरे जड़े हों।
+AkASa_1 1 - - 3:k7p - - - -
+hIrA_1 2 - pl 3:k2 - - - -
+jadZa_27-yA_hE_1 3 - - 0:main G005.3:vAkyakarma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G006>
+#इनमें से कुछ टिमटिमाते प्रतीत होते हैं।
+$wyax 1 - pl 2:r6 - proximal - -
+kuCa_1 2 - - 20:k1 - - - -
+timatimA_1 3 - - 20:k1s - - - -
+prawIwa_1 4 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G007>
+#लेकिन अगर आप उनको ध्यान से देखेंगे
+$addressee 1 - - 4:k1 - respect - -
+$wyax 2 - pl 4:k2 - distal - -
+XyAna_1 3 - - 4:krvn - - - -
+xeKa_1-gA_1 4 - - 0:main G007b.3:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G007b>
+#तो आप पाएँगे
+$addressee 1 - - 3:k1 - respect - -
+pA_1-gA_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G007c>
+#कि इनमें से कुछ की टिमटिमाहट अन्य से अलग है।
+$wyax 1 - pl 2:r6 G007.2:coref proximal - -
+kuCa_1 2 - - 3:r6 - - - -
+timatimAhata_2 3 - - 6:k1 - - - -
+anya_1 4 - pl 5:k5 - - - -
+alaga_7 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main G007b.3:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G008>
+#ये बिना किसी टिमटिमाहट के चंद्रमा के समान चमकते हैं।
+$wyax 1 - pl 6:k1 - proximal - -
+koI_9 2 - - 3:quant - BI_1 - -
+timatimAhata_2 3 - - 6:rasneg - - - -
+caMxramA_1 4 - - 6:ru - - - -
+camaka_4-wA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G009>
+#इन चमकीली वस्तुओं के साथ आप लगभग प्रतिदिन चंद्रमा को भी देखते हैं।
+$wyax 1 - pl 3:dem - proximal - -
+camakIlA_5 2 - - 3:mod - - - -
+vaswu_3 3 - pl 8:rask1 - - - -
+$addressee 4 - - 8:k1 - respect - -
+prawixina_1 5 - - 8:k7t - lagaBaga_1 - -
+caMxramA_1 6 - - 8:k2 - BI_1 - -
+xeKa_1-wA_hE_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G010>
+#यह अलग-अलग समय पर अलग आकार तथा अलग स्थितियों में दिखाई पड़ता है।
+$wyax 1 - - 20:k1 G009.6:coref proximal - -
+alaga_7 2 - - 3:mod - - - -
+samaya_1 3 - pl 20:k7t - - - -
+alaga_7 4 - - 5:mod - - - -
+AkAra_2 5 - pl - - - - 10:op1
+alaga_7 6 - - 7:mod - - - -
+sWiwi_1 7 - pl - - - - 10:op2
+[conj_1] 10 - - 20:k7 - - - -
+xiKAI_9 8 - - - - - - 20:kriyAmUla
+padZa_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G011>
+#आप पूर्ण चंद्र को लगभग एक महीने में एक बार देख सकते हैं।
+$addressee 1 - - 9:k1 - respect - -
+pUrNa_4 2 - - 3:mod - - - -
+caMxra_2 3 - - 9:k2 - - - -
+eka_1 4 - - 5:card - - - -
+mahInA_1 5 - - 9:k7t - lagaBaga_1 - -
+eka_1 6 - - 7:card - - - -
+bAra_15 7 - - 9:k7t - - - -
+xeKa_1-0_sakawA_hE_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G012>
+#यह पूर्ण चंद्रमा वाली रात या पूर्णिमा होती है।
+$wyax 1 - - 6:k1 - proximal - -
+pUrNa_4 2 - - 3:mod - - - -
+caMxramA_1 3 - - 4:mod - - - -
+rAwa_1 4 - - - - - - 10:op1
+pUrNimA 5 - - - - - - 13:begin
+[ne_1] 13 - - - - - - 10:op2
+[disjunct_1] 10 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G013>
+#पंद्रह दिन के बाद आप इसे नहीं देख सकते।
+paMxraha_1 1 numex - 2:card - - - -
+xina_1 2 - pl 3:r6 - - - -
+bAxa_1 3 - - 7:k7t - - - -
+$addressee 4 - - 7:k1 - respect - -
+$wyax 5 - - 7:k2 G012.1:coref proximal - -
+nahIM_1 6 - - 7:neg - - - -
+xeKa_1-0_sakawA_hE_1 7 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G014>
+#यह नये चंद्रमा की रात्रि या अमावस्या होती है।
+$wyax 1 - - 6:k1 - proximal - -
+nayA_1 2 - - 3:mod - - - -
+caMxramA_1 3 - - 4:r6 - - - -
+rAwri_1 4 - - - - - - 10:op1
+amAvasyA 5 - - - - - - 13:begin
+[ne_1] 13 - - - - - - 10:op2
+[disjunct_1] 10 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G015>
+#ऐसी रात में अगर आसमान साफ है
+EsA_1 1 - - 2:mod - - - -
+rAwa_1 2 - - 5:k7t - - - -
+AsamAna_1 3 - - 5:k1 - - - -
+sAPa_2 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main G015b.20:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G015b>
+#तो आप आसमान का अवलोकन अच्छी तरह से कर सकते हैं।
+$addressee 1 - - 20:k1 - respect - -
+AsamAna_1 2 - - 20:k2 - - - -
+acCA_1 3 - - 4:mod - - - -
+waraha_11 4 - - 20:krvn - - - -
+avalokana_1 5 - - - - - - 20:kriyAmUla
+kara_1-0_sakawA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G016>
+#क्या आपको इस बात पर आश्चर्य नहीं होता है
+$addressee 1 - - 5:k4a - respect - -
+$wyax 2 - - 3:dem - proximal - -
+bAwa_1 3 - - 5:k7 - - - -
+AScarya_1 4 - - 5:k1 - - - -
+nahIM_1 6 - - 5:neg - - - -
+ho_10-wA_hE_1 5 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G016b>
+#कि हम दिन के समय चंद्रमा एवं इन सभी छोटी चमकीली वस्तुओं को क्यों नहीं देख पाते हैं?
+$speaker 1 - pl 20:k1 - - - -
+xina_1 2 - - 3:r6 - - - -
+samaya_1 3 - - 20:k7t - - - -
+caMxramA_1 4 - - - - - - 30:op1
+$wyax 5 - pl 9:dem - proximal - -
+saBI_1 6 - - 9:quant - - - -
+CotA_1 7 - - 9:mod - - - -
+camakIlA_5 8 - - 9:mod - - - -
+vaswu_3 9 - pl - - - - 30:op2
+[conj_1] 30 - - 20:k2 - - - -
+$kim 10 - - 20:rh - - - -
+nahIM_1 11 - - 20:neg - - - -
+xeKa_1-0_sakawA_hE_1 20 - - 0:main G016.5:vAkyakarma - - -
+%interrogative
+</sent_id>
+<sent_id=G017>
+#ऐसा इसलिए है,
+EsA_1 1 - - 2:k1 - - - -
+hE_1-pres 2 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G017b>
+#क्योंकि सूर्य के अत्यधिक तेज प्रकाश के कारण रात के समय चमकने वाली वस्तुओं को हम दिन में नहीं देख पाते हैं।
+sUrya_1 1 - - 4:r6 - - - -
+awyaXika_7 2 - - 3:intf - - - -
+weja_96 3 - - 4:mod - - - -
+prakASa_1 4 - - 20:rh - - - -
+rAwa_1 5 - - 6:r6 - - - -
+samaya_1 6 - - 7:k7t - - - -
+camaka_4 7 - - 8:rvks - - - -
+vaswu_3 8 - pl 20:k2 - - - -
+$speaker 9 - pl 20:k1 - - - -
+xina_1 10 - - 20:k7t - - - -
+nahIM_1 11 - - 20:neg - - - -
+xeKa_1-0_sakawA_hE_1 20 - - 0:main G017.2:kAryakAraNa - - -
+%negative
+</sent_id>
+<sent_id=G018>
+#सूर्य, चंद्रमा तथा वे सभी वस्तुएँ जो रात के समय आसमान में चमकती हैं, खगोलीय पिंड कहलाती हैं।
+sUrya_1 1 - - - - - - 30:op1
+caMxramA_1 2 - - - - - - 30:op2
+$wyax 3 - pl 5:dem - distal - -
+saBI_1 4 - - 5:quant - - - -
+vaswu_3 5 - pl - - - - 30:op3
+[conj_1] 30 - - 20:k1 - - - -
+KagolIya_1 6 - - 7:mod - - - -
+piMda_3 7 - pl 20:k1s - - - -
+kahalA_2-wA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G018b>
+#जो रात के समय आसमान में चमकती हैं
+$yax 1 - pl 5:k1 G018.5:coref - - -
+rAwa_1 2 - - 3:r6 - - - -
+samaya_1 3 - - 5:k7t - - - -
+AsamAna_1 4 - - 5:k7p - - - -
+camaka_4-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G019>
+#कुछ खगोलीय पिंड बड़े आकार वाले तथा गर्म होते हैं।
+kuCa_1 1 - - 3:quant - - - -
+KagolIya_1 2 - - 3:mod - - - -
+piMda_3 3 - pl 20:k1 - - - -
+badZA_1 4 - - 5:mod - - - -
+AkAra_3 5 - - - - - - 10:op1
+garma_2 6 - - - - - - 10:op2
+[conj_1] 10 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G020>
+#ये गैसों से बने होते हैं।
+$wyax 1 - pl 3:k1 G019.3:coref proximal - -
+gEsa_1 2 - pl 3:k5 - - - -
+bana_15-yA_hE_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G021>
+#इनके पास अपनी ऊष्मा तथा प्रकाश होता है,
+$wyax 1 - pl 2:r6 G019.3:coref proximal - -
+pAsa_1 2 - - 6:k7p - - - -
+apanA_91 3 - - 10:r6 - - - -
+URmA_1 4 - - - - - - 10:op1
+prakASa_1 5 - - - - - - 10:op2
+[conj_1] 10 - - 6:k1 - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G021b>
+#जिसे वे बहुत बड़ी मात्रा में उत्सर्जित करते हैं।
+$yax 1 - - 20:k2 G021.10:coref - - -
+$wyax 2 - pl 20:k1 G021.1:coref distal - -
+bahuwa_7 3 - - 4:intf - - - -
+badZA_2 4 - - 5:mod - - - -
+mAwrA_1 5 - - 20:k7 - - - -
+uwsarjiwa_1 6 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G022>
+#इन खगोलीय पिंडों को तारा कहते हैं।
+$wyax 1 - pl 3:dem - proximal - -
+KagolIya_1 2 - - 3:mod - - - -
+piMda_3 3 - pl 5:k2 - - - -
+wArA_1 4 - - 5:k2s - - - -
+kaha_1-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G023>
+#सूर्य भी एक तारा है।
+sUrya_1 1 - - 4:k1 - BI_1 - -
+eka_1 2 - - 3:card - - - -
+wArA_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G024>
+#रात के समय चमकते हुए अनगिनत तारे सूर्य के समान ही हैं।
+rAwa_1 1 - - 2:r6 - - - -
+samaya_1 2 - - 3:k7t - - - -
+camaka_4 3 - - 5:rvks - - - -
+anaginawa_1 4 - - 5:mod - - - -
+wArA_1 5 - pl 8:k1 - - - -
+sUrya_1 6 - - 7:r6 - - - -
+samAna_3 7 - - 8:k1s - hI_1 - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G025>
+#लेकिन हमसे बहुत अधिक दूर होने के कारण हम लोग उनकी ऊष्मा या प्रकाश को महसूस नहीं करते हैं
+$speaker 1 - pl 4:k5 - - - -
+bahuwa_7 2 - - 3:intf - - - -
+aXika_1 3 - - 4:intf - - - -
+xUra_15 4 - - 5:k1s - - - -
+ho_6 5 - kqw 20:rh - - - -
+$speaker 6 - pl 20:k1 - - - -
+$wyax 7 - pl 10:r6 G024.5:coref distal - -
+URmA_1 8 - - - - - - 10:op1
+prakASa_1 9 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:k2 - - - -
+mahasUsa_9 11 - - - - - - 20:kriyAmUla
+nahIM_1 12 - - 20:neg - - - -
+kara_1-wA_hE_1 13 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G024.8:viroXI - - -
+%negative
+</sent_id>
+<sent_id=G025b>
+#तथा वे अत्यंत छोटे दिखाई पड़ते हैं।
+$wyax 1 - pl 20:k1 G024.5:coref distal - -
+awyaMwa_1 2 - - 3:intf - - - -
+CotA_1 3 - - 20:k1s - - - -
+xiKAI_9 4 - - - - - - 20:kriyAmUla
+padZa_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G025.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G026>
+#आपने अवश्य ध्यान दिया होगा
+$addressee 1 - - 20:k1 - respect - -
+avaSya_1 2 - - 20:krvn - - - -
+XyAna_1 3 - - - - - - 20:kriyAmUla
+xe_1-yA_hogA_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G026b>
+#कि कुछ दूरी से देखने पर सभी वस्तुएँ छोटी दिखाई पड़ती हैं।
+kuCa_1 1 - - 2:quant - - - -
+xUrI_1 2 - - 3:k5 - - - -
+xeKa_1 3 - kqw 20:k7t - - - -
+saBI_1 4 - - 5:quant - - - -
+vaswu_3 5 - pl 20:k1 - - - -
+CotA_1 6 - - 20:k1s - - - -
+xiKAI_9 7 - - - - - - 20:kriyAmUla
+padZa_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G026.20:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G027>
+#अत्यधिक ऊँचाई पर उड़ रहा हवाई जहाज कितना छोटा दिखाई देता है!
+awyaXika_7 1 - - 2:mod - - - -
+UzcAI_1 2 - - 3:k7p - - - -
+udZa_5-0_rahA_hE_1 3 - - 4:rvks - - - -
+havAI_4 4 - - - - - - 10:mod
+jahAja_1 5 - - - - - - 10:head
+[nc_1] 10 - - 20:k1 - - - -
+$kim 6 - - 7:intf - - - -
+CotA_1 7 - - 20:k1s - - - -
+xiKAI_9 8 - - - - - - 20:kriyAmUla
+xe_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G028>
+#रात्रि में आसमान की ओर देखते समय आप तारों के विभिन्न समूहों द्वारा बनाई गई विविध आकृतियों देख सकते हैं।
+rAwri_1 1 - - 3:k7t - - - -
+AsamAna_1 2 - - 3:k2p - - - -
+xeKa_1 3 - - 10:rsk - - - -
+$addressee 4 - - 10:k1 - respect - -
+wArA_1 5 - pl 7:r6 - - - -
+viBinna_1 6 - - 7:mod - - - -
+samUha_1 7 - pl 8:k3 - - - -
+banA_1-yA_gayA_1 8 - - 9:rvks - - - -
+viviXa_3 11 - - 9:mod - - - -
+Akqwi_7 9 - pl 10:k2 - - - -
+xeKa_1-0_sakawA_hE_1 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G029>
+#ये नक्षत्रमंडल कहलाते हैं।
+$wyax 1 - pl 3:k1 G028.9:coref proximal - -
+nakRawramaMdala_1 2 - pl 3:k1s - - - -
+kahalA_2-wA_hE_1 3 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G030>
+#अर्सा मेजर या बिग बीयर इसी प्रकार का एक नक्षत्रमंडल है।
+arsA 1 - - - - - - 11:begin
+mejara 2 - - - - - - 11:inside
+[ne_1] 11 - - - - - - 10:op1
+biga 3 - - - - - - 12:begin
+bIyara 4 - - - - - - 12:inside
+[ne_2] 12 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:k1 - - - -
+$wyax 5 - - 6:dem - proximal hI_1 -
+prakAra_1 6 - - 8:r6 - - - -
+eka_1 7 - - 8:card - - - -
+nakRawramaMdala_1 8 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G031>
+#बहुत आसानी से पहचान में आने वाला नक्षत्रमंडल है सप्तऋषि।
+bahuwa_7 1 - - 2:intf - - - -
+AsAnI_5 2 - - 4:krvn - - - -
+pahacAna_3 3 - - 4:k7 - - - -
+A_1 4 - - 5:rvks - - - -
+nakRawramaMdala_1 5 - - 20:k1s - - - -
+sapwaqRi 6 - - - - - - 11:begin
+[ne_1] 11 - - 20:k1 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G032>
+#यह सात तारों का समूह है,
+$wyax 1 - - 4:k1 G031.11:coref proximal - -
+sAwa_12 2 numex - 3:card - - - -
+wArA_1 3 - pl 5:r6 - - - -
+samUha_1 5 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G032b>
+#जो कि नक्षत्रमंडल अर्सा मेजर का भाग है।
+$yax 1 - - 6:k1 G032.5:coref - - -
+nakRawramaMdala_1 2 - - 11:mod - - - -
+arsA 3 - - - - - - 11:begin
+mejara 4 - - - - - - 11:inside
+[ne_1] 11 - - 5:r6 - - - -
+BAga_2 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G033>
+#अपने परिवार या पड़ोस में किसी बड़े व्यक्ति से कहिए
+$addressee 1 - - 10:r6 - - - -
+parivAra_1 2 - - - - - - 10:op1
+padZosa_1 3 - - - - - - 10:op2
+[disjunct_1] 10 - - 6:k7 - - - -
+koI_9 4 - - 6:quant - - - -
+badZA_4 5 - - 6:mod - - - -
+vyakwi_2 6 per - 7:k4 - - - -
+kaha_5-e_1 7 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G033b>
+#कि वह आपको आसमान में और अधिक तारों ग्रहों तथा नक्षत्रमंडलों को दिखाएँ।
+$wyax 1 - - 20:k1 G033.6:coref distal - -
+$addressee 2 - - 20:k4 - - - -
+AsamAna_1 3 - - 20:k7p - - - -
+aXika_1 4 - - 30:quant - - - -
+wArA_1 5 - pl - - - - 30:op1
+graha_1 6 - pl - - - - 30:op2
+nakRawramaMdala_1 7 - pl - - - - 30:op3
+[conj_1] 30 - - 20:k2 - - - -
+xiKA_3-e_1 20 - - 0:main G033.7:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G034>
+#प्राचीन समय में, लोग रात्रि में दिशा का निर्धारण तारों की सहायता से करते थे।
+prAcIna_1 1 - - 2:mod - - - -
+samaya_1 2 - - 20:k7t - - - -
+loga_2 3 - pl 20:k1 - - - -
+rAwri_1 4 - - 20:k7t - - - -
+xiSA_1 5 - - 20:k2 - - - -
+wArA_1 6 - pl 7:r6 - - - -
+sahAyawA_1 7 - - 20:k3 - - - -
+nirXAraNa_5 8 - - - - - - 20:kriyAmUla
+kara_1-wA_WA_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G035>
+#उत्तरी तारा उत्तर दिशा को बताता है।
+uwwarI_1 1 - - 2:mod - - - -
+wArA_1 2 - - 5:k1 - - - -
+uwwara_3 3 - - 4:mod - - - -
+xiSA_1 4 - - 5:k2 - - - -
+bawA_1-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G036>
+#इसे ध्रुव तारा भी कहा जाता है।
+$wyax 1 - - 5:k2 G035.2:coref proximal - -
+Xruva_1 2 - - - - - - 10:mod
+wArA_1 3 - - - - - - 10:head
+[nc_1] 10 - - 5:k2s - BI_1 - -
+kaha_1-yA_jAwA_hE_1 5 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G037>
+#यह आसमान में हमेशा एक ही स्थान पर रहता है।
+$wyax 1 - - 6:k1 G036.10:coref proximal - -
+AsamAna_1 2 - - 6:k7p - - - -
+hameSA_1 3 - - 6:k7t - - - -
+eka_1 4 - - 5:card - hI_1 - -
+sWAna_1 5 - - 6:k7p - - - -
+raha_2-wA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G038>
+#हम सप्तऋषि की सहायता से ध्रुव तारे की स्थिति को जान सकते हैं।
+$speaker 1 - pl 20:k1 - - - -
+sapwaqRi 2 - - - - - - 11:begin
+[ne_1] 11 - - 3:r6 - - - -
+sahAyawA_1 3 - - 20:k3 - - - -
+Xruva_1 4 - - - - - - 12:mod
+wArA_1 5 - - - - - - 12:head
+[nc_1] 12 - - 6:r6 - - - -
+sWiwi_1 6 - - 20:k2 - - - -
+jAna_10-0_sakawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G039>
+#चित्र में आप देखेंगे
+ciwra_4 1 - - 3:k7p - - - -
+$addressee 2 - - 3:k1 - respect - -
+xeKa_1-gA_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G039b>
+#कि यदि सप्तऋषि मंडल के संकेतक तारों को आपस में मिलाते हुए एक काल्पनिक रेखा खींची जाए
+sapwaqRi 1 - - - - - - 11:begin
+maMdala 2 - - - - - - 11:inside
+[ne_1] 11 - - 4:r6 - - - -
+saMkewaka_1 3 - - 4:mod - - - -
+wArA_1 4 - pl 6:k2 - - - -
+Apasa_2 5 - - 6:krvn - - - -
+milA_7 6 - - 9:rsk - - - -
+eka_1 7 - - 8:card - - - -
+kAlpanika_1 10 - - 8:mod - - - -
+reKA_1 8 - - 9:k2 - - - -
+KIMca_2-yA_jAe_1 9 - - 0:main G039c.20:AvaSyakawApariNAma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G039b2>
+#एवं उसे आगे की ओर बढ़ाया जाए
+$wyax 1 - - 3:k2 G039b.8:coref distal - -
+Age_3 2 - - 3:k2p - - - -
+baDZA_2-yA_jAe_1 3 - - 0:main G039b.9:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G039c>
+#तो यह ध्रुव तारे की ओर इंगित करेगी।
+$wyax 1 - - 20:k1 G039b.8:coref proximal - -
+Xruva_1 2 - - - - - - 10:mod
+wArA_1 3 - - - - - - 10:head
+[nc_1] 10 - - 20:k2p - - - -
+iMgiwa_1 4 - - - - - - 20:kriyAmUla
+kara_1-gA_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G039.3:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G040>
+#कुछ खगोलीय पिंडों में अपना प्रकाश एवं ऊष्मा नहीं होती है।
+kuCa_1 1 - - 3:quant - - - -
+KagolIya_1 2 - - 3:mod - - - -
+piMda_3 3 - pl 20:k7 - - - -
+apanA_91 4 - - 10:r6 - - - -
+prakASa_1 5 - - - - - - 10:op1
+URmA_1 6 - - - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+nahIM_1 7 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G041>
+#वे तारों के प्रकाश से प्रकाशित होते हैं।
+$wyax 1 - pl 5:k1 G040.3:coref distal - -
+wArA_1 2 - pl 3:r6 - - - -
+prakASa_1 3 - - 5:k3 - - - -
+prakASiwa_10 4 - - 5:k1s - - - -
+ho_6-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G042>
+#ऐसे पिंड ग्रह कहलाते हैं।
+EsA_1 1 - - 2:mod - - - -
+piMda_3 2 - pl 4:k1 - - - -
+graha_1 3 - pl 4:k1s - - - -
+kahalA_2-wA_hE_1 4 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G043>
+#ग्रह जिसे अंग्रेजी में प्लेनेट कहते हैं ग्रीक भाषा के प्लेनेटाइ शब्द से बना है
+graha_1 1 - - 10:k1 - - - -
+grIka_1 2 - - 3:mod - - - -
+BARA_1 3 - - 5:r6 - - - -
+pleneteI 4 - - - - - - 11:begin
+[ne_1] 11 - - 5:mod - - - -
+Sabxa_1 5 - - 10:k5 - - - -
+bana_15-yA_hE_1 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G043b>
+#जिसे अंग्रेजी में प्लेनेट कहते हैं
+$yax 1 - - 4:k2 G043.1:coref - - -
+aMgrejZI_1 2 - - 4:k7 - - - -
+plAneta_96 3 - - 4:k2s - - - -
+kaha_1-wA_hE_1 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G043c>
+#जिसका अर्थ होता है परिभ्रमक अर्थात् चारों ओर घूमने वाले।
+$yax 1 - - 2:r6 G043.5:coref - - -
+arWa_1 2 - - 5:k1 - - - -
+pariBramaka_1 3 - pl 5:k1s - - - -
+cAroMora_1 6 - - 7:k7p - - - -
+GUma_2 7 - kqw 3:rs - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G044>
+#पृथ्वी, जिस पर हम रहते हैं, एक ग्रह है।
+pqWvI_1 1 - - 4:k1 - - - -
+eka_1 2 - - 3:card - - - -
+graha_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G044b>
+#जिस पर हम रहते हैं
+$yax 1 - - 3:k7p G044.1:coref - - -
+$speaker 2 - pl 3:k1 - - - -
+raha_1-wA_hE_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G045>
+#यह अपना संपूर्ण प्रकाश एवं ऊष्मा सूर्य से प्राप्त करती है,
+$wyax 1 - - 20:k1 G044.1:coref proximal - -
+apanA_91 2 - - 10:r6 - - - -
+saMpUrNa_1 3 - - 10:mod - - - -
+prakASa_1 4 - - - - - - 10:op1
+URmA_1 5 - - - - - - 10:op2
+[conj_1] 10 - - 20:k2 - - - -
+sUrya_1 6 - - 20:k5 - - - -
+prApwa_2 7 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G045b>
+#जो पृथ्वी के सबसे नज़दीक का तारा है।
+$yax 1 - - 5:k1 G045.6:coref - - -
+pqWvI_1 2 - - 3:r6 - - - -
+najaxIka_2 3 - supl 4:mod - - - -
+wArA_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G046>
+#पृथ्वी को बहुत अधिक दूरी से, जैसे चंद्रमा से देखने पर,
+pqWvI_1 1 - - 5:k2 - - - -
+bahuwa_7 2 - - 3:intf - - - -
+aXika_1 3 - - 4:mod - - - -
+xUrI_1 4 - - 5:k5 - - - -
+caMxramA_1 6 - - 4:rsm - - - -
+xeKa_1 5 - kqw 10:k7t - - - -
+prawIwa_1 7 - - - - - - 10:kriyAmUla
+ho_1-gA_1 8 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+$wyax 9 - - 10:k1 1:coref proximal - -
+caMxramA_1 11 - - 12:ru - - - -
+camaka_4 12 - - 10:k1s - - - -
+%affirmative
+</sent_id>
+<sent_id=G047>
+#आसमान में दिखने वाला चंद्रमा एक उपग्रह है।
+AsamAna_1 1 - - 2:k7p - - - -
+xiKa_91 2 - - 3:rvks - - - -
+caMxramA_1 3 - - 6:k1 - - - -
+eka_1 4 - - 5:card - - - -
+upagraha_1 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G048>
+#यह हमारी पृथ्वी का सहचर है
+$wyax 1 - - 5:k1 G047.3:coref proximal - -
+$speaker 2 - pl 3:r6 - - - -
+pqWvI_1 3 - - 4:r6 - - - -
+sahacara_4 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G048b>
+#तथा इसके चारों ओर चक्कर लगाता है।
+$wyax 1 - - 2:r6 G048.3:coref proximal - -
+cAroMora_1 2 - - 20:k7p - - - -
+cakkara_7 3 - - - - - - 20:kriyAmUla
+lagA_1-wA_hE_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G048.5:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G049>
+#हमारी पृथ्वी के समान, सात अन्य ग्रह हैं
+$speaker 1 - pl 2:r6 - - - -
+pqWvI_1 2 - - 6:ru - - - -
+sAwa_12 3 numex - 5:card - - - -
+anya_1 4 - - 5:mod - - - -
+graha_1 5 - pl 6:k1 - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G049b>
+#जो सूर्य से प्रकाश एवं ऊष्मा प्राप्त करते हैं।
+$yax 1 - pl 20:k1 G049.5:coref - - -
+sUrya_1 2 - - 20:k5 - - - -
+prakASa_1 3 - - - - - - 10:op1
+URmA_1 4 - - - - - - 10:op2
+[conj_1] 10 - - 20:k2 - - - -
+prApwa_2 5 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G050>
+#उनमें से कुछ के पास अपने चंद्रमा भी हैं।
+$wyax 1 - pl 2:r6 G049.5:coref distal - -
+kuCa_1 2 - - 3:r6 - - - -
+pAsa_1 3 - - 6:k7p - - - -
+apanA_91 4 - - 5:r6 - - - -
+caMxramA_1 5 - pl 6:k1 - BI_1 - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G051>
+#सूर्य, आठ ग्रह, उपग्रह तथा कुछ अन्य खगोलीय पिंड, जैसे क्षुद्र ग्रह एवं उल्कापिंड मिलकर सौरमंडल का निर्माण करते हैं।
+sUrya_1 1 - - - - - - 30:op1
+ATa_1 2 numex - 3:card - - - -
+graha_1 3 - pl - - - - 30:op2
+upagraha_1 4 - pl - - - - 30:op3
+kuCa_1 5 - - 8:quant - - - -
+anya_1 6 - - 8:mod - - - -
+KagolIya_1 7 - - 8:mod - - - -
+piMda_3 8 - pl - - - - 30:op4
+kRuxra_3 9 - - - - - - 32:mod
+graha_1 10 - pl - - - - 32:head
+[nc_1] 32 - pl - - - - 31:op1
+ulkApiMda_1 11 - pl - - - - 31:op2
+[conj_2] 31 - - 8:rsm - - - -
+[conj_1] 30 - - 20:k1 - - - -
+mila_4 12 - - 20:rpk - - - -
+sOramaMdala_1-system 13 - - 20:k2 - - - -
+nirmANa_16 14 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 15 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G052>
+#उसे हम सौर परिवार का नाम देते हैं,
+$wyax 1 - - 6:k4 G051.13:coref distal - -
+$speaker 2 - pl 6:k1 - - - -
+sOra_1 3 - - 4:mod - - - -
+parivAra_1 4 - - 5:r6 - - - -
+nAma_1 5 - - 6:k2 - - - -
+xe_1-wA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G052b>
+#जिसका मुखिया सूर्य है।
+$yax 1 - - 2:r6 G052.4:coref - - -
+muKiyA_2 2 - - 4:k1 - - - -
+sUrya_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G053>
+#सूर्य सौरमंडल के केन्द्र में स्थित है।
+sUrya_1 1 - - 5:k1 - - - -
+sOramaMdala_1-system 2 - - 3:r6 - - - -
+keMxra_1 3 - - 5:k7p - - - -
+sWiwa_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G054>
+#यह बहुत बड़ा है
+$wyax 1 - - 4:k1 G053.1:coref proximal - -
+bahuwa_7 2 - - 3:intf - - - -
+badZA_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G054b>
+#एवं अत्यधिक गर्म गैसों से बना है।
+$wyax 1 - - 5:k1 G053.1:coref proximal - -
+awyaXika_7 2 - - 3:intf - - - -
+garma_2 3 - - 4:mod - - - -
+gEsa_1 4 - pl 5:k5 - - - -
+bana_15-yA_hE_1 5 - - 0:main G054.4:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G055>
+#इसका खिंचाव बल इससे सौरमंडल को बाँधे रखता है।
+$wyax 1 - - 10:r6 G053.1:coref proximal - -
+KiMcAva_3 2 - - - - - - 10:mod
+bala_3 3 - - - - - - 10:head
+[nc_1] 10 - - 20:k1 - - - -
+$wyax 4 - - 20:k5 G053.1:coref proximal - -
+sOramaMdala_1-system 5 - - 20:k2 - - - -
+bAzXa_9 6 - - 20:k2s - - - -
+raKa_3-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G056>
+#सूर्य, सौरमंडल के लिए प्रकाश एवं ऊष्मा का एकमात्र स्रोत है।
+sUrya_1 1 - - 20:k1 - - - -
+sOramaMdala_1-system 2 - - 20:rt - - - -
+prakASa_1 3 - - - - - - 10:op1
+URmA_1 4 - - - - - - 10:op2
+[conj_1] 10 - - 6:r6 - - - -
+ekamAwra_3 5 - - 6:mod - - - -
+srowa_1 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G057>
+#लेकिन हम इसकी अत्यधिक तेज ऊष्मा को महसूस नहीं करते हैं,
+$speaker 1 - pl 20:k1 - - - -
+$wyax 2 - - 5:r6 G056.1:coref proximal - -
+awyaXika_7 3 - - 4:intf - - - -
+weja_26 4 - - 5:mod - - - -
+URmA_1 5 - - 20:k2 - - - -
+mahasUsa_9 6 - - - - - - 20:kriyAmUla
+nahIM_1 7 - - 20:neg - - - -
+kara_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G056.20:viroXI - - -
+%negative
+</sent_id>
+<sent_id=G057b>
+#क्योंकि सबसे नज़दीक का तारा होने के बावजूद
+$wyax 1 - - 3:k1 G056.1:coref proximal - -
+najaxIka_2 4 - supl 2:mod - - - -
+wArA_1 2 - - 3:k1s - - - -
+hE_1-pres 3 - - 0:main G057c.20:vyaBicAra - - -
+%affirmative
+</sent_id>
+<sent_id=G057c>
+#यह हमसे बहुत दूर है।
+$wyax 4 - - 20:k1 G056.1:coref proximal - -
+$speaker 5 - pl 20:k5 - - - -
+bahuwa_7 6 - - 7:intf - - - -
+xUra_15 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G057.20:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=G058>
+#सूर्य पृथ्वी से लगभग 15 करोड़ किलोमीटर दूर है।
+sUrya_1 1 - - 20:k1 - - - -
+pqWvI_1 2 - - 20:k5 - - - -
+15 3 numex - 4:card - - - -
+karodZa_8 4 - - 5:card - - - -
+kilomItara_1 5 - pl 6:mod - lagaBaga_1 - -
+xUra_15 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G059>
+#हमारे सौरमंडल में आठ ग्रह हैं।
+$speaker 1 - pl 2:r6 - - - -
+sOramaMdala_1-system 2 - - 5:k7p - - - -
+ATa_1 3 numex - 4:card - - - -
+graha_1 4 - pl 5:k1 - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G060>
+#सूर्य से दूरी के अनुसार, वे हैंः बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, यूरेनस तथा नेप्च्यून।
+sUrya_1 1 - - 2:k5 - - - -
+xUrI_1 2 - - 20:k7a - - - -
+$wyax 3 - pl 20:k1 G059.4:coref distal - -
+buXa_2 4 - - - - - - 30:op1
+Sukra_96 5 - - - - - - 30:op2
+pqWvI_1 6 - - - - - - 30:op3
+maMgala_96 7 - - - - - - 30:op4
+bqhaspawi_2 8 - - - - - - 30:op5
+Sani_96 9 - - - - - - 30:op6
+yUrenasa 10 - - - - - - 31:begin
+[ne_1] 31 - - - - - - 30:op7
+nepcyUna 11 - - - - - - 32:begin
+[ne_2] 32 - - - - - - 30:op8
+[conj_1] 30 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G061>
+#सौरमंडल के सभी आठ ग्रह एक निश्चित पथ पर सूर्य का चक्कर लगाते हैं।
+sOramaMdala_1-system 1 - - 4:r6 - - - -
+saBI_1 2 - - 4:quant - - - -
+ATa_1 3 numex - 4:card - - - -
+graha_1 4 - pl 20:k1 - - - -
+eka_1 5 - - 7:card - - - -
+niSciwa_8 6 - - 7:mod - - - -
+paWa_1 7 - - 20:k7p - - - -
+sUrya_1 8 - - 20:r6 - - - -
+cakkara_7 9 - - - - - - 20:kriyAmUla
+lagA_1-wA_hE_1 10 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G062>
+#ये रास्ते दीर्घवृत्ताकार में फेले हुए हैं।
+$wyax 1 - pl 2:dem - proximal - -
+rAswA_2 2 - pl 4:k1 - - - -
+xIrGavqwwAkAra_1 3 - - 4:k7 - - - -
+PEla_1-yA_hE_1 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G063>
+#ये कक्षा कहलाते हैं।
+$wyax 1 - pl 3:k1 G062.2:coref proximal - -
+kakRA_6 2 - pl 3:k1s - - - -
+kahalA_2-wA_hE_1 3 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G064>
+#बुध सूर्य के सबसे नज़दीक है।
+buXa_2 1 - - 4:k1 - - - -
+sUrya_1 2 - - 3:r6 - - - -
+najaxIka_2 3 - supl 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G065>
+#अपनी कक्षा में सूर्य के चारों ओर एक चक्कर लगाने में इसे केवल 88 दिन लगते हैं।
+apanA_91 1 - - 2:r6 - - - -
+kakRA_6 2 - - 30:k7p - - - -
+sUrya_1 3 - - 4:r6 - - - -
+cAroMora_1 4 - - 30:k7p - - - -
+eka_1 5 - - 6:card - - - -
+cakkara_7 6 - - - - - - 30:kriyAmUla
+lagA_1 7 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k7 - - - -
+$wyax 8 - - 20:k4a G064.1:coref proximal - -
+88 9 numex - 10:card - - - -
+xina_1 10 - pl 20:k1 - kevala_1 - -
+laga_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G066>
+#शुक्र को पृथ्वी का जुड़वाँ ग्रह माना जाता है,
+Sukra_96 1 - - 5:k2 - - - -
+pqWvI_1 2 - - 4:r6 - - - -
+judZavAz_1 3 - - 4:mod - - - -
+graha_1 4 - - 5:k2s - - - -
+mAna_1-yA_jAwA_hE_1 5 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G066b>
+#क्योंकि इसका आकार एवं आकृति लगभग पृथ्वी के ही समान है।
+$wyax 1 - - 10:r6 G066.1:coref proximal - -
+AkAra_3 2 - - - - - - 10:op1
+Akqwi_1 3 - - - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+pqWvI_1 4 - - 5:r6 - hI_1 - -
+samAna_3 5 - - 20:k1s - lagaBaga_1 - -
+hE_1-pres 20 - - 0:main G066.5:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=G067>
+#अभी तक प्लूटो भी एक ग्रह माना जाता था।
+aBIwaka_9 1 - - 5:k7t - - - -
+plUto 2 - - - - - - 10:begin
+[ne_1] 10 - - 5:k2 - BI_1 - -
+eka_1 3 - - 4:card - - - -
+graha_1 4 - - 5:k2s - - - -
+mAna_1-yA_jAwA_WA_1 5 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G068>
+#परन्तु अंतर्राष्ट्रीय खगोलीय संगठन ने अपनी बैठक (अगस्त 2006) में यह निर्णय लिया
+aMwarrARtrIya_1 1 - - 3:mod - - - -
+KagolIya_1 2 - - 3:mod - - - -
+saMgaTana_5 3 - - 20:k1 - - - -
+apanA_91 4 - - 5:r6 - - - -
+bETaka_2 5 - - 20:k7 - - - -
+agaswa_1 6 - - 5:mod - - - -
+2006 7 yoc - 6:mod - - - -
+$wyax 8 - - 9:dem - proximal - -
+nirNaya_2 9 - - 20:k2 - - - -
+le_1-yA_1 20 - - 0:main G067.5:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=G068b>
+#कि कुछ समय पहले खोजे गए अन्य खगोलीय पिण्ड 2003 सिरस तथा प्लूटो 'बौने ग्रह' कहे जा सकते हैं।
+kuCa_1 1 - - 2:quant - - - -
+samaya_1 2 - - 3:r6 - - - -
+pahale_2 3 - - 4:k7t - - - -
+Koja_10-yA_gayA_1 4 - - 7:rvks - - - -
+anya_1 5 - - 7:mod - - - -
+KagolIya_1 6 - - 7:mod - - - -
+piMda_3 7 - pl - - - - 30:op1
+2003 8 yoc - 9:mod - - - -
+sirasa 9 - - - - - - 11:begin
+[ne_1] 11 - - - - - - 30:op2
+plUto 10 - - - - - - 12:begin
+[ne_2] 12 - - - - - - 30:op3
+[conj_1] 30 - - 20:k2 - - - -
+bOnA_4 13 - - 14:mod - - - -
+graha_1 14 - pl 20:k2s - - - -
+kaha_1-yA_jA_sakawA_hE_1 20 - - 0:main G068.20:vAkyakarma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G069>
+#सूर्य से दूरी के हिसाब से पृथ्वी तीसरा ग्रह है।
+sUrya_1 1 - - 2:k5 - - - -
+xUrI_1 2 - - 20:k7a - - - -
+pqWvI_1 3 - - 20:k1 - - - -
+wIsarA_1 4 - - 5:ord - - - -
+graha_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G070>
+#आकार में, यह पाँचवाँ सबसे बड़ा ग्रह है।
+AkAra_3 1 - - 20:k7 - - - -
+$wyax 2 - - 20:k1 G069.3:coref proximal - -
+pAzcavAz_1 3 - - 5:ord - - - -
+badZA_1 4 - supl 5:mod - - - -
+graha_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G071>
+#यह ध्रुवों के पास थोड़ी चपटी है।
+$wyax 1 - - 20:k1 G069.3:coref proximal - -
+Xruva_1 2 - pl 3:r6 - - - -
+pAsa_1 3 - - 20:k7p - - - -
+WodZA_6 4 - - 5:intf - - - -
+capatA_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G072>
+#यही कारण है
+$wyax 1 - - 3:k1 - proximal hI_1 -
+kAraNa_1 2 - - 3:k1s - - - -
+hE_1-pres 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G072b>
+#कि इसके आकार को भू-आभ कहा जाता है।
+$wyax 1 - - 2:r6 G071.1:coref proximal - -
+AkAra_2 2 - - 4:k2 - - - -
+BU-ABa_2 3 - - 4:k2s - - - -
+kaha_1-yA_jAwA_hE_1 4 - - 0:main G072.3:vAkyakarma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G073>
+#भू-आभ का अर्थ है, पृथ्वी के समान आकार।
+BU-ABa_2 1 - - 2:r6 - - - -
+arWa_1 2 - - 20:k1 - - - -
+pqWvI_1 3 - - 4:ru - - - -
+AkAra_2 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G074>
+#जीवन के लिए अनुकूल परिस्थितियाँ संभवतः केवल पृथ्वी पर ही पाई जाती हैं।
+jIvana_1 1 - - 2:rt - - - -
+anukUla_1 2 - - 3:mod - - - -
+parisWiwi_4 3 - pl 20:k2 - - - -
+saMBavawa_4 4 - - 20:krvn - - - -
+pqWvI_1 5 - - 20:k7p - kevala_1 - -
+pA_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G075>
+#पृथ्वी न तो अधिक गर्म है
+pqWvI_1 1 - - 20:k1 - - - -
+aXika_1 2 - - 3:intf - - - -
+garma_2 3 - - 20:k1s - - - -
+nahIM_1 4 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G075b>
+#और न ही अधिक ठंडी।
+pqWvI_1 1 - - 20:k1 G075.1:coref - - -
+aXika_1 2 - - 3:intf - - - -
+TaMdA_2 3 - - 20:k1s - - - -
+nahIM_1 4 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main G075.20:samuccaya - - -
+%negative
+</sent_id>
+<sent_id=G076>
+#यहाँ पानी एवं वायु उपस्थित है,
+yahAz_1 1 - - 20:k7p - - - -
+pAnI_1 2 - - - - - - 10:op1
+vAyu_1 3 - - - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+upasWiwa_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G076b>
+#जो हमारे जीवन के लिए आवश्यक है।
+$yax 1 - pl 20:k1 G076.10:coref - - -
+$speaker 2 - pl 3:r6 - - - -
+jIvana_1 3 - - 20:rt - - - -
+AvaSyaka_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G077>
+#वायु में जीवन के लिए आवश्यक गैसें, जैसे ऑक्सीजन मौजूद है।
+vAyu_1 1 - - 20:k7p - - - -
+jIvana_1 2 - - 3:rt - - - -
+AvaSyaka_1 3 - - 4:mod - - - -
+gEsa_1 4 - pl 20:k1 - - - -
+AksIjana_1 5 - - 4:rsm - - - -
+mOjUxa_1 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G078>
+#इन्हीं कारणों से, पृथ्वी सौरमंडल का सबसे अद्भुत ग्रह है।
+$wyax 1 - pl 2:dem - proximal hI_1 -
+kAraNa_1 2 - pl 20:rh - - - -
+pqWvI_1 3 - - 20:k1 - - - -
+sOramaMdala_1-system 4 - - 6:r6 - - - -
+axBuwa_1 5 - supl 6:mod - - - -
+graha_1 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G079>
+#अंतरिक्ष से देखने पर पृथ्वी नीले रंग की दिखाई पड़ती है,
+aMwarikRa_1 1 - - 2:k5 - - - -
+xeKa_1 2 - kqw 20:k7t - - - -
+pqWvI_1 3 - - 20:k1 - - - -
+nIlA_1 4 - - 5:mod - - - -
+raMga_1 5 - - 20:k1s - - - -
+xiKAI_9 6 - - - - - - 20:kriyAmUla
+padZa_1-wA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G079b>
+#क्योंकि इसकी दो-तिहाई सतह पानी से ढकी हुई है।
+$wyax 1 - - 3:r6 G079.3:coref proximal - -
+xo-wihAI_96 2 - - 3:quant - - - -
+sawaha_1 3 - - 20:k1 - - - -
+pAnI_1 4 - - 20:k3 - - - -
+Daka_1-yA_hE_1 20 - - 0:main G079.20:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=G080>
+#इसलिए इसे, नीला ग्रह कहा जाता है।
+$wyax 1 - - 20:k2 G079.3:coref proximal - -
+nIlA_1 2 - - 3:mod - - - -
+graha_1 3 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main G079b.20:pariNAma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G081>
+#हमारी पृथ्वी के पास केवल एक उपग्रह है, चंद्रमा।
+$speaker 1 - pl 2:r6 - - - -
+pqWvI_1 2 - - 3:r6 - - - -
+pAsa_1 3 - - 20:k7p - - - -
+eka_1 4 - - 5:card - kevala_1 - -
+upagraha_1 5 - - 20:k1 - - - -
+caMxramA_1 6 - - 5:rs - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G082>
+#इसका व्यास पृथ्वी के व्यास का केवल एक-चौथाई है।
+$wyax 1 - - 2:r6 G081.6:coref proximal - -
+vyAsa_1 2 - - 20:k1 - - - -
+pqWvI_1 3 - - 4:r6 - - - -
+vyAsa_1 4 - - 5:r6 - - - -
+eka-cOWAI_1 5 - - 20:k1s - kevala_1 - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G083>
+#यह इतना बड़ा इसलिए प्रतीत होता है,
+$wyax 1 - - 20:k1 G081.6:coref proximal - -
+iwanA_96 2 - - 3:intf - - - -
+badZA_1 3 - - 20:k1s - - - -
+prawIwa_1 4 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G083b>
+#क्योंकि यह हमारे ग्रह से अन्य खगोलीय पिंडों की अपेक्षा नज़दीक है।
+$wyax 1 - - 20:k1 G081.6:coref proximal - -
+$speaker 2 - pl 3:r6 - - - -
+graha_1 3 - - 20:k5 - - - -
+anya_1 4 - - 6:mod - - - -
+KagolIya_1 5 - - 6:mod - - - -
+piMda_3 6 - pl 20:rv - - - -
+najaxIka_2 7 - compr 20:k1s - - - -
+hE_1-pres 20 - - 0:main G083.20:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=G084>
+#यह हमसे लगभग 3,84,400 किलोमीटर दूर है।
+$wyax 1 - - 20:k1 G081.6:coref proximal - -
+$speaker 2 - pl 20:k5 - - - -
+3,84,400 3 numex - 4:card - - - -
+kilomItara_1 4 - pl 5:mod - lagaBaga_1 - -
+xUra_15 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G085>
+#चंद्रमा पृथ्वी का एक चक्कर लगभग 27 दिन में पूरा करता है।
+caMxramA_1 1 - - 20:k1 - - - -
+pqWvI_1 2 - - 4:r6 - - - -
+eka_1 3 - - 4:card - - - -
+cakkara_7 4 - - 20:k2 - - - -
+27 5 numex - 6:card - - - -
+xina_1 6 - pl 20:k7 - lagaBaga_1 - -
+pUrA_3 7 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G086>
+#लगभग इतने ही समय में यह अपने अक्ष पर एक चक्कर भी पूरा करता है।
+iwanA_96 1 - - 2:quant - hI_1 - -
+samaya_1 2 - - 20:k7 - lagaBaga_1 - -
+$wyax 3 - - 20:k1 G085.1:coref proximal - -
+apanA_91 4 - - 5:r6 - - - -
+akRa_1 5 - - 20:k7p - - - -
+eka_1 6 - - 7:card - - - -
+cakkara_7 7 - - 20:k2 - BI_1 - -
+pUrA_3 8 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G087>
+#इसके परिणामस्वरूप पृथ्वी से हमें चंद्रमा का केवल एक ही भाग दिखाई पड़ता है।
+$wyax 1 - - 2:r6 G086.20:coref proximal - -
+pariNAmasvarUpa_1 2 - - 20:rh - - - -
+pqWvI_1 3 - - 20:k5 - - - -
+$speaker 4 - pl 20:k4a - - - -
+caMxramA_1 5 - - 7:r6 - - - -
+eka_1 6 - - 7:card - kevala_1 - -
+BAga_2 7 - - 20:k1 - hI_1 - -
+xiKAI_9 8 - - - - - - 20:kriyAmUla
+padZa_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G088>
+#अब आप पृथ्वी से सूर्य एवं चंद्रमा की दूरियों की तुलना कर सकते हैं।
+aba_1 1 - - 20:k7t - - - -
+$addressee 2 - - 20:k1 - respect - -
+pqWvI_1 3 - - 7:k5 - - - -
+sUrya_1 4 - - - - - - 10:op1
+caMxramA_1 5 - - - - - - 10:op2
+[conj_1] 10 - - 7:r6 - - - -
+xUrI_1 7 - pl 20:k2 - - - -
+wulanA_1 8 - - - - - - 20:kriyAmUla
+kara_1-0_sakawA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G089>
+#चंद्रमा की परिस्थितियाँ जीवन के लिए अनुकूल नहीं हैं।
+caMxramA_1 1 - - 2:r6 - - - -
+parisWiwi_4 2 - pl 20:k1 - - - -
+jIvana_1 3 - - 4:rt - - - -
+anukUla_1 4 - - 20:k1s - - - -
+nahIM_1 5 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G090>
+#इसकी सतह पर पर्वत, मैदान एवं गड्ढे हैं
+$wyax 1 - - 2:r6 G089.1:coref proximal - -
+sawaha_1 2 - - 20:k7p - - - -
+parvawa_1 3 - pl - - - - 10:op1
+mExAna_5 4 - pl - - - - 10:op2
+gadDA_1 5 - pl - - - - 10:op3
+[conj_1] 10 - - 20:k1 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G090b>
+#जो चंद्रमा की सतह पर छाया बनाते हैं।
+$yax 1 - pl 20:k1 G090.10:coref - - -
+caMxramA_1 2 - - 3:r6 - - - -
+sawaha_1 3 - - 20:k7p - - - -
+CAyA_1 4 - - 20:k2 - - - -
+banA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G091>
+#पूर्णिमा के दिन चंद्रमा पर इनकी छाया को देखा जा सकता है।
+pUrNimA 1 - - - - - - 11:begin
+[ne_1] 11 - - 2:r6 - - - -
+xina_1 2 - - 20:k7t - - - -
+caMxramA_1 3 - - 20:k7p - - - -
+$wyax 4 - pl 5:r6 G090.10:coref proximal - -
+CAyA_1 5 - - 20:k2 - - - -
+xeKa_1-yA_jA_sakawA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G092>
+#तारों, ग्रहों एवं उपग्रहों के अतिरिक्त, असंख्य छोटे पिंड भी सूर्य के चारों ओर चक्कर लगाते हैं।
+wArA_1 1 - pl - - - - 10:op1
+graha_1 2 - pl - - - - 10:op2
+upagraha_1 3 - pl - - - - 10:op3
+[conj_1] 10 - - 20:rask1 - samAveSI - -
+asaMKya_1 4 - - 6:mod - - - -
+CotA_1 5 - - 6:mod - - - -
+piMda_3 6 - pl 20:k1 - BI_1 - -
+sUrya_1 7 - - 8:r6 - - - -
+cAroMora_1 8 - - 20:k7p - - - -
+cakkara_7 9 - - - - - - 20:kriyAmUla
+lagA_1-wA_hE_1 11 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G093>
+#इन पिंडों को क्षुद्र ग्रह कहते हैं।
+$wyax 1 - pl 2:dem - proximal - -
+piMda_3 2 - pl 20:k2 - - - -
+kRuxra_3 3 - - - - - - 10:mod
+graha_1 4 - pl - - - - 10:head
+[nc_1] 10 - pl 20:k2s - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G094>
+#ये मंगल एवं बृहस्पति की कक्षाओं के बीच पाए जाते हैं।
+$wyax 1 - pl 20:k2 G093.2:coref proximal - -
+maMgala_96 2 - - - - - - 10:op1
+bqhaspawi_2 3 - - - - - - 10:op2
+[conj_1] 10 - - 4:r6 - - - -
+kakRA_6 4 - pl 5:r6 - - - -
+bIca_91 5 - - 20:k7p - - - -
+pA_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G095>
+#वैज्ञानिकों के अनुसार क्षुद्र ग्रह, ग्रह के ही भाग होते हैं,
+vEjFAnika_1 1 - pl 20:k7a - - - -
+kRuxra_3 2 - - - - - - 10:mod
+graha_1 3 - pl - - - - 10:head
+[nc_1] 10 - pl 20:k1 - - - -
+graha_1 4 - - 5:r6 - hI_1 - -
+BAga_2 5 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G095b>
+#जो कि बहुत वर्ष पहले विस्फोट के बाद ग्रहों से टूटकर अलग हो गए।
+$yax 1 - pl 20:k1 G095.5:coref - - -
+bahuwa_2 2 - - 3:quant - - - -
+varRa_1 3 - pl 4:r6 - - - -
+pahale_1 4 - - 20:k7t - - - -
+visPota_1 5 - - 6:r6 - - - -
+bAxa_1 6 - - 20:k7t - - - -
+graha_1 7 - pl 8:k5 - - - -
+tUta_1 8 - - 20:rpk - - - -
+alaga_1 9 - - 20:k1s - - - -
+ho_5-yA_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=G096>
+#सूर्य के चारों ओर चक्कर लगाने वाले पत्थरों के छोटे-छोटे टुकड़ों को उल्कापिंड कहते हैं।
+sUrya_1 1 - - 2:r6 - - - -
+cAroMora_1 2 - - 20:k7p - - - -
+cakkara_7 3 - - - - - - 20:kriyAmUla
+lagA_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 7:rvks - - - -
+pawWara_5 5 - pl 7:r6 - - - -
+CotA_1 6 - - 7:mod - - - -
+tukadZA_1 7 - pl 30:k2 - - - -
+ulkApiMda_1 8 - pl 30:k2s - - - -
+kaha_1-wA_hE_1 30 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G097>
+#कभी-कभी ये उल्कापिंड पृथ्वी के इतने नज़दीक आ जाते हैं
+kaBI-kaBI_1 1 - - 20:k7t - - - -
+$wyax 2 - pl 3:dem - proximal - -
+ulkApiMda_1 3 - pl 20:k1 - - - -
+pqWvI_1 4 - - 6:r6 - - - -
+iwanA_96 5 - - 6:intf - - - -
+najaxIka_2 6 - - 20:k2p - - - -
+A_1-wA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=G097b>
+#कि इनकी प्रवृत्ति पृथ्वी पर गिरने की होती है।
+$wyax 1 - pl 2:r6 G097.3:coref proximal - -
+pravqwwi_3 2 - - 20:k1 - - - -
+pqWvI_1 3 - - 4:k7p - - - -
+gira_1 4 - kqw 20:k1s - - - -
+hE_1-pres 20 - - 0:main G097.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G098>
+#इस प्रक्रिया के दौरान वायु के साथ घर्षण होने के कारण ये गर्म होकर जल जाते हैं।
+$wyax 1 - - 2:dem - proximal - -
+prakriyA_1 2 - - 3:r6 - - - -
+xOrAna_10 3 - - 20:k7t - - - -
+vAyu_1 4 - - 5:rask3 - - - -
+GarRaNa_1 5 - - 6:k1 - - - -
+ho_10 6 - kqw 20:rh - - - -
+$wyax 7 - pl 20:k1 G097.3:coref proximal - -
+garma_2 8 - - 9:k1s - - - -
+ho_5 9 - - 20:rpk - - - -
+jala_3-wA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=G099>
+#फलस्वरूप, चमकदार प्रकाश उत्पन्न होता है।
+camakaxAra_5 2 - - 3:mod - - - -
+prakASa_1 3 - - 20:k1 - - - -
+uwpanna_1 4 - - 20:k1s - - - -
+ho_6-wA_hE_1 20 - - 0:main G098.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G100>
+#कभी-कभी कोई उल्का पूरी तरह जले बिना पृथ्वी पर गिरती है
+kaBI-kaBI_1 1 - - 20:k7t - - - -
+koI_9 2 - - 3:quant - - - -
+ulkA_1 3 - - 20:k1 - - - -
+pUrA_1 4 - - 5:mod - - - -
+waraha_11 5 - - 6:krvn - - - -
+jala_3 6 - kqw 20:rasneg - - - -
+pqWvI_1 7 - - 20:k7p - - - -
+gira_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G100b>
+#जिससे धरातल पर गड्ढे बन जाते हैं।
+$yax 1 - - 20:k3 G100.20:coref - - -
+XarAwala_1 2 - - 20:k7p - - - -
+gadDA_1 3 - pl 20:k1 - - - -
+bana_21-wA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=G101>
+#क्या आपने तारों वाले, खुले आकाश में, एक ओर से दूसरी ओर तक फैली चौड़ी सफ़ेद पट्टी की तरह, एक चमकदार रास्ते को देखा है?
+$addressee 1 - - 20:k1 - respect - -
+wArA_1 2 - pl 4:mod - - - -
+KulA_1 3 - - 4:mod - - - -
+AkASa_1 4 - - 20:k7p - - - -
+eka_1 5 - - 6:card - - - -
+ora_1 6 - - 9:k5 - - - -
+xUsarA_8 7 - - 8:mod - - - -
+ora_1 8 - - 9:k2p - - - -
+PEla_1 9 - - 12:rvks - - - -
+cOdZA_4 10 - - 12:mod - - - -
+saPexa_1 11 - - 12:mod - - - -
+pattI_2 12 - - 15:ru - - - -
+eka_1 13 - - 15:card - - - -
+camakaxAra_5 14 - - 15:mod - - - -
+rAswA_2 15 - - 20:k2 - - - -
+xeKa_1-yA_hE_1 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G102>
+#यह लाखों तारों का समूह है।
+$wyax 1 - - 20:k1 G101.15:coref proximal - -
+lAKa_3 2 - pl 3:quant - - - -
+wArA_1 3 - pl 4:r6 - - - -
+samUha_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G103>
+#यह पट्टी आकाशगंगा मिल्की वे है।
+$wyax 1 - - 2:dem - proximal - -
+pattI_2 2 - - 20:k1 - - - -
+AkASagaMgA_1 3 - - 20:k1s - - - -
+milkI 4 - - - - - - 11:begin
+ve 5 - - - - - - 11:inside
+[ne_1] 11 - - 3:rs - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G104>
+#हमारा सौरमंडल इस आकाशगंगा का एक भाग है।
+$speaker 1 - pl 2:r6 - - - -
+sOramaMdala_1-system 2 - - 20:k1 - - - -
+$wyax 3 - - 4:dem - proximal - -
+AkASagaMgA_1 4 - - 6:r6 - - - -
+eka_1 5 - - 6:card - - - -
+BAga_2 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G105>
+#प्राचीन भारत में इसकी कल्पना आकाश में प्रकाश की एक बहती नदी से की गई थी।
+prAcIna_1 1 - - 2:mod - - - -
+BArawa_96 2 - - 20:k7p - - - -
+$wyax 3 - - 20:k2 G104.4:coref proximal - -
+AkASa_1 4 - - 8:k7p - - - -
+prakASa_1 5 - - 8:r6 - - - -
+eka_1 6 - - 8:card - - - -
+baha_1 7 - - 8:rvks - - - -
+naxI_1 8 - - 20:k3 - - - -
+kalpanA_1 9 - - - - - - 20:kriyAmUla
+kara_1-yA_gayA_WA_1 10 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G106>
+#इस प्रकार इसका नाम आकाशगंगा पड़ा था।
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+$wyax 3 - - 4:r6 G104.4:coref proximal - -
+nAma_1 4 - - 20:k1 - - - -
+AkASagaMgA 5 - - - - - - 11:begin
+[ne_1] 11 - - 20:k1s - - - -
+padZa_2-yA_WA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G107>
+#आकाशगंगा करोड़ों तारों, बादलों तथा गैसों की एक प्रणाली है।
+AkASagaMgA_1 1 - - 20:k1 - - - -
+karodZa_8 2 - pl 10:quant - - - -
+wArA_1 3 - pl - - - - 10:op1
+bAxala_1 4 - pl - - - - 10:op2
+gEsa_1 5 - pl - - - - 10:op3
+[conj_1] 10 - - 7:r6 - - - -
+eka_1 6 - - 7:card - - - -
+praNAlI_1 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G108>
+#इस प्रकार की लाखों आकाशगंगाएँ मिलकर ब्रह्मांड का निर्माण करती हैं।
+$wyax 1 - - 2:dem - proximal - -
+prakAra_1 2 - - 4:r6 - - - -
+lAKa_3 3 - pl 4:quant - - - -
+AkASagaMgA_1 4 - pl 20:k1 - - - -
+mila_4 5 - - 20:rpk - - - -
+brahmAMda_3 6 - - 20:k2 - - - -
+nirmANa_16 7 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G109>
+#ब्रह्मांड की विशालता की कल्पना करना अत्यधिक कठिन है।
+brahmAMda_3 1 - - 2:r6 - - - -
+viSAlawA_1 2 - - 30:k2 - - - -
+kalpanA_1 3 - - - - - - 30:kriyAmUla
+kara_1 4 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k1 - - - -
+awyaXika_7 5 - - 6:intf - - - -
+kaTina_1 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G110>
+#वैज्ञानिक अभी भी इसके बारे में अधिक से अधिक जानकारी एकत्र करने में जुटे हैं।
+vEjFAnika_1 1 - pl 20:k1 - - - -
+aBI_2 2 - - 20:k7t - BI_1 - -
+$wyax 3 - - 4:r6 G109.1:coref proximal - -
+bAre_10 4 - - 6:r6 - - - -
+aXikaseaXika_97 5 - - 6:quant - - - -
+jAnakArI_3 6 - - 30:k2 - - - -
+ekawra_2 7 - - - - - - 30:kriyAmUla
+kara_1 8 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k7 - - - -
+jutA_96 9 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G111>
+#इसके आकार के संबंध में हमें कोई जानकारी नहीं है,
+$wyax 1 - - 2:r6 G109.1:coref proximal - -
+AkAra_3 2 - - 3:r6 - - - -
+saMbaMXa_1 3 - - 6:k7 - - - -
+$speaker 4 - pl 20:k4a - - - -
+koI_9 5 - - 6:quant - - - -
+jAnakArI_3 6 - - 20:k1 - - - -
+nahIM_1 7 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G111b>
+#लेकिन फिर भी हम जानते हैं
+Pira_24 1 - - 3:krvn - BI_1 - -
+$speaker 2 - pl 3:k1 - - - -
+jAna_10-wA_hE_1 3 - - 0:main G111.20:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=G111c>
+#कि हम सभी इसी ब्रह्मांड का हिस्सा हैं।
+$speaker 1 - pl 4:k1 - - - -
+saBI_1 2 - - 1:quant - - - -
+$wyax 5 - - 6:dem - proximal hI_1 -
+brahmAMda_3 6 - - 3:r6 - - - -
+hissA_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main G111b.3:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G112>
+#ग्रह और तारे में क्या अंतर है?
+graha_1 1 - - - - - - 10:op1
+wArA_1 2 - - - - - - 10:op2
+[conj_1] 10 - - 4:k7 - - - -
+$kim 3 - - 5:k1s - - - -
+aMwara_1 4 - - 5:k1 - - - -
+hE_1-pres 5 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G113>
+#सौरमंडल से आप क्या समझते हैं?
+sOramaMdala_1-system 1 - - 4:k5 - - - -
+$addressee 2 - - 4:k1 - respect - -
+$kim 3 - - 4:k2 - - - -
+samaJa_7-wA_hE_1 4 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G114>
+#सूर्य से उनकी दूरी के अनुसार सभी ग्रहों के नाम लिखें।
+sUrya_1 1 - - 3:k5 - - - -
+$wyax 2 - pl 3:r6 5:coref distal - -
+xUrI_1 3 - - 7:k7a - - - -
+saBI_1 4 - - 5:quant - - - -
+graha_1 5 - pl 6:r6 - - - -
+nAma_1 6 - pl 7:k2 - - - -
+liKa_1-e_1 7 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G115>
+#पृथ्वी को अद्भुत ग्रह क्यों कहा जाता है?
+pqWvI_1 1 - - 5:k2 - - - -
+axBuwa_1 2 - - 3:mod - - - -
+graha_1 3 - - 5:k2s - - - -
+$kim 4 - - 5:rh - - - -
+kaha_1-yA_jAwA_hE_1 5 - - 0:main - - - -
+%pass_interrogative
+</sent_id>
+<sent_id=G116>
+#हम हमेशा चंद्रमा के एक ही भाग को क्यों देख पाते हैं?
+$speaker 1 - pl 20:k1 - - - -
+hameSA_1 2 - - 20:k7t - - - -
+caMxramA_1 3 - - 5:r6 - - - -
+eka_1 4 - - 5:card - hI_1 - -
+BAga_2 5 - - 20:k2 - - - -
+$kim 6 - - 20:rh - - - -
+xeKa_1-0_sakawA_hE_1 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G117>
+#ब्रह्मांड क्या है?
+brahmAMda_3 1 - - 3:k1 - - - -
+$kim 2 - - 3:k1s - - - -
+hE_1-pres 3 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G118>
+#किस ग्रह को पृथ्वी के जुड़वाँ ग्रह के नाम से जाना जाता है?
+$kim 1 - - 2:mod - - - -
+graha_1 2 - - 20:k2 - - - -
+pqWvI_1 3 - - 5:r6 - - - -
+judZavAz_1 4 - - 5:mod - - - -
+graha_1 5 - - 6:r6 - - - -
+nAma_1 6 - - 20:k3 - - - -
+jAna_10-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_interrogative
+</sent_id>
+<sent_id=G119>
+#सूर्य से तीसरा सबसे नज़दीक ग्रह कौन-सा है?
+sUrya_1 1 - - 3:k5 - - - -
+wIsarA_1 2 - - 4:ord - - - -
+najaxIka_2 3 - supl 4:mod - - - -
+graha_1 4 - - 20:k1 - - - -
+$kim 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G120>
+#सभी ग्रह सूर्य के चारों ओर किस प्रकार के पथ पर चक्कर लगाते हैं?
+saBI_1 1 - - 2:quant - - - -
+graha_1 2 - pl 20:k1 - - - -
+sUrya_1 3 - - 4:r6 - - - -
+cAroMora_1 4 - - 20:k7p - - - -
+$kim 5 - - 6:mod - - - -
+prakAra_1 6 - - 7:r6 - - - -
+paWa_1 7 - - 20:k7p - - - -
+cakkara_7 8 - - - - - - 20:kriyAmUla
+lagA_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G121>
+#ध्रुवतारे से किस दिशा का ज्ञान होता है?
+Xruva_1 1 - - - - - - 10:mod
+wArA_1 2 - - - - - - 10:head
+[nc_1] 10 - - 20:k5 - - - -
+$kim 3 - - 4:mod - - - -
+xiSA_1 4 - - 5:r6 - - - -
+jFAna_4 5 - - 20:k1 - - - -
+ho_10-wA_hE_1 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G122>
+#क्षुद्र ग्रह किन कक्षाओं के बीच पाए जाते हैं?
+kRuxra_3 1 - - - - - - 10:mod
+graha_1 2 - pl - - - - 10:head
+[nc_1] 10 - pl 20:k2 - - - -
+$kim 3 - pl 4:mod - - - -
+kakRA_6 4 - pl 5:r6 - - - -
+bIca_91 5 - - 20:k7p - - - -
+pA_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_interrogative
+</sent_id>
+<sent_id=G123>
+#सौरमंडल का एक चार्ट तैयार करें।
+sOramaMdala_1-system 1 - - 3:r6 - - - -
+eka_1 2 - - 3:card - - - -
+cArta_1 3 - - 20:k2 - - - -
+wEyAra_1 4 - - - - - - 20:kriyAmUla
+kara_1-e_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G124>
+#छुट्टियों में एक तारामंडल को जाकर देखें
+CuttI_2 1 - pl 4:k7t - - - -
+eka_1 2 - - 3:card - - - -
+wArAmaMdala_2 3 - - 4:k2 - - - -
+jA_1 5 - - 4:rpk - - - -
+xeKa_1-e_1 4 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G124b>
+#तथा वहाँ के अपने अनुभव को कक्षा में बताएँ।
+vahAz_1 1 - - 3:r6 - - - -
+apanA_91 2 - - 3:r6 - - - -
+anuBava_1 3 - - 5:k2 - - - -
+kakRA_1 4 - - 5:k7p - - - -
+bawA_3-e_1 5 - - 0:main G124.4:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=G125>
+#पृथ्वी एवं सौरमंडल पर एक क्विज़ प्रतियोगिता का आयोजन करें।
+pqWvI_1 1 - - - - - - 10:op1
+sOramaMdala_1-system 2 - - - - - - 10:op2
+[conj_1] 10 - - 11:k7 - - - -
+eka_1 3 - - 11:card - - - -
+kviza_96 4 - - - - - - 11:mod
+prawiyogiwA_1 6 - - - - - - 11:head
+[nc_1] 11 - - 20:k2 - - - -
+Ayojana_10 7 - - - - - - 20:kriyAmUla
+kara_1-e_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G126>
+#पिछले अध्याय में आप पढ़ चुके हैं
+piCalA_8 1 - - 2:mod - - - -
+aXyAya_1 2 - - 4:k7 - - - -
+$addressee 3 - - 4:k1 - respect - -
+paDZa_1-yA_hE_1 4 - - 0:main - [shade:cuka_1] - -
+%affirmative
+</sent_id>
+<sent_id=G126b>
+#कि हमारी पृथ्वी गोलाकार नहीं है।
+$speaker 1 - pl 2:r6 - - - -
+pqWvI_1 2 - - 20:k1 - - - -
+golAkAra_4 3 - - 20:k1s - - - -
+nahIM_1 4 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main G126.4:vAkyakarma - - -
+%negative
+</sent_id>
+<sent_id=G127>
+#यह उत्तर एवं दक्षिण ध्रुवों पर थोड़ी चपटी तथा मध्य में थोड़ी उभरी हुई है।
+$wyax 1 - - 20:k1 G126b.2:coref proximal - -
+uwwara_3 2 - - - - - - 10:op1
+xakRiNa_2 3 - - - - - - 10:op2
+[conj_1] 10 - - 4:mod - - - -
+Xruva_1 4 - pl 20:k7p - - - -
+WodZA_6 5 - - 6:intf - - - -
+capatA_1 6 - - - - - - 30:op1
+maXya_1 7 - - 9:k7p - - - -
+WodZA_6 8 - - 9:intf - - - -
+uBara_3 9 - - - - - - 30:op2
+[conj_2] 30 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G128>
+#क्या आप कल्पना कर सकते हैं कि यह कैसी दिखती है?
+$addressee 1 - - 20:k1 - respect - -
+kalpanA_1 2 - - - - - - 20:kriyAmUla
+kara_1-0_sakawA_hE_1 3 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G128b>
+#कि यह कैसी दिखती है?
+$wyax 1 - - 3:k1 G127.1:coref proximal - -
+$kim 2 - - 3:krvn - - - -
+xiKa_5-wA_hE_1 3 - - 0:main G128.20:vAkyakarma - - -
+%interrogative
+</sent_id>
+<sent_id=G129>
+#इस संबंध में जानकारी प्राप्त करने के लिए आप अपनी कक्षा में सावधानी पूर्वक ग्लोब को देखिए।
+$wyax 1 - - 2:dem - proximal - -
+saMbaMXa_1 2 - - 30:k7 - - - -
+jAnakArI_3 3 - - 30:k2 - - - -
+prApwa_2 4 - - - - - - 30:kriyAmUla
+kara_1 5 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:rt - - - -
+$addressee 6 - - 20:k1 - respect - -
+apanA_91 7 - - 8:r6 - - - -
+kakRA_1 8 - - 20:k7p - - - -
+sAvaXAnIpUrvaka_1 9 - - 20:krvn - - - -
+globa_1 10 - - 20:k2 - - - -
+xeKa_1-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G130>
+#ग्लोब पृथ्वी का लघु रूप में एक वास्तविक प्रतिरूप है।
+globa_1 1 - - 20:k1 - - - -
+pqWvI_1 2 - - 7:r6 - - - -
+laGu_13 3 - - 4:mod - - - -
+rUpa_1 4 - - 7:k7 - - - -
+eka_1 5 - - 7:card - - - -
+vAswavika_1 6 - - 7:mod - - - -
+prawirUpa_18 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G131>
+#ग्लोब विभिन्न आकार एवं प्रकार के हो सकते हैं-
+globa_1 1 - pl 20:k1 - - - -
+viBinna_1 2 - - 10:mod - - - -
+AkAra_3 3 - pl - - - - 10:op1
+prakAra_7 4 - pl - - - - 10:op2
+[conj_1] 10 - - 20:k1s - - - -
+ho_6-0_sakawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G131b>
+#बड़े ग्लोब, जो आसानी से एक स्थान से दूसरे स्थान नहीं ले जाए जा सकते
+badZA_1 1 - - 2:mod - - - -
+globa_1 2 - pl 20:k1 - - - -
+hE_1-pres 20 - - 0:main G131.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G131c>
+#जो आसानी से एक स्थान से दूसरे स्थान नहीं ले जाए जा सकते
+$yax 1 - pl 20:k2 G131b.2:coref - - -
+AsAnI_5 2 - - 20:krvn - - - -
+eka_1 3 - - 4:card - - - -
+sWAna_1 4 - - 20:k5 - - - -
+xUsarA_3 5 - - 6:mod - - - -
+sWAna_1 6 - - 20:k2p - - - -
+nahIM_1 7 - - 20:neg - - - -
+le_1-yA_jA_sakawA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%pass_negative
+</sent_id>
+<sent_id=G131d>
+#पॉकेट में रखने योग्य छोटे ग्लोब
+pOYketa_1 1 - - 2:k7p - - - -
+raKa_3 2 - kqw 3:r6 - - - -
+yogya_1 3 - - 5:mod - - - -
+CotA_1 4 - - 5:mod - - - -
+globa_1 5 - pl 20:k1 - - - -
+hE_1-pres 20 - - 0:main G131b.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G131e>
+#तथा गुब्बारे जैसे ग्लोब, जिनमें हवा भरी जा सकती है एवं आसानी से एक स्थान से दूसरे स्थान ले जाए जा सकते हैं।
+gubbArA_1 1 - - 2:rsm - - - -
+globa_1 2 - pl 20:k1 - - - -
+hE_1-pres 20 - - 0:main G131d.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G131f>
+#जिनमें हवा भरी जा सकती है
+$yax 1 - pl 3:k7 G131e.2:coref - - -
+havA_1 2 - - 3:k2 - - - -
+Bara_1-yA_jA_sakawA_hE_1 3 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G131g>
+#एवं आसानी से एक स्थान से दूसरे स्थान ले जाए जा सकते हैं।
+$yax 1 - pl 20:k2 G131e.2:coref - - -
+AsAnI_5 2 - - 20:krvn - - - -
+eka_1 3 - - 4:card - - - -
+sWAna_1 4 - - 20:k5 - - - -
+xUsarA_3 5 - - 6:mod - - - -
+sWAna_1 6 - - 20:k2p - - - -
+le_1-yA_jA_sakawA_hE_1 20 - - 0:main G131f.3:samuccaya [shade:jA_1] - -
+%pass_affirmative
+</sent_id>
+<sent_id=G132>
+#ग्लोब स्थिर नहीं होते हैं।
+globa_1 1 - pl 20:k1 - - - -
+sWira_15 2 - - 20:k1s - - - -
+nahIM_1 3 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G133>
+#इसे उसी प्रकार घुमाया जा सकता है,
+$wyax 1 - - 20:k2 G132.1:coref proximal - -
+$wyax 2 - - 3:dem - distal hI_1 -
+prakAra_5 3 - - 20:krvn - - - -
+GumA_4-yA_jA_sakawA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G133b>
+#जैसे कुम्हार का पहिया या लट्टू घूमता है।
+kumhAra_1 1 - - 2:r6 - - - -
+pahiyA_1 2 - - - - - - 10:op1
+lattU_3 3 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:k1 - - - -
+GUma_9-wA_hE_1 20 - - 0:main G133.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G134>
+#ग्लोब पर देशों, महाद्वीपों तथा महासागरों को उनके सही आकार में दिखाया जाता है।
+globa_1 1 - - 20:k7p - - - -
+xeSa_1 2 - pl - - - - 10:op1
+mahAxvIpa_1 3 - pl - - - - 10:op2
+mahAsAgara_1 4 - pl - - - - 10:op3
+[conj_1] 10 - - 20:k2 - - - -
+$wyax 5 - pl 7:r6 10:coref distal - -
+sahI_11 6 - - 7:mod - - - -
+AkAra_3 7 - - 20:k7 - - - -
+xiKA_3-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G135>
+#पृथ्वी के समान किसी गोले पर किसी बिंदु की स्थिति का वर्णन करना कठिन है।
+pqWvI_1 1 - - 3:ru - - - -
+koI_9 2 - - 3:quant - - - -
+golA_96 3 - - 5:k7p - - - -
+koI_9 4 - - 5:quant - - - -
+biMxu_1 5 - - 6:r6 - - - -
+sWiwi_1 6 - - 30:k2 - - - -
+varNana_1 7 - - - - - - 30:kriyAmUla
+kara_1 8 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k1 - - - -
+kaTina_1 9 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G136>
+#अब प्रश्न यह उठता है
+aba_1 1 - - 4:k7t - - - -
+praSna_1 2 - - 4:k1 - - - -
+$wyax 3 - - 2:rs - proximal - -
+uTa_17-wA_hE_1 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G136b>
+#कि इस पर किसी स्थान की स्थिति कैसे बताई जा सकती है?
+$wyax 1 - - 20:k7p G135.3:coref proximal - -
+koI_9 2 - - 3:quant - - - -
+sWAna_1 3 - - 4:r6 - - - -
+sWiwi_1 4 - - 20:k2 - - - -
+$kim 5 - - 20:krvn - - - -
+bawA_3-yA_jA_sakawA_hE_1 20 - - 0:main G136.4:vAkyakarma - - -
+%pass_interrogative
+</sent_id>
+<sent_id=G137>
+#इसके लिए हमें कुछ बिंदुओं एवं रेखाओं के संदर्भ की आवश्यकता होती है।
+$wyax 1 - - 20:rt G136b.20:coref proximal - -
+$speaker 2 - pl 20:k4a - - - -
+kuCa_1 3 - - 10:quant - - - -
+biMxu_1 4 - pl - - - - 10:op1
+reKA_1 5 - pl - - - - 10:op2
+[conj_1] 10 - - 6:r6 - - - -
+saMxarBa_1 6 - - 7:r6 - - - -
+AvaSyakawA_2 7 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G138>
+#आप देखेंगे कि एक सुई ग्लोब में झुकी हुई अवस्था में स्थित होती है,
+$addressee 1 - - 2:k1 - respect - -
+xeKa_1-gA_1 2 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G138b>
+#कि एक सुई ग्लोब में झुकी हुई अवस्था में स्थित होती है,
+eka_1 1 - - 2:card - - - -
+sUI_1 2 - - 20:k1 - - - -
+globa_1 3 - - 20:k7p - - - -
+Juka_7 4 - - 5:rvks - - - -
+avasWA_8 5 - - 20:k7 - - - -
+sWiwa_1 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G138.2:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G138c>
+#जिसे अक्ष कहा जाता है।
+$yax 1 - - 3:k2 G138b.2:coref - - -
+akRa_1 2 - - 3:k2s - - - -
+kaha_1-yA_jAwA_hE_1 3 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G139>
+#ग्लोब पर वे दो बिंदु जिनसे होकर सुई गुज़रती है, उत्तर तथा दक्षिण ध्रुव हैं।
+globa_1 1 - - 4:k7p - - - -
+$wyax 2 - pl 4:dem - distal - -
+xo_1 3 numex - 4:card - - - -
+biMxu_1 4 - pl 20:k1 - - - -
+uwwara_3 5 - - - - - - 10:op1
+xakRiNa_2 6 - - - - - - 10:op2
+[conj_1] 10 - - 7:mod - - - -
+Xruva_1 7 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G139b>
+#जिनसे होकर सुई गुज़रती है
+$yax 1 - pl 3:k2p G139.4:coref - - -
+sUI_1 2 - - 3:k1 - - - -
+gujZara_3-wA_hE_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G140>
+#ग्लोब को इस सुई के चारों ओर पृथ्वी की भाँति पश्चिम से पूर्व की ओर घुमाया जा सकता है।
+globa_1 1 - - 20:k2 - - - -
+$wyax 2 - - 3:dem - proximal - -
+sUI_1 3 - - 4:r6 - - - -
+cAroMora_1 4 - - 20:k7p - - - -
+pqWvI_1 5 - - 20:ru - - - -
+paScima_1 6 - - 20:k5 - - - -
+pUrva_1 7 - - 20:k2p - - - -
+GumA_4-yA_jA_sakawA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G141>
+#लेकिन याद रखें इन दोनों में एक अंतर है।
+yAxa_1 1 - - - - - - 20:kriyAmUla
+raKa_1-e_1 2 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G141b>
+#इन दोनों में एक अंतर है।
+$wyax 1 - pl 2:dem - proximal - -
+xonoM_9 2 - - 5:k7 - - - -
+eka_1 3 - - 4:card - - - -
+aMwara_1 4 - - 5:k1 - - - -
+hE_1-pres 5 - - 0:main G141.20:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G142>
+#पृथ्वी पर वास्तव में ऐसी कोई सुई नहीं होती है।
+pqWvI_1 1 - - 20:k7p - - - -
+vAswava_7 2 - - 20:k7 - - - -
+EsA_1 3 - - 5:mod - - - -
+koI_9 4 - - 5:quant - - - -
+sUI_1 5 - - 20:k1 - - - -
+nahIM_1 6 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G143>
+#यह अपने अक्ष पर चारों ओर घूमती है,
+$wyax 1 - - 20:k1 G142.1:coref proximal - -
+apanA_91 2 - - 3:r6 - - - -
+akRa_1 3 - - 20:k7p - - - -
+cAroMora_1 4 - - 20:k7p - - - -
+GUma_9-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G143b>
+#जो एक काल्पनिक रेखा है।
+$yax 1 - - 20:k1 G143.3:coref - - -
+eka_1 2 - - 4:card - - - -
+kAlpanika_1 3 - - 4:mod - - - -
+reKA_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G144>
+#एक अन्य काल्पनिक रेखा भी ग्लोब को दो बराबर भागों में बाँटती है।
+eka_1 1 - - 4:card - - - -
+anya_2 2 - - 4:mod - - - -
+kAlpanika_1 3 - - 4:mod - - - -
+reKA_1 4 - - 20:k1 - BI_1 - -
+globa_1 5 - - 20:k2 - - - -
+xo_1 6 numex - 8:card - - - -
+barAbara_1 7 - - 8:mod - - - -
+BAga_2 8 - pl 20:k7 - - - -
+bAzta_8-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G145>
+#इसे विषुवत् वृत्त कहा जाता है।
+$wyax 1 - - 20:k2 G144.4:coref proximal - -
+viRuvawa_1 2 - - - - - - 10:mod
+vqwwa_1 3 - - - - - - 10:head
+[nc_1] 10 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G146>
+#पृथ्वी के उत्तर में स्थित आधे भाग को उत्तरी गोलार्ध
+pqWvI_1 1 - - 2:r6 - - - -
+uwwara_3 2 - - 3:k7p - - - -
+sWiwa_1 3 - - 5:mod - - - -
+AXA_1 4 - - 5:mod - - - -
+BAga_2 5 - - 20:k2 - - - -
+uwwarI_1 6 - - 7:mod - - - -
+golArXa_1 7 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G146b>
+#तथा दक्षिण वाले आधे भाग को दक्षिणी गोलार्ध कहा जाता है।
+xakRiNa_2 1 - - 3:mod - - - -
+AXA_1 2 - - 3:mod - - - -
+BAga_2 3 - - 20:k2 - - - -
+xakRiNI_1 4 - - 5:mod - - - -
+golArXa_1 5 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main G146.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G147>
+#ये दोनों बराबर के आधे भाग होते हैं।
+$wyax 1 - pl 20:k1 G146b.5:coref proximal - -
+xonoM_9 2 - - 1:quant - - - -
+barAbara_1 3 - - 5:mod - - - -
+AXA_1 4 - - 5:mod - - - -
+BAga_2 5 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G148>
+#इस प्रकार, विषुवत् वृत्त पृथ्वी पर एक काल्पनिक वृत्त बनाती है
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+viRuvawa_1 3 - - - - - - 10:mod
+vqwwa_1 4 - - - - - - 10:head
+[nc_1] 10 - - 20:k1 - - - -
+pqWvI_1 5 - - 20:k7p - - - -
+eka_1 6 - - 8:card - - - -
+kAlpanika_1 7 - - 8:mod - - - -
+vqwwa_1 8 - - 20:k2 - - - -
+banA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G148b>
+#एवं यह पृथ्वी पर विभिन्न स्थानों की स्थिति बताने का सबसे महत्त्वपूर्ण संदर्भ बिंदु है।
+$wyax 1 - - 20:k1 G148.10:coref proximal - -
+pqWvI_1 2 - - 4:k7p - - - -
+viBinna_1 3 - - 4:mod - - - -
+sWAna_1 4 - pl 5:r6 - - - -
+sWiwi_1 5 - - 6:k2 - - - -
+bawA_3 6 - kqw 9:r6 - - - -
+mahawvapUrNa_1 7 - supl 9:mod - - - -
+saMxarBa_1 8 - - - - - - 9:mod
+biMxu_1 10 - - - - - - 9:head
+[nc_1] 9 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G148.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G149>
+#विषुवत् वृत्त से ध्रुवों तक स्थित सभी समानांतर वृत्तों को अक्षांश (समानांतर) रेखाएँ कहा जाता है।
+viRuvawa_1 1 - - - - - - 10:mod
+vqwwa_1 2 - - - - - - 10:head
+[nc_1] 10 - - 31:start - - - -
+Xruva_1 3 - pl - - - - 31:end
+[span_1] 31 - - 4:k7p - - - -
+sWiwa_1 4 - - 7:mod - - - -
+saBI_1 5 - - 7:quant - - - -
+samAnAMwara_1 6 - - 7:mod - - - -
+vqwwa_1 7 - pl 20:k2 - - - -
+akRAMSa_1 8 - - 9:mod - - - -
+reKA_1 9 - pl 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G150>
+#अक्षांशों को अंश में मापा जाता है।
+akRAMSa_1 1 - pl 20:k2 - - - -
+aMSa_7 2 - pl 20:k7 - - - -
+mApa_2-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G151>
+#विषुवत् वृत्त शून्य अंश अक्षांश को दर्शाती है।
+viRuvawa_1 1 - - - - - - 10:mod
+vqwwa_1 2 - - - - - - 10:head
+[nc_1] 10 - - 20:k1 - - - -
+SUnya_11 3 - - 4:card - - - -
+aMSa_7 4 - - 5:mod - - - -
+akRAMSa_1 5 - - 20:k2 - - - -
+xarSA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G152>
+#चूँकि, विषुवत् वृत्त से दोनों तरफ ध्रुवों के बीच की दूरी पृथ्वी के चारों ओर के वृत्त का एक चौथाई है,
+viRuvawa_1 1 - - - - - - 10:mod
+vqwwa_1 2 - - - - - - 10:head
+[nc_1] 10 - - 6:k5 - - - -
+xonoM_9 3 - - 4:quant - - - -
+waraPa_1 4 - pl 6:k7p - - - -
+Xruva_1 5 - pl 6:r6 - - - -
+xUrI_1 6 - - 20:k1 - - - -
+pqWvI_1 7 - - 8:r6 - - - -
+cAroMora_1 8 - - 9:r6 - - - -
+vqwwa_1 9 - - 11:r6 - - - -
+eka-cOWAI_1 11 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G152b.20:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=G152b>
+#अतः इसका माप होगा 360 अंश का 1/4, यानी 90 अंश।
+$wyax 1 - - 2:r6 G152.6:coref proximal - -
+mApa_2 2 - - 20:k1 - - - -
+360 3 numex - 4:card - - - -
+aMSa_7 4 - pl 5:r6 - - - -
+1/4 5 numex - 20:k1s - - - -
+90 6 numex - 7:card - - - -
+aMSa_7 7 - pl 5:rs - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G153>
+#इस प्रकार 90 अंश उत्तरी अक्षांश उत्तर ध्रुव को दर्शाता है
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+90 3 numex - 4:card - - - -
+aMSa_7 4 - pl 6:mod - - - -
+uwwarI_1 5 - - 6:mod - - - -
+akRAMSa_1 6 - - 20:k1 - - - -
+uwwara_3 7 - - 8:mod - - - -
+Xruva_1 8 - - 20:k2 - - - -
+xarSA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G153b>
+#तथा 90 अंश दक्षिणी अक्षांश दक्षिण ध्रुव को।
+90 1 numex - 2:card - - - -
+aMSa_7 2 - pl 4:mod - - - -
+xakRiNI_1 3 - - 4:mod - - - -
+akRAMSa_1 4 - - 20:k1 - - - -
+xakRiNa_2 5 - - 6:mod - - - -
+Xruva_1 6 - - 20:k2 - - - -
+xarSA_1-wA_hE_1 20 - - 0:main G153.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G154>
+#इस प्रकार विषुवत् वृत्त के उत्तर की सभी समानांतर रेखाओं को उत्तरी अक्षांश कहा जाता है।
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+viRuvawa_1 3 - - - - - - 10:mod
+vqwwa_1 4 - - - - - - 10:head
+[nc_1] 10 - - 5:r6 - - - -
+uwwara_3 5 - - 8:r6 - - - -
+saBI_1 6 - - 8:quant - - - -
+samAnAMwara_1 7 - - 8:mod - - - -
+reKA_1 8 - pl 20:k2 - - - -
+uwwarI_1 9 - - 11:mod - - - -
+akRAMSa_1 11 - pl 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G155>
+#तथा विषुवत् वृत्त के दक्षिण स्थित सभी समानांतर रेखाओं को दक्षिणी अक्षांश कहा जाता है।
+viRuvawa_1 1 - - - - - - 10:mod
+vqwwa_1 2 - - - - - - 10:head
+[nc_1] 10 - - 3:r6 - - - -
+xakRiNa_2 3 - - 4:k7p - - - -
+sWiwa_1 4 - - 7:mod - - - -
+saBI_1 5 - - 7:quant - - - -
+samAnAMwara_1 6 - - 7:mod - - - -
+reKA_1 7 - pl 20:k2 - - - -
+xakRiNI_1 8 - - 9:mod - - - -
+akRAMSa_1 9 - pl 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main G154.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G156>
+#इसलिए प्रत्येक अक्षांश के मान के साथ उसकी दिशा यानी उत्तर या दक्षिण को भी लिखा जाता है।
+prawyeka_2 1 - - 2:quant - - - -
+akRAMSa_1 2 - - 3:r6 - - - -
+mAna_5 3 - - 20:rask1 - - - -
+$wyax 4 - - 5:r6 2:coref distal - -
+xiSA_1 5 - - 20:k2 - BI_1 - -
+uwwara_3 6 - - - - - - 10:op1
+xakRiNa_2 7 - - - - - - 10:op2
+[disjunct_1] 10 - - 5:rs - - - -
+liKa_1-yA_jAwA_hE_1 20 - - 0:main G155.20:pariNAma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G157>
+#उदाहरण के लिए, महाराष्ट्र में चंद्रपुर एवं ब्राज़िल (दक्षिण अमेरिका) में बेलो होरिज़ोंटे दोनों एक ही अक्षांश 20 अंश पर स्थित हैं।
+uxAharaNa_1 1 - - 20:rt - - - -
+mahArARtra 2 - - - - - - 11:begin
+[ne_1] 11 place - 12:k7p - - - -
+caMxrapura 3 - - - - - - 12:begin
+[ne_2] 12 place - - - - - 10:op1
+brAjZila 4 - - - - - - 13:begin
+[ne_3] 13 place - 17:k7p - - - -
+xakRiNa 14 - - - - - - 15:begin
+amerikA 16 - - - - - - 15:inside
+[ne_4] 15 place - 13:rs - - - -
+belo 5 - - - - - - 17:begin
+horijZoMte 6 - - - - - - 17:inside
+[ne_5] 17 place - - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+xonoM_9 7 - - 10:quant - - - -
+eka_1 8 - - 9:card - hI_1 - -
+akRAMSa_1 9 - - 20:k7p - - - -
+20 18 numex - 19:card - - - -
+aMSa_7 19 - pl 9:rs - - - -
+sWiwa_1 21 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G158>
+#लेकिन चन्द्रपुर विषुवत् वृत्त के 20 अंश उत्तर में एवं बेलो होरिज़ोंटे विषुवत् वृत्त के 20 अंश दक्षिण में स्थित है।
+caMxrapura 1 - - - - - - 11:begin
+[ne_1] 11 place - 20:k1 - - - -
+viRuvawa_1 2 - - - - - - 10:mod
+vqwwa_1 3 - - - - - - 10:head
+[nc_1] 10 - - 6:r6 - - - -
+20 4 numex - 5:card - - - -
+aMSa_7 5 - pl 6:mod - - - -
+uwwara_3 6 - - 20:k7p - - - -
+sWiwa_1 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G157.20:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=G158b>
+#एवं बेलो होरिज़ोंटे विषुवत् वृत्त के 20 अंश दक्षिण में स्थित है।
+belo 1 - - - - - - 11:begin
+horijZoMte 2 - - - - - - 11:inside
+[ne_1] 11 place - 20:k1 - - - -
+viRuvawa_1 3 - - - - - - 10:mod
+vqwwa_1 4 - - - - - - 10:head
+[nc_1] 10 - - 7:r6 - - - -
+20 5 numex - 6:card - - - -
+aMSa_7 6 - pl 7:mod - - - -
+xakRiNa_2 7 - - 20:k7p - - - -
+sWiwa_1 8 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G158.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G159>
+#इसलिए हम कहते हैं
+$speaker 1 - pl 2:k1 - - - -
+kaha_5-wA_hE_1 2 - - 0:main G158b.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G159b>
+#कि चंद्रपुर 20° उ. अक्षांश पर तथा बेलो होरिज़ोंटे 20° द. अक्षांश पर स्थित है।
+caMxrapura 1 - - - - - - 11:begin
+[ne_1] 11 place - 20:k1 - - - -
+20 2 numex - 3:card - - - -
+aMSa_7 3 - pl 5:mod - - - -
+uwwarI_1 4 - - 5:mod - - - -
+akRAMSa_1 5 - - 20:k7p - - - -
+sWiwa_1 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G159.2:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G159c>
+#तथा बेलो होरिज़ोंटे 20° द. अक्षांश पर स्थित है।
+belo 1 - - - - - - 11:begin
+horijZoMte 2 - - - - - - 11:inside
+[ne_1] 11 place - 20:k1 - - - -
+20 3 numex - 4:card - - - -
+aMSa_7 4 - pl 6:mod - - - -
+xakRiNI_1 5 - - 6:mod - - - -
+akRAMSa_1 6 - - 20:k7p - - - -
+sWiwa_1 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G159b.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G160>
+#चित्र 2.2 से स्पष्ट है
+ciwra_4 1 - - 4:k5 - - - -
+2.2 2 numex - 1:rs - - - -
+spaRta_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G160b>
+#कि जैसे-जैसे हम विषुवत् वृत्त से दूर जाते हैं
+$speaker 1 - pl 4:k1 - - - -
+viRuvawa_1 2 - - - - - - 10:mod
+vqwwa_1 3 - - - - - - 10:head
+[nc_1] 10 - - 5:k5 - - - -
+xUra_1 5 - - 4:krvn - - - -
+jA_1-wA_hE_1 4 - - 0:main G160c.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G160c>
+#अक्षांशों का आकार घटता जाता है।
+akRAMSa_1 1 - pl 2:r6 - - - -
+AkAra_3 2 - - 20:k1 - - - -
+Gata_91-wA_jA_wA_hE_1 20 - - 0:main G160.4:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G161>
+#कर्क रेखा एवं मकर रेखा के बीच के सभी अक्षांशों पर सूर्य वर्ष में एक बार दोपहर में सिर के ठीक ऊपर होता है।
+karka_1 1 - - - - - - 11:mod
+reKA_1 2 - - - - - - 11:head
+[nc_1] 11 - - - - - - 10:op1
+makara_1 3 - - - - - - 12:mod
+reKA_1 4 - - - - - - 12:head
+[nc_2] 12 - - - - - - 10:op2
+[conj_1] 10 - - 5:r6 - - - -
+bIca_91 5 - - 7:r6 - - - -
+saBI_1 6 - - 7:quant - - - -
+akRAMSa_1 7 - pl 20:k7p - - - -
+sUrya_1 8 - - 20:k1 - - - -
+varRa_1 9 - - 20:k7t - - - -
+eka_1 13 - - 14:card - - - -
+bAra_15 14 - - 20:k7t - - - -
+xopahara_1 15 - - 20:k7t - - - -
+sira_1 16 - - 18:r6 - - - -
+TIka_96 17 - - 18:intf - - - -
+Upara_3 18 - - 20:k7p - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G162>
+#इसलिए इस क्षेत्र में सबसे अधिक ऊष्मा प्राप्त होती है
+$wyax 1 - - 2:dem - proximal - -
+kRewra_4 2 - - 20:k7p - - - -
+aXika_1 3 - supl 4:mod - - - -
+URmA_1 4 - - 20:k1 - - - -
+prApwa_2 5 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G161.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G162b>
+#तथा इसे उष्ण कटिबंध कहा जाता है।
+$wyax 1 - - 20:k2 G162.2:coref proximal - -
+uRNa_1 2 - - - - - - 10:mod
+katibaMXa_3 3 - - - - - - 10:head
+[nc_1] 10 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main G162.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G163>
+#कर्क रेखा तथा मकर रेखा के बाद किसी भी अक्षांश पर दोपहर का सूर्य कभी भी सिर के ऊपर नहीं होता है।
+karka_1 1 - - - - - - 11:mod
+reKA_1 2 - - - - - - 11:head
+[nc_1] 11 - - - - - - 10:op1
+makara_1 3 - - - - - - 12:mod
+reKA_1 4 - - - - - - 12:head
+[nc_2] 12 - - - - - - 10:op2
+[conj_1] 10 - - 5:r6 - - - -
+bAxa_1 5 - - 20:k7p - - - -
+koI_9 6 - - 7:quant - BI_1 - -
+akRAMSa_1 7 - - 20:k7p - - - -
+xopahara_1 8 - - 9:r6 - - - -
+sUrya_1 9 - - 20:k1 - - - -
+kaBI_2 21 - - 20:k7t - BI_1 - -
+sira_1 13 - - 14:r6 - - - -
+Upara_3 14 - - 20:k7p - - - -
+nahIM_1 15 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G164>
+#ध्रुव की तरफ सूर्य की किरणें तिरछी होती जाती हैं।
+Xruva_1 1 - - 2:r6 - - - -
+waraPa_1 2 - - 20:k2p - - - -
+sUrya_1 3 - - 4:r6 - - - -
+kiraNa_1 4 - pl 20:k1 - - - -
+wiraCA_1 5 - - 20:k1s - - - -
+ho_5-wA_jA_wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G165>
+#इस प्रकार, उत्तरी गोलार्ध में कर्क रेखा एवं उत्तर ध्रुव वृत्त तथा दक्षिणी गोलार्ध में मकर रेखा एवं दक्षिण ध्रुव वृत्त के बीच वाले क्षेत्र का तापमान मध्यम रहता है।
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+karka_1 3 - - - - - - 41:mod
+reKA_1 4 - - - - - - 41:head
+[nc_1] 41 - - - - - - 30:op1
+uwwara_3 5 - - - - - - 42:mod
+Xruva_1 6 - - - - - - 42:mod
+vqwwa_1 7 - - - - - - 42:head
+[nc_2] 42 - - - - - - 30:op2
+[conj_1] 30 - - - - - - 50:op1
+makara_1 8 - - - - - - 43:mod
+reKA_1 9 - - - - - - 43:head
+[nc_3] 43 - - - - - - 31:op1
+xakRiNa_2 10 - - - - - - 44:mod
+Xruva_1 11 - - - - - - 44:mod
+vqwwa_1 12 - - - - - - 44:head
+[nc_4] 44 - - - - - - 31:op2
+[conj_2] 31 - - - - - - 50:op2
+[conj_3] 50 - - 13:r6 - - - -
+bIca_91 13 - - 14:r6 - - - -
+kRewra_5 14 - - 15:r6 - - - -
+wApamAna_1 15 - - 20:k1 - - - -
+maXyama_6 16 - - 20:k1s - - - -
+raha_3-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G166>
+#इसलिए इन्हें, शीतोष्ण कटिबंध कहा जाता है।
+$wyax 1 - pl 20:k2 G165.14:coref proximal - -
+SIwoRNa_1 2 - - - - - - 10:mod
+katibaMXa_3 3 - pl - - - - 10:head
+[nc_1] 10 - pl 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main G165.20:pariNAma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G167>
+#उत्तरी गोलार्ध में उत्तर ध्रुव वृत्त एवं उत्तरी ध्रुव तथा दक्षिणी गोलार्ध में दक्षिण ध्रुव वृत्त एवं दक्षिणी ध्रुव के बीच के क्षेत्र में ठंड बहुत होती है।
+uwwara_3 1 - - - - - - 41:mod
+Xruva_1 2 - - - - - - 41:mod
+vqwwa_1 3 - - - - - - 41:head
+[nc_1] 41 - - - - - - 30:op1
+uwwarI_1 4 - - 5:mod - - - -
+Xruva_1 5 - - - - - - 30:op2
+[conj_1] 30 - - - - - - 50:op1
+xakRiNa_2 6 - - - - - - 42:mod
+Xruva_1 7 - - - - - - 42:mod
+vqwwa_1 8 - - - - - - 42:head
+[nc_2] 42 - - - - - - 31:op1
+xakRiNI_1 9 - - 10:mod - - - -
+Xruva_1 10 - - - - - - 31:op2
+[conj_2] 31 - - - - - - 50:op2
+[conj_3] 50 - - 11:r6 - - - -
+bIca_91 11 - - 12:r6 - - - -
+kRewra_5 12 - - 20:k7p - - - -
+TaMda_1 13 - - 20:k1 - - - -
+bahuwa_7 14 - - 20:krvn - - - -
+ho_11-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G168>
+#क्योंकि, यहाँ सूर्य क्षितिज से ज़्यादा ऊपर नहीं आ पाता है।
+yahAz_1 1 - - 20:k7p - - - -
+sUrya_1 2 - - 20:k1 - - - -
+kRiwija_1 3 - - 5:k5 - - - -
+jyAxA_3 4 - - 5:intf - - - -
+Upara_3 5 - - 20:k2p - - - -
+nahIM_1 6 - - 20:neg - - - -
+A_1-0_sakawA_hE_1 20 - - 0:main G167.20:kAryakAraNa - - -
+%negative
+</sent_id>
+<sent_id=G169>
+#किसी स्थान की स्थिति को बताने के लिए उस स्थान के अक्षांश के अतिरिक्त कुछ और जानकारियों की आवश्यकता भी होती है।
+koI_9 1 - - 2:quant - - - -
+sWAna_1 2 - - 3:r6 - - - -
+sWiwi_1 3 - - 4:k2 - - - -
+bawA_3 4 - kqw 20:rt - - - -
+$wyax 5 - - 6:dem - distal - -
+sWAna_1 6 - - 7:r6 - - - -
+akRAMSa_1 7 - - 20:rask1 - samAveSI - -
+kuCa_1 8 - - 10:quant - - - -
+Ora_3 9 - - 10:mod - - - -
+jAnakArI_3 10 - pl 11:r6 - - - -
+AvaSyakawA_2 11 - - 20:k1 - BI_1 - -
+ho_11-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G170>
+#आप देख सकते हैं
+$addressee 1 - - 2:k1 - respect - -
+xeKa_1-0_sakawA_hE_1 2 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G170b>
+#कि प्रशांत महासागर में स्थित टोंगा द्वीप एवं हिंद महासागर में स्थित मॉरीशस द्वीप एक ही अक्षांश (20°00' द.) पर स्थित है।
+praSAMwa 1 - - - - - - 11:begin
+mahAsAgara 2 - - - - - - 11:inside
+[ne_1] 11 place - 3:k7p - - - -
+sWiwa_1 3 - - 12:mod - - - -
+toMgA 4 - - - - - - 12:begin
+xvIpa 5 - - - - - - 12:inside
+[ne_2] 12 place - - - - - 30:op1
+hiMxa 6 - - - - - - 13:begin
+mahAsAgara 7 - - - - - - 13:inside
+[ne_3] 13 place - 8:k7p - - - -
+sWiwa_1 8 - - 14:mod - - - -
+mOYrISasa 9 - - - - - - 14:begin
+xvIpa 10 - - - - - - 14:inside
+[ne_4] 14 place - - - - - 30:op2
+[conj_1] 30 - - 20:k1 - - - -
+eka_1 15 - - 16:card - hI_1 - -
+akRAMSa_1 16 - - 20:k7p - - - -
+sWiwa_1 17 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G170.2:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G171>
+#उनकी सही स्थिति जानने के लिए यह पता करना होगा
+$wyax 1 - pl 3:r6 G170b.30:coref distal - -
+sahI_11 2 - - 3:mod - - - -
+sWiwi_1 3 - - 4:k2 - - - -
+jAna_10 4 - kqw 20:rt - - - -
+pawA_11 5 - - - - - - 20:kriyAmUla
+kara_1-nA_hogA_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G171b>
+#कि उत्तर ध्रुव को दक्षिण ध्रुव से जोड़ने वाली संदर्भ रेखा से पूर्व या पश्चिम की ओर इन स्थानों की दूरी कितनी है?
+uwwara_3 1 - - 2:mod - - - -
+Xruva_1 2 - - 5:k2 - - - -
+xakRiNa_2 3 - - 4:mod - - - -
+Xruva_1 4 - - 5:k5 - - - -
+jodZa_24 5 - - 7:rvks - - - -
+saMxarBa_1 6 - - 7:mod - - - -
+reKA_1 7 - - 12:k5 - - - -
+pUrva_1 8 - - - - - - 10:op1
+paScima_1 9 - - - - - - 10:op2
+[disjunct_1] 10 - - 12:k2p - - - -
+$wyax 11 - pl 13:dem - proximal - -
+sWAna_1 13 - pl 12:r6 - - - -
+xUrI_1 12 - - 20:k1 - - - -
+$kim 14 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G171.20:vAkyakarma - - -
+%interrogative
+</sent_id>
+<sent_id=G172>
+#इन संदर्भ रेखाओं को देशांतरीय याम्योत्तर कहते हैं
+$wyax 1 - pl 3:dem - proximal - -
+saMxarBa_1 2 - - 3:mod - - - -
+reKA_1 3 - pl 20:k2 - - - -
+xeSAMwarIya_2 4 - - 5:mod - - - -
+yAmyowwara_96 5 - pl 20:k2s - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G172b>
+#तथा उनके बीच की दूरी को देशांतर के अंशों में मापा जाता है।
+$wyax 1 - pl 2:r6 G172.3:coref distal - -
+bIca_91 2 - - 3:r6 - - - -
+xUrI_1 3 - - 20:k2 - - - -
+xeSAMwara_1 4 - - 5:r6 - - - -
+aMSa_7 5 - pl 20:k7 - - - -
+mApa_2-yA_jAwA_hE_1 20 - - 0:main G172.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G173>
+#प्रत्येक अंश को मिनट में तथा मिनट को सेकेंड में विभाजित किया जाता है।
+prawyeka_2 1 - - 2:quant - - - -
+aMSa_7 2 - - 20:k2 - - - -
+minata_1 3 - pl 20:k7 - - - -
+viBAjiwa_1 4 - - - - - - 20:kriyAmUla
+kara_1-yA_jAwA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G173b>
+#तथा मिनट को सेकेंड में विभाजित किया जाता है।
+minata_1 1 - - 20:k2 - - - -
+sekeMda_3 2 - pl 20:k7 - - - -
+viBAjiwa_1 3 - - - - - - 20:kriyAmUla
+kara_1-yA_jAwA_hE_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G173.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G174>
+#ये अर्धवृत्त हैं
+$wyax 1 - pl 3:k1 G172.5:coref proximal - -
+arXavqwwa_1 2 - pl 3:k1s - - - -
+hE_1-pres 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G174b>
+#तथा उनके बीच की दूरी ध्रुवों की तरफ बढ़ने पर घटती जाती है
+$wyax 1 - pl 2:r6 G174.1:coref distal - -
+bIca_91 2 - - 3:r6 - - - -
+xUrI_1 3 - - 20:k1 - - - -
+Xruva_1 4 - pl 5:r6 - - - -
+waraPa_1 5 - - 6:k2p - - - -
+baDZa_91 6 - kqw 20:k7t - - - -
+Gata_91-wA_jA_wA_hE_1 20 - - 0:main G174.3:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G174c>
+#एवं ध्रुवों पर शून्य हो जाती है,
+xUrI_1 1 - - 20:k1 G174b.3:coref - - -
+Xruva_1 2 - pl 20:k7p - - - -
+SUnya_11 3 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main G174b.20:samuccaya [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=G174d>
+#जहाँ सभी देशांतरीय याम्योत्तर आपस में मिलती हैं।
+$yax 1 - pl 20:k7p G174c.2:coref - - -
+saBI_1 2 - - 4:quant - - - -
+xeSAMwarIya_2 3 - - 4:mod - - - -
+yAmyowwara_96 4 - pl 20:k1 - - - -
+Apasa_2 5 - - 20:krvn - - - -
+mila_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G175>
+#अक्षांश (समानांतर) रेखाओं से भिन्न सभी देशांतरीय याम्योत्तरों की लंबाई समान होती है।
+akRAMSa_1 1 - - 2:mod - - - -
+reKA_1 2 - pl 3:k5 - - - -
+Binna_2 3 - - 20:krvn - - - -
+saBI_1 4 - - 6:quant - - - -
+xeSAMwarIya_2 5 - - 6:mod - - - -
+yAmyowwara_96 6 - pl 7:r6 - - - -
+lambAI_2 7 - - 20:k1 - - - -
+samAna_1 8 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G176>
+#इसलिए इन्हें सिर्फ मुख्य संख्याओं में व्यक्त करना कठिन था।
+$wyax 1 - pl 30:k2 G175.6:coref proximal - -
+siraPa_9 2 - - 4:mod - - - -
+muKya_18 3 - - 4:mod - - - -
+saMKyA_1 4 - pl 30:k7 - - - -
+vyakwa_1 5 - - - - - - 30:kriyAmUla
+kara_1 6 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k1 - - - -
+kaTina_1 7 - - 20:k1s - - - -
+hE_1-past 20 - - 0:main G175.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G177>
+#तब सभी देशों ने निश्चय किया
+waba_1 1 - - 20:k7t - - - -
+saBI_1 2 - - 3:quant - - - -
+xeSa_1 3 - pl 20:k1 - - - -
+niScaya_4 4 - - - - - - 20:kriyAmUla
+kara_1-yA_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G177b>
+#कि ग्रीनिच, जहाँ ब्रिटिश राजकीय वेधशाला स्थित है, से गुजरने वाली याम्योत्तर से पूर्व और पश्चिम की ओर गिनती शुरू की जाए।
+grInica 1 - - - - - - 11:begin
+[ne_1] 11 place - 2:k2p - - - -
+gujZara_3 2 - - 3:rvks - - - -
+yAmyowwara_96 3 - - 20:k5 - - - -
+pUrva_1 4 - - - - - - 10:op1
+paScima_1 5 - - - - - - 10:op2
+[conj_1] 10 - - 20:k2p - - - -
+ginawI_1 6 - - 20:k2 - - - -
+SurU_3 7 - - - - - - 20:kriyAmUla
+kara_1-yA_jAe_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G177.20:vAkyakarma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G177c>
+#जहाँ ब्रिटिश राजकीय वेधशाला स्थित है
+$yax 1 - - 20:k7p G177b.11:coref - - -
+britiSa_1 2 - - 4:mod - - - -
+rAjakIya_96 3 - - 4:mod - - - -
+veXaSAlA_1 4 - - 20:k1 - - - -
+sWiwa_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G178>
+#इस याम्योत्तर को प्रमुख याम्योत्तर कहते है।
+$wyax 1 - - 2:dem - proximal - -
+yAmyowwara_96 2 - - 20:k2 - - - -
+pramuKa_12 3 - - 4:mod - - - -
+yAmyowwara_96 4 - - 20:k2s - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G179>
+#इसका मान 0° देशांतर है
+$wyax 1 - - 2:r6 G178.2:coref proximal - -
+mAna_5 2 - - 20:k1 - - - -
+0 3 numex - 4:card - - - -
+aMSa_7 4 - - 5:mod - - - -
+xeSAMwara_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G179b>
+#तथा यहाँ से हम 180° पूर्व या 180° पश्चिम तक गणना करते हैं।
+yahAz_1 1 - - 20:k5 - - - -
+$speaker 2 - pl 20:k1 - - - -
+180 3 numex - 4:card - - - -
+aMSa_7 4 - pl 5:mod - - - -
+pUrva_1 5 - - - - - - 10:op1
+180 6 numex - 7:card - - - -
+aMSa_7 7 - pl 8:mod - - - -
+paScima_1 8 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:rkl - - - -
+gaNanA_1 9 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 11 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G179.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G180>
+#प्रमुख याम्योत्तर तथा 180° याम्योत्तर मिलकर पृथ्वी को दो समान भागों, पूर्वी गोलार्ध एवं पश्चिमी गोलार्ध में विभक्त करती है।
+pramuKa_12 1 - - 2:mod - - - -
+yAmyowwara_96 2 - - - - - - 10:op1
+180 3 numex - 4:card - - - -
+aMSa_7 4 - - 5:mod - - - -
+yAmyowwara_96 5 - - - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+mila_4 6 - - 20:rpk - - - -
+pqWvI_1 7 - - 20:k2 - - - -
+xo_1 8 numex - 10:card - - - -
+samAna_1 9 - - 11:mod - - - -
+BAga_2 11 - pl 20:k7 - - - -
+pUrvI_1 12 - - 13:mod - - - -
+golArXa_1 13 - - - - - - 30:op1
+paScimI_1 14 - - 15:mod - - - -
+golArXa_1 15 - - - - - - 30:op2
+[conj_2] 30 - - 11:rs - - - -
+viBakwa_1 16 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 17 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G181>
+#इसलिए किसी स्थान के देशांतर के आगे पूर्व के लिए अक्षर पू. तथा पश्चिम के लिए अक्षर प. का उपयोग करते हैं।
+koI_9 1 - - 2:quant - - - -
+sWAna_1 2 - - 3:r6 - - - -
+xeSAMwara_1 3 - - 4:r6 - - - -
+Age_1 4 - - 20:k7p - - - -
+pUrva_1 5 - - 7:rt - - - -
+akRara_3 6 - - 7:mod - - - -
+@pU. 7 - - - - - - 30:op1
+paScima_1 8 - - 10:rt - - - -
+akRara_3 9 - - 10:mod - - - -
+@pa. 10 - - - - - - 30:op2
+[conj_1] 30 - - 20:k2 - - - -
+upayoga_1 11 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 12 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G180.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G182>
+#यह जानना रोचक होगा
+jAna_10 1 - kqw 3:k1 - - - -
+rocaka_1 2 - - 3:k1s - - - -
+hE_1-gA_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G182b>
+#कि 180° पूर्व और 180° पश्चिम याम्योत्तर एक ही रेखा पर स्थित हैं।
+180 1 numex - 2:card - - - -
+aMSa_7 2 - - 3:mod - - - -
+pUrva_1 3 - - - - - - 10:op1
+180 4 numex - 5:card - - - -
+aMSa_7 5 - - 6:mod - - - -
+paScima_1 6 - - - - - - 10:op2
+[conj_1] 10 - - 7:mod - - - -
+yAmyowwara_96 7 - pl 20:k1 - - - -
+eka_1 8 - - 9:card - hI_1 - -
+reKA_1 9 - - 20:k7p - - - -
+sWiwa_1 11 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G182.3:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G183>
+#अब ग्लोब पर अक्षांश (समानांतर) रेखाओं एवं देशांतरीय याम्योत्तरों के द्वारा बनी ग्रिड को देखो।
+aba_1 1 - - 20:k7t - - - -
+globa_1 2 - - 20:k7p - - - -
+akRAMSa_1 3 - - 4:mod - - - -
+reKA_1 4 - pl - - - - 10:op1
+xeSAMwarIya_2 5 - - 6:mod - - - -
+yAmyowwara_96 6 - pl - - - - 10:op2
+[conj_1] 10 - - 7:k3 - - - -
+bana_21 7 - - 8:rvks - - - -
+grida_1 8 - - 20:k2 - - - -
+xeKa_1-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G184>
+#अगर आपको किसी स्थान के अक्षांश एवं देशांतर की सही जानकारी हो
+$addressee 1 - - 20:k4a - respect - -
+koI_9 2 - - 3:quant - - - -
+sWAna_1 3 - - 10:r6 - - - -
+akRAMSa_1 4 - - - - - - 10:op1
+xeSAMwara_1 5 - - - - - - 10:op2
+[conj_1] 10 - - 7:r6 - - - -
+sahI_11 6 - - 7:mod - - - -
+jAnakArI_3 7 - - 20:k1 - - - -
+hE_1-pres 20 - - 0:main G184b.20:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G184b>
+#तो ग्लोब पर आप उस स्थान का पता आसानी से लगा सकते हैं।
+globa_1 1 - - 20:k7p - - - -
+$addressee 2 - - 20:k1 - respect - -
+$wyax 3 - - 4:dem - distal - -
+sWAna_1 4 - - 20:k2 - - - -
+AsAnI_5 5 - - 20:krvn - - - -
+pawA_1 6 - - - - - - 20:kriyAmUla
+lagA_1-0_sakawA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G185>
+#उदाहरण के लिए, असम में धुबरी 26° उ. अक्षांश एवं 90° पू. देशांतर पर स्थित है।
+uxAharaNa_1 1 - - 20:rt - - - -
+asama 2 - - - - - - 11:begin
+[ne_1] 11 place - 12:k7p - - - -
+XubarI 3 - - - - - - 12:begin
+[ne_2] 12 place - 20:k1 - - - -
+26 4 numex - 5:card - - - -
+aMSa_7 5 - pl 7:mod - - - -
+uwwarI_1 6 - - 7:mod - - - -
+akRAMSa_1 7 - - - - - - 10:op1
+90 8 numex - 9:card - - - -
+aMSa_7 9 - pl 14:mod - - - -
+pUrvI_1 13 - - 14:mod - - - -
+xeSAMwara_1 14 - - - - - - 10:op2
+[conj_1] 10 - - 20:k7p - - - -
+sWiwa_1 15 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G186>
+#अब उस बिंदु को देखें जहाँ ये दोनों रेखाएँ एक दूसरे को काटती हैं।
+aba_1 1 - - 20:k7t - - - -
+$wyax 2 - - 3:dem - distal - -
+biMxu_1 3 - - 20:k2 - - - -
+xeKa_1-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G186b>
+#जहाँ ये दोनों रेखाएँ एक दूसरे को काटती हैं।
+$yax 1 - - 20:k7p G186.3:coref - - -
+$wyax 2 - pl 4:dem - proximal - -
+xonoM_9 3 - - 4:quant - - - -
+reKA_1 4 - pl 20:k1 - - - -
+ekaxUsarA_9 5 - - 20:k2 - - - -
+kAta_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G187>
+#यह बिंदु धुबरी की सही स्थिति होगा।
+$wyax 1 - - 2:dem - proximal - -
+biMxu_1 2 - - 20:k1 - - - -
+XubarI 3 - - - - - - 11:begin
+[ne_1] 11 place - 5:r6 - - - -
+sahI_11 4 - - 5:mod - - - -
+sWiwi_1 5 - - 20:k1s - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G188>
+#इसको समझने के लिए कागज़ पर समान दूरी वाली क्षैतिज तथा ऊर्ध्वाधर रेखाएँ खींचिए।
+$wyax 1 - - 2:k2 G187.2:coref proximal - -
+samaJa_7 2 - kqw 20:rt - - - -
+kAgajZa_1 3 - - 20:k7p - - - -
+samAna_1 4 - - 5:mod - - - -
+xUrI_1 5 - - 8:mod - - - -
+kREwija_1 6 - - - - - - 10:op1
+UrXvAXara_1 7 - - - - - - 10:op2
+[conj_1] 10 - - 8:mod - - - -
+reKA_1 8 - pl 20:k2 - - - -
+KIMca_2-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G189>
+#ऊर्ध्वाधर रेखाओं को संख्या 1, 2, 3, 4 से तथा क्षैतिज रेखाओं को क, ख, ग, घ अक्षरों से व्यक्त करें।
+UrXvAXara_1 1 - - 2:mod - - - -
+reKA_1 2 - pl 20:k2 - - - -
+saMKyA_1 3 - pl 20:k3 - - - -
+1 4 numex - - - - - 10:op1
+2 5 numex - - - - - 10:op2
+3 6 numex - - - - - 10:op3
+4 7 numex - - - - - 10:op4
+[conj_1] 10 - - 3:rs - - - -
+vyakwa_1 8 - - - - - - 20:kriyAmUla
+kara_1-e_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G189b>
+#तथा क्षैतिज रेखाओं को क, ख, ग, घ अक्षरों से व्यक्त करें।
+kREwija_1 1 - - 2:mod - - - -
+reKA_1 2 - pl 20:k2 - - - -
+@ka 3 - - - - - - 10:op1
+@Ka 4 - - - - - - 10:op2
+@ga 5 - - - - - - 10:op3
+@Ga 6 - - - - - - 10:op4
+[conj_1] 10 - - 7:mod - - - -
+akRara_3 7 - pl 20:k3 - - - -
+vyakwa_1 8 - - - - - - 20:kriyAmUla
+kara_1-e_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G189.20:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=G190>
+#जिन बिंदुओं पर ये ऊर्ध्वाधर एवं क्षैतिज रेखाएँ एक दूसरे को काटती हैं, वहाँ कुछ छोटे वृत्त खींचिए।
+vahAz_1 1 - - 20:k7p - - - -
+kuCa_1 2 - - 4:quant - - - -
+CotA_1 3 - - 4:mod - - - -
+vqwwa_1 4 - pl 20:k2 - - - -
+KIMca_2-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G190b>
+#जिन बिंदुओं पर ये ऊर्ध्वाधर एवं क्षैतिज रेखाएँ एक दूसरे को काटती हैं
+$yax 1 - - 2:mod - - - -
+biMxu_1 2 - pl 20:k7p G190.1:coref - - -
+$wyax 3 - pl 7:dem - proximal - -
+UrXvAXara_1 4 - - - - - - 10:op1
+kREwija_1 5 - - - - - - 10:op2
+[conj_1] 10 - - 7:mod - - - -
+reKA_1 7 - pl 20:k1 - - - -
+ekaxUsarA_9 8 - - 20:k2 - - - -
+kAta_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G191>
+#इन छोटे वृत्तों को अ, ब, स, द तथा ध नामों से व्यक्त कीजिए।
+$wyax 1 - pl 3:dem - proximal - -
+CotA_1 2 - - 3:mod - - - -
+vqwwa_1 3 - pl 20:k2 - - - -
+@a 4 - - - - - - 10:op1
+@ba 5 - - - - - - 10:op2
+@sa 6 - - - - - - 10:op3
+@xa 7 - - - - - - 10:op4
+@Xa 8 - - - - - - 10:op5
+[conj_1] 10 - - 9:mod - - - -
+nAma_1 9 - pl 20:k3 - - - -
+vyakwa_1 11 - - - - - - 20:kriyAmUla
+kara_1-e_1 12 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G192>
+#मान लीजिए कि ऊर्ध्वाधर रेखाएँ पूर्व देशांतरों एवं क्षैतिज रेखाएँ उत्तरी अक्षांशों को व्यक्त करती हैं।
+mAna_17-e_1 1 - - 0:main - [shade:le_1] - -
+%imperative
+</sent_id>
+<sent_id=G192b>
+#कि ऊर्ध्वाधर रेखाएँ पूर्व देशांतरों को व्यक्त करती हैं
+UrXvAXara_1 1 - - 2:mod - - - -
+reKA_1 2 - pl 20:k1 - - - -
+pUrva_1 3 - - 4:mod - - - -
+xeSAMwara_1 4 - pl 20:k2 - - - -
+vyakwa_1 5 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G192.1:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G192c>
+#एवं क्षैतिज रेखाएँ उत्तरी अक्षांशों को व्यक्त करती हैं।
+kREwija_1 1 - - 2:mod - - - -
+reKA_1 2 - pl 20:k1 - - - -
+uwwarI_1 3 - - 4:mod - - - -
+akRAMSa_1 4 - pl 20:k2 - - - -
+vyakwa_1 5 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G192b.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G193>
+#अब आप देखेंगे कि वृत्त अ ख° उत्तरी अक्षांश तथा 1° पूर्वी देशांतर पर स्थित है।
+aba_1 1 - - 3:k7t - - - -
+$addressee 2 - - 3:k1 - respect - -
+xeKa_1-gA_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G193b>
+#कि वृत्त अ ख° उत्तरी अक्षांश तथा 1° पूर्वी देशांतर पर स्थित है।
+vqwwa_1 1 - - 20:k1 - - - -
+@a 2 - - 1:rs - - - -
+@Ka 3 - - 4:card - - - -
+aMSa_7 4 - - 6:mod - - - -
+uwwarI_1 5 - - 6:mod - - - -
+akRAMSa_1 6 - - - - - - 10:op1
+1 7 numex - 8:card - - - -
+aMSa_7 8 - - 12:mod - - - -
+pUrvI_1 9 - - 12:mod - - - -
+xeSAMwara_1 12 - - - - - - 10:op2
+[conj_1] 10 - - 20:k7p - - - -
+sWiwa_1 13 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G193.3:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G194>
+#अन्य वृत्तों की स्थिति ज्ञात करें।
+anya_1 1 - - 2:mod - - - -
+vqwwa_1 2 - pl 3:r6 - - - -
+sWiwi_1 3 - - 20:k2 - - - -
+jFAwa_1 4 - - - - - - 20:kriyAmUla
+kara_1-e_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G195>
+#समय को मापने का सबसे अच्छा साधन पृथ्वी, चंद्रमा एवं ग्रहों की गति है।
+samaya_1 1 - - 2:k2 - - - -
+mApa_2 2 - kqw 4:r6 - - - -
+acCA_1 3 - supl 4:mod - - - -
+sAXana_2 4 - - 20:k1 - - - -
+pqWvI_1 5 - - - - - - 10:op1
+caMxramA_1 6 - - - - - - 10:op2
+graha_1 7 - pl - - - - 10:op3
+[conj_1] 10 - - 8:r6 - - - -
+gawi_1 8 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G196>
+#सूर्योदय एवं सूर्यास्त प्रतिदिन होता है।
+sUryoxaya_1 1 - - - - - - 10:op1
+sUryAswa_1 2 - - - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+prawixina_1 3 - - 20:k7t - - - -
+ho_10-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G197>
+#अतः स्वाभाविक ही है
+svABAvika_1 1 - - 2:k1s - hI_1 - -
+hE_1-pres 2 - - 0:main G196.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G197b>
+#कि यह पूरे विश्व में समय निर्धारण का सबसे अच्छा साधन है।
+$wyax 1 - - 20:k1 G196.10:coref proximal - -
+pUrA_3 2 - - 3:mod - - - -
+viSva_6 3 - - 20:k7p - - - -
+samaya_1 4 - - 5:mod - - - -
+nirXAraNa_5 5 - - 7:r6 - - - -
+acCA_1 6 - supl 7:mod - - - -
+sAXana_2 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G197.2:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G198>
+#स्थानीय समय का अनुमान सूर्य के द्वारा बनने वाली परछाईं से लगाया जा सकता है,
+sWAnIya_1 1 - - 2:mod - - - -
+samaya_1 2 - - 3:r6 - - - -
+anumAna_2 3 - - - - - - 20:kriyAmUla
+sUrya_1 4 - - 5:k3 - - - -
+bana_21 5 - - 6:rvks - - - -
+paraCAI_1 6 - - 20:k5 - - - -
+lagA_1-yA_jA_sakawA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G198b>
+#जो दोपहर में सबसे छोटी एवं सूर्योदय तथा सूर्यास्त के समय सबसे लंबी होती है।
+$yax 1 - - 20:k1 G198.6:coref - - -
+xopahara_1 2 - - 3:k7t - - - -
+CotA_96 3 - supl - - - - 10:op1
+sUryoxaya_1 4 - - - - - - 11:op1
+sUryAswa_1 5 - - - - - - 11:op2
+[conj_1] 11 - - 6:r6 - - - -
+samaya_1 6 - - 7:k7t - - - -
+lambA_1 7 - supl - - - - 10:op2
+[conj_2] 10 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G199>
+#ग्रीनिच पर स्थित प्रमुख याम्योत्तर पर सूर्य जिस समय आकाश के सबसे ऊँचे बिंदु पर होगा,
+grInica 1 - - - - - - 11:begin
+[ne_1] 11 place - 2:k7p - - - -
+sWiwa_1 2 - - 4:mod - - - -
+pramuKa_12 3 - - 4:mod - - - -
+yAmyowwara_96 4 - - 20:k7p - - - -
+sUrya_1 5 - - 20:k1 - - - -
+AkASa_1 6 - - 8:r6 - - - -
+UzcA_1 7 - supl 8:mod - - - -
+biMxu_1 8 - - 20:k7p - - - -
+hE_1-gA_1 20 - - 0:main G199b.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G199b>
+#उस समय याम्योत्तर पर स्थित सभी स्थानों पर दोपहर होगी।
+$wyax 1 - - 2:dem - distal - -
+samaya_1 2 - - 20:k7t - - - -
+yAmyowwara_96 3 - - 4:k7p - - - -
+sWiwa_1 4 - - 6:mod - - - -
+saBI_1 5 - - 6:quant - - - -
+sWAna_1 6 - pl 20:k7p - - - -
+xopahara_1 7 - - 20:k1 - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G200>
+#चूँकि, पृथ्वी पश्चिम से पूर्व की ओर चक्कर लगाती है,
+pqWvI_1 1 - - 20:k1 - - - -
+paScima_1 2 - - 20:k5 - - - -
+pUrva_1 3 - - 20:k2p - - - -
+cakkara_7 4 - - - - - - 20:kriyAmUla
+lagA_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G200b.20:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=G200b>
+#अतः वे स्थान जो ग्रीनिच के पूर्व में हैं, उनका समय ग्रीनिच समय से आगे होगा
+$wyax 1 - pl 2:dem - distal - -
+sWAna_1 2 - pl 4:r6 - - - -
+grInica 3 - - - - - - 11:begin
+[ne_1] 11 place - 5:mod - - - -
+samaya_1 4 - - 20:k1 - - - -
+samaya_1 5 - - 6:k5 - - - -
+Age_1 6 - - 20:k1s - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G200c>
+#जो ग्रीनिच के पूर्व में हैं
+$yax 1 - pl 20:k1 G200b.2:coref - - -
+grInica 2 - - - - - - 11:begin
+[ne_1] 11 place - 3:r6 - - - -
+pUrva_1 3 - - 20:k7p - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G200d>
+#तथा जो पश्चिम में हैं, उनका समय पीछे होगा।
+$wyax 1 - pl 2:r6 - distal - -
+samaya_1 2 - - 20:k1 - - - -
+pICe_1 3 - - 20:k1s - - - -
+hE_1-gA_1 20 - - 0:main G200b.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G200e>
+#जो पश्चिम में हैं
+$yax 1 - pl 20:k1 G200d.1:coref - - -
+paScima_1 2 - - 20:k7p - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G201>
+#समय के अंतर की दर की गणना निम्नलिखित विधि से की जा सकती है।
+samaya_1 1 - - 2:r6 - - - -
+aMwara_1 2 - - 3:r6 - - - -
+xara_1 3 - - 20:k2 - - - -
+nimnaliKiwa_2 4 - - 5:mod - - - -
+viXi_2 5 - - 20:k3 - - - -
+gaNanA_1 6 - - - - - - 20:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G202>
+#पृथ्वी लगभग 24 घंटे में अपने अक्ष पर 360° घूम जाती है,
+pqWvI_1 1 - - 20:k1 - - - -
+24 2 numex - 3:card - - - -
+GaMtA_4 3 - pl 20:k7 - lagaBaga_1 - -
+apanA_91 4 - - 5:r6 - - - -
+akRa_1 5 - - 20:k7p - - - -
+360 6 numex - 7:card - - - -
+aMSa_7 7 - pl 20:k2 - - - -
+GUma_9-wA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=G202b>
+#अर्थात् वह 1 घंटे में 15° एवं 4 मिनट में 1° घूमती है।
+$wyax 1 - - 20:k1 G202.1:coref distal - -
+1 2 numex - 3:card - - - -
+GaMtA_4 3 - - 20:k7 - - - -
+15 4 numex - 5:card - - - -
+aMSa_7 5 - pl 20:k2 - - - -
+GUma_9-wA_hE_1 20 - - 0:main G202.20:arWAw - - -
+%affirmative
+</sent_id>
+<sent_id=G202c>
+#एवं 4 मिनट में 1° घूमती है।
+4 1 numex - 2:card - - - -
+minata_1 2 - pl 20:k7 - - - -
+1 3 numex - 4:card - - - -
+aMSa_7 4 - - 20:k2 - - - -
+GUma_9-wA_hE_1 20 - - 0:main G202b.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G203>
+#इस प्रकार जब ग्रीनिच में दोपहर के 12 बजते हैं,
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+grInica 3 - - - - - - 11:begin
+[ne_1] 11 place - 20:k7p - - - -
+xopahara_1 4 - - 5:r6 - - - -
+12 5 numex - 20:k1 - - - -
+baja_2-wA_hE_1 20 - - 0:main G203b.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G203b>
+#तब ग्रीनिच से 15° पूर्व में समय होगा 15 × 4 = 60 मिनट अर्थात्, ग्रीनिच के समय से 1 घंटा आगे,
+grInica 1 - - - - - - 11:begin
+[ne_1] 11 place - 4:k5 - - - -
+15 2 numex - 3:card - - - -
+aMSa_7 3 - pl 4:mod - - - -
+pUrva_1 4 - - 5:k7p - - - -
+samaya_1 5 - - 20:k1 - - - -
+60 6 numex - 7:card - - - -
+minata_1 7 - pl 20:k1s - - - -
+1 8 numex - 9:card - - - -
+GaMtA_4 9 - - 10:mod - - - -
+Age_1 10 - - 7:rs - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G203c>
+#अर्थात् वहाँ दोपहर का 1 बजा होगा।
+vahAz_1 1 - - 20:k7p - - - -
+xopahara_1 2 - - 3:r6 - - - -
+1 3 numex - 20:k1 - - - -
+baja_2-yA_hogA_1 20 - - 0:main G203b.20:arWAw - - -
+%affirmative
+</sent_id>
+<sent_id=G204>
+#लेकिन ग्रीनिच से 15° पश्चिम का समय ग्रीनिच समय से 1 घंटा पीछे होगा
+grInica 1 - - - - - - 11:begin
+[ne_1] 11 place - 4:k5 - - - -
+15 2 numex - 3:card - - - -
+aMSa_7 3 - pl 4:mod - - - -
+paScima_1 4 - - 5:r6 - - - -
+samaya_1 5 - - 20:k1 - - - -
+grInica 6 - - - - - - 12:begin
+[ne_2] 12 place - 7:mod - - - -
+samaya_1 7 - - 10:k5 - - - -
+1 8 numex - 9:card - - - -
+GaMtA_4 9 - - 10:mod - - - -
+pICe_1 10 - - 20:k1s - - - -
+hE_1-gA_1 20 - - 0:main G203c.20:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=G204b>
+#यानी, वहाँ सुबह के 11 बजे होंगे।
+vahAz_1 1 - - 20:k7p - - - -
+subaha_1 2 - - 3:r6 - - - -
+11 3 numex - 20:k1 - - - -
+baja_2-yA_hogA_1 20 - - 0:main G204.20:arWAw - - -
+%affirmative
+</sent_id>
+<sent_id=G205>
+#इसी प्रकार जब ग्रीनिच पर दोपहर के 12 बजे होंगे
+$wyax 1 - - 2:dem - proximal hI_1 -
+prakAra_5 2 - - 20:krvn - - - -
+grInica 3 - - - - - - 11:begin
+[ne_1] 11 place - 20:k7p - - - -
+xopahara_1 4 - - 5:r6 - - - -
+12 5 numex - 20:k1 - - - -
+baja_2-yA_hogA_1 20 - - 0:main G205b.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G205b>
+#उस समय 180° पर मध्य रात्रि होगी।
+$wyax 1 - - 2:dem - distal - -
+samaya_1 2 - - 20:k7t - - - -
+180 3 numex - 4:card - - - -
+aMSa_7 4 - pl 20:k7p - - - -
+maXyarAwri_1 6 - - 20:k1 - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G206>
+#किसी भी स्थान पर जब सूर्य आकाश में अपने उच्चतम बिंदु पर होता है,
+koI_9 1 - - 2:quant - BI_1 - -
+sWAna_1 2 - - 20:k7p - - - -
+sUrya_1 3 - - 20:k1 - - - -
+AkASa_1 4 - - 20:k7p - - - -
+apanA_91 5 - - 7:r6 - - - -
+uccawama_96 6 - - 7:mod - - - -
+biMxu_1 7 - - 20:k7p - - - -
+hE_1-pres 20 - - 0:main G206b.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G206b>
+#दोपहर में उस समय घड़ी में दिन के 12 बजते हैं।
+xopahara_1 1 - - 20:k7t - - - -
+$wyax 2 - - 3:dem - distal - -
+samaya_1 3 - - 20:k7t - - - -
+GadZI_5 4 - - 20:k7p - - - -
+xina_1 5 - - 6:r6 - - - -
+12 6 numex - 20:k1 - - - -
+baja_2-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G207>
+#इस प्रकार, घड़ी के द्वारा दिखाया गया समय उस स्थान का स्थानीय समय होगा।
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+GadZI_5 3 - - 4:k3 - - - -
+xiKA_3-yA_gayA_1 4 - - 5:rvks - - - -
+samaya_1 5 - - 20:k1 - - - -
+$wyax 6 - - 7:dem - distal - -
+sWAna_1 7 - - 9:r6 - - - -
+sWAnIya_1 8 - - 9:mod - - - -
+samaya_1 9 - - 20:k1s - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G208>
+#आप देख सकते हैं
+$addressee 1 - - 2:k1 - respect - -
+xeKa_1-0_sakawA_hE_1 2 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G208b>
+#कि दिए गए देशांतरीय याम्योत्तर पर सभी स्थानों का स्थानीय समय समान है।
+xe_1-yA_gayA_1 1 - - 3:rvks - - - -
+xeSAMwarIya_2 2 - - 3:mod - - - -
+yAmyowwara_96 3 - - 5:k7p - - - -
+saBI_1 4 - - 5:quant - - - -
+sWAna_1 5 - pl 7:r6 - - - -
+sWAnIya_1 6 - - 7:mod - - - -
+samaya_1 7 - - 20:k1 - - - -
+samAna_1 8 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G208.2:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G209>
+#हम मानक समय क्यों मानते हैं?
+$speaker 1 - pl 4:k1 - - - -
+mAnaka_1 2 - - 3:mod - - - -
+samaya_1 3 - - 4:k2 - - - -
+$kim 5 - - 4:rh - - - -
+mAna_9-wA_hE_1 4 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G210>
+#अलग-अलग याम्योत्तर पर स्थित स्थानों के स्थानीय समय में अंतर होता है।
+alaga_7 1 - - 2:mod - - - -
+yAmyowwara_96 2 - pl 3:k7p - - - -
+sWiwa_1 3 - - 4:mod - - - -
+sWAna_1 4 - pl 6:r6 - - - -
+sWAnIya_1 5 - - 6:mod - - - -
+samaya_1 6 - - 20:k7 - - - -
+aMwara_1 7 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G211>
+#उदाहरण के लिए, बहुत से देशांतरों से होकर गुजरने वाली रेलगाड़ियों के लिए समय-सारणी तैयार करना कठिन होगा।
+uxAharaNa_1 1 - - 20:rt - - - -
+bahuwa_2 2 - - 3:quant - - - -
+xeSAMwara_1 3 - pl 4:k2p - - - -
+gujZara_3 4 - - 5:rvks - - - -
+relagAdZI_1 5 - pl 30:rt - - - -
+samaya-sAraNI_1 6 - - 30:k2 - - - -
+wEyAra_1 7 - - - - - - 30:kriyAmUla
+kara_1 8 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k1 - - - -
+kaTina_1 9 - - 20:k1s - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G212>
+#भारत में गुजरात के द्वारका तथा असम के डिब्रूगढ़ के स्थानीय समय में लगभग 1 घंटा 45 मिनट का अंतर होगा।
+BArawa_96 1 - - 20:k7p - - - -
+gujarAwa 2 - - - - - - 11:begin
+[ne_1] 11 place - 12:r6 - - - -
+xvArakA 3 - - - - - - 12:begin
+[ne_2] 12 place - - - - - 10:op1
+asama 4 - - - - - - 13:begin
+[ne_3] 13 place - 14:r6 - - - -
+dibrUgadZa 5 - - - - - - 14:begin
+[ne_4] 14 place - - - - - 10:op2
+[conj_1] 10 - - 7:r6 - - - -
+sWAnIya_1 6 - - 7:mod - - - -
+samaya_1 7 - - 20:k7 - - - -
+1 8 numex - 9:card - - - -
+GaMtA_4 9 - - - - - - 31:op1
+45 15 numex - 16:card - - - -
+minata_1 16 - pl - - - - 31:op2
+[conj_2] 31 - - 17:r6 - - - -
+aMwara_1 17 - - 20:k1 - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G213>
+#इसलिए यह आवश्यक है
+AvaSyaka_1 1 - - 2:k1s - - - -
+hE_1-pres 2 - - 0:main G212.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G213b>
+#कि देश के मध्य भाग से होकर गुजरने वाली किसी याम्योत्तर के स्थानीय समय को देश का मानक समय माना जाए।
+xeSa_1 1 - - 3:r6 - - - -
+maXya_1 2 - - 3:mod - - - -
+BAga_2 3 - - 4:k2p - - - -
+gujZara_3 4 - - 6:rvks - - - -
+koI_9 5 - - 6:quant - - - -
+yAmyowwara_96 6 - - 8:r6 - - - -
+sWAnIya_1 7 - - 8:mod - - - -
+samaya_1 8 - - 20:k2 - - - -
+xeSa_1 9 - - 11:r6 - - - -
+mAnaka_1 10 - - 11:mod - - - -
+samaya_1 11 - - 20:k2s - - - -
+mAna_1-yA_jAe_1 20 - - 0:main G213.2:vAkyakarma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G214>
+#इस याम्योत्तर रेखा के स्थानीय समय को पूरे देश का मानक समय माना जाता है।
+$wyax 1 - - 3:dem - proximal - -
+yAmyowwara_96 2 - - 3:mod - - - -
+reKA_1 3 - - 5:r6 - - - -
+sWAnIya_1 4 - - 5:mod - - - -
+samaya_1 5 - - 20:k2 - - - -
+pUrA_3 6 - - 7:mod - - - -
+xeSa_1 7 - - 9:r6 - - - -
+mAnaka_1 8 - - 9:mod - - - -
+samaya_1 9 - - 20:k2s - - - -
+mAna_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G215>
+#इसे भारतीय मानक समय के नाम से जाना जाता है।
+$wyax 1 - - 20:k2 G214.5:coref proximal - -
+BArawIya_1 2 - - 4:mod - - - -
+mAnaka_1 3 - - 4:mod - - - -
+samaya_1 4 - - 5:r6 - - - -
+nAma_1 5 - - 20:k3 - - - -
+jAna_10-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G216>
+#कबीर भोपाल के निकट एक छोटे से नगर में रहता है।
+kabIra 1 - - - - - - 11:begin
+[ne_1] 11 male - 20:k1 - - - -
+BopAla 2 - - - - - - 12:begin
+[ne_2] 12 place - 3:r6 - - - -
+nikata_1 3 - - 6:mod - - - -
+eka_1 4 - - 6:card - - - -
+CotA_1 5 - - 6:mod - - - -
+nagara_2 6 - - 20:k7p - - - -
+raha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G217>
+#वह अपने मित्र आलोक से कहता है
+$wyax 1 - - 20:k1 G216.11:coref distal - -
+apanA_91 2 - - 3:r6 - - - -
+miwra_1 3 - - 20:k4 - - - -
+Aloka 4 - - - - - - 11:begin
+[ne_1] 11 male - 3:rs - - - -
+kaha_5-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G217b>
+#कि वे लोग आज रात्रि में नहीं सो पाएँगे।
+$wyax 1 - pl 2:dem - distal - -
+loga_2 2 - pl 20:k1 - - - -
+Aja_1 3 - - 4:mod - - - -
+rAwri_1 4 - - 20:k7t - - - -
+nahIM_1 5 - - 20:neg - - - -
+so_9-0_sakegA_1 20 - - 0:main G217.20:vAkyakarma - - -
+%negative
+</sent_id>
+<sent_id=G218>
+#भारत एवं इंग्लैंड के बीच एक क्रिकेट मैच लंदन में 2 बजे अपराह्न में शुरू होगा।
+BArawa_96 1 - - - - - - 10:op1
+iMglEMda 2 - - - - - - 11:begin
+[ne_1] 11 place - - - - - 10:op2
+[conj_1] 10 - - 3:r6 - - - -
+bIca_91 3 - - 6:mod - - - -
+eka_1 4 - - 6:card - - - -
+kriketa_1 5 - - 6:mod - - - -
+mEca_1 6 - - 20:k1 - - - -
+laMxana 7 - - - - - - 12:begin
+[ne_2] 12 place - 20:k7p - - - -
+2 9 clocktime - 20:k7t - - - -
+aparAhna_96 13 - - 20:k7t - - - -
+SurU_3 14 - - - - - - 20:kriyAmUla
+ho_1-gA_1 15 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G219>
+#अर्थात् भारत के समयानुसार मैच शाम के 7:30 बजे शुरू होगा
+BArawa_96 1 - - 2:r6 - - - -
+samaya_1 2 - - 20:k7a - - - -
+mEca_1 3 - - 20:k1 - - - -
+SAma_1 4 - - 6:r6 - - - -
+7:30 6 clocktime - 20:k7t - - - -
+SurU_3 7 - - - - - - 20:kriyAmUla
+ho_1-gA_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G218.20:arWAw - - -
+%affirmative
+</sent_id>
+<sent_id=G219b>
+#तथा देर रात्रि में समाप्त होगा।
+xera_3 1 - - 2:mod - - - -
+rAwri_1 2 - - 20:k7t - - - -
+samApwa_2 3 - - - - - - 20:kriyAmUla
+ho_1-gA_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G219.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G220>
+#क्या आप जानते हैं
+$addressee 1 - - 2:k1 - respect - -
+jAna_10-wA_hE_1 2 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G220b>
+#कि भारत एवं इंग्लैंड के बीच समय में क्या अंतर है?
+BArawa_96 1 - - - - - - 10:op1
+iMglEMda 2 - - - - - - 11:begin
+[ne_1] 11 place - - - - - 10:op2
+[conj_1] 10 - - 3:r6 - - - -
+bIca_91 3 - - 4:r6 - - - -
+samaya_1 4 - - 20:k7 - - - -
+$kim 5 - - 6:mod - - - -
+aMwara_1 6 - - 20:k1 - - - -
+hE_1-pres 20 - - 0:main G220.2:vAkyakarma - - -
+%interrogative
+</sent_id>
+<sent_id=G221>
+#भारत ग्रीनिच के पूर्व 82° 30' पू. में स्थित है
+BArawa_96 1 - - 20:k1 - - - -
+grInica 2 - - - - - - 11:begin
+[ne_1] 11 place - 3:r6 - - - -
+pUrva_1 3 - - 20:k7p - - - -
+82°30' 4 numex - 5:card - - - -
+pUrva_1 5 - - 20:k7p - - - -
+sWiwa_1 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G221b>
+#तथा यहाँ का समय ग्रीनिच समय से 5 घंटा 30 मिनट आगे है।
+yahAz_1 1 - - 2:r6 - - - -
+samaya_1 2 - - 20:k1 - - - -
+grInica 3 - - - - - - 11:begin
+[ne_1] 11 place - 4:mod - - - -
+samaya_1 4 - - 9:k5 - - - -
+5 5 numex - 6:card - - - -
+GaMtA_4 6 - pl - - - - 30:op1
+30 7 numex - 8:card - - - -
+minata_1 8 - pl - - - - 30:op2
+[conj_1] 30 - - 9:mod - - - -
+Age_1 9 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G221.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G222>
+#इसलिए जब लंदन में दोपहर के 2 बजे होंगे,
+laMxana 1 - - - - - - 11:begin
+[ne_1] 11 place - 20:k7p - - - -
+xopahara_1 2 - - 3:r6 - - - -
+2 3 numex - 20:k1 - - - -
+baja_2-yA_hogA_1 20 - - 0:main G222b.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G222b>
+#तब भारत में शाम के 7:30 बजे होंगे।
+BArawa_96 1 - - 20:k7p - - - -
+SAma_1 2 - - 3:r6 - - - -
+7:30 3 numex - 20:k1 - - - -
+baja_2-yA_hogA_1 20 - - 0:main G221b.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G223>
+#कुछ देशों का देशांतरीय विस्तार अधिक होता है,
+kuCa_1 1 - - 2:quant - - - -
+xeSa_1 2 - pl 4:r6 - - - -
+xeSAMwarIya_2 3 - - 4:mod - - - -
+viswAra_4 4 - - 20:k1 - - - -
+aXika_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G223b>
+#जिसका कारण वहाँ एक से अधिक मानक समय अपनाए गए हैं।
+$yax 1 - - 2:r6 G223.4:coref - - -
+kAraNa_1 2 - - 20:rh - - - -
+vahAz_1 3 - - 20:k7p - - - -
+eka_1 4 - - 5:rv - - - -
+aXika_1 5 - - 7:quant - - - -
+mAnaka_1 6 - - 7:mod - - - -
+samaya_1 7 - pl 20:k2 - - - -
+apanA_2-yA_gayA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G224>
+#उदाहरण के लिए, रूस में 11 मानक समयों को अपनाया गया है।
+uxAharaNa_1 1 - - 20:rt - - - -
+rUsa 2 - - - - - - 11:begin
+[ne_1] 11 place - 20:k7p - - - -
+11 3 numex - 5:card - - - -
+mAnaka_1 4 - - 5:mod - - - -
+samaya_1 5 - pl 20:k2 - - - -
+apanA_2-yA_gayA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G225>
+#पृथ्वी को एक-एक घंटे वाले 24 समय क्षेत्रों में बाँटा गया है।
+pqWvI_1 1 - - 20:k2 - - - -
+eka_1 2 - - 3:card - - - -
+GaMtA_4 3 - - 6:mod - - - -
+24 4 numex - 6:card - - - -
+samaya_1 5 - - 6:mod - - - -
+kRewra_15 6 - pl 20:k7 - - - -
+bAzta_8-yA_gayA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G226>
+#इस प्रकार प्रत्येक समय-क्षेत्र 15° देशांतर तक के क्षेत्र को घेरता है।
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+prawyeka_2 3 - - 4:quant - - - -
+samaya-kRewra_1 4 - - 20:k1 - - - -
+15 5 numex - 6:card - - - -
+aMSa_7 6 - pl 7:mod - - - -
+xeSAMwara_1 7 - - 8:rkl - - - -
+kRewra_5 8 - - 20:k2 - - - -
+Gera_17-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G227>
+#निम्नलिखित प्रश्नों के उत्तर संक्षेप में दीजिए।
+nimnaliKiwa_2 1 - - 2:mod - - - -
+praSna_1 2 - pl 3:r6 - - - -
+uwwara_1 3 - pl 20:k2 - - - -
+saMkRepa_3 4 - - 20:k7 - - - -
+xe_1-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G228>
+#पृथ्वी का सही आकार क्या है?
+pqWvI_1 1 - - 3:r6 - - - -
+sahI_11 2 - - 3:mod - - - -
+AkAra_2 3 - - 20:k1 - - - -
+$kim 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G229>
+#कर्क रेखा का अक्षांशीय मान क्या है?
+karka_1 1 - - - - - - 10:mod
+reKA_1 2 - - - - - - 10:head
+[nc_1] 10 - - 4:r6 - - - -
+akRAMSIya_1 3 - - 4:mod - - - -
+mAna_5 4 - - 20:k1 - - - -
+$kim 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G230>
+#पृथ्वी के तीन ताप कटिबंध कौन-से हैं?
+pqWvI_1 1 - - 10:r6 - - - -
+wIna_1 2 numex - 10:card - - - -
+wApa_1 3 - - - - - - 10:mod
+katibaMXa_3 4 - pl - - - - 10:head
+[nc_1] 10 - pl 20:k1 - - - -
+$kim 5 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G231>
+#अक्षांश एवं देशांतर रेखाएँ क्या हैं?
+akRAMSa_1 1 - - - - - - 10:op1
+xeSAMwara_1 2 - - - - - - 10:op2
+[conj_1] 10 - - 3:mod - - - -
+reKA_1 3 - pl 20:k1 - - - -
+$kim 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G232>
+#ऊष्मा की सबसे अधिक मात्रा उष्ण कटिबंध क्यों प्राप्त करते हैं?
+URmA_1 1 - - 3:r6 - - - -
+aXika_1 2 - supl 3:mod - - - -
+mAwrA_1 3 - - 20:k2 - - - -
+uRNa_1 4 - - - - - - 10:mod
+katibaMXa_3 5 - - - - - - 10:head
+[nc_1] 10 - - 20:k1 - - - -
+$kim 6 - - 20:rh - - - -
+prApwa_2 7 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G233>
+#जब भारत में शाम के 5:30 बजते हैं,
+BArawa_96 1 - - 20:k7p - - - -
+SAma_1 2 - - 3:r6 - - - -
+5:30 3 numex - 20:k1 - - - -
+baja_2-wA_hE_1 20 - - 0:main G233b.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G233b>
+#तब लंदन में दोपहर के 12 क्यों बजते हैं?
+laMxana 1 - - - - - - 11:begin
+[ne_1] 11 place - 20:k7p - - - -
+xopahara_1 2 - - 3:r6 - - - -
+12 3 numex - 20:k1 - - - -
+$kim 4 - - 20:rh - - - -
+baja_2-wA_hE_1 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G234>
+#जैसा कि आप जानते हैं, पृथ्वी की गति दो प्रकार की है-घूर्णन एवं परिक्रमण।
+$addressee 1 - - 2:k1 - respect - -
+jAna_10-wA_hE_1 2 - - 0:main G234b.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G234b>
+#पृथ्वी की गति दो प्रकार की है-घूर्णन एवं परिक्रमण।
+pqWvI_1 1 - - 2:r6 - - - -
+gawi_1 2 - - 20:k1 - - - -
+xo_1 3 numex - 4:card - - - -
+prakAra_7 4 - pl 20:k1s - - - -
+GUrNana_1 5 - - - - - - 10:op1
+parikramaNa_1 6 - - - - - - 10:op2
+[conj_1] 10 - - 4:rs - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G235>
+#पृथ्वी का अपने अक्ष पर घूमना घूर्णन कहलाता है।
+pqWvI_1 1 - - 4:k1 - - - -
+apanA_91 2 - - 3:r6 - - - -
+akRa_1 3 - - 4:k7p - - - -
+GUma_9 4 - kqw 20:k1 - - - -
+GUrNana_1 5 - - 20:k1s - - - -
+kahalA_2-wA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G236>
+#सूर्य के चारों ओर एक स्थिर कक्ष में पृथ्वी की गति को परिक्रमण कहते हैं।
+sUrya_1 1 - - 2:r6 - - - -
+cAroMora_1 2 - - 5:k7p - - - -
+eka_1 3 - - 5:card - - - -
+sWira_15 4 - - 5:mod - - - -
+kakRA_6 5 - - 7:k7p - - - -
+pqWvI_1 6 - - 7:r6 - - - -
+gawi_1 7 - - 20:k2 - - - -
+parikramaNa_1 8 - - 20:k2s - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G237>
+#पृथ्वी का अक्ष एक काल्पनिक रेखा है,
+pqWvI_1 1 - - 2:r6 - - - -
+akRa_1 2 - - 20:k1 - - - -
+eka_1 3 - - 5:card - - - -
+kAlpanika_1 4 - - 5:mod - - - -
+reKA_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G237b>
+#जो इसके कक्षीय सतह से (66 1/2)° का कोण बनाती है।
+$yax 1 - - 20:k1 G237.5:coref - - -
+$wyax 2 - - 4:r6 G237.1:coref proximal - -
+kakRIya_1 3 - - 4:mod - - - -
+sawaha_1 4 - - 20:k5 - - - -
+66.5 5 numex - 6:card - - - -
+aMSa_7 6 - pl 7:r6 - - - -
+koNa_1 7 - - 20:k2 - - - -
+banA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G238>
+#वह समतल जो कक्ष के द्वारा बनाया जाता है, उसे कक्षीय समतल कहते हैं।
+$wyax 1 - - 2:dem - distal - -
+samawala_5 2 - - 20:k2 - - - -
+kakRIya_1 3 - - 4:mod - - - -
+samawala_5 4 - - 20:k2s - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G238b>
+#जो कक्ष के द्वारा बनाया जाता है
+$yax 1 - - 3:k2 G238.2:coref - - -
+kakRA_6 2 - - 3:k3 - - - -
+banA_1-yA_jAwA_hE_1 3 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G239>
+#पृथ्वी सूर्य से प्रकाश प्राप्त करती है।
+pqWvI_1 1 - - 20:k1 - - - -
+sUrya_1 2 - - 20:k5 - - - -
+prakASa_1 3 - - 20:k2 - - - -
+prApwa_2 4 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G240>
+#पृथ्वी का आकार गोले के समान है,
+pqWvI_1 1 - - 2:r6 - - - -
+AkAra_2 2 - - 20:k1 - - - -
+golA_96 3 - - 4:r6 - - - -
+samAna_3 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G240b.20:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=G240b>
+#इसलिए एक समय में सिर्फ इसके आधे भाग पर ही सूर्य की रोशनी प्राप्त होती है।
+eka_1 1 - - 2:card - - - -
+samaya_1 2 - - 20:k7t - - - -
+$wyax 3 - - 5:r6 G240.1:coref proximal - -
+AXA_1 4 - - 5:mod - - - -
+BAga_2 5 - - 20:k7p - siraPa_9 - -
+sUrya_1 6 - - 7:r6 - - - -
+roSanI_1 7 - - 20:k1 - - - -
+prApwa_2 8 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G241>
+#सूर्य की ओर वाले भाग में दिन होता है,
+sUrya_1 1 - - 2:r6 - - - -
+ora_1 2 - - 3:mod - - - -
+BAga_2 3 - - 20:k7p - - - -
+xina_1 4 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G241b>
+#जबकि दूसरा भाग जो सूर्य से दूर होता है वहाँ रात होती है।
+xUsarA_8 1 - - 2:mod - - - -
+BAga_2 2 - - 20:k7p - - - -
+rAwa_1 3 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main G241.20:viroXI_xyowaka - - -
+%affirmative
+</sent_id>
+<sent_id=G241c>
+#जो सूर्य से दूर होता है
+$yax 1 - - 20:k1 G241b.2:coref - - -
+sUrya_1 2 - - 20:k5 - - - -
+xUra_15 3 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G242>
+#ग्लोब पर वह वृत्त जो दिन तथा रात को विभाजित करता है उसे प्रदीप्ति वृत्त कहते हैं।
+globa_1 1 - - 3:k7p - - - -
+$wyax 2 - - 3:dem - distal - -
+vqwwa_1 3 - - 20:k2 - - - -
+praxIpwi_2 4 - - 5:r6 - - - -
+vqwwa_1 5 - - 20:k2s - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G242b>
+#जो दिन तथा रात को विभाजित करता है
+$yax 1 - - 20:k1 G242.3:coref - - -
+xina_1 2 - - - - - - 10:op1
+rAwa_1 3 - - - - - - 10:op2
+[conj_1] 10 - - 20:k2 - - - -
+viBAjiwa_1 4 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G243>
+#यह वृत्त अक्ष के साथ नहीं मिलता है जैसा कि आप चित्र 3.2 में देख सकते हैं।
+$wyax 1 - - 2:dem - proximal - -
+vqwwa_1 2 - - 20:k1 - - - -
+akRa_1 3 - - 20:rask3 - - - -
+nahIM_1 4 - - 20:neg - - - -
+mila_1-wA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G243b>
+#जैसा कि आप चित्र 3.2 में देख सकते हैं।
+$addressee 1 - - 20:k1 - respect - -
+ciwra_4 2 - - 20:k7p - - - -
+3.2 3 numex - 2:rs - - - -
+xeKa_1-0_sakawA_hE_1 20 - - 0:main G243.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G244>
+#पृथ्वी अपने अक्ष पर एक चक्कर पूरा करने में लगभग 24 घंटे का समय लेती है।
+pqWvI_1 1 - - 20:k1 - - - -
+apanA_91 2 - - 3:r6 - - - -
+akRa_1 3 - - 30:k7p - - - -
+eka_1 4 - - 5:card - - - -
+cakkara_7 5 - - 30:k2 - - - -
+pUrA_3 6 - - - - - - 30:kriyAmUla
+kara_1 7 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k7 - - - -
+24 8 numex - 9:card - - - -
+GaMtA_4 9 - pl 10:r6 - lagaBaga_1 - -
+samaya_1 10 - - 20:k2 - - - -
+le_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G245>
+#घूर्णन के समय काल को पृथ्वी दिन कहा जाता है।
+GUrNana_1 1 - - 2:r6 - - - -
+samayakAla_1 2 - - 20:k2 - - - -
+pqWvI_1 3 - - 4:mod - - - -
+xina_1 4 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G246>
+#यह पृथ्वी की दैनिक गति है।
+$wyax 1 - - 20:k1 G245.1:coref proximal - -
+pqWvI_1 2 - - 4:r6 - - - -
+xEnika_1 3 - - 4:mod - - - -
+gawi_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G247>
+#अगर पृथ्वी घूर्णन नहीं करे
+pqWvI_1 1 - - 20:k1 - - - -
+GUrNana_1 2 - - - - - - 20:kriyAmUla
+nahIM_1 3 - - 20:neg - - - -
+kara_1-e_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G247b.20:AvaSyakawApariNAma - - -
+%negative
+</sent_id>
+<sent_id=G247b>
+#तो क्या होगा?
+$kim 1 - - 20:k1 - - - -
+ho_10-gA_1 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G248>
+#सूर्य के तरफ वाले पृथ्वी के भाग में हमेशा दिन होगा
+sUrya_1 1 - - 2:r6 - - - -
+waraPa_1 2 - - 4:mod - - - -
+pqWvI_1 3 - - 4:r6 - - - -
+BAga_2 4 - - 20:k7p - - - -
+hameSA_1 5 - - 20:k7t - - - -
+xina_1 6 - - 20:k1 - - - -
+ho_11-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G248b>
+#जिसके कारण उस भाग में गर्मी लगातार पड़ेगी।
+$yax 1 - - 2:r6 G248.20:coref - - -
+kAraNa_1 2 - - 20:rh - - - -
+$wyax 3 - - 4:dem - distal - -
+BAga_2 4 - - 20:k7p - - - -
+garmI_3 5 - - 20:k1 - - - -
+lagAwAra_1 6 - - 20:krvn - - - -
+padZa_2-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G249>
+#दूसरे भाग में हमेशा अँधेरा रहेगा
+xUsarA_8 1 - - 2:mod - - - -
+BAga_2 2 - - 20:k7p - - - -
+hameSA_1 3 - - 20:k7t - - - -
+aMXerA_2 4 - - 20:k1 - - - -
+raha_3-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G249b>
+#एवं पूरे समय ठंड पड़ेगी।
+pUrA_3 1 - - 2:mod - - - -
+samaya_1 2 - - 20:k7t - - - -
+TaMda_1 3 - - 20:k1 - - - -
+padZa_2-gA_1 20 - - 0:main G249.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G250>
+#इस तरह की अवस्था में जीवन संभव नहीं हो पाएगा।
+$wyax 1 - - 2:dem - proximal - -
+waraha_1 2 - - 3:r6 - - - -
+avasWA_1 3 - - 20:k7 - - - -
+jIvana_1 4 - - 20:k1 - - - -
+saMBava_1 5 - - 20:k1s - - - -
+nahIM_1 6 - - 20:neg - - - -
+ho_6-0_sakegA_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G251>
+#पृथ्वी की दूसरी गति जो सूर्य के चारों ओर कक्ष में होती है उसे परिक्रमण कहा जाता है।
+pqWvI_1 1 - - 3:r6 - - - -
+xUsarA_1 2 - - 3:ord - - - -
+gawi_1 3 - - 20:k2 - - - -
+parikramaNa_1 4 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G251b>
+#जो सूर्य के चारों ओर कक्ष में होती है
+$yax 1 - - 20:k1 G251.3:coref - - -
+sUrya_1 2 - - 3:r6 - - - -
+cAroMora_1 3 - - 4:k7p - - - -
+kakRA_6 4 - - 20:k7p - - - -
+ho_10-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G252>
+#पृथ्वी एक वर्ष या 365(1/4) दिन में सूर्य का एक चक्कर लगाती है।
+pqWvI_1 1 - - 20:k1 - - - -
+eka_1 2 - - 3:card - - - -
+varRa_1 3 - - - - - - 10:op1
+365.25 4 numex - 5:card - - - -
+xina_1 5 - pl - - - - 10:op2
+[disjunct_1] 10 - - 20:k7 - - - -
+sUrya_1 6 - - 8:r6 - - - -
+eka_1 7 - - 8:card - - - -
+cakkara_7 8 - - - - - - 20:kriyAmUla
+lagA_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G253>
+#हम लोग एक वर्ष 365 दिन का मानते हैं
+$speaker 1 - pl 20:k1 - - - -
+eka_1 2 - - 3:card - - - -
+varRa_1 3 - - 20:k2 - - - -
+365 4 numex - 5:card - - - -
+xina_1 5 - pl 20:k2s - - - -
+mAna_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G253b>
+#तथा सुविधा के लिए 6 घंटे को इसमें नहीं जोड़ते हैं।
+$speaker 1 - pl 20:k1 G253.1:coref - - -
+suviXA_2 2 - - 20:rt - - - -
+6 3 numex - 4:card - - - -
+GaMtA_4 4 - pl 20:k2 - - - -
+$wyax 5 - - 20:k7 G253.3:coref proximal - -
+nahIM_1 6 - - 20:neg - - - -
+jodZa_11-wA_hE_1 20 - - 0:main G253.20:samuccaya - - -
+%negative
+</sent_id>
+<sent_id=G254>
+#चार वर्षो में प्रत्येक वर्ष के बचे हुए 6 घंटे मिलकर एक दिन यानी 24 घंटे के बराबर हो जाते हैं।
+cAra_1 1 numex - 2:card - - - -
+varRa_1 2 - pl 20:k7 - - - -
+prawyeka_2 3 - - 4:quant - - - -
+varRa_1 4 - - 7:r6 - - - -
+baca_2 5 - - 7:rvks - - - -
+6 6 numex - 7:card - - - -
+GaMtA_4 7 - pl 20:k1 - - - -
+mila_4 8 - - 20:rpk - - - -
+eka_1 9 - - 10:card - - - -
+xina_1 10 - - 13:r6 - - - -
+24 11 numex - 12:card - - - -
+GaMtA_4 12 - pl 10:rs - - - -
+barAbara_1 13 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=G255>
+#इस अतिरिक्त दिन को फ़रवरी के महीने में जोड़ा जाता है।
+$wyax 1 - - 3:dem - proximal - -
+awirikwa_2 2 - - 3:mod - - - -
+xina_1 3 - - 20:k2 - - - -
+ParavarI_1 4 - - 5:r6 - - - -
+mahInA_1 5 - - 20:k7 - - - -
+jodZa_11-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G256>
+#इस प्रकार प्रत्येक चौथे वर्ष फ़रवरी माह 28 के बदले 29 दिन का होता है।
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+prawyeka_2 3 - - 5:quant - - - -
+cOWA_1 4 - - 5:ord - - - -
+varRa_1 5 - - 20:k7t - - - -
+ParavarI_1 6 - - 7:mod - - - -
+mAha_1 7 - - 20:k1 - - - -
+28 8 numex - 20:rasneg - - - -
+29 9 numex - 10:card - - - -
+xina_1 10 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G257>
+#ऐसा वर्ष जिसमें 366 दिन होते हैं उसे लीप वर्ष कहा जाता है।
+EsA_1 1 - - 2:mod - - - -
+varRa_1 2 - - 20:k2 - - - -
+lIpa_96 3 - - 4:mod - - - -
+varRa_1 4 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G257b>
+#जिसमें 366 दिन होते हैं
+$yax 1 - - 20:k7 G257.2:coref - - -
+366 2 numex - 3:card - - - -
+xina_1 3 - pl 20:k1 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G258>
+#पता लगाइए कि अगला लीप वर्ष कब होगा?
+pawA_1 1 - - - - - - 20:kriyAmUla
+lagA_1-e_1 2 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G258b>
+#कि अगला लीप वर्ष कब होगा?
+agalA_1 1 - - 3:mod - - - -
+lIpa_96 2 - - 3:mod - - - -
+varRa_1 3 - - 20:k1 - - - -
+$kim 4 - - 20:k7t - - - -
+ho_10-gA_1 20 - - 0:main G258.20:vAkyakarma - - -
+%interrogative
+</sent_id>
+<sent_id=G259>
+#चित्र 3.3 से स्पष्ट है
+ciwra_4 1 - - 4:k5 - - - -
+3.3 2 numex - 1:rs - - - -
+spaRta_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G259b>
+#कि पृथ्वी दीर्घवृत्ताकार पथ पर सूर्य के चारों ओर चक्कर लगाती है।
+pqWvI_1 1 - - 20:k1 - - - -
+xIrGavqwwAkAra_1 2 - - 3:mod - - - -
+paWa_1 3 - - 20:k7p - - - -
+sUrya_1 4 - - 5:r6 - - - -
+cAroMora_1 5 - - 20:k7p - - - -
+cakkara_7 6 - - - - - - 20:kriyAmUla
+lagA_1-wA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G259.4:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G260>
+#ध्यान दीजिए
+XyAna_1 1 - - - - - - 20:kriyAmUla
+xe_1-e_1 2 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G260b>
+#कि पृथ्वी पूरे कक्ष में एक ही दिशा में झुकी हुई है।
+pqWvI_1 1 - - 20:k1 - - - -
+pUrA_3 2 - - 3:mod - - - -
+kakRA_6 3 - - 20:k7p - - - -
+eka_1 4 - - 5:card - hI_1 - -
+xiSA_1 5 - - 20:k7 - - - -
+Juka_7-yA_hE_1 20 - - 0:main G260.20:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G261>
+#सामान्यतः एक वर्ष को गर्मी, सर्दी, वसंत एवं शरद् ऋतुओं में बाँटा जाता है।
+sAmAnyawaH_96 1 - - 20:krvn - - - -
+eka_1 2 - - 3:card - - - -
+varRa_1 3 - - 20:k2 - - - -
+garmI_4 4 - - - - - - 10:op1
+saraxI_2 5 - - - - - - 10:op2
+vasaMwa_1 6 - - - - - - 10:op3
+Sarax_1 7 - - - - - - 10:op4
+[conj_1] 10 - - 8:mod - - - -
+qwu_1 8 - pl 20:k7 - - - -
+bAzta_8-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G262>
+#ऋतुओं में परिवर्तन सूर्य के चारों ओर पृथ्वी की स्थिति में परिवर्तन के कारण होता है।
+qwu_1 1 - pl 2:k7 - - - -
+parivarwana_1 2 - - 20:k1 - - - -
+sUrya_1 3 - - 4:r6 - - - -
+cAroMora_1 4 - - 6:k7p - - - -
+pqWvI_1 5 - - 6:r6 - - - -
+sWiwi_1 6 - - 7:k7 - - - -
+parivarwana_1 7 - - 20:rh - - - -
+ho_10-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G263>
+#चित्र 3.3 में आप देखेंगे
+ciwra_4 1 - - 3:k7p - - - -
+3.3 2 numex - 1:rs - - - -
+$addressee 4 - - 3:k1 - respect - -
+xeKa_1-gA_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G263b>
+#कि 21 जून को उत्तरी गोलार्ध सूर्य की तरफ झुका है।
+21 1 numex - 2:card - - - -
+jUna_96 2 - - 20:k7t - - - -
+uwwarI_1 3 - - 4:mod - - - -
+golArXa_1 4 - - 20:k1 - - - -
+sUrya_1 5 - - 6:r6 - - - -
+waraPa_1 6 - - 20:k2p - - - -
+Juka_7-yA_hE_1 20 - - 0:main G263.3:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G264>
+#सूर्य की किरणें कर्क रेखा पर सीधी पड़ती हैं।
+sUrya_1 1 - - 2:r6 - - - -
+kiraNa_1 2 - pl 20:k1 - - - -
+karka_1 3 - - - - - - 10:mod
+reKA_1 4 - - - - - - 10:head
+[nc_1] 10 - - 20:k7p - - - -
+sIXA_1 5 - - 20:krvn - - - -
+padZa_2-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G265>
+#इसके परिणामस्वरूप इन क्षेत्रों में ऊष्मा अधिक प्राप्त होती है।
+$wyax 1 - - 2:r6 G264.20:coref proximal - -
+pariNAmasvarUpa_1 2 - - 20:rh - - - -
+$wyax 3 - pl 4:dem - proximal - -
+kRewra_5 4 - pl 20:k7p - - - -
+URmA_1 5 - - 20:k1 - - - -
+aXika_1 6 - - 5:mod - - - -
+prApwa_2 7 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G266>
+#ध्रुवो के पास वाले क्षेत्रों में कम ऊष्मा प्राप्त होती है,
+Xruva_1 1 - pl 2:r6 - - - -
+pAsa_1 2 - - 3:mod - - - -
+kRewra_5 3 - pl 20:k7p - - - -
+kama_4 4 - - 5:mod - - - -
+URmA_1 5 - - 20:k1 - - - -
+prApwa_2 6 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G266b>
+#क्योंकि वहाँ सूर्य की किरणें तिरछी पड़ती हैं।
+vahAz_1 1 - - 20:k7p - - - -
+sUrya_1 2 - - 3:r6 - - - -
+kiraNa_1 3 - pl 20:k1 - - - -
+wiraCA_1 4 - - 20:krvn - - - -
+padZa_2-wA_hE_1 20 - - 0:main G266.20:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=G267>
+#उत्तर ध्रुव सूर्य की तरफ झुका होता है
+uwwara_3 1 - - 2:mod - - - -
+Xruva_1 2 - - 20:k1 - - - -
+sUrya_1 3 - - 4:r6 - - - -
+waraPa_1 4 - - 20:k2p - - - -
+Juka_7-yA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G267b>
+#तथा उत्तरी ध्रुव रेखा के बाद वाले भागों पर लगभग 6 महीने तक लगातार दिन रहता है।
+uwwarI_1 1 - - 3:mod - - - -
+Xruva_1 2 - - 3:mod - - - -
+reKA_1 3 - - 4:r6 - - - -
+bAxa_1 4 - - 5:mod - - - -
+BAga_2 5 - pl 20:k7p - - - -
+6 6 numex - 7:card - - - -
+mahInA_1 7 - pl 20:k7t - lagaBaga_1 - -
+lagAwAra_4 8 - - 9:mod - - - -
+xina_1 9 - - 20:k1 - - - -
+raha_3-wA_hE_1 20 - - 0:main G267.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G268>
+#चूँकि, उत्तरी गोलार्ध के बहुत बड़े भाग में सूर्य की रोशनी प्राप्त होती है,
+uwwarI_1 1 - - 2:mod - - - -
+golArXa_1 2 - - 5:r6 - - - -
+bahuwa_7 3 - - 4:intf - - - -
+badZA_2 4 - - 5:mod - - - -
+BAga_2 5 - - 20:k7p - - - -
+sUrya_1 6 - - 7:r6 - - - -
+roSanI_1 7 - - 20:k1 - - - -
+prApwa_2 8 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G268b.20:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=G268b>
+#इसलिए विषुवत वृत्त के उत्तरी भाग में गर्मी का मौसम होता है।
+viRuvawa_1 1 - - - - - - 10:mod
+vqwwa_1 2 - - - - - - 10:head
+[nc_1] 10 - - 4:r6 - - - -
+uwwarI_1 3 - - 4:mod - - - -
+BAga_2 4 - - 20:k7p - - - -
+garmI_4 5 - - 6:r6 - - - -
+mOsama_1 6 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G269>
+#21 जून को इन क्षेत्रों में सबसे लंबा दिन तथा सबसे छोटी रात होती है।
+21 1 numex - 2:card - - - -
+jUna_96 2 - - 20:k7t - - - -
+$wyax 3 - pl 4:dem - proximal - -
+kRewra_5 4 - pl 20:k7p - - - -
+lambA_1 5 - supl 6:mod - - - -
+xina_1 6 - - - - - - 10:op1
+CotA_96 7 - supl 8:mod - - - -
+rAwa_1 8 - - - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G270>
+#पृथ्वी की इस अवस्था को उत्तर अयनांत कहते हैं।
+pqWvI_1 1 - - 3:r6 - - - -
+$wyax 2 - - 3:dem - proximal - -
+avasWA_2 3 - - 20:k2 - - - -
+uwwara_3 4 - - 5:mod - - - -
+ayanAMwa_1 5 - - 20:k2s - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G271>
+#22 दिसंबर को दक्षिण ध्रुव के सूर्य की ओर झुके होने के कारण मकर रेखा पर सूर्य की किरणें सीधी पड़ती हैं।
+22 1 numex - 2:card - - - -
+xisaMbara_96 2 - - 20:k7t - - - -
+xakRiNa_2 3 - - 4:mod - - - -
+Xruva_1 4 - - 7:k1 - - - -
+sUrya_1 5 - - 6:r6 - - - -
+ora_1 6 - - 7:k2p - - - -
+Juka_7 7 - kqw 20:rh - - - -
+makara_1 8 - - - - - - 10:mod
+reKA_1 9 - - - - - - 10:head
+[nc_1] 10 - - 20:k7p - - - -
+sUrya_1 11 - - 12:r6 - - - -
+kiraNa_1 12 - pl 20:k1 - - - -
+sIXA_1 13 - - 20:krvn - - - -
+padZa_2-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G272>
+#चूँकि,सूर्य की किरणें मकर रेखा पर लंबवत् पड़ती हैं
+sUrya_1 1 - - 2:r6 - - - -
+kiraNa_1 2 - pl 20:k1 - - - -
+makara_1 3 - - - - - - 10:mod
+reKA_1 4 - - - - - - 10:head
+[nc_1] 10 - - 20:k7p - - - -
+lambavawa_2 5 - - 20:krvn - - - -
+padZa_2-wA_hE_1 20 - - 0:main G272b.20:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=G272b>
+#इसलिए दक्षिणी गोलार्ध के बहुत बड़े भाग में प्रकाश प्राप्त होता है।
+xakRiNI_1 1 - - 2:mod - - - -
+golArXa_1 2 - - 5:r6 - - - -
+bahuwa_7 3 - - 4:intf - - - -
+badZA_2 4 - - 5:mod - - - -
+BAga_2 5 - - 20:k7p - - - -
+prakASa_1 6 - - 20:k1 - - - -
+prApwa_2 7 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G273>
+#इसलिए, दक्षिणी गोलार्ध में लंबे दिन तथा छोटी रातों वाली ग्रीष्म ऋतु होती है।
+xakRiNI_1 1 - - 2:mod - - - -
+golArXa_1 2 - - 20:k7p - - - -
+lambA_1 3 - - 4:mod - - - -
+xina_1 4 - pl - - - - 10:op1
+CotA_96 5 - - 6:mod - - - -
+rAwa_1 6 - pl - - - - 10:op2
+[conj_1] 10 - - 8:rask3 - - - -
+grIRma_1 7 - - 8:mod - - - -
+qwu_1 8 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main G272b.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G274>
+#इसके ठीक विपरीत स्थिति उत्तरी गोलार्ध में होती है।
+$wyax 1 - - 3:r6 G273.20:coref proximal - -
+TIka_96 2 - - 3:intf - - - -
+viparIwa_1 3 - - 4:mod - - - -
+sWiwi_2 4 - - 20:k1 - - - -
+uwwarI_1 5 - - 6:mod - - - -
+golArXa_1 6 - - 20:k7p - - - -
+ho_10-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G275>
+#पृथ्वी की इस अवस्था को दक्षिण अयनांत कहा जाता है।
+pqWvI_1 1 - - 3:r6 - - - -
+$wyax 2 - - 3:dem - proximal - -
+avasWA_2 3 - - 20:k2 - - - -
+xakRiNa_2 4 - - 5:mod - - - -
+ayanAMwa_1 5 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G276>
+#क्या आप जानते हैं
+$addressee 1 - - 2:k1 - respect - -
+jAna_10-wA_hE_1 2 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G276b>
+#कि आस्ट्रेलिया में ग्रीष्म ऋतु में क्रिसमस का पर्व मनाया जाता है?
+AstreliyA 1 - - - - - - 11:begin
+[ne_1] 11 place - 20:k7p - - - -
+grIRma_1 2 - - 3:mod - - - -
+qwu_1 3 - - 20:k7t - - - -
+krisamasa_1 4 - - 5:r6 - - - -
+parva_1 5 - - 20:k2 - - - -
+manA_3-yA_jAwA_hE_1 20 - - 0:main G276.2:vAkyakarma - - -
+%pass_interrogative
+</sent_id>
+<sent_id=G277>
+#21 मार्च एवं 23 सितंबर को सूर्य की किरणें विषुवत् वृत्त पर सीधी पड़ती हैं।
+21 1 numex - 2:card - - - -
+mArca_1 2 - - - - - - 10:op1
+23 3 numex - 4:card - - - -
+siwaMbara_1 4 - - - - - - 10:op2
+[conj_1] 10 - - 20:k7t - - - -
+sUrya_1 5 - - 6:r6 - - - -
+kiraNa_1 6 - pl 20:k1 - - - -
+viRuvawa_1 7 - - - - - - 11:mod
+vqwwa_1 8 - - - - - - 11:head
+[nc_1] 11 - - 20:k7p - - - -
+sIXA_1 9 - - 20:krvn - - - -
+padZa_2-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G278>
+#इस अवस्था में कोई भी ध्रुव सूर्य की ओर नहीं झुका होता है,
+$wyax 1 - - 2:dem - proximal - -
+avasWA_2 2 - - 20:k7 - - - -
+koI_9 3 - - 4:quant - BI_1 - -
+Xruva_1 4 - - 20:k1 - - - -
+sUrya_1 5 - - 6:r6 - - - -
+ora_1 6 - - 20:k2p - - - -
+nahIM_1 7 - - 20:neg - - - -
+Juka_7-yA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G278b>
+#इसलिए पूरी पृथ्वी पर रात एवं दिन बराबर होते हैं।
+pUrA_3 1 - - 2:mod - - - -
+pqWvI_1 2 - - 20:k7p - - - -
+rAwa_1 3 - - - - - - 10:op1
+xina_1 4 - - - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+barAbara_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G278.20:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G279>
+#इसे विषुव कहा जाता है।
+$wyax 1 - - 20:k2 G278.2:coref proximal - -
+viRuva_1 2 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G280>
+#23 सितंबर को उत्तरी गोलार्ध में शरद् ऋतु होती है,
+23 1 numex - 2:card - - - -
+siwaMbara_1 2 - - 20:k7t - - - -
+uwwarI_1 3 - - 4:mod - - - -
+golArXa_1 4 - - 20:k7p - - - -
+Sarax_1 5 - - 6:mod - - - -
+qwu_1 6 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G280b>
+#जबकि दक्षिणी गोलार्ध में वसंत ऋतु होती है।
+xakRiNI_1 1 - - 2:mod - - - -
+golArXa_1 2 - - 20:k7p - - - -
+vasaMwa_1 3 - - 4:mod - - - -
+qwu_1 4 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main G280.20:viroXI_xyowaka - - -
+%affirmative
+</sent_id>
+<sent_id=G281>
+#21 मार्च को स्थिति इसके विपरीत होती है
+21 1 numex - 2:card - - - -
+mArca_1 2 - - 20:k7t - - - -
+sWiwi_2 3 - - 20:k1 - - - -
+$wyax 4 - - 5:r6 G280.20:coref proximal - -
+viparIwa_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G281b>
+#जब उत्तरी गोलार्ध में वसंत ऋतु तथा दक्षिणी गोलार्ध में शरद् ऋतु होती है।
+uwwarI_1 1 - - 2:mod - - - -
+golArXa_1 2 - - 20:k7p - - - -
+vasaMwa_1 3 - - 4:mod - - - -
+qwu_1 4 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main G281.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G281c>
+#तथा दक्षिणी गोलार्ध में शरद् ऋतु होती है।
+xakRiNI_1 1 - - 2:mod - - - -
+golArXa_1 2 - - 20:k7p - - - -
+Sarax_1 3 - - 4:mod - - - -
+qwu_1 4 - - 20:k1 - - - -
+ho_11-wA_hE_1 20 - - 0:main G281b.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G282>
+#इस प्रकार, स्पष्ट है
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 4:krvn - - - -
+spaRta_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G282b>
+#कि पृथ्वी के घूर्णन एवं परिक्रमण के कारण दिन एवं रात तथा ऋतुओं में परिवर्तन होता है।
+pqWvI_1 1 - - 10:r6 - - - -
+GUrNana_1 2 - - - - - - 10:op1
+parikramaNa_1 3 - - - - - - 10:op2
+[conj_1] 10 - - 20:rh - - - -
+xina_1 4 - - - - - - 11:op1
+rAwa_1 5 - - - - - - 11:op2
+qwu_1 6 - pl - - - - 11:op3
+[conj_2] 11 - - 7:k7 - - - -
+parivarwana_1 7 - - 20:k1 - - - -
+ho_10-wA_hE_1 20 - - 0:main G282.4:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G283>
+#आप पिछले अध्याय में ग्लोब के महत्त्व के बारे में पढ़ चुके हैं।
+$addressee 1 - - 20:k1 - respect - -
+piCalA_8 2 - - 3:mod - - - -
+aXyAya_1 3 - - 20:k7 - - - -
+globa_1 4 - - 5:r6 - - - -
+mahawwva_1 5 - - 6:r6 - - - -
+bAre_10 6 - - 20:k2 - - - -
+paDZa_1-yA_hE_1 20 - - 0:main - [shade:cuka_1] - -
+%affirmative
+</sent_id>
+<sent_id=G284>
+#ग्लोब में अध्ययन की कुछ सीमाएँ होती हैं।
+globa_1 1 - - 20:k7 - - - -
+aXyayana_1 2 - - 4:r6 - - - -
+kuCa_1 3 - - 4:quant - - - -
+sImA_6 4 - pl 20:k1 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G285>
+#जब हम पूरी पृथ्वी का अध्ययन करना चाहते हैं
+$speaker 1 - pl 20:k1 - - - -
+pUrA_3 2 - - 3:mod - - - -
+pqWvI_1 3 - - 30:k2 - - - -
+aXyayana_1 4 - - - - - - 30:kriyAmUla
+kara_1 5 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k2 - - - -
+cAha_1-wA_hE_1 20 - - 0:main G285b.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G285b>
+#तब ग्लोब हमारे लिए काफी उपयोगी साबित होता है।
+globa_1 1 - - 20:k1 - - - -
+$speaker 2 - pl 20:rt - - - -
+kAPI_91 3 - - 4:intf - - - -
+upayogI_1 4 - - 20:k1s - - - -
+sAbiwa_6 5 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G286>
+#लेकिन, जब हम पृथ्वी के केवल एक भाग जैसे- अपने देश, राज्यों, जिलों, शहरों तथा गाँवों के बारे मे अध्ययन करना चाहते हैं
+$speaker 1 - pl 20:k1 - - - -
+pqWvI_1 2 - - 4:r6 - - - -
+eka_1 3 - - 4:card - kevala_1 - -
+BAga_2 4 - - 5:r6 - - - -
+apanA_91 6 - - 7:r6 - - - -
+xeSa_1 7 - - - - - - 10:op1
+rAjya_1 8 - pl - - - - 10:op2
+jilA_3 9 - pl - - - - 10:op3
+Sahara_2 11 - pl - - - - 10:op4
+gAzva_1 12 - pl - - - - 10:op5
+[conj_1] 10 - - 4:rsm - - - -
+bAre_10 5 - - 30:k2 - - - -
+aXyayana_1 13 - - - - - - 30:kriyAmUla
+kara_1 14 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k2 - - - -
+cAha_1-wA_hE_1 20 - - 0:main G286b.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G286b>
+#तो यह हमारे लिए उतना उपयोगी साबित नहीं होता है।
+$wyax 1 - - 20:k1 G285b.1:coref proximal - -
+$speaker 2 - pl 20:rt - - - -
+uwanA_1-much 3 - - 4:intf - - - -
+upayogI_1 4 - - 20:k1s - - - -
+sAbiwa_6 5 - - - - - - 20:kriyAmUla
+nahIM_1 6 - - 20:neg - - - -
+ho_1-wA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G285b.20:viroXI - - -
+%negative
+</sent_id>
+<sent_id=G287>
+#ऐसी स्थिति में हम मानचित्रों का उपयोग करते हैं।
+EsA_1 1 - - 2:mod - - - -
+sWiwi_2 2 - - 20:k7 - - - -
+$speaker 3 - pl 20:k1 - - - -
+mAnaciwra_1 4 - pl 20:k2 - - - -
+upayoga_1 5 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G288>
+#मानचित्र पृथ्वी की सतह या इसके एक भाग का पैमाने के माध्यम से चपटी सतह पर खींचा गया चित्र है।
+mAnaciwra_1 1 - - 20:k1 - - - -
+pqWvI_1 2 - - 3:r6 - - - -
+sawaha_1 3 - - - - - - 10:op1
+$wyax 4 - - 6:r6 2:coref proximal - -
+eka_1 5 - - 6:card - - - -
+BAga_2 6 - - - - - - 10:op2
+[disjunct_1] 10 - - 13:r6 - - - -
+pEmAnA_1 7 - - 8:r6 - - - -
+mAXyama_1 8 - - 12:k3 - - - -
+capatA_1 9 - - 11:mod - - - -
+sawaha_1 11 - - 12:k7p - - - -
+KIMca_2-yA_gayA_1 12 - - 13:rvks - - - -
+ciwra_1 13 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G289>
+#लेकिन एक गोलाकार सतह को पूरी तरह से चपटा करना असंभव है।
+eka_1 1 - - 3:card - - - -
+golAkAra_1 2 - - 3:mod - - - -
+sawaha_1 3 - - 30:k2 - - - -
+pUrA_1 4 - - 5:mod - - - -
+waraha_11 5 - - 30:krvn - - - -
+capatA_1 6 - - - - - - 30:kriyAmUla
+kara_1 7 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k1 - - - -
+asaMBava_1 8 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G288.20:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=G290>
+#मानचित्र हमारी विभिन्न जरूरतों के लिए आवश्यक हैं।
+mAnaciwra_1 1 - pl 20:k1 - - - -
+$speaker 2 - pl 4:r6 - - - -
+viBinna_1 3 - - 4:mod - - - -
+jarUrawa_1 4 - pl 20:rt - - - -
+AvaSyaka_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G291>
+#कुछ मानचित्र एक छोटे क्षेत्र को एवं कुछ तथ्यों को दर्शाता है।
+kuCa_1 1 - - 2:quant - - - -
+mAnaciwra_1 2 - pl 20:k1 - - - -
+eka_1 3 - - 5:card - - - -
+CotA_1 4 - - 5:mod - - - -
+kRewra_5 5 - - - - - - 10:op1
+kuCa_1 6 - - 7:quant - - - -
+waWya_2 7 - pl - - - - 10:op2
+[conj_1] 10 - - 20:k2 - - - -
+xarSA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G292>
+#दूसरे मानचित्र में एक बड़ी किताब की तरह तथ्य हो सकते हैं।
+xUsarA_3 1 - - 2:mod - - - -
+mAnaciwra_1 2 - - 20:k7 - - - -
+eka_1 3 - - 5:card - - - -
+badZA_1 4 - - 5:mod - - - -
+kiwAba_1 5 - - 20:ru - - - -
+waWya_2 6 - pl 20:k1 - - - -
+ho_6-0_sakawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G293>
+#जब बहुत से मानचित्रों को एक साथ रख दिया जाता है
+bahuwa_2 1 - - 2:quant - - - -
+mAnaciwra_1 2 - pl 20:k2 - - - -
+ekasAWa_1 3 - - 20:krvn - - - -
+raKa_3-yA_jAwA_hE_1 20 - - 0:main G293b.20:samAnakAla [shade:xe_1] - -
+%pass_affirmative
+</sent_id>
+<sent_id=G293b>
+#तब एक एटलस बन जाता है।
+eka_1 1 - - 2:card - - - -
+etalasa_1 2 - - 20:k1 - - - -
+bana_21-wA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=G294>
+#एटलस विभिन्न प्रकारों तथा अलग-अलग पैमाने से खींची गई मापों पर आधारित होता है।
+etalasa_1 1 - - 20:k1 - - - -
+viBinna_1 2 - - 3:mod - - - -
+prakAra_7 3 - pl - - - - 10:op1
+alaga_7 4 - - 5:mod - - - -
+pEmAnA_1 5 - - 6:k3 - - - -
+KIMca_2-yA_gayA_1 6 - - 7:rvks - - - -
+mApa_1 7 - pl - - - - 10:op2
+[conj_1] 10 - - 8:k7 - - - -
+AXAriwa_1 8 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G295>
+#मानचित्रों से एक ग्लोब की अपेक्षा हमें ज्यादा जानकारी प्राप्त होती है।
+mAnaciwra_1 1 - pl 20:k5 - - - -
+eka_1 2 - - 3:card - - - -
+globa_1 3 - - 20:rv - - - -
+$speaker 4 - pl 20:k4a - - - -
+jyAxA_1 5 - - 6:mod - - - -
+jAnakArI_3 6 - - 20:k1 - - - -
+prApwa_2 7 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G296>
+#मानचित्र विभिन्न प्रकार के होते हैं।
+mAnaciwra_1 1 - pl 20:k1 - - - -
+viBinna_1 2 - - 3:mod - - - -
+prakAra_7 3 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G297>
+#जिनमें से कुछ को नीचे वर्णित किया गया है।
+$yax 1 - pl 2:r6 G296.1:coref - - -
+kuCa_1 2 - - 20:k2 - - - -
+nIce_1 3 - - 20:k7p - - - -
+varNiwa_1 4 - - - - - - 20:kriyAmUla
+kara_1-yA_gayA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G298>
+#पृथ्वी की प्राकृतिक आकृतियों जैसे- पर्वतों, पठारों, मैदानों, नदियों, महासागरों इत्यादि को दर्शाने वाले मानचित्रों को भौतिक या उच्चावच मानचित्र कहा जाता है।
+pqWvI_1 1 - - 3:r6 - - - -
+prAkqwika_1 2 - - 3:mod - - - -
+Akqwi_6 3 - pl 9:k2 - - - -
+parvawa_1 4 - pl - - - - 10:op1
+paTAra_1 5 - pl - - - - 10:op2
+mExAna_5 6 - pl - - - - 10:op3
+naxI_1 7 - pl - - - - 10:op4
+mahAsAgara_1 8 - pl - - - - 10:op5
+iwyAxi_1 11 - - - - - - 10:op6
+[conj_1] 10 - - 3:rsm - - - -
+xarSA_1 9 - - 12:rvks - - - -
+mAnaciwra_1 12 - pl 20:k2 - - - -
+BOwika_2 13 - - - - - - 30:op1
+uccAvaca_1 14 - - - - - - 30:op2
+[disjunct_1] 30 - - 15:mod - - - -
+mAnaciwra_1 15 - pl 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G299>
+#राज्यों, नगरों, शहरों तथा गाँवों और विश्व के विभिन्न देशों व राज्यों तथा उनकी सीमाओं को दर्शाने वाले मानचित्र को राजनीतिक मानचित्र कहा जाता है।
+rAjya_1 1 - pl - - - - 10:op1
+nagara_1 2 - pl - - - - 10:op2
+Sahara_2 3 - pl - - - - 10:op3
+gAzva_1 4 - pl - - - - 10:op4
+viSva_6 5 - - 8:r6 - - - -
+viBinna_1 6 - - 8:mod - - - -
+xeSa_1 7 - pl - - - - 11:op1
+rAjya_1 8 - pl - - - - 11:op2
+[conj_2] 11 - - - - - - 10:op5
+$wyax 9 - pl 12:r6 11:coref distal - -
+sImA_2 12 - pl - - - - 10:op6
+[conj_1] 10 - - 13:k2 - - - -
+xarSA_1 13 - - 14:rvks - - - -
+mAnaciwra_1 14 - - 20:k2 - - - -
+rAjanIwika_1 15 - - 16:mod - - - -
+mAnaciwra_1 16 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G300>
+#कुछ मानचित्र विशेष जानकारियाँ प्रदान करते हैं
+kuCa_1 1 - - 2:quant - - - -
+mAnaciwra_1 2 - pl 20:k1 - - - -
+viSeRa_1 3 - - 4:mod - - - -
+jAnakArI_3 4 - pl 20:k2 - - - -
+praxAna_11 5 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G300b>
+#जैसे- सड़क मानचित्र, वर्षा मानचित्र, वन तथा उद्योगों आदि के वितरण दर्शाने वाले मानचित्र इत्यादि।
+sadZaka_1 1 - - 2:mod - - - -
+mAnaciwra_1 2 - pl - - - - 10:op1
+varRA_2 3 - - 4:mod - - - -
+mAnaciwra_1 4 - pl - - - - 10:op2
+vana_2 5 - pl - - - - 11:op1
+uxyoga_1 6 - pl - - - - 11:op2
+Axi_15 7 - - - - - - 11:op3
+[conj_2] 11 - - 8:r6 - - - -
+viwaraNa_1 8 - - 9:k2 - - - -
+xarSA_1 9 - - 12:rvks - - - -
+mAnaciwra_1 12 - pl - - - - 10:op3
+iwyAxi_1 13 - - - - - - 10:op4
+[conj_1] 10 - - 20:k1 - - - -
+hE_1-pres 20 - - 0:main G300.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G301>
+#इस प्रकार के मानचित्र को थिमैटिक मानचित्र कहा जाता है।
+$wyax 1 - - 2:dem - proximal - -
+prakAra_7 2 - - 3:r6 - - - -
+mAnaciwra_1 3 - - 20:k2 - - - -
+WimEtika_1 4 - - 5:mod - - - -
+mAnaciwra_1 5 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G302>
+#इन मानचित्रों में दी गई सूचना के आधार पर उनका उचित नामकरण किया जाता है।
+$wyax 1 - pl 2:dem - proximal - -
+mAnaciwra_1 2 - pl 3:k7 - - - -
+xe_1-yA_gayA_1 3 - - 4:rvks - - - -
+sUcanA_1 4 - - 5:r6 - - - -
+AXAra_2 5 - - 20:k7 - - - -
+$wyax 6 - pl 8:r6 2:coref distal - -
+uciwa_3 7 - - 8:mod - - - -
+nAmakaraNa_2 8 - - 20:k2 - - - -
+kara_17-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G303>
+#मानचित्र के तीन घटक हैं: दूरी, दिशा और प्रतीक।
+mAnaciwra_1 1 - - 3:r6 - - - -
+wIna_1 2 numex - 3:card - - - -
+Gataka_7 3 - pl 20:k1 - - - -
+xUrI_1 4 - - - - - - 10:op1
+xiSA_1 5 - - - - - - 10:op2
+prawIka_1 6 - - - - - - 10:op3
+[conj_1] 10 - - 3:rs - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G304>
+#एक रबड़ की पुरानी गेंद लें
+eka_1 1 - - 4:card - - - -
+rabadZa_1 2 - - 4:r6 - - - -
+purAnA_1 3 - - 4:mod - - - -
+geMxa_1 4 - - 20:k2 - - - -
+le_1-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G304b>
+#एवं उस पर कोई रेखाचित्र बनाएँ।
+$wyax 1 - - 20:k7p G304.4:coref distal - -
+koI_9 2 - - 3:quant - - - -
+reKAciwra_3 3 - - 20:k2 - - - -
+banA_1-e_1 20 - - 0:main G304.20:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=G305>
+#आप उस पर उत्तर एवं दक्षिण ध्रुव को भी चिन्हित कर सकते हैं।
+$addressee 1 - - 20:k1 - respect - -
+$wyax 2 - - 20:k7p G304.4:coref distal - -
+uwwara_3 3 - - - - - - 10:op1
+xakRiNa_2 4 - - - - - - 10:op2
+[conj_1] 10 - - 5:mod - - - -
+Xruva_1 5 - pl 20:k2 - BI_1 - -
+cihniwa_5 6 - - - - - - 20:kriyAmUla
+kara_1-0_sakawA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G306>
+#अब चाकू से इस गेंद को काटें
+aba_1 1 - - 20:k7t - - - -
+cAkU_1 2 - - 20:k3 - - - -
+$wyax 3 - - 4:dem - proximal - -
+geMxa_1 4 - - 20:k2 - - - -
+kAta_1-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G306b>
+#तथा उसे चपटा करने की कोशिश करें।
+$wyax 1 - - 30:k2 G306.4:coref distal - -
+capatA_1 2 - - - - - - 30:kriyAmUla
+kara_1 3 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:r6 - - - -
+koSiSa_1 4 - - - - - - 20:kriyAmUla
+kara_1-e_1 5 - - - - - - 20:verbalizer
+[cp_2] 20 - - 0:main G306.20:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=G307>
+#देखें कि किस प्रकार रेखा चित्र का रूप बिगड़ जाता है।
+xeKa_1-e_1 1 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G307b>
+#कि किस प्रकार रेखा चित्र का रूप बिगड़ जाता है।
+$kim 1 - - 2:mod - - - -
+prakAra_5 2 - - 20:krvn - - - -
+reKAciwra_3 3 - - 4:r6 - - - -
+rUpa_1 4 - - 20:k1 - - - -
+bigadZa_1-wA_hE_1 20 - - 0:main G307.1:vAkyakarma [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=G308>
+#मानचित्र एक आरेखण होता है
+mAnaciwra_1 1 - - 20:k1 - - - -
+eka_1 2 - - 3:card - - - -
+AreKaNa_1 3 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G308b>
+#जो कि पूरे विश्व या उसके एक भाग को छोटा कर कागज के एक पन्ने पर दर्शाता है
+$yax 1 - - 20:k1 G308.3:coref - - -
+pUrA_3 2 - - 3:mod - - - -
+viSva_6 3 - - - - - - 10:op1
+$wyax 4 - - 6:r6 3:coref distal - -
+eka_1 5 - - 6:card - - - -
+BAga_2 6 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:k2 - - - -
+CotA_1 7 - - 8:k2s - - - -
+kara_91 8 - - 20:rpk - - - -
+kAgaja_1 9 - - 11:r6 - - - -
+eka_1 12 - - 11:card - - - -
+pannA_2 11 - - 20:k7p - - - -
+xarSA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G308c>
+#या यह कह सकते हैं कि मानचित्र छोटे पैमाने पर खींचे जाते हैं।
+kaha_5-0_sakawA_hE_1 1 - - 0:main G308b.20:anyawra - - -
+%affirmative
+</sent_id>
+<sent_id=G308d>
+#कि मानचित्र छोटे पैमाने पर खींचे जाते हैं।
+mAnaciwra_1 1 - pl 20:k2 - - - -
+CotA_1 2 - - 3:mod - - - -
+pEmAnA_1 3 - - 20:k7p - - - -
+KIMca_2-yA_jAwA_hE_1 20 - - 0:main G308c.1:vAkyakarma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G309>
+#लेकिन इसे इतनी सावधानी से छोटा किया जाता है
+$wyax 1 - - 20:k2 G308.1:coref proximal - -
+iwanA_96 2 - - 3:intf - - - -
+sAvaXAnI_1 3 - - 20:krvn - - - -
+CotA_1 4 - - 20:k2s - - - -
+kara_91-yA_jAwA_hE_1 20 - - 0:main G308d.20:viroXI - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G309b>
+#ताकि स्थानों के बीच की दूरी वास्तविक रहे।
+sWAna_1 1 - pl 2:r6 - - - -
+bIca_91 2 - - 3:r6 - - - -
+xUrI_1 3 - - 20:k1 - - - -
+vAswavika_1 4 - - 20:k1s - - - -
+raha_3-e_1 20 - - 0:main G309.20:uxxeSya - - -
+%affirmative
+</sent_id>
+<sent_id=G310>
+#यह तभी संभव हो सकता है
+$wyax 1 - - 20:k1 G309b.20:coref proximal - -
+waBI_9 2 - - 20:k7t - - - -
+saMBava_1 3 - - 20:k1s - - - -
+ho_6-0_sakawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G310b>
+#जब कागज पर एक छोटी दूरी, स्थल की बड़ी दूरी को व्यक्त करती हो।
+kAgaja_1 1 - - 4:k7p - - - -
+eka_1 2 - - 4:card - - - -
+CotA_1 3 - - 4:mod - - - -
+xUrI_1 4 - - 20:k1 - - - -
+sWala_12 5 - - 7:r6 - - - -
+badZA_2 6 - - 7:mod - - - -
+xUrI_1 7 - - 20:k2 - - - -
+vyakwa_1 8 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G310.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=G311>
+#इसलिए इस उद्देश्य के लिए एक पैमाना चुना जाता है।
+$wyax 1 - - 2:dem - proximal - -
+uxxeSya_2 2 - - 20:rt - - - -
+eka_1 3 - - 4:card - - - -
+pEmAnA_1 4 - - 20:k2 - - - -
+cuna_2-yA_jAwA_hE_1 20 - - 0:main G310b.20:pariNAma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G312>
+#पैमाना, स्थल पर वास्तविक दूरी तथा मानचित्र पर दिखाई गई दूरी के बीच का अनुपात होता है।
+pEmAnA_1 1 - - 20:k1 - - - -
+sWala_12 2 - - 4:k7p - - - -
+vAswavika_1 3 - - 4:mod - - - -
+xUrI_1 4 - - - - - - 10:op1
+mAnaciwra_1 5 - - 6:k7p - - - -
+xiKA_3-yA_gayA_1 6 - - 7:rvks - - - -
+xUrI_1 7 - - - - - - 10:op2
+[conj_1] 10 - - 8:r6 - - - -
+bIca_91 8 - - 9:r6 - - - -
+anupAwa_2 9 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G313>
+#उदाहरण के लिए, आपके विद्यालय एवं आपके घर के बीच की दूरी 10 किमी. है
+uxAharaNa_1 1 - - 20:rt - - - -
+$addressee 2 - - 3:r6 - - - -
+vixyAlaya_1 3 - - - - - - 10:op1
+$addressee 4 - - 5:r6 - - - -
+Gara_1 5 - - - - - - 10:op2
+[conj_1] 10 - - 6:r6 - - - -
+bIca_91 6 - - 7:r6 - - - -
+xUrI_1 7 - - 20:k1 - - - -
+10 8 numex - 9:card - - - -
+kilomItara_1 9 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G313b>
+#जिसे मानचित्र पर 2 सेमी. की दूरी से व्यक्त किया गया है,
+$yax 1 - - 20:k2 G313.7:coref - - -
+mAnaciwra_1 2 - - 20:k7p - - - -
+2 3 numex - 4:card - - - -
+seMtImItara_1 4 - pl 5:r6 - - - -
+xUrI_1 5 - - 20:k3 - - - -
+vyakwa_1 6 - - - - - - 20:kriyAmUla
+kara_1-yA_gayA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G313c>
+#इसका अभिप्राय है कि मानचित्र का 1 सेमी. स्थल के 5 किमी. को दर्शाएगा।
+$wyax 1 - - 2:r6 G313b.20:coref proximal - -
+aBiprAya_1 2 - - 3:k1 - - - -
+hE_1-pres 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G313d>
+#कि मानचित्र का 1 सेमी. स्थल के 5 किमी. को दर्शाएगा।
+mAnaciwra_1 1 - - 3:r6 - - - -
+1 2 numex - 3:card - - - -
+seMtImItara_1 3 - - 20:k1 - - - -
+sWala_12 4 - - 6:r6 - - - -
+5 5 numex - 6:card - - - -
+kilomItara_1 6 - pl 20:k2 - - - -
+xarSA_1-gA_1 20 - - 0:main G313c.3:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G314>
+#आपके रेखाचित्र का पैमाना होगा, 1 सेमी. = 5 किमी.।
+$addressee 1 - - 2:r6 - - - -
+reKAciwra_3 2 - - 3:r6 - - - -
+pEmAnA_1 3 - - 20:k1 - - - -
+1 4 numex - 5:card - - - -
+seMtImItara_1 5 - - 20:k1s - - - -
+5 6 numex - 7:card - - - -
+kilomItara_1 7 - pl 5:rs - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G315>
+#इस प्रकार पैमाना किसी भी मानचित्र के लिए बहुत महत्त्वपूर्ण होता है।
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+pEmAnA_1 3 - - 20:k1 - - - -
+koI_9 4 - - 5:quant - BI_1 - -
+mAnaciwra_1 5 - - 20:rt - - - -
+bahuwa_7 6 - - 7:intf - - - -
+mahawvapUrNa_1 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G316>
+#अगर आपको पैमाने की जानकारी है
+$addressee 1 - - 20:k4a - respect - -
+pEmAnA_1 2 - - 3:r6 - - - -
+jAnakArI_3 3 - - 20:k1 - - - -
+hE_1-pres 20 - - 0:main G316b.20:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=G316b>
+#तो आप मानचित्र पर दिए गए किसी भी दो स्थानों के बीच की दूरी का पता लगा सकते हैं।
+$addressee 1 - - 20:k1 - respect - -
+mAnaciwra_1 2 - - 3:k7p - - - -
+xe_1-yA_gayA_1 3 - - 6:rvks - - - -
+koI_9 4 - - 6:quant - BI_1 - -
+xo_1 5 numex - 6:card - - - -
+sWAna_1 6 - pl 7:r6 - - - -
+bIca_91 7 - - 8:r6 - - - -
+xUrI_1 8 - - 20:k2 - - - -
+pawA_1 9 - - - - - - 20:kriyAmUla
+lagA_1-0_sakawA_hE_1 10 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G317>
+#जब बड़े क्षेत्रफल वाले भागों जैसे महाद्वीपों या देशों को कागज पर दिखाना होता है,
+badZA_2 1 - - 2:mod - - - -
+kRewraPala_1 2 - - 3:mod - - - -
+BAga_2 3 - pl 20:k2 - - - -
+mahAxvIpa_1 4 - pl - - - - 10:op1
+xeSa_1 5 - pl - - - - 10:op2
+[disjunct_1] 10 - - 3:rsm - - - -
+kAgaja_1 6 - - 20:k7p - - - -
+xiKA_3-nA_hE_1 20 - - 0:main G317b.20:samAnakAla - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G317b>
+#तब हम लोग छोटे पैमाने का उपयोग करते हैं।
+$speaker 1 - pl 20:k1 - - - -
+CotA_1 2 - - 3:mod - - - -
+pEmAnA_1 3 - - 20:k2 - - - -
+upayoga_1 4 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G318>
+#उदाहरण के लिए, मानचित्र पर 5 सेमी., स्थल के 500 किमी. को दर्शाता है।
+uxAharaNa_1 1 - - 20:rt - - - -
+mAnaciwra_1 2 - - 4:k7p - - - -
+5 3 numex - 4:card - - - -
+seMtImItara_1 4 - pl 20:k1 - - - -
+sWala_12 5 - - 7:r6 - - - -
+500 6 numex - 7:card - - - -
+kilomItara_1 7 - pl 20:k2 - - - -
+xarSA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G319>
+#इसको छोटे पैमाने वाला मानचित्र कहते हैं।
+$wyax 1 - - 20:k2 G318.20:coref proximal - -
+CotA_1 2 - - 3:mod - - - -
+pEmAnA_1 3 - - 4:mod - - - -
+mAnaciwra_1 4 - - 20:k2s - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G320>
+#जब एक छोटे क्षेत्रफल वाले भाग जैसे आपके गाँव या शहर को कागज पर दिखाना होता है
+eka_1 1 - - 4:card - - - -
+CotA_1 2 - - 3:mod - - - -
+kRewraPala_1 3 - - 4:mod - - - -
+BAga_2 4 - - 20:k2 - - - -
+$addressee 5 - - 10:r6 - - - -
+gAzva_1 6 - - - - - - 10:op1
+Sahara_2 7 - - - - - - 10:op2
+[disjunct_1] 10 - - 4:rsm - - - -
+kAgaja_1 8 - - 20:k7p - - - -
+xiKA_3-nA_hE_1 20 - - 0:main G320b.20:samAnakAla - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G320b>
+#तब हम बड़े पैमाने का उपयोग करते हैं
+$speaker 1 - pl 20:k1 - - - -
+badZA_2 2 - - 3:mod - - - -
+pEmAnA_1 3 - - 20:k2 - - - -
+upayoga_1 4 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G320c>
+#जैसे स्थल पर 500 मीटर की दूरी को मानचित्र पर 5 सेमी. से दर्शाया जाता है।
+sWala_12 1 - - 4:k7p - - - -
+500 2 numex - 3:card - - - -
+mItara_2 3 - pl 4:r6 - - - -
+xUrI_1 4 - - 20:k2 - - - -
+mAnaciwra_1 5 - - 7:k7p - - - -
+5 6 numex - 7:card - - - -
+seMtImItara_1 7 - pl 20:k3 - - - -
+xarSA_1-yA_jAwA_hE_1 20 - - 0:main G320b.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G321>
+#इस प्रकार के मानचित्र को बड़े पैमाने वाला मानचित्र कहते हैं।
+$wyax 1 - - 2:dem - proximal - -
+prakAra_7 2 - - 3:r6 - - - -
+mAnaciwra_1 3 - - 20:k2 - - - -
+badZA_2 4 - - 5:mod - - - -
+pEmAnA_1 5 - - 6:mod - - - -
+mAnaciwra_1 6 - - 20:k2s - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G322>
+#बड़े पैमाने वाले मानचित्र छोटे पैमाने वाले मानचित्र की अपेक्षा अधिक जानकारी प्रदान करते हैं।
+badZA_2 1 - - 2:mod - - - -
+pEmAnA_1 2 - - 3:mod - - - -
+mAnaciwra_1 3 - pl 20:k1 - - - -
+CotA_1 4 - - 5:mod - - - -
+pEmAnA_1 5 - - 6:mod - - - -
+mAnaciwra_1 6 - pl 20:rv - - - -
+aXika_1 7 - - 8:mod - - - -
+jAnakArI_3 8 - - 20:k2 - - - -
+praxAna_11 9 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 10 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G323>
+#आओ कुछ करके सीखें।
+$speaker 1 - pl 3:k1 - - - -
+kuCa_1 2 - - 4:k2 - - - -
+kara_17 4 - - 3:rpk - - - -
+sIKa_6-e_1 3 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G324>
+#चित्र 4.1 को देखिए
+ciwra_4 1 - - 3:k2 - - - -
+4.1 2 numex - 1:rs - - - -
+xeKa_1-e_1 3 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G324b>
+#वहाँ एक पैमाना बना है।
+vahAz_1 1 - - 20:k7p - - - -
+eka_1 2 - - 3:card - - - -
+pEmAnA_1 3 - - 20:k1 - - - -
+bana_15-yA_hE_1 20 - - 0:main G324.3:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G325>
+#इसका उपयोग स्थानों के बीच की दूरी मापने में किया जा सकता है।
+$wyax 1 - - 20:k2 G324b.3:coref proximal - -
+sWAna_1 2 - pl 3:r6 - - - -
+bIca_91 3 - - 4:r6 - - - -
+xUrI_1 4 - - 5:k2 - - - -
+mApa_2 5 - kqw 20:k7 - - - -
+upayoga_1 6 - - - - - - 20:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G326>
+#उदाहरण लिए, एक कूआँ एवं वृक्ष के बीच की दूरी 5 सेमी. है।
+uxAharaNa_1 1 - - 20:rt - - - -
+eka_1 2 - - 3:card - - - -
+kUAz_1 3 - - - - - - 10:op1
+vqkRa_1 4 - - - - - - 10:op2
+[conj_1] 10 - - 5:r6 - - - -
+bIca_91 5 - - 6:r6 - - - -
+xUrI_1 6 - - 20:k1 - - - -
+5 7 numex - 8:card - - - -
+seMtImItara_1 8 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G327>
+#इसका मतलब होता है कि वास्तविक दूरी 50 मीटर है।
+$wyax 1 - - 2:r6 G326.6:coref proximal - -
+mawalaba_1 2 - - 3:k1 - - - -
+hE_1-pres 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G327b>
+#कि वास्तविक दूरी 50 मीटर है।
+vAswavika_1 1 - - 2:mod - - - -
+xUrI_1 2 - - 20:k1 - - - -
+50 3 numex - 4:card - - - -
+mItara_2 4 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main G327.3:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G328>
+#अब एक पोस्ट ऑफिस एवं करीम के घर के बीच की दूरी 12 सेमी. है।
+aba_1 1 - - 20:k7t - - - -
+eka_1 2 - - 4:card - - - -
+posta_1 3 - - - - - - 11:mod
+OYPisa_1 4 - - - - - - 11:head
+[nc_1] 11 - - - - - - 10:op1
+karIma 5 - - - - - - 12:begin
+[ne_1] 12 male - 6:r6 - - - -
+Gara_2 6 - - - - - - 10:op2
+[conj_1] 10 - - 7:r6 - - - -
+bIca_91 7 - - 8:r6 - - - -
+xUrI_1 8 - - 20:k1 - - - -
+12 9 numex - 13:card - - - -
+seMtImItara_1 13 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G329>
+#इसका मतलब है कि स्थल पर यह दूरी 120 मीटर है,
+$wyax 1 - - 2:r6 G328.8:coref proximal - -
+mawalaba_1 2 - - 3:k1 - - - -
+hE_1-pres 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G329b>
+#कि स्थल पर यह दूरी 120 मीटर है,
+sWala_12 1 - - 20:k7p - - - -
+$wyax 2 - - 3:dem - proximal - -
+xUrI_1 3 - - 20:k1 - - - -
+120 4 numex - 5:card - - - -
+mItara_2 5 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main G329.3:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G329c>
+#लेकिन आप एक पक्षी की तरह उड़कर सीधे E से A पर नहीं जा सकते।
+$addressee 1 - - 20:k1 - respect - -
+eka_1 2 - - 3:card - - - -
+pakRI_1 3 - - 4:ru - - - -
+udZa_5 4 - - 20:rpk - - - -
+sIXe_4 5 - - 20:krvn - - - -
+@E 6 - - 20:k5 - - - -
+@A 7 - - 20:k2p - - - -
+nahIM_1 8 - - 20:neg - - - -
+jA_1-0_sakawA_hE_1 20 - - 0:main G329b.20:viroXI - - -
+%negative
+</sent_id>
+<sent_id=G330>
+#आपको सड़क पर चलना होगा।
+$addressee 1 - - 20:k1 - respect - -
+sadZaka_1 2 - - 20:k7p - - - -
+cala_6-nA_hogA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G331>
+#अब हम लोग पैदल तय की जाने वाली दूरी E से C उसके बाद C से M, M से B तथा B से A को मापते हैं।
+aba_1 1 - - 20:k7t - - - -
+$speaker 2 - pl 20:k1 - - - -
+pExala_2-foot 3 - - 4:krvn - - - -
+waya_4 4 - - 5:rvks - - - -
+xUrI_1 5 - - 20:k2 - - - -
+@E 6 - - 31:start - - - -
+@C 7 - - 31:end - - - -
+[span_1] 31 - - 5:rs - - - -
+@C 8 - - 32:start - - - -
+@M 9 - - 32:end - - - -
+[span_2] 32 - - 5:rs - - - -
+@M 10 - - 33:start - - - -
+@B 11 - - 33:end - - - -
+[span_3] 33 - - 5:rs - - - -
+@B 12 - - 34:start - - - -
+@A 13 - - 34:end - - - -
+[span_4] 34 - - 5:rs - - - -
+mApa_2-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G332>
+#सभी दूरियों को जोड़ दें।
+saBI_1 1 - - 2:quant - - - -
+xUrI_1 2 - pl 20:k2 - - - -
+jodZa_11-e_1 20 - - 0:main - [shade:xe_1] - -
+%imperative
+</sent_id>
+<sent_id=G333>
+#यह करीम के घर से पोस्ट ऑफिस तक की कुल दूरी होगी।
+$wyax 1 - - 20:k1 G332.2:coref proximal - -
+karIma 2 - - - - - - 11:begin
+[ne_1] 11 male - 3:r6 - - - -
+Gara_2 3 - - 31:start - - - -
+posta_1 4 - - - - - - 12:mod
+OYPisa_1 5 - - - - - - 12:head
+[nc_1] 12 - - 31:end - - - -
+[span_1] 31 - - 7:r6 - - - -
+kula_1 6 - - 7:mod - - - -
+xUrI_1 7 - - 20:k1s - - - -
+hE_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G334>
+#हम दिक्सूचक की सहायता से किसी स्थान की दिशा का पता लगा सकते हैं।
+$speaker 1 - pl 20:k1 - - - -
+xiksUcaka_1 2 - - 3:r6 - - - -
+sahAyawA_1 3 - - 20:k3 - - - -
+koI_9 4 - - 5:quant - - - -
+sWAna_1 5 - - 6:r6 - - - -
+xiSA_1 6 - - 20:k2 - - - -
+pawA_1 7 - - - - - - 20:kriyAmUla
+lagA_1-0_sakawA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G335>
+#यह एक यंत्र है
+$wyax 1 - - 20:k1 G334.2:coref proximal - -
+eka_1 2 - - 3:card - - - -
+yaMwra_2 3 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G335b>
+#जिसकी सहायता से मुख्य दिशाओं का पता लगाया जाता है।
+$yax 1 - - 2:r6 G335.3:coref - - -
+sahAyawA_1 2 - - 20:k3 - - - -
+muKya_18 3 - - 4:mod - - - -
+xiSA_1 4 - pl 20:k2 - - - -
+pawA_1 5 - - - - - - 20:kriyAmUla
+lagA_1-yA_jAwA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G336>
+#इसकी चुंबकीय सुई की दिशा हमेशा उत्तर-दक्षिण दिशा में होती है।
+$wyax 1 - - 3:r6 G335.3:coref proximal - -
+cuMbakIya_1 2 - - 3:mod - - - -
+sUI_1 3 - - 4:r6 - - - -
+xiSA_1 4 - - 20:k1 - - - -
+hameSA_1 5 - - 20:k7t - - - -
+uwwara-xakRiNa_1 6 - - 7:mod - - - -
+xiSA_1 7 - - 20:k7 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G337>
+#यह किसी भी मानचित्र का तीसरा प्रमुख घटक है।
+$wyax 1 - - 20:k1 G336.4:coref proximal - -
+koI_9 2 - - 3:quant - BI_1 - -
+mAnaciwra_1 3 - - 6:r6 - - - -
+wIsarA_1 4 - - 6:ord - - - -
+pramuKa_13 5 - - 6:mod - - - -
+Gataka_7 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G338>
+#किसी भी मानचित्र पर वास्तविक आकार एवं प्रकार में विभिन्न आकृतियों जैसे- भवनों, सड़कों, पुलों, वृक्षों, रेल की पटरियों या कुएँ को दिखाना संभव नहीं होता है।
+koI_9 1 - - 2:quant - BI_1 - -
+mAnaciwra_1 2 - - 30:k7p - - - -
+vAswavika_1 3 - - 10:mod - - - -
+AkAra_3 4 - - - - - - 10:op1
+prakAra_7 5 - - - - - - 10:op2
+[conj_1] 10 - - 30:k7 - - - -
+viBinna_1 6 - - 7:mod - - - -
+Akqwi_6 7 - pl 30:k2 - - - -
+Bavana_2 8 - pl - - - - 11:op1
+sadZaka_1 9 - pl - - - - 11:op2
+pula_1 12 - pl - - - - 11:op3
+vqkRa_1 13 - pl - - - - 11:op4
+rela_1 14 - - 15:r6 - - - -
+patarI_8 15 - pl - - - - 11:op5
+kuAz_1 16 - - - - - - 11:op6
+[disjunct_1] 11 - - 7:rsm - - - -
+xiKA_3 17 - kqw 30:k1 - - - -
+saMBava_1 18 - - 30:k1s - - - -
+nahIM_1 19 - - 30:neg - - - -
+hE_1-pres 30 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=G339>
+#इसलिए, वे निश्चित अक्षरों, छायाओं, रंगों, चित्रों तथा रेखाओं का उपयोग करके दर्शाए जाते हैं।
+$wyax 1 - pl 20:k2 G338.7:coref distal - -
+niSciwa_2 2 - - 10:mod - - - -
+akRara_3 3 - pl - - - - 10:op1
+CAyA_2 4 - pl - - - - 10:op2
+raMga_1 5 - pl - - - - 10:op3
+ciwra_1 6 - pl - - - - 10:op4
+reKA_1 7 - pl - - - - 10:op5
+[conj_1] 10 - - 30:k2 - - - -
+upayoga_1 8 - - - - - - 30:kriyAmUla
+kara_1 9 - - - - - - 30:verbalizer
+[cp_1] 30 - - 20:rpk - - - -
+xarSA_1-yA_jAwA_hE_1 20 - - 0:main G338.30:pariNAma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G340>
+#ये प्रतीक कम स्थान में अधिक जानकारी प्रदान करते हैं।
+$wyax 1 - pl 2:dem - proximal - -
+prawIka_1 2 - pl 20:k1 - - - -
+kama_4 3 - - 4:mod - - - -
+sWAna_4 4 - - 20:k7 - - - -
+aXika_1 5 - - 6:mod - - - -
+jAnakArI_3 6 - - 20:k2 - - - -
+praxAna_11 7 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G341>
+#इन प्रतीकों के इस्तेमाल के द्वारा मानचित्र को आसानी से खींचा जा सकता है
+$wyax 1 - pl 2:dem - proximal - -
+prawIka_1 2 - pl 3:r6 - - - -
+iswemAla_1 3 - - 20:k3 - - - -
+mAnaciwra_1 4 - - 20:k2 - - - -
+AsAnI_5 5 - - 20:krvn - - - -
+KIMca_2-yA_jA_sakawA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G341b>
+#तथा इनका अध्ययन करना आसान होता है।
+$wyax 1 - pl 30:k2 G341.4:coref proximal - -
+aXyayana_1 2 - - - - - - 30:kriyAmUla
+kara_1 3 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k1 - - - -
+AsAna_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main G341.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G342>
+#अगर आप एक क्षेत्र की भाषा को नहीं जानते हैं
+$addressee 1 - - 20:k1 - respect - -
+eka_1 2 - - 3:card - - - -
+kRewra_5 3 - - 4:r6 - - - -
+BARA_1 4 - - 20:k2 - - - -
+nahIM_1 5 - - 20:neg - - - -
+jAna_10-wA_hE_1 20 - - 0:main G342c.20:AvaSyakawApariNAma - - -
+%negative
+</sent_id>
+<sent_id=G342b>
+#तथा आप किसी से दिशाओं के बारे में नहीं पूछ सकते हैं
+$addressee 1 - - 20:k1 - respect - -
+koI_9 2 - - 20:k5 - - - -
+xiSA_1 3 - pl 4:r6 - - - -
+bAre_10 4 - - 20:k2 - - - -
+nahIM_1 5 - - 20:neg - - - -
+pUCa_3-0_sakawA_hE_1 20 - - 0:main G342.20:samuccaya - - -
+%negative
+</sent_id>
+<sent_id=G342c>
+#तब आप इन चिन्हो की सहायता के द्वारा मानचित्र से जानकारी प्राप्त कर सकते हैं।
+$addressee 1 - - 20:k1 - respect - -
+$wyax 2 - pl 3:dem - proximal - -
+cihna_12 3 - pl 4:r6 - - - -
+sahAyawA_1 4 - - 20:k3 - - - -
+mAnaciwra_1 5 - - 20:k5 - - - -
+jAnakArI_3 6 - - 20:k2 - - - -
+prApwa_2 7 - - - - - - 20:kriyAmUla
+kara_1-0_sakawA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G343>
+#मानचित्रों की एक विश्वव्यापी भाषा होती है
+mAnaciwra_1 1 - pl 4:r6 - - - -
+eka_1 2 - - 4:card - - - -
+viSvavyApI_3 3 - - 4:mod - - - -
+BARA_1 4 - - 20:k1 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G343b>
+#जिसे सभी आसानी से समझ सकते हैं।
+$yax 1 - - 20:k2 G343.4:coref - - -
+saBI_1 2 - - 20:k1 - - - -
+AsAnI_5 3 - - 20:krvn - - - -
+samaJa_7-0_sakawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G344>
+#इन प्रतीकों के उपयोग के संबंध में एक अंतर्राष्ट्रीय सहमति है।
+$wyax 1 - pl 2:dem - proximal - -
+prawIka_1 2 - pl 3:r6 - - - -
+upayoga_1 3 - - 4:r6 - - - -
+saMbaMXa_13 4 - - 20:k7 - - - -
+eka_1 5 - - 7:card - - - -
+aMwarrARtrIya_1 6 - - 7:mod - - - -
+sahamawi_2 7 - - 20:k1 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G345>
+#ये रूढ प्रतीक कहे जाते हैं।
+$wyax 1 - pl 20:k2 G344.2:coref proximal - -
+rUDZa_18 2 - - 3:mod - - - -
+prawIka_1 3 - pl 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G346>
+#कुछ रूढ़ प्रतीक चित्र 4.3 में दर्शाए गए हैं।
+kuCa_1 1 - - 3:quant - - - -
+rUDZa_18 2 - - 3:mod - - - -
+prawIka_1 3 - pl 20:k2 - - - -
+ciwra_4 4 - - 20:k7p - - - -
+4.3 5 numex - 4:rs - - - -
+xarSA_1-yA_gayA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G347>
+#विभिन्न रंगों का उपयोग भी इसी उद्देश्य से किया जाता है।
+viBinna_1 1 - - 2:mod - - - -
+raMga_1 2 - pl 20:k2 - BI_1 - -
+$wyax 3 - - 4:dem - proximal hI_1 -
+uxxeSya_2 4 - - 20:rt - - - -
+upayoga_1 5 - - - - - - 20:kriyAmUla
+kara_1-yA_jAwA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G348>
+#उदाहरण के लिए सामान्यतः नीले रंग का इस्तेमाल जलाशयों, भूरा रंग पर्वतों, पीला रंग पठारों और हरा रंग मैदानों को दर्शाने के लिए किया जाता है।
+uxAharaNa_1 1 - - 20:rt - - - -
+sAmAnyawaH_96 2 - - 20:krvn - - - -
+nIlA_1 3 - - 4:mod - - - -
+raMga_1 4 - - 20:k2 - - - -
+jalASaya_2-body 5 - pl 6:k2 - - - -
+xarSA_1 6 - kqw 20:rt - - - -
+upayoga_1 7 - - - - - - 20:kriyAmUla
+kara_1-yA_jAwA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G348b>
+#भूरा रंग पर्वतों, पीला रंग पठारों और हरा रंग मैदानों को दर्शाने के लिए।
+BUrA_1 1 - - 2:mod - - - -
+raMga_1 2 - - - - - - 10:op1
+pIlA_1 3 - - 4:mod - - - -
+raMga_1 4 - - - - - - 10:op2
+harA_1 5 - - 6:mod - - - -
+raMga_1 6 - - - - - - 10:op3
+[conj_1] 10 - - 20:k2 - - - -
+parvawa_1 7 - pl - - - - 11:op1
+paTAra_1 8 - pl - - - - 11:op2
+mExAna_5 9 - pl - - - - 11:op3
+[conj_2] 11 - - 12:k2 - - - -
+xarSA_1 12 - kqw 20:rt - - - -
+upayoga_1 13 - - - - - - 20:kriyAmUla
+kara_1-yA_jAwA_hE_1 14 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G348.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G349>
+#चित्र 4.4 को देखें एवं पता लगाएँ।
+ciwra_4 1 - - 3:k2 - - - -
+4.4 2 numex - 1:rs - - - -
+xeKa_1-e_1 3 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G349b>
+#एवं पता लगाएँ।
+pawA_1 1 - - - - - - 20:kriyAmUla
+lagA_1-e_1 2 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main G349.3:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=G350>
+#नदी किस दिशा में बह रही है?
+naxI_1 1 - - 20:k1 - - - -
+$kim 2 - - 3:mod - - - -
+xiSA_1 3 - - 20:k7 - - - -
+baha_1-0_rahA_hE_1 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G351>
+#डुमरी गाँव के पास से किस प्रकार की सड़क गुजरती है?
+dumarI 1 - - - - - - 11:begin
+[ne_1] 11 place - 2:mod - - - -
+gAzva_1 2 - - 3:r6 - - - -
+pAsa_1 3 - - 20:k5 - - - -
+$kim 4 - - 5:mod - - - -
+prakAra_7 5 - - 6:r6 - - - -
+sadZaka_1 6 - - 20:k1 - - - -
+gujZara_3-wA_hE_1 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G352>
+#किस प्रकार की रेलवे लाइन के पास सुंदरपुर स्थित है?
+$kim 1 - - 2:mod - - - -
+prakAra_7 2 - - 4:r6 - - - -
+relave_1 3 - - 4:mod - - - -
+lAina_1 4 - - 5:r6 - - - -
+pAsa_1 5 - - 20:k7p - - - -
+suMxarapura 6 - - - - - - 11:begin
+[ne_1] 11 place - 20:k1 - - - -
+sWiwa_1 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G353>
+#रेलवे पुल के किस तरफ पुलिस स्टेशन स्थित है?
+relave_1 1 - - 2:mod - - - -
+pula_1 2 - - 4:r6 - - - -
+$kim 3 - - 4:mod - - - -
+waraPa_1 4 - - 20:k7p - - - -
+pulisa_1 5 - - - - - - 10:mod
+steSana_1 6 - - - - - - 10:head
+[nc_1] 10 - - 20:k1 - - - -
+sWiwa_1 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G354>
+#निम्नलिखित स्थान रेलवे लाइन के किस तरफ स्थित हैं?
+nimnaliKiwa_2 1 - - 2:mod - - - -
+sWAna_1 2 - pl 20:k1 - - - -
+relave_1 3 - - 4:mod - - - -
+lAina_1 4 - - 6:r6 - - - -
+$kim 5 - - 6:mod - - - -
+waraPa_1 6 - - 20:k7p - - - -
+sWiwa_1 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G355>
+#रेखाचित्र एक आरेखण है,
+reKAciwra_3 1 - - 20:k1 - - - -
+eka_1 2 - - 3:card - - - -
+AreKaNa_1 3 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G355b>
+#जो पैमाने पर आधारित न होकर याद्दाश्त और स्थानीय प्रेक्षण पर आधारित होता है।
+$yax 1 - - 20:k1 G355.3:coref - - -
+pEmAnA_1 2 - - 3:k7 - - - -
+AXAriwa_1 3 - - 4:k1s - - - -
+na_1 5 - - 4:neg - - - -
+ho_6 4 - - 20:rpk - - - -
+yAxaxASwa_1 6 - - - - - - 10:op1
+sWAnIya_1 7 - - 8:mod - - - -
+prekRaNa_9 8 - - - - - - 10:op2
+[conj_1] 10 - - 9:k7 - - - -
+AXAriwa_1 9 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G356>
+#कभी-कभी किसी क्षेत्र के एक कच्चे आरेखण की आवश्यकता वहाँ के एक स्थान को दूसरे स्थान के सापेक्ष दिखाने के लिए होती है।
+kaBI-kaBI_1 1 - - 20:k7t - - - -
+koI_9 2 - - 3:quant - - - -
+kRewra_5 3 - - 6:r6 - - - -
+eka_1 4 - - 6:card - - - -
+kaccA_9 5 - - 6:mod - - - -
+AreKaNa_1 6 - - 7:r6 - - - -
+AvaSyakawA_2 7 - - 20:k1 - - - -
+vahAz_1 8 - - 10:r6 - - - -
+eka_1 9 - - 10:card - - - -
+sWAna_1 10 - - 14:k2 - - - -
+xUsarA_3 11 - - 12:mod - - - -
+sWAna_1 12 - - 13:r6 - - - -
+sApekRa_3 13 - - 14:krvn - - - -
+xiKA_3 14 - kqw 20:rt - - - -
+ho_11-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G357>
+#मान लीजिए कि आप अपने मित्र के घर जाना चाहते हैं,
+mAna_17-e_1 1 - - 0:main - [shade:le_1] - -
+%imperative
+</sent_id>
+<sent_id=G357b>
+#कि आप अपने मित्र के घर जाना चाहते हैं,
+$addressee 1 - - 20:k1 - respect - -
+apanA_91 2 - - 3:r6 - - - -
+miwra_1 3 - - 4:r6 - - - -
+Gara_2 4 - - 5:k2p - - - -
+jA_1 5 - kqw 20:k2 - - - -
+cAha_1-wA_hE_1 20 - - 0:main G357.1:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=G357c>
+#लेकिन आपको रास्ते की जानकारी नहीं है।
+$addressee 1 - - 20:k4a - respect - -
+rAswA_1 2 - - 3:r6 - - - -
+jAnakArI_3 3 - - 20:k1 - - - -
+nahIM_1 4 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main G357b.20:viroXI - - -
+%negative
+</sent_id>
+<sent_id=G358>
+#आपका मित्र अपने घर के रास्ते को बताने के लिए एक कच्चा आरेखण बना सकता है।
+$addressee 1 - - 2:r6 - - - -
+miwra_1 2 - - 20:k1 - - - -
+apanA_91 3 - - 4:r6 - - - -
+Gara_2 4 - - 5:r6 - - - -
+rAswA_1 5 - - 6:k2 - - - -
+bawA_3 6 - kqw 20:rt - - - -
+eka_1 7 - - 9:card - - - -
+kaccA_9 8 - - 9:mod - - - -
+AreKaNa_1 9 - - 20:k2 - - - -
+banA_1-0_sakawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G359>
+#इस प्रकार कच्चे आरेख को बिना पैमाने की सहायता से खींचा जाता है
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+kaccA_9 3 - - 4:mod - - - -
+AreKa_2 4 - - 20:k2 - - - -
+pEmAnA_1 5 - - 6:r6 - - - -
+sahAyawA_1 6 - - 20:rasneg - - - -
+KIMca_2-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G359b>
+#तथा इसे रेखाचित्र मानचित्र कहते हैं।
+$wyax 1 - - 20:k2 G359.4:coref proximal - -
+reKAciwra_3 2 - - 3:mod - - - -
+mAnaciwra_1 3 - - 20:k2s - - - -
+kaha_1-wA_hE_1 20 - - 0:main G359.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=G360>
+#एक छोटे क्षेत्र का बड़े पैमाने पर खींचा गया रेखाचित्र खाका कहा जाता है।
+eka_1 1 - - 3:card - - - -
+CotA_1 2 - - 3:mod - - - -
+kRewra_5 3 - - 7:r6 - - - -
+badZA_2 4 - - 5:mod - - - -
+pEmAnA_1 5 - - 6:k7p - - - -
+KIMca_2-yA_gayA_1 6 - - 7:rvks - - - -
+reKAciwra_3 7 - - 20:k2 - - - -
+KAkA_2 8 - - 20:k2s - - - -
+kaha_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G361>
+#एक बड़े पैमाने वाले मानचित्र से हमें बहुत सी जानकारियाँ प्राप्त होती हैं
+eka_1 1 - - 4:card - - - -
+badZA_2 2 - - 3:mod - - - -
+pEmAnA_1 3 - - 4:mod - - - -
+mAnaciwra_1 4 - - 20:k5 - - - -
+$speaker 5 - pl 20:k4a - - - -
+bahuwa_1 6 - - 7:quant - - - -
+jAnakArI_3 7 - pl 20:k1 - - - -
+prApwa_2 8 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G361b>
+#लेकिन कुछ ऐसी चीजे होती हैं जिन्हें हम कभी-कभी जानना चाहते हैं जैसे किसी कमरे की लंबाई एवं चौड़ाई,
+kuCa_1 1 - - 3:quant - - - -
+EsA_1 2 - - 3:mod - - - -
+cIja_1 3 - pl 20:k1 - - - -
+koI_9 4 - - 5:quant - - - -
+kamarA_1 5 - - 30:r6 - - - -
+lambAI_2 6 - - - - - - 30:op1
+cOdZAI_1 7 - - - - - - 30:op2
+[conj_1] 30 - - 3:rsm - - - -
+hE_1-pres 20 - - 0:main G361.20:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=G361c>
+#जिन्हें हम कभी-कभी जानना चाहते हैं
+$yax 1 - pl 2:k2 G361b.3:coref - - -
+jAna_10 2 - kqw 20:k2 - - - -
+$speaker 3 - pl 20:k1 - - - -
+kaBI-kaBI_1 4 - - 20:k7t - - - -
+cAha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G361d>
+#जिसे मानचित्र में नहीं दिखाया जा सकता है।
+$yax 1 - - 20:k2 G361b.30:coref - - -
+mAnaciwra_1 2 - - 20:k7p - - - -
+nahIM_1 3 - - 20:neg - - - -
+xiKA_3-yA_jA_sakawA_hE_1 20 - - 0:main - - - -
+%pass_negative
+</sent_id>
+<sent_id=G362>
+#उस समय, हम लोग बड़े पैमाने वाला एक रेखाचित्र खींच सकते हैं
+$wyax 1 - - 2:dem - distal - -
+samaya_1 2 - - 20:k7t - - - -
+$speaker 3 - pl 20:k1 - - - -
+badZA_2 4 - - 5:mod - - - -
+pEmAnA_1 5 - - 7:mod - - - -
+eka_1 6 - - 7:card - - - -
+reKAciwra_3 7 - - 20:k2 - - - -
+KIMca_2-0_sakawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G362b>
+#जिसे खाका कहा जाता है।
+$yax 1 - - 3:k2 G362.7:coref - - -
+KAkA_2 2 - - 3:k2s - - - -
+kaha_1-yA_jAwA_hE_1 3 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G363>
+#स्कूल भुवन- एनसीईआरटी वेब पोर्टल देखें।
+skUla 1 - - - - - - 11:begin
+Buvana 2 - - - - - - 11:inside
+[ne_1] 11 org - 5:mod - - - -
+@ena.sI.I.Ara.tI. 3 - - 11:rs - - - -
+veba_1 4 - - 5:mod - - - -
+portala_1 5 - - 20:k2 - - - -
+xeKa_1-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G364>
+#इस पोर्टल पर उपलब्ध सेटेलाइट चित्रों पर अपने आस-पड़ोस का मानचित्र ऑनलाइन बनाएँ।
+$wyax 1 - - 2:dem - proximal - -
+portala_1 2 - - 3:k7p - - - -
+upalabXa_1 3 - - 5:mod - - - -
+setelAita_1 4 - - 5:mod - - - -
+ciwra_7 5 - pl 20:k7p - - - -
+apanA_91 6 - - 7:r6 - - - -
+padZosa_1 7 - - 8:r6 - - - -
+mAnaciwra_1 8 - - 20:k2 - - - -
+OYnalAina_1 9 - - 20:krvn - - - -
+banA_1-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G365>
+#निम्नलिखित प्रश्नों के उत्तर संक्षेप में दीजिए।
+nimnaliKiwa_2 1 - - 2:mod - - - -
+praSna_1 2 - pl 3:r6 - - - -
+uwwara_1 3 - pl 20:k2 - - - -
+saMkRepa_3 4 - - 20:k7 - - - -
+xe_1-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G366>
+#मानचित्र के तीन घटक कौन-कौन से हैं?
+mAnaciwra_1 1 - - 3:r6 - - - -
+wIna_1 2 numex - 3:card - - - -
+Gataka_7 3 - pl 20:k1 - - - -
+$kim 4 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G367>
+#प्रधान दिग्बिंदु कौन-कौन से हैं?
+praXAna_9 1 - - 2:mod - - - -
+xigbiMxu_1-point 2 - pl 20:k1 - - - -
+$kim 3 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G368>
+#मानचित्र के पैमाने से आप क्या समझते हैं?
+mAnaciwra_1 1 - - 2:r6 - - - -
+pEmAnA_1 2 - - 20:k5 - - - -
+$addressee 3 - - 20:k1 - respect - -
+$kim 4 - - 20:k2 - - - -
+samaJa_7-wA_hE_1 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G369>
+#ग्लोब की अपेक्षा मानचित्र अधिक सहायक होते हैं, क्यों?
+globa_1 1 - - 20:rv - - - -
+mAnaciwra_1 2 - pl 20:k1 - - - -
+aXika_1 3 - - 4:intf - - - -
+sahAyaka_96 4 - - 20:k1s - - - -
+$kim 5 - - 20:rh - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G370>
+#मानचित्र एवं खाका के बीच अंतर बताएँ।
+mAnaciwra_1 1 - - - - - - 10:op1
+KAkA_2 2 - - - - - - 10:op2
+[conj_1] 10 - - 3:r6 - - - -
+bIca_91 3 - - 4:r6 - - - -
+aMwara_1 4 - - 20:k2 - - - -
+bawA_3-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G371>
+#कौन-सा मानचित्र विस्तृत जानकारी प्रदान करता है?
+$kim 1 - - 2:mod - - - -
+mAnaciwra_1 2 - - 20:k1 - - - -
+viswqwa_5 3 - - 4:mod - - - -
+jAnakArI_3 4 - - 20:k2 - - - -
+praxAna_11 5 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G372>
+#प्रतीक किस प्रकार मानचित्रों के अध्ययन में सहायक होते हैं?
+prawIka_1 1 - pl 20:k1 - - - -
+$kim 2 - - 3:mod - - - -
+prakAra_5 3 - - 20:krvn - - - -
+mAnaciwra_1 4 - pl 5:r6 - - - -
+aXyayana_1 5 - - 20:k7 - - - -
+sahAyaka_96 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=G373>
+#सही उत्तर चिन्हित कीजिए।
+sahI_11 1 - - 2:mod - - - -
+uwwara_1 2 - pl 20:k2 - - - -
+cihniwa_5 3 - - - - - - 20:kriyAmUla
+kara_1-e_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G374>
+#वृक्षों के वितरण को दिखाने वाले मानचित्र थिमैटिक मानचित्र हैं।
+vqkRa_1 1 - pl 2:r6 - - - -
+viwaraNa_1 2 - - 3:k2 - - - -
+xiKA_3 3 - - 4:rvks - - - -
+mAnaciwra_1 4 - pl 20:k1 - - - -
+WimEtika_1 5 - - 6:mod - - - -
+mAnaciwra_1 6 - pl 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G375>
+#नीले रंग का इस्तेमाल जलाशयों को दिखाने में किया जाता है।
+nIlA_1 1 - - 2:mod - - - -
+raMga_1 2 - - 3:r6 - - - -
+iswemAla_1 3 - - 20:k2 - - - -
+jalASaya_2-body 4 - pl 5:k2 - - - -
+xiKA_3 5 - kqw 20:k7 - - - -
+kara_17-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G376>
+#दिक्सूचक का उपयोग मुख्य दिशा का पता लगाने के लिए किया जाता है।
+xiksUcaka_1 1 - - 20:k2 - - - -
+muKya_18 2 - - 3:mod - - - -
+xiSA_1 3 - - 30:k2 - - - -
+pawA_1 4 - - - - - - 30:kriyAmUla
+lagA_1 5 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:rt - - - -
+upayoga_1 6 - - - - - - 20:kriyAmUla
+kara_1-yA_jAwA_hE_1 7 - - - - - - 20:verbalizer
+[cp_2] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=G377>
+#सभी मानचित्रों के लिए पैमाना आवश्यक है।
+saBI_1 1 - - 2:quant - - - -
+mAnaciwra_1 2 - pl 20:rt - - - -
+pEmAnA_1 3 - - 20:k1 - - - -
+AvaSyaka_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G378>
+#अपनी कक्षा के कमरे का रेखाचित्र खींचें
+apanA_91 1 - - 2:r6 - - - -
+kakRA_1 2 - - 3:mod - - - -
+kamarA_1 3 - - 4:r6 - - - -
+reKAciwra_3 4 - - 20:k2 - - - -
+KIMca_2-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G378b>
+#तथा उस कमरे में रखे सामान जैसे- शिक्षक की मेज, ब्लैकबोर्ड, डेस्क, दरवाजा तथा खिड़कियों को दिखाएँ।
+$wyax 1 - - 2:dem - distal - -
+kamarA_1 2 - - 3:k7p - - - -
+raKa_3-yA_1 3 - - 4:rvks - - - -
+sAmAna_6 4 - pl 20:k2 - - - -
+SikRaka_1 5 - - 6:r6 - - - -
+meja_1 6 - - - - - - 10:op1
+blEkabordZa_96 7 - - - - - - 10:op2
+deska_1 8 - pl - - - - 10:op3
+xaravAjA_1 9 - - - - - - 10:op4
+KidZakI_1 11 - pl - - - - 10:op5
+[conj_1] 10 - - 4:rsm - - - -
+xiKA_3-e_1 20 - - 0:main G378.20:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=G379>
+#अपने स्कूल का एक रेखाचित्र खींचें
+apanA_91 1 - - 2:r6 - - - -
+skUla_1 2 - - 4:r6 - - - -
+eka_1 3 - - 4:card - - - -
+reKAciwra_3 4 - - 20:k2 - - - -
+KIMca_2-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G379b>
+#एवं निम्नलिखित को दर्शाएँ।
+nimnaliKiwa_2 1 - - 20:k2 - - - -
+xarSA_1-e_1 20 - - 0:main G379.20:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=G380>
+#एक मनोरंजन पार्क का रेखाचित्र खींचें
+eka_1 1 - - 3:card - - - -
+manoraMjana_1 2 - - 3:mod - - - -
+pArka_1 3 - - 4:r6 - - - -
+reKAciwra_3 4 - - 20:k2 - - - -
+KIMca_2-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=G380b>
+#जहाँ आप बहुत से मनोरंजक क्रियाकलापों को कर सकते हैं।
+$yax 1 - - 20:k7p G380.3:coref - - -
+$addressee 2 - - 20:k1 - respect - -
+bahuwa_2 3 - - 5:quant - - - -
+manoraMjaka_1 4 - - 5:mod - - - -
+kriyAkalApa_1 5 - pl 20:k2 - - - -
+kara_17-0_sakawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=G381>
+#उदाहरण के लिए झूला, स्लाइड, झूमा-झूमी, चक्र, नौका-विहार, तैरना, हास्यजनक दर्पण में देखना आदि अथवा अपने मन के अनुसार दूसरी चीजें हो सकती हैं।
+uxAharaNa_1 1 - - 20:rt - - - -
+JUlA_1 2 - - - - - - 10:op1
+slAida_1 3 - - - - - - 10:op2
+JUmAJUmI_96 4 - - - - - - 10:op3
+cakra_11-go-round 5 - - - - - - 10:op4
+nOkAvihAra_1 6 - - - - - - 10:op5
+wEra_1 7 - kqw - - - - 10:op6
+hAsyajanaka_1 8 - - 9:mod - - - -
+xarpaNa_1 9 - - 11:k7 - - - -
+xeKa_1 11 - kqw - - - - 10:op7
+Axi_15 12 - - - - - - 10:op8
+[conj_1] 10 - - - - - - 30:op1
+apanA_91 13 - - 14:r6 - - - -
+mana_12 14 - - 15:k7a - - - -
+xUsarA_8 16 - - 15:mod - - - -
+cIja_1 15 - pl - - - - 30:op2
+[disjunct_1] 30 - - 20:k1 - - - -
+ho_6-0_sakawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>

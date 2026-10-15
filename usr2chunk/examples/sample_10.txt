@@ -1,0 +1,149 @@
+"<sent_id=Sent_1>
+#सप्तपुरियों के दर्शन से मिलता है मोक्ष !
+sapwapuri 1 - - - - - - 9:begin
+[ne_1] 9 - pl 3:r6 - - - -
+xarSana_23 3 - - 5:k3 - - - -
+mila_22-wA_hE_1 5 - - 0:main - - - -
+mokRa_8 7 - - 5:k1 - - - -
+%affirmative
+</sent_id>"
+"<sent_id=Sent_13>
+#इसलिए हरिद्वार को गंगा द्वार भी कहते हैं ।
+harixvAra 1 - - - - - - 7:begin
+[ne_1] 7 place - 6:k2 - - - -
+gaMgA 3 female - - - - - 8:begin
+xvAra 4 - - - - - - 8:inside
+[ne_2] 8 per - 6:k2s - BI_1 - -
+kaha_10-wA_hE_1 6 - - 0:main sent_12.17:pariNAma - - -
+%affirmative
+</sent_id>"
+"<sent_id=96>
+#सुरक्षा के लिहाज से गढ़ मुक्तेश्वर में पहले के मुकाबले पुलिस फोर्स ज्यादा लगाई गई है ।
+surakRA_2 1 - - 36:r6 - - - -
+lihAja_8 36 - - 14:rh - - - -
+gaDZa 5 - - - - - - 18:begin
+mukweSvara 6 - - - - - - 18:inside
+[ne_1] 18 place - 14:k7p - - - -
+pahalA_9 8 - - 14:k7t - - - -
+pulisa_1 11 - - 12:mod - - - -
+Porsa_1 12 - comparmore 14:k2 - - - -
+lagA_2-yA_gayA_hE_1 14 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=242>
+#बत्तीस स्तंभों पर खड़े बत्तीसा मंदिर का निर्माण बलुआ पत्थर से हुआ है ।
+32 1 numex - 2:card - - - -
+swaMBa_2 2 - pl 4:k7p - - - -
+KadZA_1 4 - kqw 6:mod - - - -
+bawwIsA 5 - - - - - - 15:begin
+maMxira 6 - - - - - - 15:inside
+[ne_1] 15 place - 8:r6 - - - -
+nirmANa_11 8 - - 12:k1 - - - -
+baluA_2 9 - - 10:mod - - - -
+pawWara_1 10 - - 12:k5prk - - - -
+ho_10-yA_hE_1 12 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=249>
+#बस्तर जिले के विकास खण्ड बस्तर में जगदलपुर से करीब 80 किलोमीटर दूर छिंदक नागवंशी राजा धारावर्षा की रानी गुण्डमहादेवी द्वारा नारायणपाल के विष्णु मंदिर को ई . सन् 1111 में बनवाया गया ।
+baswara 1 - - - - - - 35:begin
+jilA 2 - - - - - - 35:inside
+[ne_1] 35 place - 36:r6 - - - -
+vikAsa 4 - - - - - - 36:begin
+KaNda 5 - - - - - - 36:inside
+baswara 6 - - - - - - 36:inside
+[ne_2] 36 place - 32:k7p - - - -
+jagaxalapura 8 - - - - - - 37:begin
+[ne_3] 37 place - 32:k5 - - - -
+80 11 numex - - - - - 43:count
+kilomItara_1 12 - - - - - - 43:unit
+[dist_meas_1] 43 - - 13:r6 - karIba_1 - -
+xUra_1 13 - - 32:k7p - - - -
+CiMxaka 14 male - - - - - 39:begin
+nAgavaMSI 15 - - - - - - 39:inside
+rAjA 16 - - - - - - 39:inside
+XArAvarRA 17 - - - - - - 39:inside
+[ne_5] 39 per - 19:r6 - - - -
+rAnI_1 19 - - 40:rs - - - -
+guNdamahAxevI 20 female - - - - - 40:begin
+[ne_6] 40 per - 32:pk1 - - - -
+nArAyaNapAla 22 - - - - - - 41:begin
+[ne_7] 41 place - 42:r6 - - - -
+viRNu 24 - - - - - - 42:begin
+maMxira 25 - - - - - - 42:inside
+[ne_8] 42 place - 32:k2 - - - -
+1111 30 yoc - 32:k7t - - - -
+bana_19-yA_gayA_wA_1 32 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=433>
+#गर्भगृह का धरातल गूढ़ मंडप से नीचा है ।
+garBagqha_2 1 - - 3:r6 - - - -
+XarAwala_4 3 - - 8:k1 - - - -
+gUDZa_1 4 - - 5:mod - - - -
+maMdapa_2 5 - - 8:k5 - - - -
+nIcA_4 7 - - 8:k1s - - - -
+hE_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>"
+"<sent_id=490b>
+# और इस तरह वर्तमान केरल की स्थापना हुई ।
+$wyax 13 - - 14:dem - proximal - -
+waraha_11 14 - - 24:krvn - - - -
+varwamAna_1 15 - - 23:mod - - - -
+kerala 16 - - - - - - 23:begin
+[ne_3] 23 place - 18:r6 - - - -
+sWApanA_1 18 - - - - - - 24:kriyAmUla
+ho_1-yA_1 19 - - - - - - 24:verbalizer
+[cp_1] 24 - - 0:main 490a.10:samuccaya - - -
+%affirmative
+</sent_id>"
+"<sent_id=60>
+#यह मंदिर साल में केवल एक बार अक्षय तृतीया को परशुराम जयंती पर दिन भर दर्शनार्थियों के लिए खोला जाता है ।
+$wyax 1 - - 2:dem 59b.13:coref proximal - -
+maMxira_1 2 - - 19:k2 - - - -
+sAla_1 3 - - 19:k7t - - - -
+eka+bAra_1 6 - - 19:k7t - kevala_1 - -
+akRaya 8 - - - - - - 25:begin
+wqwIyA 30 - - - - - - 25:inside
+[ne_2] 25 dom - 23:rs - - - -
+paraSurAma 11 - - - - - - 23:begin
+jayaMwI 12 - - - - - - 23:inside
+[ne_1] 23 - - 19:k7 - - - -
+xina_1 14 - - 19:k7t - - - -
+Bara_27 54 - - 14:mod - - - -
+xarSanArWi_1 16 - pl 19:rt - - - -
+Kola_11-yA_jAwA_hE_1 19 - - 0:main - - - -
+%pass_affirmative
+</sent_id>"
+"<sent_id=237>
+#मामा-भांजा मंदिर दो गर्भगृह युक्त मंदिर है ।
+mAmA-BAMjA 1 - - - - - - 9:begin
+maMxira 2 - - - - - - 9:inside
+[ne_1] 9 place - 7:k1 - - - -
+xo_1 3 numex - 4:card - - - -
+garBagqha_2 4 - - - - - - 10:mod
+yukwa_15 5 - - - - - - 10:head
+maMxira_1 6 - - 7:k1s - - - -
+hE_2-pres 7 - - 0:main - - - -
+[3_waw_1] 10 - - 6:mod - - - -
+%affirmative
+</sent_id>"
+"<sent_id=489>
+#उस समय मलबार प्रदेश मद्रास राज्य ( वर्तमान तमिलनाडु ) का एक जिला मात्र था ।
+$wyax 1 - - 2:dem - distal - -
+samaya_1 2 - - 30:k7t - - - -
+malabAra 3 - - - - - - 16:begin
+praxeSa 4 - - - - - - 16:inside
+[ne_1] 16 place - 30:k1 - - - -
+maxrAsa 5 - - - - - - 17:begin
+rAjya 6 - - - - - - 17:inside
+[ne_2] 17 place - 18:rs - - - -
+varwamAna_1 8 - - 18:mod - - - -
+wamilanAdu 9 - - - - - - 18:begin
+[ne_3] 18 place - 13:r6 - - - -
+eka_2 12 numex - 13:quant - - - -
+jilA_3 13 - - 30:k1s - mAwra_1 - -
+hE_1-past 30 - - 0:main - - - -
+%affirmative
+</sent_id>"

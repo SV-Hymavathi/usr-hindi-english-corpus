@@ -1,0 +1,66 @@
+# TAM suffix (after the verb root) -> tense/aspect/mood used by the verb-group builder (layer D)
+# tam	tense	aspect	modal	note
+pres	present	simple	-	copula hE
+past	past	simple	-	copula WA
+wA_hE_1	present	simple	-
+yA_1	past	simple	-
+yA_hE_1	present	perfect	-
+yA_WA_1	past	perfect	-
+wA_WA_1	past	habitual	-	used to V
+0_rahA_hE_1	present	progressive	-
+yA_jAwA_hE_1	present	simple	-	passive marker jA
+yA_gayA_hE_1	present	perfect	-	passive marker jA
+yA_gayA_hE_2	present	perfect	-
+yA_gayA_1	past	simple	-
+yA_gayA_WA_1	past	perfect	-
+yA_gayA_wA_1	past	perfect	-	gold: had been V-ed
+yA_jAwA_WA_1	past	habitual	-
+yA_wA_1	past	perfect	-	used for past perfect in the data (had V-ed)
+0_sakawA_hE_1	present	simple	can
+yA_jA_sakawA_hE_1	present	simple	can
+nA_padZawA_hE_1	present	simple	have to
+nA_padZawA_WA_1	past	simple	have to
+nA_cAhie_1	present	simple	should
+e_1	present	simple	may	subjunctive
+e_2	present	simple	may	subjunctive
+yA_jA_e_1	present	simple	may
+yA_hogA_1	future	perfect	may	presumptive: may have V-ed
+wA_hogA_1	present	simple	would	presumptive habitual (would be)
+yA_nA_lagA_1	past	simple	begin	started to be V-ed
+nA_lagA_1	past	simple	begin	began to V
+yA_jA_rahA_hE_1	present	progressive	-
+gA_1	future	simple	-
+nA_ho_1	present	simple	have to	(V-nA ho = has to be V-ed)
+yA_sakwA_hE_1	present	simple	can	passive-capable (can be V-ed)
+yA_gayA_ho_1	future	perfect	may	presumptive (may have been V-ed)
+jA_sakawA_hE_1	present	simple	can
+wA_wA_1	past	habitual	-	variant spelling of wA_WA_1
+yA_sakawA_hE_1	present	simple	can	variant (jA dropped)
+sakawA_hE_1	present	simple	can
+yA_jA_yA_hE_1	present	perfect	-	passive perfect
+hE_1	present	simple	-
+wA_1	present	simple	-
+0_raha_1	present	progressive	-
+yA1_ho_1	future	perfect	may
+e_1_hE_1	present	simple	-
+yA_jA_nA_cAhie_1	present	simple	should
+yA_sakawA_1	present	simple	can
+yA_1_wA_hE_1	present	simple	-
+nA_hE_1	present	simple	have to
+yA_saka_hE_1	present	simple	can
+yA_raha_hE_1	present	progressive	-
+0_ho_1	present	simple	-
+0_jAezge_1	future	simple	-
+nA_padZegA_1	future	simple	have to	will have to
+wA_1_hE_1	present	simple	-	variant of wA_hE_1
+yA_gayA1_wA_1	past	perfect	-	variant of yA_gayA_WA_1
+wA_raha_e_1	present	simple	keep
+wA_raha_wA_hE_1	present	simple	keep
+wA_jA_wA_hE_1	present	simple	keep
+nA_lagawA_hE_1	present	simple	start
+yA_jAe_1	present	simple	should
+nA_lagegA_1	future	simple	start
+yA_jA_rahA_WA_1	past	progressive	-
+nA_padZa_sakawA_hE_1	present	simple	have to
+nA_hogA_1	future	simple	have to
+0_sakegA_1	future	simple	can

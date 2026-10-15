@@ -1,0 +1,4612 @@
+<sent_id=H001>
+#ताजा साँसें और चमचमाते दाँत आपके व्यक्तित्व को निखारते हैं .
+wAjA_1 1 - - 2:mod - - - -
+sAzsa_1 2 - pl - - - - 10:op1
+camacamA_1 4 - - 5:rvks - - - -
+xAzwa_1 5 - pl - - - - 10:op2
+[conj_1] 10 - - 9:k1 - - - -
+$addressee 6 - - 7:r6 - respect - -
+vyakwiwva_1 7 - - 9:k2 - - - -
+niKAra_91-wA_hE_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H002>
+#दाँतों से आपका आत्मविश़्वास भी बढ़ता है .
+xAzwa_1 1 - pl 5:k3 - - - -
+$addressee 2 - - 3:r6 - respect - -
+AwmaviSvAsa_1-confidence 3 - - 5:k1 - BI_1 - -
+baDZa_1-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H003>
+#हमारे मसूढ़ों और दाँतों के बीच बैक्टीरिया मौजूद होते हैं .
+$speaker 1 - pl 10:r6 - - - -
+masUDZA_1 2 - pl - - - - 10:op1
+xAzwa_1 4 - pl - - - - 10:op2
+[conj_1] 10 - - 6:rdl - - - -
+bIca_11 6 - - 9:k7p - - - -
+bEktIriyA_1 7 - pl 9:k1 - - - -
+mOjUxa_1 8 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H004>
+#ये दाँतों को गंदा और साँसों को बदबूदार बना देते हैं .
+$wyax 1 - pl 10:k1 H003.7:coref proximal - -
+xAzwa_1 2 - pl 10:k2 - - - -
+gaMxA_1 3 - - 10:k2s - - - -
+banA_1-wA_hE_1 10 - - 0:main - [shade:xe_1] - -
+%affirmative
+</sent_id>
+<sent_id=H004b>
+#और साँसों को बदबूदार बना देते हैं .
+$wyax 1 - pl 10:k1 H003.7:coref proximal - -
+sAzsa_1 5 - pl 10:k2 - - - -
+baxabUxAra_1 6 - - 10:k2s - - - -
+banA_1-wA_hE_1 10 - - 0:main H004.10:samuccaya [shade:xe_1] - -
+%affirmative
+</sent_id>
+<sent_id=H005>
+#यहाँ दिए कुछ आसान नुस्खों की मदद से आप अपने दाँतों को स्वच्छ और साँसों को ताजा रख सकते हैं .
+$wyax 1 - - 2:k7p - proximal - -
+xe_1 2 - - 5:rbks - - - -
+kuCa_1 3 - - 5:quant - - - -
+AsAna_1 4 - - 5:mod - - - -
+nusKA_9 5 - pl 7:r6 - - - -
+maxaxa_1 7 - - 15:k3 - - - -
+$addressee 8 - - 15:k1 - respect - -
+$apanA 9 - pl 10:r6 - - - -
+xAzwa_1 10 - pl 15:k2 - - - -
+svacCa_1 11 - - 15:k2s - - - -
+raKa_3-0_sakawA_hE_1 15 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H005b>
+#और साँसों को ताजा रख सकते हैं .
+$addressee 8 - - 15:k1 - respect - -
+sAzsa_1 12 - pl 15:k2 - - - -
+wAjA_1 13 - - 15:k2s - - - -
+raKa_3-0_sakawA_hE_1 15 - - 0:main H005.15:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H006>
+#दाँतों को ठीक से साफ करें .
+xAzwa_1 1 - pl 10:k2 - - - -
+TIka_4 2 - - 10:krvn - - - -
+sAPa_9 3 - - - - - - 10:kriyAmUla
+kara_1-e_1 4 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H007>
+#दाँतों को ठीक से साफ करने में दो से तीन मिनट का समय लगता है .
+xAzwa_1 1 - pl 20:k2 - - - -
+TIka_4 2 - - 20:krvn - - - -
+sAPa_9 3 - - - - - - 20:kriyAmUla
+kara_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - kqw 12:k7 - - - -
+xo_1 5 numex - - - - - 30:start
+wIna_1 6 numex - - - - - 30:end
+[span_1] 30 - - 8:card - - - -
+minata_1 8 - pl 10:r6 - - - -
+samaya_1 10 - - 12:k1 - - - -
+laga_1-wA_hE_1 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H008>
+#लेकिन ज्यादातर लोग इसके लिए एक मिनट से भी कम समय देते हैं .
+jyAxAwara_3 1 - - 2:quant - - - -
+loga_2 2 - pl 12:k1 - - - -
+$wyax 3 - - 12:rt H007.12:coref proximal - -
+eka_1 5 numex - 6:card - - - -
+minata_1 6 - - 8:rv - BI_1 - -
+kama_4 8 - - 10:mod - - - -
+samaya_1 10 - - 12:k2 - - - -
+xe_1-wA_hE_1 12 - - 0:main H007.12:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=H009>
+#खूब पानी पीएँ .
+KUba_1 1 - - 2:quant - - - -
+pAnI_1 2 - - 3:k2 - - - -
+pI_1-e_1 3 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H010>
+#मुँह सूखने पर बैक्टीरिया हमला तेज कर देते हैं .
+muzha_12 1 - - 2:k1 - - - -
+sUKa_4 2 - - 10:rblsk - - - -
+bEktIriyA_1 4 - pl 10:k1 - - - -
+hamalA_1 5 - - 10:k2 - - - -
+weja_9 6 - - - - - - 10:kriyAmUla
+kara_1-wA_hE_1 7 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H011>
+#इससे साँसों से बदबू आने लगती है .
+$wyax 1 - - 5:rh H010.10:coref proximal - -
+sAzsa_1 2 - pl 5:k5 - - - -
+baxabU_1 3 - - 5:k1 - - - -
+A_1-nA_lagawA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H012a>
+#खूब पानी पीने से न केवल खाने के बचे-खुचे टुकड़े साफ हो जाते हैं ,
+KUba_1 1 - - 2:quant - - - -
+pAnI_1 2 - - 3:k2 - - - -
+pI_1 3 - kqw 20:rh - - - -
+KAnA_1 6 - - 8:r6 - - - -
+bacA_11 7 - - 8:rbks - - - -
+tukadZA_1 8 - pl 20:k1 - nakevala_1 - -
+sAPa_9 9 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 10 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H012b>
+#बल्कि लार भी बनती है .
+lAra_2 1 - - 2:k1 - BI_1 - -
+bana_21-wA_hE_1 2 - - 0:main H012a.20:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=H013>
+#मुँह साफ रखने में लार की खास भूमिका होती है .
+muzha_12 1 - - 3:k2 - - - -
+sAPa_5 2 - - 3:k2s - - - -
+raKa_3 3 - kqw 9:k7 - - - -
+lAra_2 5 - - 8:r6 - - - -
+KAsa_9 7 - - 8:mod - - - -
+BUmikA_2 8 - - 9:k1 - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H014>
+#लार उन बैक्टीरिया को नष्ट करती है जो साँसों में बदबू पैदा करते हैं .
+lAra_2 1 - - 20:k1 - - - -
+$wyax 2 - pl 3:dem - distal - -
+bEktIriyA_1 3 - pl 20:k2 - - - -
+naRta_9 4 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+$yax 6 - pl 21:k1 3:coref - - -
+sAzsa_1 7 - pl 21:k7 - - - -
+baxabU_1 8 - - 21:k2 - - - -
+pExA_2 9 - - - - - - 21:kriyAmUla
+kara_1-wA_hE_1 10 - - - - - - 21:verbalizer
+[cp_2] 21 - - 3:rcelab - - - -
+%affirmative
+</sent_id>
+<sent_id=H015>
+#चबाएँ शुगर रहित च्युइंग गम .
+cabA_1-e_1 1 - - 0:main - - - -
+Sugara_1 2 - - 3:mod - - - -
+rahiwa_3 3 - - 5:mod - - - -
+cuiMga_9 4 - - - - - - 6:mod
+gama_1 5 - - - - - - 6:head
+[nc_1] 6 - - 1:k2 - - - -
+%imperative
+</sent_id>
+<sent_id=H016>
+#च्युइंग गम चबाने से लार बनती है .
+cuiMga_9 1 - - - - - - 6:mod
+gama_1 2 - - - - - - 6:head
+[nc_1] 6 - - 3:k2 - - - -
+cabA_1 3 - kqw 5:rh - - - -
+lAra_2 4 - - 5:k1 - - - -
+bana_21-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H017>
+#च्युइंग गम से दाँतों को साफ रखने में मदद मिलती है .
+cuiMga_9 1 - - - - - - 6:mod
+gama_1 2 - - - - - - 6:head
+[nc_1] 6 - - 10:k3 - - - -
+xAzwa_1 3 - pl 5:k2 - - - -
+sAPa_5 4 - - 5:k2s - - - -
+raKa_3 5 - kqw 10:k7 - - - -
+maxaxa_1 8 - - 10:k1 - - - -
+mila_22-wA_hE_1 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H018>
+#शुगर युक्त गम को सेहत के लिए अच्छा नहीं माना जाता .
+Sugara_1 1 - - 2:k3 - - - -
+yukwa_15 2 - - 3:mod - - - -
+gama_1 3 - - 10:k2 - - - -
+sehawa_1 4 - - 10:rt - - - -
+acCA_1 6 - - 10:k2s - - - -
+nahIM_1 7 - - 10:neg - - - -
+mAna_1-yA_jAwA_hE_1 10 - - 0:main - - - -
+%pass_negative
+</sent_id>
+<sent_id=H019>
+#इसलिए डेंटिस्ट शुगर युक्त गम को खाने की सलाह नहीं देते .
+deMtista_9 1 - pl 10:k1 - - - -
+Sugara_1 2 - - 3:k3 - - - -
+yukwa_15 3 - - 4:mod - - - -
+gama_1 4 - - 5:k2 - - - -
+KA_1 5 - kqw 10:k2 - - - -
+salAha_1 6 - - - - - - 10:kriyAmUla
+nahIM_1 7 - - 10:neg - - - -
+xe_1-wA_hE_1 8 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main H018.10:pariNAma - - -
+%negative
+</sent_id>
+<sent_id=H020>
+#नियमित रूप से कराएँ दाँतों की जाँच .
+niyamiwa_1 1 - - 2:mod - - - -
+rUpa_1 2 - - 10:krvn - - - -
+xAzwa_1 3 - pl 4:r6 - - - -
+jAzca_9 4 - - - - - - 10:kriyAmUla
+karA_1-e_1 5 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H021>
+#दंतचिकित्सक से दाँतों की जाँच नियमित रूप से कराएँ .
+xaMwacikiwsaka_1 1 - - 10:mk1 - - - -
+xAzwa_1 2 - pl 4:r6 - - - -
+jAzca_9 4 - - - - - - 10:kriyAmUla
+niyamiwa_1 5 - - 6:mod - - - -
+rUpa_1 6 - - 10:krvn - - - -
+karA_1-e_1 7 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H022>
+#वे दाँतों की छोटी-मोटी समस्या को आसानी से सुलझा देते हैं .
+$wyax 1 - pl 10:k1 H021.1:coref distal - -
+xAzwa_1 2 - pl 4:r6 - - - -
+CotA_1 3 - xviwva 4:mod - - - -
+samasyA_1 4 - pl 10:k2 - - - -
+AsAnI_5 5 - - 10:krvn - - - -
+sulaJA_96-wA_hE_1 10 - - 0:main - [shade:xe_1] - -
+%affirmative
+</sent_id>
+<sent_id=H023>
+#खाने के बाद मुँह साफ करें .
+KAnA_2 1 - - 3:r6 - - - -
+bAxa_1 3 - - 10:k7t - - - -
+muzha_12 4 - - 10:k2 - - - -
+sAPa_9 5 - - - - - - 10:kriyAmUla
+kara_1-e_1 6 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H024>
+#हर बार खाने के बाद पानी से मुँह जरूर साफ करें .
+hara_2 1 - - 2:quant - - - -
+bAra_15 2 - - 10:k7t - - - -
+KA_1 3 - kqw 5:r6 - - - -
+bAxa_1 5 - - 10:k7t - - - -
+pAnI_1 6 - - 10:k3 - - - -
+muzha_12 7 - - 10:k2 - - - -
+jarUra_1 8 - - 10:krvn - - - -
+sAPa_9 9 - - - - - - 10:kriyAmUla
+kara_1-e_1 11 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H025>
+#इससे खाने के बचे हुए टुकड़े साफ हो जाते हैं .
+$wyax 1 - - 20:rh H024.10:coref proximal - -
+KAnA_1 2 - - 4:r6 - - - -
+bacA_11 3 - - 4:rbks - - - -
+tukadZA_1 4 - pl 20:k1 - - - -
+sAPa_9 5 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H026>
+#नींबू और नमक के मिश्रण से दाँत साफ करें .
+nIMbU_2 1 - - - - - - 10:op1
+namaka_1 2 - - - - - - 10:op2
+[conj_1] 10 - - 4:r6 - - - -
+miSraNa_1 4 - - 20:k3 - - - -
+xAzwa_1 5 - pl 20:k2 - - - -
+sAPa_9 6 - - - - - - 20:kriyAmUla
+kara_1-e_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H027>
+#एक चम्मच में नमक लेकर उसमें तीन से चार बूँदें नींबू की डाल लें .
+eka_1 1 numex - 2:card - - - -
+cammaca_1 2 - - 4:k7p - - - -
+namaka_1 3 - - 4:k2 - - - -
+le_1 4 - - 10:rpk - - - -
+$wyax 5 - - 10:k7p 2:coref distal - -
+wIna_1 6 numex - - - - - 30:start
+cAra_1 7 numex - - - - - 30:end
+[span_1] 30 - - 8:card - - - -
+bUzxa_1 8 - pl 10:k2 - - - -
+nIMbU_2 9 - - 8:r6 - - - -
+dAla_2-e_1 10 - - 0:main - [shade:le_1] - -
+%imperative
+</sent_id>
+<sent_id=H028>
+#हर हफ्ते इस मिश्रण से दाँतों को साफ करें .
+hara_2 1 - - 2:quant - - - -
+haPwA_1 2 - - 20:k7t - - - -
+$wyax 3 - - 4:dem - proximal - -
+miSraNa_1 4 - - 20:k3 - - - -
+xAzwa_1 5 - pl 20:k2 - - - -
+sAPa_9 6 - - - - - - 20:kriyAmUla
+kara_1-e_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H029a>
+#इससे न केवल दाँत चमचमाने लगते हैं
+$wyax 1 - - 3:rh H028.4:coref proximal - -
+xAzwa_1 2 - pl 3:k1 - nakevala_1 - -
+camacamA_1-nA_lagawA_hE_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H029b>
+#बल्कि साँसों की दुर्गंध से भी छुटकारा मिलता है .
+sAzsa_1 1 - pl 2:r6 - - - -
+xurgaMXa_2 2 - - 4:k5 - BI_1 - -
+CutakArA_5 3 - - 4:k1 - - - -
+mila_22-wA_hE_1 4 - - 0:main H029a.3:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=H030a>
+#सेहत है
+sehawa_1 1 - - 2:k1 - - - -
+hE_1-pres 2 - - 0:main H030b.2:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=H030b>
+#तो सब है .
+saba_1 1 - - 2:k1 - - - -
+hE_1-pres 2 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H031>
+#आज की व्यस्त जिंदगी में खुद को स्वस्थ रखना किसी चुनौती से कम नहीं .
+Aja_1 1 - - 3:r6 - - - -
+vyaswa_1 2 - - 3:mod - - - -
+jiMxagI_2 3 - - 6:k7 - - - -
+Kuxa_9 4 - - 6:k2 - - - -
+svasWa_1 5 - - 6:k2s - - - -
+raKa_3 6 - kqw 10:k1 - - - -
+koI_9 7 - - 8:quant - - - -
+cunOwI_1 8 - - 9:rv - - - -
+kama_4 9 - - 10:k1s - - - -
+nahIM_1 11 - - 10:neg - - - -
+hE_1-pres 10 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H032>
+#लेकिन खान-पान पर ध्यान और जीवनशैली में थोड़ा बदलाव लाकर आप खुद को स्वस्थ रख सकते हैं .
+KAnapAna_9 1 - - 2:k7 - - - -
+XyAna_1 2 - - - - - - 10:op1
+jIvanaSElI_2 3 - - 5:k7 - - - -
+WodZA_1 4 - - 5:quant - - - -
+baxalAva_1 5 - - - - - - 10:op2
+[conj_1] 10 - - 11:k2 - - - -
+lA_1 11 - - 20:rpk - - - -
+$addressee 12 - - 20:k1 - respect - -
+Kuxa_9 13 - - 20:k2 - - - -
+svasWa_1 14 - - 20:k2s - - - -
+raKa_3-0_sakawA_hE_1 20 - - 0:main H031.10:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=H033>
+#कम वसायुक्त आहार का करें सेवन .
+kama_4 1 - - 2:mod - - - -
+vasAyukwa_1 2 - - 3:mod - - - -
+AhAra_1 3 - - 5:r6 - - - -
+sevana_9 5 - - - - - - 10:kriyAmUla
+kara_1-e_1 4 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H034>
+#खाना वही खाएँ जिसमें कम वसा और फाइबर ज्यादा हो .
+KAnA_1 1 - - 3:k2 - - - -
+$wyax 2 - - 1:dem - distal/hI_1 - -
+KA_1-e_1 3 - - 0:main - - - -
+$yax 4 - - 10:k7 1:coref - - -
+kama_4 5 - - 6:mod - - - -
+vasA_1 6 - - - - - - 20:op1
+PAibara_9 7 - - - - - - 20:op2
+jyAxA_1 8 - - 7:mod - - - -
+[conj_1] 20 - - 10:k1 - - - -
+hE_1-pres 10 - - 1:rcelab - - - -
+%imperative
+</sent_id>
+<sent_id=H035>
+#फलों और सब्जियों में ऐसा ही अनुपात रहता है .
+Pala_1 1 - pl - - - - 10:op1
+sabjI_1 2 - pl - - - - 10:op2
+[conj_1] 10 - - 5:k7 - - - -
+$wyax 3 - - 4:dem - proximal/hI_1 - -
+anupAwa_2 4 - - 5:k1 - - - -
+raha_3-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H036>
+#कम वसा और फाइबर वाले खाने से वजन नियंत्रित करने में मदद मिलती है .
+kama_4 1 - - 2:mod - - - -
+vasA_1 2 - - - - - - 10:op1
+PAibara_9 3 - - - - - - 10:op2
+[conj_1] 10 - - 4:mod - - - -
+KAnA_1 4 - - 12:k3 - - - -
+vajana_1 5 - - 20:k2 - - - -
+niyaMwriwa_1 6 - - - - - - 20:kriyAmUla
+kara_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - kqw 12:k7 - - - -
+maxaxa_1 8 - - 12:k1 - - - -
+mila_22-wA_hE_1 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H037>
+#कम वसा और फाइबर वाले खाने से आप कई बीमारियों से भी दूर रहते हैं .
+kama_4 1 - - 2:mod - - - -
+vasA_1 2 - - - - - - 10:op1
+PAibara_9 3 - - - - - - 10:op2
+[conj_1] 10 - - 4:mod - - - -
+KAnA_1 4 - - 12:k3 - - - -
+$addressee 5 - - 12:k1 - respect - -
+kaI_5 6 - - 7:quant - - - -
+bImArI_3 7 - pl 8:k5 - BI_1 - -
+xUra_15 8 - - 12:k1s - - - -
+raha_3-wA_hE_1 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H038>
+#नमक और शराब का सेवन कम करें .
+namaka_1 1 - - - - - - 10:op1
+SarAba_5 2 - - - - - - 10:op2
+[conj_1] 10 - - 4:r6 - - - -
+sevana_96 4 - - 20:k2 - - - -
+kama_4 5 - - - - - - 20:kriyAmUla
+kara_1-e_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H039>
+#ब्लड प्रेशर और कोलेस्ट्राल को नियंत्रित करने के लिए नमक और शराब का सेवन कम से कम मात्रा में करें .
+blada_1 1 - - - - - - 11:mod
+preSara_1 2 - - - - - - 11:head
+[nc_1] 11 - - - - - - 10:op1
+kolestrAla_9 3 - - - - - - 10:op2
+[conj_1] 10 - - 20:k2 - - - -
+niyaMwriwa_1 4 - - - - - - 20:kriyAmUla
+kara_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - kqw 40:rt - - - -
+namaka_1 6 - - - - - - 30:op1
+SarAba_5 7 - - - - - - 30:op2
+[conj_2] 30 - - 40:k2 - - - -
+sevana_9 9 - - - - - - 40:kriyAmUla
+kamasekama_1 14 - - 12:mod - - - -
+mAwrA_1 12 - - 40:k7 - - - -
+kara_1-e_1 13 - - - - - - 40:verbalizer
+[cp_3] 40 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H040>
+#बंद करें धूम्रपान .
+baMxa_9 1 - - - - - - 10:kriyAmUla
+kara_1-e_1 2 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+XUmrapAna_1 3 - - 10:k2 - - - -
+%imperative
+</sent_id>
+<sent_id=H041>
+#धूम्रपान करने से कैंसर समेत कई बीमारियों का खतरा होता है .
+XUmrapAna_1 1 - - - - - - 20:kriyAmUla
+kara_1 2 - - - - - - 20:verbalizer
+[cp_1] 20 - kqw 10:rh - - - -
+kEMsara_1 3 - - 5:rsm - - - -
+kaI_1 4 - - 5:quant - - - -
+bImArI_3 5 - pl 6:r6 - - - -
+KawarA_5 6 - - 10:k1 - - - -
+hE_1-pres 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H042>
+#इसे छोड़ने की पूरी कोशिश करें .
+$wyax 1 - - 2:k2 H041.20:coref proximal - -
+CodZa_91 2 - kqw 4:r6 - - - -
+pUrA_5 3 - - 20:krvn - - - -
+koSiSa_1 4 - - - - - - 20:kriyAmUla
+kara_1-e_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H043>
+#रोज करें व्यायाम .
+roja_3 1 - - 3:k7t - - - -
+vyAyAma_1 2 - - - - - - 3:kriyAmUla
+kara_1-e_1 4 - - - - - - 3:verbalizer
+[cp_1] 3 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H044>
+#अपनी रोज की दिनचर्या में व्यायाम को जरूर शामिल करें .
+$addressee 1 - - 3:r6 - - - -
+roja_3 2 - - 3:mod - - - -
+xinacaryA_9 3 - - 20:k7 - - - -
+vyAyAma_1 4 - - 20:k2 - - - -
+jarUra_1 5 - - 20:krvn - - - -
+SAmila_1 6 - - - - - - 20:kriyAmUla
+kara_1-e_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H045>
+#नियमित व्यायाम से आप हृदय रोग , कोलन कैंसर , ब्लड प्रेशर और डायबिटीज जैसी बीमारियों से बचाव कर सकते हैं .
+niyamiwa_1 1 - - 2:mod - - - -
+vyAyAma_1 2 - - 30:k3 - - - -
+$addressee 3 - - 30:k1 - respect - -
+hqxaya_2 4 - - - - - - 41:mod
+roga_1 5 - pl - - - - 41:head
+[nc_1] 41 - pl - - - - 40:op1
+kolana_1 6 - - - - - - 42:mod
+kEMsara_1 7 - - - - - - 42:head
+[nc_2] 42 - - - - - - 40:op2
+blada_1 8 - - - - - - 43:mod
+preSara_1 9 - - - - - - 43:head
+[nc_3] 43 - - - - - - 40:op3
+dAyabitIja_1 10 - - - - - - 40:op4
+[conj_1] 40 - - 12:rsm - - - -
+bImArI_3 12 - pl 30:k5 - - - -
+bacAva_9 13 - - - - - - 30:kriyAmUla
+kara_1-0_sakawA_hE_1 14 - - - - - - 30:verbalizer
+[cp_1] 30 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H046>
+#करते रहें हल्की - फुल्की शारीरिक गतिविधियाँ .
+kara_17-wA_raha_e_1 1 - - 0:main - - - -
+halkA_1 2 - - 4:mod - - - -
+SArIrika_1 3 - - 4:mod - - - -
+gawiviXi_1 4 - pl 1:k2 - - - -
+%imperative
+</sent_id>
+<sent_id=H047>
+#सीढ़ी चढ़ना , बागवानी , घर के छोटे - मोटे काम या डांस करने जैसी हल्की - फुल्की शारीरिक गतिविधियाँ जरूर करते रहें .
+sIDZI_7 1 - pl 2:k2 - - - -
+caDZa_2 2 - kqw - - - - 40:op1
+bAgavAnI_1 3 - - - - - - 40:op2
+Gara_2 4 - - 6:r6 - - - -
+CotA_1 5 - - 6:mod - - - -
+kAma_1 6 - pl - - - - 40:op3
+dAMsa_1 7 - - - - - - 50:kriyAmUla
+kara_1 8 - - - - - - 50:verbalizer
+[cp_1] 50 - kqw - - - - 40:op4
+[disjunct_1] 40 - - 11:rsm - - - -
+halkA_1 9 - - 11:mod - - - -
+SArIrika_1 10 - - 11:mod - - - -
+gawiviXi_1 11 - pl 13:k2 - - - -
+jarUra_1 12 - - 13:krvn - - - -
+kara_17-wA_raha_e_1 13 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H048>
+#इनसे शरीर में लचीलापन बना रहता है .
+$wyax 1 - pl 5:k3 H047.11:coref proximal - -
+SarIra_1 2 - - 5:k7p - - - -
+lacIlApana_1 3 - - 5:k1 - - - -
+banA_91-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H049>
+#यदि लगातार बुखार आ रहा है तो उसकी जाँच अवश्य करायें .
+lagAwAra_1 1 - - 3:krvn - - - -
+buKAra_1 2 - - 3:k1 - - - -
+A_1-0_rahA_hE_1 3 - - 0:main H049b.20:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=H049b>
+#उसकी जाँच अवश्य करायें .
+$wyax 1 - - 20:k2 H049.2:coref distal - -
+avaSya_1 2 - - 20:krvn - - - -
+jAzca_9 3 - - - - - - 20:kriyAmUla
+karA_1-e_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H050>
+#मलेरिया , कालाजार , यक्ष्मा की शुरुआत बुखार से ही होती है .
+maleriyA_1 1 - - - - - - 10:op1
+kAlAjAra_9 2 - - - - - - 10:op2
+yakRmA_1 3 - - - - - - 10:op3
+[conj_1] 10 - - 5:k1 - - - -
+buKAra_1 4 - - 5:k3 - hI_1 - -
+SurU_3 6 - - - - - - 5:kriyAmUla
+ho_1-wA_hE_1 7 - - - - - - 5:verbalizer
+[cp_1] 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H051>
+#गर्मी का मौसम शुरू हो चुका है .
+garmI_4 1 - - 2:r6 - - - -
+mOsama_1 2 - - 20:k1 - - - -
+SurU_3 3 - - - - - - 20:kriyAmUla
+ho_1-yA_hE_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H052>
+#बासी भोजन व सड़क किनारे बिकने वाले सामान का सेवन नहीं करें .
+bAsI_1 1 - - 2:mod - - - -
+Bojana_1 2 - - - - - - 10:op1
+sadZaka_1 3 - - 4:r6 - - - -
+kinArA_6 4 - - 5:k7p - - - -
+bika_1 5 - - 6:rvks - - - -
+sAmAna_6 6 - pl - - - - 10:op2
+[conj_1] 10 - - 20:k2 - - - -
+sevana_9 7 - - - - - - 20:kriyAmUla
+nahIM_1 8 - - 20:neg - - - -
+kara_1-e_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H053>
+#बच्चों को फास्ट फूड , कुरकुरे , आइसक्रीम नहीं खिलायें .
+baccA_1 1 - pl 10:k4 - - - -
+PAsta_1 2 - - - - - - 21:mod
+PUda_1 3 - - - - - - 21:head
+[nc_1] 21 - - - - - - 20:op1
+kurakure 4 - - - - - - 22:begin
+[ne_1] 22 - - - - - - 20:op2
+AisakrIma_9 5 - - - - - - 20:op3
+[conj_1] 20 - - 10:k2 - - - -
+nahIM_1 6 - - 10:neg - - - -
+KilA_1-e_1 10 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H054>
+#कै-दस्त होने पर नमक और चीनी का घोल या ओ.आर.एस पिलायें .
+kE_3 1 - - - - - - 30:op1
+xaswa_3 2 - - - - - - 30:op2
+[conj_1] 30 - - 3:k1 - - - -
+ho_10 3 - kqw 10:k7t - - - -
+namaka_1 4 - - - - - - 31:op1
+cInI_1 5 - - - - - - 31:op2
+[conj_2] 31 - - 6:r6 - - - -
+Gola_1 6 - - - - - - 32:op1
+@o.Ara.esa 7 - - - - - - 32:op2
+[disjunct_1] 32 - - 10:k2 - - - -
+pilA_91-e_1 10 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H055>
+#साफ पानी अधिक से अधिक पीयें .
+sAPa_5 1 - - 2:mod - - - -
+pAnI_1 2 - - 4:k2 - - - -
+aXikaseaXika_9 3 - - 2:quant - - - -
+pI_1-e_1 4 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H056>
+#लगातार बुखार से पीड़ित हो ?
+$addressee 1 - - 5:k1 - - - -
+lagAwAra_4 2 - - 3:mod - - - -
+buKAra_1 3 - - 5:k5 - - - -
+pIdZiwa_9 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H057>
+#कालाजार , मलेरिया या फिर हाई फीवर हो सकता है .
+kAlAjAra_9 1 - - - - - - 10:op1
+maleriyA_1 2 - - - - - - 10:op2
+hAI_1 3 - - 4:mod - - - -
+PIvara_9 4 - - - - - - 10:op3
+[disjunct_1] 10 - - 5:k1 - - - -
+ho_10-0_sakawA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H058>
+#मेरा बच्चा दस्त और बुखार दोनों पीड़ित है ?
+$speaker 1 - - 2:r6 - - - -
+baccA_1 2 - - 6:k1 - - - -
+xaswa_3 3 - - - - - - 10:op1
+buKAra_1 4 - - - - - - 10:op2
+[conj_1] 10 - - 6:k5 - - - -
+xonoM_9 7 - - 10:quant - - - -
+pIdZiwa_9 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H059>
+#पहले ओ.आर.एस. का घोल पिलायें ,
+pahale_5 1 - - 4:k7t - - - -
+@o.Ara.esa 2 - - 3:r6 - - - -
+Gola_1 3 - - 4:k2 - - - -
+pilA_91-e_1 4 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H059b>
+#इसके बाद बच्चे को किसी शिशु रोग विशेषज्ञ से शीघ्र दिखायें .
+$wyax 1 - - 2:r6 H059.4:coref proximal - -
+bAxa_1 2 - - 10:k7t - - - -
+baccA_1 3 - - 10:k2 - - - -
+koI_9 4 - - 7:quant - - - -
+SiSu_3 5 - - - - - - 7:mod
+roga_1 6 - - - - - - 7:mod
+viSeRajFa_1 8 - - - - - - 7:head
+[nc_1] 7 - - 10:k3 - - - -
+SIGra_5 9 - - 10:krvn - - - -
+xiKA_3-e_1 10 - - 0:main H059.4:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H060>
+#ढाई - तीन वर्षो से हर दो - तीन माह पर फीवर हो जाता है .
+DAI_96 1 numex - - - - - 30:start
+wIna_1 2 numex - - - - - 30:end
+[span_1] 30 - - 3:card - - - -
+varRa_1 3 - pl 10:k7t - - - -
+hara_2 4 - - 7:quant - - - -
+xo_1 5 numex - - - - - 31:start
+wIna_1 6 numex - - - - - 31:end
+[span_2] 31 - - 7:card - - - -
+mAha_1 7 - pl 10:k7t - - - -
+PIvara_9 8 - - 10:k1 - - - -
+ho_9-wA_hE_1 10 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H061>
+#यही नहीं जीभ पर सफेद परत जम जाती है .
+yahI_9 1 - - 6:krvn - - - -
+jIBa_1 2 - - 6:k7p - - - -
+saPexa_1 3 - - 4:mod - - - -
+parawa_1 4 - - 6:k1 - - - -
+jama_91-wA_hE_1 6 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H062>
+#पानी की मात्रा ज्यादा लें
+pAnI_1 1 - - 2:r6 - - - -
+mAwrA_1 2 - - 4:k2 - - - -
+jyAxA_1 3 - - 2:mod - - - -
+le_1-e_1 4 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H062b>
+#और यूरीन कल्चर जाँच करायें .
+yUrIna_9 1 - - - - - - 10:mod
+kalcara_2 2 - - - - - - 10:head
+jAzca_9 3 - - - - - - 20:kriyAmUla
+[nc_1] 10 - - 20:k2 - - - -
+karA_1-e_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H062.4:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H063>
+#कालाजार के प्रारंभिक लक्षण क्या हैं ?
+kAlAjAra_9 1 - - 3:r6 - - - -
+prAraMBika_5 2 - - 3:mod - - - -
+lakRaNa_1 3 - pl 5:k1 - - - -
+$kim 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H064>
+#कुछ दिनों से हल्का फीवर रहता है .
+kuCa_1 1 - - 2:quant - - - -
+xina_1 2 - pl 5:k7t - - - -
+halkA_1 3 - - 4:mod - - - -
+PIvara_9 4 - - 5:k1 - - - -
+raha_3-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H065>
+#बुखार की जाँच करें
+buKAra_1 1 - - 20:k2 - - - -
+jAzca_9 2 - - - - - - 20:kriyAmUla
+kara_1-e_1 3 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H065b>
+#और अन्य जरूरी जाँच के पश्चात ही कालाजार प्रमाणित हो सकता है .
+anya_1 1 - - 3:mod - - - -
+jarUrI_96 2 - - 3:mod - - - -
+jAzca_3 3 - pl 4:r6 - - - -
+paScAwa_91 4 - - 20:k7t - hI_1 - -
+kAlAjAra_9 5 - - 20:k1 - - - -
+pramANiwa_5 6 - - 20:k1s - - - -
+ho_6-0_sakawA_hE_1 20 - - 0:main H065.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H066>
+#मेटासिन की गोली देने से बुखार उतर जाता है
+metAsina 1 - - - - - - 10:begin
+[ne_1] 10 - - 2:r6 - - - -
+golI_3 2 - - 3:k2 - - - -
+xe_1 3 - kqw 5:rh - - - -
+buKAra_1 4 - - 5:k1 - - - -
+uwara_91-wA_hE_1 5 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H066b>
+#और फिर 103 तक बुखार चढ़ जाता है .
+Pira_2 1 - - 4:krvn - - - -
+103 2 numex - - - - - 30:end
+[span_1] 30 - - 4:k7 - - - -
+buKAra_1 3 - - 4:k1 - - - -
+caDZa_3-wA_hE_1 4 - - 0:main H066.5:samuccaya [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H067>
+#एक्सरे , टीसी-डीसी नार्मल है .
+eksare_9 1 - - - - - - 10:op1
+@tIsI-dIsI 11 - - - - - - 10:op2
+[conj_1] 10 - - 4:k1 - - - -
+nArmala_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H068>
+#चार - चार घंटे पर फीवर को मापें .
+cAra_1 1 numex - 2:card - - - -
+hara_2 9 - - 2:quant - - - -
+GaMtA_4 2 - pl 4:k7t - - - -
+PIvara_9 3 - - 4:k2 - - - -
+mApa_2-e_1 4 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H069>
+#अगर 100 से ज्यादा फीवर हो
+100 1 numex - 2:rv - - - -
+jyAxA_1 2 - - 4:k1s - - - -
+PIvara_9 3 - - 4:k1 - - - -
+hE_1-pres 4 - - 0:main H069b.3:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=H069b>
+#तो पैरासीटामोल की गोली दें
+pErAsItAmola_9 1 - - 2:r6 - - - -
+golI_3 2 - - 3:k2 - - - -
+xe_1-e_1 3 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H069c>
+#और किसी औषधि विशेषज्ञ चिकित्सक से परामर्श लें .
+koI_9 4 - - 8:quant - - - -
+ORaXi_1 5 - - - - - - 8:mod
+viSeRajFa_1 6 - - - - - - 8:mod
+cikiwsaka_2 7 - - - - - - 8:head
+[nc_1] 8 - - 11:k5 - - - -
+parAmarSa_2 9 - - 11:k2 - - - -
+le_1-e_1 11 - - 0:main H069b.3:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H070>
+#एच.आई.वी. क्या है ?
+@eca.AI.vI. 10 - - 3:k1 - - - -
+$kim 2 - - 3:k1s - - - -
+hE_1-pres 3 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H071>
+#यह कैसे होता है ?
+$wyax 1 - - 3:k1 H070.10:coref proximal - -
+$kim 2 - - 3:krvn - - - -
+ho_10-wA_hE_1 3 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H072>
+#बचाव के उपाय बतायें ?
+bacAva_9 1 - - 2:r6 - - - -
+upAya_11 2 - pl 3:k2 - - - -
+bawA_3-e_1 3 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H073>
+#यह एक प्रकार का वायरस होता है .
+$wyax 1 - - 5:k1 H070.10:coref proximal - -
+eka_1 2 - - 3:card - - - -
+prakAra_1 3 - - 4:r6 - - - -
+vAyarasa_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H074>
+#इसका फैलाव मुख्यत: असुरक्षित यौन संबंध , संक्रमित सूई , संक्रमित रक्त व माँ से बच्चों में होता है .
+$wyax 1 - - 2:r6 H070.10:coref proximal - -
+PElAva_4 2 - - 20:k1 - - - -
+muKyawa_2 3 - - 20:krvn - - - -
+asurakRiwa_1 4 - - 6:mod - - - -
+yOna_1 5 - - 6:mod - - - -
+saMbaMXa_1 6 - - - - - - 10:op1
+saMkramiwa_9 7 - - 8:mod - - - -
+sUI_1 8 - - - - - - 10:op2
+saMkramiwa_9 9 - - 11:mod - - - -
+rakwa_1 11 - - - - - - 10:op3
+[conj_1] 10 - - 20:k3 - - - -
+mAz_1 12 - - 20:k5 - - - -
+baccA_1 13 - pl 20:k2p - - - -
+ho_9-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H075>
+#इससे शरीर की रोग प्रतिरोधक क्षमता कम होती जाती है .
+$wyax 1 - - 20:k3 H074.2:coref proximal - -
+SarIra_1 2 - - 10:r6 - - - -
+roga_1 3 - - - - - - 10:mod
+prawiroXaka_4 4 - - - - - - 10:mod
+kRamawA_3 5 - - - - - - 10:head
+[nc_1] 10 - - 20:k1 - - - -
+kama_4 6 - - - - - - 20:kriyAmUla
+ho_1-wA_jA_wA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H076>
+#बोन टीबी की क्या पहचान है
+bona_9 1 - - - - - - 10:mod
+@tIbI 2 - - - - - - 10:head
+[nc_1] 10 - - 4:r6 - - - -
+$kim 3 - - 5:k1s - - - -
+pahacAna_4 4 - - 5:k1 - - - -
+hE_1-pres 5 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H076b>
+#तथा इसका क्या इलाज है ?
+$wyax 1 - - 3:r6 H076.10:coref proximal - -
+$kim 2 - - 4:k1s - - - -
+ilAja_1 3 - - 4:k1 - - - -
+hE_1-pres 4 - - 0:main H076.5:samuccaya - - -
+%interrogative
+</sent_id>
+<sent_id=H077>
+#हड्डियों में दर्द , लगातार बुखार , भले ही यह कम क्यों न हो या बुखार शाम में बढ़ जाये ,
+haddI_1 1 - pl 2:k7 - - - -
+xarxa_1 2 - - - - - - 10:op1
+lagAwAra_4 3 - - 4:mod - - - -
+buKAra_1 4 - - - - - - 10:op2
+[conj_1] 10 - - 11:k1 - - - -
+hE_1-pres 11 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H077b>
+#भले ही यह कम हो
+$wyax 1 - - 3:k1 H077.4:coref proximal - -
+kama_92 2 - - 3:k1s - - - -
+hE_1-pres 3 - - 0:main H077.11:vyaBicAra - - -
+%affirmative
+</sent_id>
+<sent_id=H077b2>
+#या बुखार शाम में बढ़ जाये ,
+buKAra_1 4 - - 6:k1 - - - -
+SAma_1 5 - - 6:k7t - - - -
+baDZa_1-wA_hE_1 6 - - 0:main H077b.3:anyawra [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H077c>
+#दर्द के साथ-साथ हड्डियों में विकृति आ जाये तो यह बोन टीबी का लक्षण है .
+xarxa_1 1 - - 5:rask1 - - - -
+haddI_1 2 - pl 5:k7 - - - -
+vikqwi_1 3 - - 5:k1 - - - -
+A_1-e_1 5 - - 0:main H077d.5:AvaSyakawApariNAma [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H077d>
+#तो यह बोन टीबी का लक्षण है .
+$wyax 1 - - 5:k1 H077c.5:coref proximal - -
+bona_9 2 - - - - - - 10:mod
+@tIbI 3 - - - - - - 10:head
+[nc_1] 10 - - 4:r6 - - - -
+lakRaNa_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H078>
+#इससे हड्डियाँ कमजोर हो जाती हैं
+$wyax 1 - - 4:k3 H077d.10:coref proximal - -
+haddI_1 2 - pl 4:k1 - - - -
+kamajora_1 3 - - 4:k1s - - - -
+ho_5-wA_hE_1 4 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H078b>
+#और गलने लगती हैं .
+haddI_1 1 - pl 2:k1 H078.2:coref - - -
+gala_1-nA_lagawA_hE_1 2 - - 0:main H078.4:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H079>
+#इस परिस्थिति में लकवा भी मार सकता है .
+$wyax 1 - - 2:dem - proximal - -
+parisWiwi_1 2 - - 4:k7 - - - -
+lakavA_1 3 - - 4:k1 - BI_1 - -
+mAra_8-0_sakawA_hE_1 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H080>
+#इसकी जाँच के लिए डिजिटल एक्सरे , एम.आर.आई. करायें ,
+$wyax 1 - - 2:r6 H079.3:coref proximal - -
+jAzca_3 2 - - 10:rt - - - -
+dijitala_1 3 - - 4:mod - - - -
+eksare_9 4 - - - - - - 11:op1
+@ema.Ara.AI. 12 - - - - - - 11:op2
+[conj_1] 11 - - 10:k2 - - - -
+karA_91-e_1 10 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H080b>
+#टीबी की दवा एक वर्ष तक लें
+@tIbI 1 - - 2:r6 - - - -
+xavA_1 2 - - 5:k2 - - - -
+eka_1 3 - - 4:card - - - -
+varRa_1 4 - - 5:k7t - - - -
+le_1-e_1 5 - - 0:main H080.10:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H080c>
+#एवं विशेषज्ञ चिकित्सक से परामर्श लें .
+viSeRajFa_1 1 - - - - - - 10:mod
+cikiwsaka_2 2 - - - - - - 10:head
+[nc_1] 10 - - 4:k5 - - - -
+parAmarSa_2 3 - - 4:k2 - - - -
+le_1-e_1 4 - - 0:main H080b.5:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H081>
+#रात में सोते समय शरीर पर एक चादर जरूर रखे
+rAwa_1 1 - - 2:k7t - - - -
+so_9 2 - - 7:rsk - - - -
+SarIra_1 3 - - 7:k7p - - - -
+eka_1 4 - - 5:card - - - -
+cAxara_1 5 - - 7:k2 - - - -
+jarUra_1 6 - - 7:krvn - - - -
+raKa_3-e_1 7 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H081b>
+#एवं पंखा कम से कम चलायें .
+paMKA_1 1 - - 3:k2 - - - -
+kamasekama_96 2 - - 3:krvn - - - -
+calA_91-e_1 3 - - 0:main H081.7:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H082>
+#इससे अगर अपने आप सही महसूस नहीं करते हैं
+$wyax 1 - - 6:k3 H081b.3:coref proximal - -
+apaneApa_9 2 - - 6:krvn - - - -
+sahI_1 3 - - 6:k1s - - - -
+$addressee 7 - - 6:k1 - - - -
+mahasUsa_9 4 - - - - - - 6:kriyAmUla
+nahIM_1 5 - - 6:neg - - - -
+kara_1-wA_hE_1 8 - - - - - - 6:verbalizer
+[cp_1] 6 - - 0:main H082b.4:AvaSyakawApariNAma - - -
+%negative
+</sent_id>
+<sent_id=H082b>
+#तो एंटीएलर्जिक टेबलेट दस दिनों तक लें .
+entIelarjika_9 1 - - 2:mod - - - -
+tebaleta_9 2 - - 4:k2 - - - -
+xasa_1 3 numex - 5:card - - - -
+xina_1 5 - pl 4:k7t - - - -
+le_1-e_1 4 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H083>
+#बच्चों को घमौरी हो रही है
+baccA_1 1 - pl 3:k4a - - - -
+GamOrI_9 2 - - 3:k1 - - - -
+ho_10-0_rahA_hE_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H083b>
+#क्या करें ?
+$kim 1 - - 2:k2 - - - -
+kara_17-e_1 2 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H084>
+#डायरिया का घरेलू उपचार क्या है ?
+dAyariyA_9 1 - - 3:r6 - - - -
+GarelU_96 2 - - 3:mod - - - -
+upacAra_7 3 - - 5:k1 - - - -
+$kim 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H085>
+#एक गिलास पानी में दो चम्मच चीनी एवं एक चुटकी नमक डालकर उबालकर दें .
+eka_1 1 - - 2:card - - - -
+gilAsa_2 2 - - 3:mod - - - -
+pAnI_1 3 - - 10:k7p - - - -
+xo_1 4 numex - 5:card - - - -
+cammaca_1 5 - pl 6:mod - - - -
+cInI_1 6 - - - - - - 20:op1
+eka_1 7 - - 8:card - - - -
+cutakI_1 8 - - 9:mod - - - -
+namaka_1 9 - - - - - - 20:op2
+[conj_1] 20 - - 10:k2 - - - -
+dAla_6 10 - - 11:rpk - - - -
+ubAla_4 11 - - 12:rpk - - - -
+xe_1-e_1 12 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H086>
+#धूप के कारण क्या कालाजार रोग होता है ?
+XUpa_3 1 - - 5:rh - - - -
+kAlAjAra_9 2 - - 3:mod - - - -
+roga_1 3 - - 5:k1 - - - -
+ho_11-wA_hE_1 5 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H087>
+#क्या गर्मी में इसका प्रकोप बढ़ जाता है ?
+garmI_4 1 - - 4:k7t - - - -
+$wyax 2 - - 3:r6 H086.3:coref proximal - -
+prakopa_91 3 - - 4:k1 - - - -
+baDZa_1-wA_hE_1 4 - - 0:main - [shade:jA_1] - -
+%interrogative
+</sent_id>
+<sent_id=H088>
+#कालाजार बालू मक्खी के काटने से होता है .
+kAlAjAra_9 1 - - 6:k1 - - - -
+bAlU_1 2 - - - - - - 10:mod
+makKI_1 3 - - - - - - 10:head
+[nc_1] 10 - - 4:k1 - - - -
+kAta_11 4 - kqw 6:rh - - - -
+ho_11-wA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H089>
+#इसका उपचार सभी अस्पतालों में है .
+$wyax 1 - - 2:r6 H088.1:coref proximal - -
+upacAra_7 2 - - 5:k1 - - - -
+saBI_1 3 - - 4:quant - - - -
+aspawAla_1 4 - pl 5:k7p - - - -
+hE_1-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H090>
+#इसके लिए अब टेबलेट भी उपलब्ध हैं .
+$wyax 1 - - 6:rt H088.1:coref proximal - -
+aba_1 2 - - 6:k7t - - - -
+tebaleta_9 3 - pl 6:k1 - BI_1 - -
+upalabXa_1 4 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H091>
+#किसी बच्चे को कुकुर खाँसी हो जाये
+koI_9 1 - - 2:quant - - - -
+baccA_1 2 - - 5:k4a - - - -
+kukura_9 3 - - - - - - 10:mod
+KAzsI_1 4 - - - - - - 10:head
+[nc_1] 10 - - 5:k1 - - - -
+ho_10-e_1 5 - - 0:main H091b.3:AvaSyakawApariNAma [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H091b>
+#तो क्या करना चाहिये ?
+$kim 1 - - 3:k2 - - - -
+kara_17-nA_cAhie_1 3 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H092>
+#बच्चे को डीपीटी का टीका लगायें .
+baccA_1 1 - - 4:k4 - - - -
+@dIpItI 2 - - 3:r6 - - - -
+tIkA_96 3 - - 4:k2 - - - -
+lagA_91-e_1 4 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H093>
+#किसी विशेषज्ञ चिकित्सक से दिखायें
+koI_9 1 - - 10:quant - - - -
+viSeRajFa_1 2 - - - - - - 10:mod
+cikiwsaka_2 3 - - - - - - 10:head
+[nc_1] 10 - - 4:k5 - - - -
+xiKA_3-e_1 4 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H093b>
+#तथा खाँसी के लिए बलगम की जाँच करायें .
+KAzsI_1 1 - - 20:rt - - - -
+balagama_96 2 - - 20:k2 - - - -
+jAzca_9 3 - - - - - - 20:kriyAmUla
+karA_1-e_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H093.4:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H094>
+#अपनी आँखों की देखभाल को लेकर आप कितने जागरूक हैं ?
+$addressee 1 - - 2:r6 - - - -
+AzKa_1 2 - pl 3:r6 - - - -
+xeKaBAla_1 3 - - 6:k7 - - - -
+$addressee 4 - - 7:k1 - respect - -
+$kim 5 - - 6:quant - - - -
+jAgarUka_91 6 - - 7:k1s - - - -
+hE_1-pres 7 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H095>
+#हर छह माह में करें आँखों की जाँच .
+hara_2 1 - - 3:quant - - - -
+Caha_1 2 numex - 3:card - - - -
+mAha_1 3 - pl 20:k7t - - - -
+AzKa_1 4 - pl 20:k2 - - - -
+jAzca_9 5 - - - - - - 20:kriyAmUla
+kara_1-e_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H096>
+#चश्मे या कांटैक्ट लेंस का रखरखाव करें .
+caSmA_2 1 - pl - - - - 10:op1
+kAMtEkta_9 2 - - - - - - 11:mod
+leMsa_1 3 - - - - - - 11:head
+[nc_1] 11 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:k2 - - - -
+raKaraKAva_1 4 - - - - - - 20:kriyAmUla
+kara_1-e_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H097>
+#नियमित आँखें धोना .
+niyamiwa_1 1 - - 3:krvn - - - -
+AzKa_1 2 - pl 3:k2 - - - -
+Xo_1-e_1 3 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H098>
+#लेकिन इन सबके साथ अगर आप अपने खान - पान पर थोड़ा सा ध्यान दें
+$wyax 1 - pl 2:dem - proximal - -
+saba_1 2 - - 20:rask1 - - - -
+$addressee 3 - - 20:k1 - respect - -
+$addressee 4 - - 5:r6 - - - -
+KAnapAna_9 5 - - 20:k7 - - - -
+WodZA_1 6 - - 7:quant - - - -
+XyAna_1 7 - - - - - - 20:kriyAmUla
+xe_1-e_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H099.5:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=H099>
+#तो न सिर्फ आपकी आँखों की रोशनी बेहतर हो सकती है .
+$addressee 1 - - 2:r6 - - - -
+AzKa_1 2 - pl 3:r6 - - - -
+roSanI_91 3 - - 5:k1 - nasirPa_1 - -
+behawara_1 4 - - 5:k1s - - - -
+ho_6-0_sakawA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H100>
+#बल्कि आप नेत्ररोगों से भी बचे रहेंगे .
+$addressee 1 - - 5:k1 - respect - -
+newra_1 2 - - - - - - 10:mod
+roga_1 3 - pl - - - - 10:head
+[nc_1] 10 - pl 5:k5 - BI_1 - -
+surakRiwa_6 4 - - 5:k1s - - - -
+raha_3-gA_1 5 - - 0:main H099.5:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=H101>
+#लिवरपूल यूनिवर्सिटी के आफ्थैमोलॉजी विभाग के अध्यक्ष व विख्यात नेत्ररोग शोधकर्ता डॉ. इयान ग्रीयरसन कहते हैं .
+livarapUla 1 - - - - - - 30:begin
+yUnivarsitI 2 - - - - - - 30:inside
+[ne_1] 30 - - 4:r6 - - - -
+ApWEmoloYjI_9 3 - - 4:mod - - - -
+viBAga_1 4 - - 5:r6 - - - -
+aXyakRa_2 5 - - - - - - 40:op1
+viKyAwa_1 6 - - 9:mod - - - -
+newra_1 7 - - - - - - 9:mod
+roga_1 8 - - - - - - 9:mod
+SoXakarwA_1 10 - - - - - - 9:head
+[nc_1] 9 - - - - - - 40:op2
+[conj_1] 40 - - 31:rs - - - -
+@doY. 11 - - 31:mod - - - -
+iyAna 12 - - - - - - 31:begin
+grIyarasana 13 - - - - - - 31:inside
+[ne_2] 31 per - 14:k1 - - - -
+kaha_5-wA_hE_1 14 - - 0:main - respect - -
+%affirmative
+</sent_id>
+<sent_id=H102>
+#कि खाने में विटामिन-सी और ओमेगा-3 तेलों व कुछ विशेष पौधों की मात्रा बढ़ाने से आमतौर पर अंधेपन का कारण बनने वाले मोतियाबिंद व ग्लूकोमा जैसे रोगों से बचा जा सकता है .
+KAnA_1 1 - - 9:k7 - - - -
+vitAmina-sI_9 2 - - - - - - 20:op1
+omegA-3_9 3 - - 4:mod - - - -
+wela_1 4 - pl - - - - 20:op2
+kuCa_1 5 - - 7:quant - - - -
+viSeRa_1 6 - - 7:mod - - - -
+pOXA_1 7 - pl - - - - 20:op3
+[conj_1] 20 - - 8:r6 - - - -
+mAwrA_9 8 - - 9:k2 - - - -
+baDZA_1 9 - kqw 30:rh - - - -
+AmawOra_1 10 - - 12:krvn - - - -
+aMXApana_1 11 - - 12:r6 - - - -
+kAraNa_2 12 - - 13:k1s - - - -
+bana_16 13 - - 17:rvks - - - -
+mowiyAbiMxa_1 14 - - - - - - 21:op1
+glUkomA_9 15 - - - - - - 21:op2
+[conj_2] 21 - - 17:rsm - - - -
+roga_1 17 - pl 30:k5 - - - -
+bacA_1-yA_jA_sakawA_hE_1 30 - - 0:main H101.14:vAkyakarma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H103>
+#तो आइए जानते है कि नजर को स्वस्थ बनाए रखने के लिए कैसा हो आपका आहार .
+$speaker 1 - pl 2:k1 - - - -
+jAna_10-e_1 2 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H103b>
+#कि नजर को स्वस्थ बनाए रखने के लिए कैसा हो आपका आहार .
+najara_91 1 - - 3:k2 - - - -
+svasWa_1 2 - - 3:k2s - - - -
+raKa_3 3 - kqw 7:rt - - - -
+$kim 4 - - 7:k1s - - - -
+$addressee 5 - - 6:r6 - - - -
+AhAra_2 6 - - 7:k1 - - - -
+hE_1-nA_cAhie_1 7 - - 0:main H103.2:vAkyakarma - - -
+%interrogative
+</sent_id>
+<sent_id=H104>
+#नजर तेज बनी रहे , इसके लिए आपको चाहिए कि अपने आहार में आप हरी सब्जियाँ शामिल करें .
+najara_91 1 - - 3:k1 - - - -
+weja_15 2 - - 3:k1s - - - -
+raha_3 3 - kqw 20:rt - - - -
+$addressee 4 - - 20:k1 - respect - -
+$addressee 5 - - 6:r6 - - - -
+AhAra_2 6 - - 20:k7 - - - -
+harA_1 7 - - 8:mod - - - -
+sabjI_1 8 - pl 20:k2 - - - -
+SAmila_1 9 - - - - - - 20:kriyAmUla
+kara_1-nA_cAhie_1 10 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H105>
+#पालक , ब्रोकोली , अंकुरित अनाज खाना इस लिहाज से फायदेमंद साबित हो सकता है .
+pAlaka_2 1 - - - - - - 10:op1
+brokolI_9 2 - - - - - - 10:op2
+aMkuriwa_1 3 - - 4:mod - - - -
+anAja_1 4 - pl - - - - 10:op3
+[conj_1] 10 - - 5:k2 - - - -
+KA_1 5 - kqw 20:k1 - - - -
+$wyax 6 - - 7:dem - proximal - -
+lihAja_4 7 - - 20:k7 - - - -
+PAyaxemaMxa_9 8 - - 20:k1s - - - -
+sAbiwa_6 9 - - - - - - 20:kriyAmUla
+ho_1-0_sakawA_hE_1 11 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H106>
+#इसमें ल्यूटिन , जीजेनथिन जैसे दो अहम तत्व होते हैं ,
+$wyax 1 - - 9:k7 H105.10:coref proximal - -
+lyUtina_9 2 - - - - - - 10:op1
+jIjenaWina_9 3 - - - - - - 10:op2
+[conj_1] 10 - - 6:rsm - - - -
+xo_1 4 numex - 6:card - - - -
+ahama_1 5 - - 6:mod - - - -
+wawva_1 6 - pl 9:k1 - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H106b>
+#जो नजर को तेज बनाए रखने के लिए जिम्मेदार होते हैं .
+$wyax 1 - pl 6:k1 H106.6:coref - - -
+najara_91 2 - - 4:k2 - - - -
+weja_15 3 - - 4:k2s - - - -
+raKa_3 4 - kqw 6:rt - - - -
+jimmexAra_1 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H107>
+#अमेरिकी नेशनल आई इंस्टीट्यूट के 6 साल के अध्ययन में यह साबित हुआ है
+amerikI_1 1 - - - - - - 30:mod
+neSanala_1 2 - - - - - - 30:mod
+AI_9 3 - - - - - - 30:mod
+iMstItyUta_96 4 - - - - - - 30:head
+[nc_1] 30 org - 7:r6 - - - -
+6 5 numex - 6:card - - - -
+sAla_1 6 - - 7:r6 - - - -
+aXyayana_1 7 - - 20:k7 - - - -
+$wyax 8 - - 20:k1 - proximal - -
+sAbiwa_6 9 - - - - - - 20:kriyAmUla
+ho_1-yA_hE_1 10 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H107b>
+#कि यह तत्व बुजुर्गों को अंधेपन से बचाते हैं .
+$wyax 1 - - 2:dem - proximal - -
+wawva_1 2 - - 5:k1 - - - -
+bujurga_3 3 - pl 5:k2 - - - -
+aMXApana_1 4 - - 5:k5 - - - -
+bacA_1-wA_hE_1 5 - - 0:main H107.8:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=H108>
+#अमेरिकी नेशनल आई इंस्टीट्यूट के 6 साल के अध्ययन में यह साबित हुआ है कि यह तत्व बुजुर्गों को अंधेपन से बचाते हैं .
+amerikI_1 1 - - - - - - 30:mod
+neSanala_1 2 - - - - - - 30:mod
+AI_9 3 - - - - - - 30:mod
+iMstItyUta_96 4 - - - - - - 30:head
+[nc_1] 30 org - 7:r6 - - - -
+6 5 numex - 6:card - - - -
+sAla_1 6 - - 7:r6 - - - -
+aXyayana_1 7 - - 20:k7 - - - -
+$wyax 8 - - 20:k1 - proximal - -
+sAbiwa_6 9 - - - - - - 20:kriyAmUla
+ho_1-yA_hE_1 10 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H108b>
+#कि यह तत्व बुजुर्गों को अंधेपन से बचाते हैं .
+$wyax 1 - - 2:dem - proximal - -
+wawva_1 2 - - 5:k1 - - - -
+bujurga_3 3 - pl 5:k2 - - - -
+aMXApana_1 4 - - 5:k5 - - - -
+bacA_1-wA_hE_1 5 - - 0:main H108.8:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=H109>
+#नाश्ते में रोज दो या तीन अंडे जरूर खाएँ .
+nASwA_1 1 - - 6:k7 - - - -
+roja_3 2 - - 6:k7t - - - -
+xo_1 3 numex - - - - - 10:op1
+wIna_1 4 numex - - - - - 10:op2
+[disjunct_1] 10 - - 5:card - - - -
+aMdA_1 5 - pl 6:k2 - - - -
+jarUra_1 7 - - 6:krvn - - - -
+KA_1-e_1 6 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H110>
+#बिलबैरी या ब्लैकबैरी एंथोसाइनिन अंधेपन या मोतियाबिंद से बचाती है .
+bilabErI_9 1 - - - - - - 10:op1
+blEkabErI_9 2 - - - - - - 10:op2
+[disjunct_1] 10 - - 3:mod - - - -
+eMWosAinina_9 3 - - 6:k1 - - - -
+aMXApana_1 4 - - - - - - 11:op1
+mowiyAbiMxa_1 5 - - - - - - 11:op2
+[disjunct_2] 11 - - 6:k5 - - - -
+bacA_1-wA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H111>
+#शोध में यह भी पाया गया है
+SoXa_1 1 - - 3:k7 - - - -
+$wyax 2 - - 3:k2 - proximal BI_1 -
+pA_1-yA_gayA_hE_1 3 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H111b>
+#कि यह आँखों में खून और पोषक तत्व पहुँचाने वाली कोशिकाओं को मजबूत बनाती हैं .
+$wyax 1 - - 9:k1 H110.3:coref proximal - -
+AzKa_1 2 - pl 6:k2p - - - -
+KUna_3 3 - - - - - - 10:op1
+poRaka_96 4 - - 5:mod - - - -
+wawva_1 5 - pl - - - - 10:op2
+[conj_1] 10 - - 6:k2 - - - -
+pahuzcA_91 6 - - 7:rvks - - - -
+koSikA_1 7 - pl 9:k2 - - - -
+majabUwa_5 8 - - 9:k2s - - - -
+banA_1-wA_hE_1 9 - - 0:main H111.2:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=H112>
+#इसलिए नाश्ते या फ्रूट सलाद के साथ आप बिलबैरी या ब्लैकबैरी भी खा सकते हैं .
+nASwA_1 1 - - - - - - 10:op1
+PrUta_9 2 - - - - - - 11:mod
+salAxa_1 3 - - - - - - 11:head
+[nc_1] 11 - - - - - - 10:op2
+[disjunct_1] 10 - - 9:rask3 - - - -
+$addressee 4 - - 9:k1 - respect - -
+bilabErI_9 5 - - - - - - 12:op1
+blEkabErI_9 6 - - - - - - 12:op2
+[disjunct_2] 12 - - 9:k2 - BI_1 - -
+KA_1-0_sakawA_hE_1 9 - - 0:main H111b.9:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=H113>
+#अगर आप मांसाहारी हैं
+$addressee 1 - - 3:k1 - respect - -
+mAMsAhArI_96 2 - - 3:k1s - - - -
+hE_1-pres 3 - - 0:main H113b.9:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=H113b>
+#तो आँखों को स्वस्थ बनाए रखने के लिए मछली का सेवन करने से अच्छा कोई उपाय नहीं .
+AzKa_1 1 - pl 3:k2 - - - -
+svasWa_1 2 - - 3:k2s - - - -
+raKa_3 3 - kqw 9:rt - - - -
+maCalI_1 4 - - 20:k2 - - - -
+sevana_9 5 - - - - - - 20:kriyAmUla
+kara_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - kqw 7:rv - - - -
+acCA_1 7 - - 8:mod - - - -
+koI_9 10 - - 8:quant - - - -
+upAya_11 8 - - 9:k1 - - - -
+nahIM_1 11 - - 9:neg - - - -
+hE_1-pres 9 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H114>
+#मछली खाने से न केवल आपकी त्वचा , बाल , दिमाग स्वस्थ रहता
+maCalI_1 1 - - 2:k2 - - - -
+KA_1 2 - kqw 9:rh - - - -
+$addressee 3 - - 10:r6 - - - -
+wvacA_1 4 - - - - - - 10:op1
+bAla_1 5 - - - - - - 10:op2
+ximAga_3 6 - - - - - - 10:op3
+[conj_1] 10 - - 9:k1 - nakevala_1 - -
+svasWa_1 7 - - 9:k1s - - - -
+raha_3-wA_hE_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H114b>
+#बल्कि नजर भी तेज होती है .
+najara_91 1 - - 3:k1 - BI_1 - -
+weja_15 2 - - 3:k1s - - - -
+ho_5-wA_hE_1 3 - - 0:main H114.9:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=H115>
+#मछली में पाया जाने वाला ओमगा-3 फैट आँखों को ग्लूकोमा और बुढ़ापे में नजर कमजोर होने का खतरा कम करता है .
+maCalI_1 1 - - 2:k7 - - - -
+pA_1-yA_jAwA_hE_1 2 - - 4:rvks - - - -
+omegA-3_9 3 - - 4:mod - - - -
+PEta_1 4 - - 20:k1 - - - -
+AzKa_1 5 - pl 20:k4 - - - -
+glUkomA_9 6 - - - - - - 30:op1
+buDZApA_91 7 - - 10:k7t - - - -
+najara_91 8 - - 10:k1 - - - -
+kamajora_1 9 - - 10:k1s - - - -
+ho_5 10 - kqw - - - - 30:op2
+[conj_1] 30 - - 11:r6 - - - -
+KawarA_5 11 - - 20:k2 - - - -
+kama_4 12 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 13 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H116>
+#यही नहीं , यह आपको ड्राय आई सिंड्रोम से बचाता है .
+yahI_9 1 - - 5:krvn - - - -
+$wyax 2 - - 5:k1 H115.4:coref proximal - -
+$addressee 3 - - 5:k2 - - - -
+drAya_9 4 - - - - - - 10:mod
+AI_9 6 - - - - - - 10:mod
+siMdroma_9 7 - - - - - - 10:head
+[nc_1] 10 - - 5:k5 - - - -
+bacA_1-wA_hE_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H117>
+#एक अन्य अध्ययन में बताया गया है
+eka_1 1 - - 3:card - - - -
+anya_2 2 - - 3:mod - - - -
+aXyayana_1 3 - - 4:k7 - - - -
+bawA_91-yA_gayA_hE_1 4 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H117b>
+#कि ड्राय आई सिंड्रोम जैसे नेत्र समस्या से परेशान महिलाएँ हफ्ते में पाँच बार ट्यूना मछली खाकर , इस तकलीफ को 68 फीसदी कम कर सकती हैं .
+drAya_9 1 - - - - - - 30:mod
+AI_9 2 - - - - - - 30:mod
+siMdroma_9 3 - - - - - - 30:head
+[nc_1] 30 - - 5:rsm - - - -
+newra_1 4 - - 5:mod - - - -
+samasyA_1 5 - - 6:k5 - - - -
+pareSAna_3 6 - - 7:mod - - - -
+mahilA_1 7 - pl 20:k1 - - - -
+haPwA_1 8 - - 10:k7t - - - -
+pAzca_1 9 numex - 10:card - - - -
+bAra_15 10 - pl 13:k7t - - - -
+tyUnA_9 11 - - 12:mod - - - -
+maCalI_1 12 - - 13:k2 - - - -
+KA_1 13 - - 20:rpk - - - -
+$wyax 14 - - 15:dem - proximal - -
+wakalIPa_1 15 - - 20:k2 - - - -
+68 16 numex - 17:card - - - -
+PIsaxI_1 17 - - 20:krvn - - - -
+kama_4 18 - - - - - - 20:kriyAmUla
+kara_1-0_sakawA_hE_1 19 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H117.4:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=H118>
+#भारतीय व्यंजनों में मेवे आदि का इस्तेमाल सदियों से होता आ रहा है .
+BArawIya_1 1 - - 2:mod - - - -
+vyaMjana_91 2 - pl 7:k7 - - - -
+mevA_91 3 - pl 5:r6 - - - -
+Axi_15 4 - - 3:mod - - - -
+iswemAla_1 5 - - 7:k1 - - - -
+saxI_1 6 - pl 7:k7t - - - -
+ho_10-0_rahA_hE_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H119>
+#लेकिन क्या आप जानते हैं
+$addressee 1 - - 2:k1 - respect - -
+jAna_10-wA_hE_1 2 - - 0:main H118.7:viroXI - - -
+%interrogative
+</sent_id>
+<sent_id=H119b>
+#कि बादाम , काजू , अखरोट , किशमिश आदि यह सारे मेवे पौष्टिक होने के अलावा आँखों के लिए भी बहुत फायदेमंद होते हैं .
+bAxAma_1 1 - - - - - - 30:op1
+kAjU_2 2 - - - - - - 30:op2
+aKarota_1 3 - - - - - - 30:op3
+kiSamiSa_1 4 - - - - - - 30:op4
+Axi_15 5 - - - - - - 30:op5
+[conj_1] 30 - - 8:rsm - - - -
+$wyax 6 - pl 8:dem - proximal - -
+sArA_3 7 - - 8:quant - - - -
+mevA_91 8 - pl 20:k1 - - - -
+pORtika_2 9 - - 10:k1s - - - -
+ho_6 10 - kqw 20:rask1 - samAveSI - -
+AzKa_1 11 - pl 20:rt - BI_1 - -
+bahuwa_7 12 - - 13:intf - - - -
+PAyaxemaMxa_9 13 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main H119.2:vAkyakarma - - -
+%affirmative
+</sent_id>
+<sent_id=H120>
+#इनमें विटामिन ई प्रचुर मात्रा में पाया जाता है ,
+$wyax 1 - pl 5:k7 H119b.8:coref proximal - -
+vitAmina-I_9 30 - - 5:k2 - - - -
+pracura_1 4 - - 6:mod - - - -
+mAwrA_1 6 - - 5:k7 - - - -
+pA_1-yA_jAwA_hE_1 5 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H120b>
+#जो न केवल मोतियाबिंद , कई प्रकार के अंधेपन और अन्य नेत्र रोगों से बचाने के अलावा पराबैंगनी किरणों से पहुँच रहे नुकसान से भी आँखों की रक्षा करता है .
+$wyax 1 - - 20:k1 H120.30:coref - - -
+mowiyAbiMxa_1 2 - - - - - - 40:op1
+kaI_1 3 - - 4:quant - - - -
+prakAra_1 4 - pl 5:r6 - - - -
+aMXApana_1 5 - - - - - - 40:op2
+anya_1 6 - - 9:mod - - - -
+newra_1 7 - - - - - - 9:mod
+roga_1 8 - pl - - - - 9:head
+[nc_1] 9 - pl - - - - 40:op3
+[conj_1] 40 - - 10:k5 - - - -
+bacA_1 10 - kqw 20:rask1 - samAveSI - -
+parAbEMganI_1 11 - - 12:mod - - - -
+kiraNa_1 12 - pl 13:k5 - - - -
+pahuzca_1 13 - - 14:rvks - - - -
+nukasAna_2 14 - - 20:k5 - BI_1 - -
+AzKa_1 15 - pl 16:r6 - - - -
+rakRA_3 16 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 17 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H121>
+#रोज नाश्ते या खाने के समय मीठे में मेवे की कतरन बुरक के खाना शुरू कर दें .
+roja_3 1 - - 20:k7t - - - -
+nASwA_1 2 - - - - - - 30:op1
+KAnA_2 3 - - - - - - 30:op2
+[disjunct_1] 30 - - 4:r6 - - - -
+samaya_1 4 - - 20:k7t - - - -
+mITA_1 5 - pl 8:k7 - - - -
+mevA_91 6 - - 7:r6 - - - -
+kawarana_5 7 - pl 8:k2 - - - -
+buraka_3 8 - - 9:rpk - - - -
+KA_1 9 - kqw 20:k2 - - - -
+SurU_3 10 - - - - - - 20:kriyAmUla
+kara_1-e_1 11 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - [shade:xe_1] - -
+%imperative
+</sent_id>
+<sent_id=H122>
+#बात वजन घटाने की हो या त्वचा की देखभाल की ,
+vajana_1 1 - - 2:k2 - - - -
+GatA_1 2 - kqw - - - - 10:op1
+wvacA_1 3 - - 4:r6 - - - -
+xeKaBAla_1 4 - - - - - - 10:op2
+[disjunct_1] 10 - - 5:r6 - - - -
+bAwa_2 5 - - 6:k1 - - - -
+hE_1-pres 6 - - 0:main H122b.9:vyaBicAra - - -
+%affirmative
+</sent_id>
+<sent_id=H122b>
+#खाने में ताजे फल खाने की सलाह सभी मामलों में दी जाती है .
+KAnA_2 1 - - 4:k7 - - - -
+wAjA_1 2 - - 3:mod - - - -
+Pala_1 3 - pl 4:k2 - - - -
+KA_1 4 - kqw 5:r6 - - - -
+salAha_1 5 - - 9:k2 - - - -
+saBI_1 6 - - 7:quant - - - -
+mAmalA_1 7 - pl 9:k7 - - - -
+xe_1-yA_jAwA_hE_1 9 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H123>
+#तो भला , आँखों के लिए क्यों इन्हें छोड़ा जाए .
+AzKa_1 1 - pl 4:rt - - - -
+$kim 2 - - 4:rh - - - -
+$wyax 3 - pl 4:k2 H122b.3:coref proximal - -
+CodZa_7-yA_jAe_1 4 - - 0:main H122b.9:pariNAma - - -
+%pass_interrogative
+</sent_id>
+<sent_id=H124>
+#विटामिन-सी से भरपूर आहार लेने से ग्लूकोमा , मोतियाबिंद और अंधेपन का खतरा काफी हद तक कम किया जा सकता है .
+vitAmina-sI_9 1 - - 2:k3 - - - -
+BarapUra_1 2 - - 3:mod - - - -
+AhAra_2 3 - - 4:k2 - - - -
+le_1 4 - kqw 20:rh - - - -
+glUkomA_9 5 - - - - - - 30:op1
+mowiyAbiMxa_1 6 - - - - - - 30:op2
+aMXApana_1 7 - - - - - - 30:op3
+[conj_1] 30 - - 8:r6 - - - -
+KawarA_5 8 - - 20:k2 - - - -
+kAPI_91 9 - - 10:mod - - - -
+haxa_4 10 - - 20:k7 - - - -
+kama_4 11 - - - - - - 20:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1 12 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H125>
+#आँखों को स्वस्थ बनाए रखने के लिए आहार में फल सब्जियाँ शामिल करना काफी है .
+AzKa_1 1 - pl 3:k2 - - - -
+svasWa_1 2 - - 3:k2s - - - -
+raKa_3 3 - kqw 9:rt - - - -
+AhAra_2 4 - - 20:k7 - - - -
+Pala_1 5 - pl - - - - 30:op1
+sabjI_1 6 - pl - - - - 30:op2
+[conj_1] 30 - - 20:k2 - - - -
+SAmila_1 7 - - - - - - 20:kriyAmUla
+kara_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - kqw 9:k1 - - - -
+kAPI_5 10 - - 9:k1s - - - -
+hE_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H126>
+#इन्हीं चीजों को अपने आहार में शामिल कर आप आँखों को कमजोर होने से बचा सकते हैं .
+$wyax 1 - pl 2:dem - proximal hI_1 -
+cIja_1 2 - pl 20:k2 - - - -
+$addressee 3 - - 4:r6 - - - -
+AhAra_2 4 - - 20:k7 - - - -
+SAmila_1 5 - - - - - - 20:kriyAmUla
+kara_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 11:rpk - - - -
+$addressee 7 - - 11:k1 - respect - -
+AzKa_1 8 - pl 11:k2 - - - -
+kamajora_1 9 - - 10:k1s - - - -
+ho_5 10 - kqw 11:k5 - - - -
+bacA_1-0_sakawA_hE_1 11 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H127>
+#इसके अलावा दूध पीना , गाजर खाना भी फायदेमंद साबित होता है .
+$wyax 1 - - 20:rask1 H126.11:coref proximal/samAveSI - -
+xUXa_1 2 - - 3:k2 - - - -
+pI_1 3 - kqw - - - - 30:op1
+gAjara_1 4 - - 5:k2 - - - -
+KA_1 5 - kqw - - - - 30:op2
+[conj_1] 30 - - 20:k1 - BI_1 - -
+PAyaxemaMxa_9 6 - - 20:k1s - - - -
+sAbiwa_6 7 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H128>
+#विटामिन-ए से भरपूर आहार लेना भी आँखों को स्वस्थ बनाए रखने में मददगार साबित हो सकता है .
+vitAmina-e_9 1 - - 2:k3 - - - -
+BarapUra_1 2 - - 3:mod - - - -
+AhAra_2 3 - - 4:k2 - - - -
+le_1 4 - kqw 20:k1 - BI_1 - -
+AzKa_1 5 - pl 7:k2 - - - -
+svasWa_1 6 - - 7:k2s - - - -
+raKa_3 7 - kqw 20:k7 - - - -
+maxaxagAra_91 8 - - 20:k1s - - - -
+sAbiwa_6 9 - - - - - - 20:kriyAmUla
+ho_1-0_sakawA_hE_1 10 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H129>
+#खान-पान में बरती गई थोड़ी सी सावधानी भी आपकी आँखों में नई जान डाल सकती है .
+KAnapAna_9 1 - - 2:k7 - - - -
+barawa_91-yA_gayA_1 2 - - 4:rvks - - - -
+WodZA_1 3 - - 4:quant - - - -
+sAvaXAnI_1 4 - - 9:k1 - BI_1 - -
+$addressee 5 - - 6:r6 - - - -
+AzKa_1 6 - pl 9:k7p - - - -
+nayA_1 7 - - 8:mod - - - -
+jAna_18 8 - - 9:k2 - - - -
+dAla_6-0_sakawA_hE_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H130>
+#योग से काबू हो सकता है लकवा .
+yoga_12 1 - - 4:k3 - - - -
+kAbU_1 2 - - - - - - 4:kriyAmUla
+ho_1-0_sakawA_hE_1 3 - - - - - - 4:verbalizer
+[cp_1] 4 - - 0:main - - - -
+lakavA_1 5 - - 4:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=H131>
+#पक्षाघात - आमतौर पर शरीर के दाएँ या बाएँ भाग की मांसपेशियों व नसों की क्रियाशीलता एवं गतिशीलता कम या समाप्त हो जाती है
+pakRAGAwa_9 1 - - 20:k7t - - - -
+AmawOra_1 2 - - 20:krvn - - - -
+SarIra_1 3 - - 6:r6 - - - -
+xAyAz_1 4 - - - - - - 30:op1
+bAyAz_1 5 - - - - - - 30:op2
+[disjunct_1] 30 - - 6:mod - - - -
+BAga_22 6 - - 31:r6 - - - -
+mAMsapeSI_1 7 - pl - - - - 31:op1
+nasa_3 8 - pl - - - - 31:op2
+[conj_1] 31 - - 32:r6 - - - -
+kriyASIlawA_9 9 - - - - - - 32:op1
+gawiSIlawA_91 10 - - - - - - 32:op2
+[conj_2] 32 - - 20:k1 - - - -
+kama_4 11 - - - - - - 33:op1
+samApwa_2 12 - - - - - - 33:op2
+[disjunct_2] 33 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main H131b.6:AvaSyakawApariNAma [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H131b>
+#तो इस समस्या को लकवा या पक्षाघात कहते हैं .
+$wyax 1 - - 2:dem - proximal - -
+samasyA_1 2 - - 6:k2 - - - -
+lakavA_1 3 - - - - - - 10:op1
+pakRAGAwa_9 4 - - - - - - 10:op2
+[disjunct_1] 10 - - 6:k2s - - - -
+kaha_1-wA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H132>
+#पक्षाघात आधे शरीर , संपूर्ण शरीर या केवल चेहरे तक होता है .
+pakRAGAwa_9 1 - - 20:k1 - - - -
+AXA_1 2 - - 3:mod - - - -
+SarIra_1 3 - - - - - - 10:op1
+saMpUrNa_1 4 - - 5:mod - - - -
+SarIra_1 5 - - - - - - 10:op2
+ceharA_1 6 - - - - - - 10:op3
+[disjunct_1] 10 - - 20:k7p - - - -
+kevala_1 7 - - 6:mod - - - -
+ho_11-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H133>
+#इस समस्या का प्रमुख कारण उच्च रक्तचाप का अधिक बढ़ना , मस्तिष्क में रक्त का थक्का बनना अत्यंत हर्ष या विषाद की स्थिति आदि है .
+$wyax 1 - - 2:dem - proximal - -
+samasyA_1 2 - - 4:r6 - - - -
+pramuKa_13 3 - - 4:mod - - - -
+kAraNa_1 4 - - 30:k1 - - - -
+ucca_1 5 - - 6:mod - - - -
+rakwacApa_1-pressure 6 - - 8:k1 - - - -
+aXika_2 7 - - 8:krvn - - - -
+baDZa_3 8 - kqw - - - - 20:op1
+maswiRka_3 9 - - 12:k7p - - - -
+rakwa_1 10 - - 11:r6 - - - -
+WakkA_1 11 - - 12:k1 - - - -
+bana_21 12 - kqw - - - - 20:op2
+awyaMwa_5 13 - - 21:mod - - - -
+harRa_1 14 - - - - - - 21:op1
+viRAxa_91 15 - - - - - - 21:op2
+[disjunct_1] 21 - - 16:r6 - - - -
+sWiwi_2 16 - - - - - - 20:op3
+Axi_15 17 - - - - - - 20:op4
+[conj_1] 20 - - 30:k1s - - - -
+hE_1-pres 30 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H134>
+#यौगिक अभ्यास से इस रोग पर निश्चित ही विजय प्राप्त की जा सकती है .
+yOgika_91 1 - - 2:mod - - - -
+aByAsa_1 2 - - 20:k3 - - - -
+$wyax 3 - - 4:dem - proximal - -
+roga_1 4 - - 20:k7 - - - -
+niSciwa_91 5 - - 20:krvn - hI_1 - -
+vijaya_1 6 - - 20:k2 - - - -
+prApwa_95 7 - - - - - - 20:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1 12 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H135>
+#हालांकि योग पक्षाघात की समस्या का स्थायी समाधान करता है ,
+yoga_12 1 - - 20:k1 - - - -
+pakRAGAwa_9 2 - - 3:r6 - - - -
+samasyA_1 3 - - 20:k2 - - - -
+sWAyI_1 4 - - 20:krvn - - - -
+samAXAna_9 5 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H135b.3:vyaBicAra - - -
+%affirmative
+</sent_id>
+<sent_id=H135b>
+#लेकिन यह समय लेता है
+$wyax 1 - - 3:k1 H135.1:coref proximal - -
+samaya_1 2 - - 3:k2 - - - -
+le_1-wA_hE_1 3 - - 0:main H135.20:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=H135c>
+#एवं श्रमसाध्य है .
+$wyax 1 - - 3:k1 H135.1:coref proximal - -
+SramasAXya_91 2 - - 3:k1s - - - -
+hE_1-pres 3 - - 0:main H135b.3:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H136>
+#इसलिए शुरू में औषधियों का सेवन किया जाए
+SurU_1 1 - - 20:k7t - - - -
+ORaXi_1 2 - pl 20:k2 - - - -
+sevana_9 3 - - - - - - 20:kriyAmUla
+kara_1-yA_jAe_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H135c.3:pariNAma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H136b>
+#और साथ में योग का अभ्यास किया जाए .
+sAWa_1 1 - - 20:krvn - - - -
+yoga_12 2 - - 20:k2 - - - -
+aByAsa_1 3 - - - - - - 20:kriyAmUla
+kara_1-yA_jAe_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H136.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H137>
+#यहाँ पर पक्षाघात हेतु प्रमुख यौगिक निदान प्रस्तुत हैं .
+yahAz_1 1 - - 6:k7p - - - -
+pakRAGAwa_9 2 - - 5:rt - - - -
+pramuKa_13 3 - - 5:mod - - - -
+yOgika_91 4 - - 5:mod - - - -
+nixAna_91 5 - pl 6:k1 - - - -
+praswuwa_96 7 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H138>
+#प्रारंभ सूक्ष्म व्यायाम से करो .
+sUkRma_1 1 - - 2:mod - - - -
+vyAyAma_1 2 - - 20:k3 - - - -
+prAraMBa_5 3 - - - - - - 20:kriyAmUla
+kara_1-e_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H139>
+#इसका अभ्यास लेट कर ही किया जा सकता है .
+$wyax 1 - - 20:k2 H138.2:coref proximal - -
+leta_2 2 - - 20:rpk - hI_1 - -
+aByAsa_1 3 - - - - - - 20:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H140>
+#उसके बाद जैसे-जैसे स्थिति सुधरती जाए ,
+sWiwi_2 1 - - 2:k1 - - - -
+suXara_1-wA_jA_wA_hE_1 2 - - 0:main H140b.20:samAnakAla - - -
+%affirmative
+</sent_id>
+<sent_id=H140b>
+#उसके बाद अभ्यास में पवनमुक्तासन , वज्रासन , शशांकासन , मकरासन आदि जोड़ लें .
+$wyax 1 - - 2:r6 H139.20:coref distal - -
+bAxa_1 2 - - 20:k7t - - - -
+aByAsa_1 3 - - 20:k7 - - - -
+pavanamukwAsana 4 - - - - - - 41:begin
+[ne_1] 41 - - - - - - 40:op1
+vajrAsana 5 - - - - - - 42:begin
+[ne_2] 42 - - - - - - 40:op2
+SaSAMkAsana 6 - - - - - - 43:begin
+[ne_3] 43 - - - - - - 40:op3
+makarAsana 7 - - - - - - 44:begin
+[ne_4] 44 - - - - - - 40:op4
+Axi_15 8 - - - - - - 40:op5
+[conj_1] 40 - - 20:k2 - - - -
+jodZa_11-e_1 20 - - 0:main - [shade:le_1] - -
+%imperative
+</sent_id>
+<sent_id=H141>
+#ओनिकोमाइसिस क्या हैं ?
+onikomAisisa_9 1 - - 3:k1 - - - -
+$kim 2 - - 3:k1s - - - -
+hE_1-pres 3 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H142>
+#जब स्थिति और सुधर जाए
+sWiwi_2 1 - - 3:k1 - - - -
+Ora_3 2 - - 3:krvn - - - -
+suXara_1-e_1 3 - - 0:main H142b.20:samAnakAla [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H142b>
+#तो अभ्यास में जानुशिरासन , सुप्तवज्रासन , त्रिकोणासन , उत्तानपादासन , गोमुखासन तथा अर्धमत्स्येंद्रासन आदि को जोड़ लें .
+aByAsa_1 1 - - 20:k7 - - - -
+jAnuSirAsana 2 - - - - - - 41:begin
+[ne_1] 41 - - - - - - 40:op1
+supwavajrAsana 3 - - - - - - 42:begin
+[ne_2] 42 - - - - - - 40:op2
+wrikoNAsana 4 - - - - - - 43:begin
+[ne_3] 43 - - - - - - 40:op3
+uwwAnapAxAsana 5 - - - - - - 44:begin
+[ne_4] 44 - - - - - - 40:op4
+gomuKAsana 6 - - - - - - 45:begin
+[ne_5] 45 - - - - - - 40:op5
+arXamawsyeMxrAsana 7 - - - - - - 46:begin
+[ne_6] 46 - - - - - - 40:op6
+Axi_15 8 - - - - - - 40:op7
+[conj_1] 40 - - 20:k2 - - - -
+jodZa_11-e_1 20 - - 0:main - [shade:le_1] - -
+%imperative
+</sent_id>
+<sent_id=H143>
+#यहाँ पर जानुशिरासन के अभ्यास की विधि प्रस्तुत है -
+yahAz_1 1 - - 6:k7p - - - -
+jAnuSirAsana 2 - - - - - - 10:begin
+[ne_1] 10 - - 3:r6 - - - -
+aByAsa_1 3 - - 4:r6 - - - -
+viXi_2 4 - - 6:k1 - - - -
+praswuwa_96 5 - - 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H143b>
+#दोनों पैरों को सामने की ओर फैलाकर बैठ जाएँ .
+xonoM_9 1 - - 2:quant - - - -
+pEra_2 2 - pl 4:k2 - - - -
+sAmane_6 3 - - 4:k2p - - - -
+PElA_91 4 - - 5:rpk - - - -
+bETa_1-e_1 5 - - 0:main - [shade:jA_1] - -
+%imperative
+</sent_id>
+<sent_id=H144>
+#दाएँ पैर को घुटने से मोड़कर इसके तलवे का बाएँ पैर की जंघा से सटा दें
+xAyAz_1 1 - - 2:mod - - - -
+pEra_2 2 - - 4:k2 - - - -
+GutanA_1 3 - - 4:k5 - - - -
+modZa_17 4 - - 10:rpk - - - -
+$wyax 5 - - 6:r6 H144.2:coref proximal - -
+walavA_1 6 - - 10:k2 - - - -
+bAyAz_1 7 - - 8:mod - - - -
+pEra_2 8 - - 9:r6 - - - -
+jaMGA_1 9 - - 10:k3 - - - -
+sata_91-e_1 10 - - 0:main - [shade:xe_1] - -
+%imperative
+</sent_id>
+<sent_id=H144b>
+#तथा एड़ी जननेंद्रिय के नीचे रखें .
+edZI_1 1 - - 3:k2 - - - -
+jananeMxriya_1 2 - - 4:r6 - - - -
+nIce_1 4 - - 3:k7p - - - -
+raKa_1-e_1 3 - - 0:main H144.10:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H145>
+#दोनों हाथों को बाएँ पैर के पंजे के पास ले जाते हुए आगे की ओर इतना झुकें कि सिर जमीन को स्पर्श करे .
+xonoM_9 1 - - 2:quant - - - -
+hAWa_1 2 - pl 6:k2 - - - -
+bAyAz_1 3 - - 4:mod - - - -
+pEra_2 4 - - 5:r6 - - - -
+paMjA_91 5 - pl 7:r6 - - - -
+pAsa_1 7 - - 6:k2p - - - -
+le_1 6 - - 10:rsk - [shade:jA_1] - -
+Age_3 8 - - 10:k2p - - - -
+iwanA_96 9 - - 10:krvn - - - -
+Juka_4-e_1 10 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H145b>
+#कि सिर जमीन को स्पर्श करे .
+sira_1 1 - - 20:k1 - - - -
+jamIna_2 2 - - 20:k2 - - - -
+sparSa_1 3 - - - - - - 20:kriyAmUla
+kara_1-e_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H146>
+#इस स्थिति में आरामदायक अवधि तक रखकर वापस पूर्व स्थिति में आएँ .
+$wyax 1 - - 2:dem - proximal - -
+sWiwi_1 2 - - 5:k7 - - - -
+ArAmaxAyaka_91 3 - - 4:mod - - - -
+avaXi_1 4 - - 5:k7t - - - -
+raKa_3 5 - - 9:rpk - - - -
+vApasa_5 6 - - 9:krvn - - - -
+pUrva_19 7 - - 8:mod - - - -
+sWiwi_1 8 - - 9:k2p - - - -
+A_1-e_1 9 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H147>
+#यही क्रिया दूसरी तरफ भी करें .
+yahI_91 1 - - 2:mod - - - -
+kriyA_91 2 - - 5:k2 - - - -
+xUsarA_8 3 - - 4:mod - - - -
+waraPa_1 4 - - 5:k7p - BI_1 - -
+kara_17-e_1 5 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H148>
+#साइटिका एवं स्लिप डिस्क के रोगी इसका अभ्यास न करें .
+sAitikA_9 1 - - - - - - 10:op1
+slipa_9 2 - - - - - - 11:mod
+diska_1 3 - - - - - - 11:head
+[nc_1] 11 - - - - - - 10:op2
+[conj_1] 10 - - 4:r6 - - - -
+rogI_1 4 - pl 20:k1 - - - -
+$wyax 5 - - 20:k2 H146.9:coref proximal - -
+aByAsa_1 6 - - - - - - 20:kriyAmUla
+na_1 7 - - 20:neg - - - -
+kara_1-e_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H149>
+#मस्तिष्क तथा केंद्रीय तांत्रिक तंत्र को क्रियाशील एवं तंत्रिका तंत्र को क्रियाशील एवं संतुलित करने के लिए नाड़ीशोधन तथा उज्जायी प्राणायाम रामबाण की भूमिका निभाते हैं .
+maswiRka_3 1 - - - - - - 30:op1
+keMxrIya_1 2 - - 4:mod - - - -
+wAMwrika_91 3 - - 4:mod - - - -
+waMwra_1 4 - - - - - - 30:op2
+[conj_1] 30 - - 6:k2 - - - -
+kriyASIla_1 5 - - 6:k2s - - - -
+kara_91 6 - kqw - - - - 32:op1
+waMwrikA_91 7 - - 8:mod - - - -
+waMwra_1 8 - - 12:k2 - - - -
+kriyASIla_1 9 - - - - - - 31:op1
+saMwuliwa_1 10 - - - - - - 31:op2
+[conj_2] 31 - - 12:k2s - - - -
+kara_91 12 - kqw - - - - 32:op2
+[conj_3] 32 - - 20:rt - - - -
+nAdZISoXana 13 - - - - - - 33:begin
+[ne_1] 33 - - - - - - 34:op1
+ujjAyI 14 - - - - - - 35:begin
+[ne_2] 35 - - 15:mod - - - -
+prANAyAma_9 15 - - - - - - 34:op2
+[conj_4] 34 - - 20:k1 - - - -
+rAmabANa_1 16 - - 17:r6 - - - -
+BUmikA_2 17 - - 20:k2 - - - -
+niBA_7-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H150>
+#बिना कंभुक के इनका अभ्यास योग्य मार्गदर्शन में अपनी क्षमतानुसार करें .
+kuMBaka_9 2 - - 20:rasneg - - - -
+$wyax 3 - pl 20:k2 H149.34:coref proximal - -
+yogya_7 4 - - 5:mod - - - -
+mArgaxarSana_1 5 - - 20:k7 - - - -
+$addressee 6 - - 7:r6 - - - -
+kRamawAnusAra_9 7 - - 20:krvn - - - -
+aByAsa_1 8 - - - - - - 20:kriyAmUla
+kara_1-e_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H151>
+#योगनिद्रा - इस समस्या का मूल कारण मानसिक तनाव तथा भावनात्मक असंतुलन है .
+yoganixrA_9 1 - - 10:mod - - - -
+$wyax 2 - - 3:dem - proximal - -
+samasyA_1 3 - - 5:r6 - - - -
+mUla_1 4 - - 5:mod - - - -
+kAraNa_2 5 - - 10:k1 - - - -
+mAnasika_2 6 - - 7:mod - - - -
+wanAva_1 7 - - - - - - 30:op1
+BAvanAwmaka_1 8 - - 9:mod - - - -
+asaMwulana_1 9 - - - - - - 30:op2
+[conj_1] 30 - - 10:k1s - - - -
+hE_1-pres 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H152>
+#मन को सारी चिंता , दुख , कष्ट तथा शोक एवं भय से मुक्त करने के लिए ध्यान सर्वश्रेष्ठ तकनीक है .
+mana_12 1 - - 20:k2 - - - -
+sArA_3 2 - - 30:quant - - - -
+ciMwA_1 3 - - - - - - 30:op1
+xuKa_3 4 - - - - - - 30:op2
+kaRta_2 5 - - - - - - 30:op3
+Soka_2 6 - - - - - - 30:op4
+Baya_1 7 - - - - - - 30:op5
+[conj_1] 30 - - 20:k5 - - - -
+mukwa_9 8 - - - - - - 20:kriyAmUla
+kara_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - kqw 13:rt - - - -
+XyAna_3 10 - - 13:k1 - - - -
+sarvaSreRTa_3 11 - - 12:mod - - - -
+wakanIka_1 12 - - 13:k1s - - - -
+hE_1-pres 13 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H153>
+#प्रतिदिन दस से बीस मिनट तक इसका अभ्यास अवश्य करें .
+prawixina_1 1 - - 20:k7t - - - -
+xasa_1 2 numex - - - - - 30:start
+bIsa_1 3 numex - - - - - 30:end
+[span_1] 30 - - 4:card - - - -
+minata_1 4 - pl 20:k7t - - - -
+$wyax 5 - - 20:k2 H152.10:coref proximal - -
+avaSya_1 6 - - 20:krvn - - - -
+aByAsa_1 7 - - - - - - 20:kriyAmUla
+kara_1-e_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H154>
+#सादा , सुपाच्य , पौष्टिक आहार खाएँ ,
+sAxA_1 1 - - 4:mod - - - -
+supAcya_9 2 - - 4:mod - - - -
+pORtika_2 3 - - 4:mod - - - -
+AhAra_1 4 - - 5:k2 - - - -
+KA_1-e_1 5 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H154b>
+#चोकरयुक्त आटे की रोटी , पुराना चावल , दलिया , मूँग की दाल खाएँ
+cokarayukwa_9 1 - - 2:mod - - - -
+AtA_9 2 - - 3:r6 - - - -
+rotI_1 3 - - - - - - 30:op1
+purAnA_1 4 - - 5:mod - - - -
+cAvala_1 5 - - - - - - 30:op2
+xaliyA_3 6 - - - - - - 30:op3
+mUMga_9 7 - - 8:r6 - - - -
+xAla_1 8 - - - - - - 30:op4
+[conj_1] 30 - - 20:k2 - - - -
+KA_1-e_1 20 - - 0:main H154.5:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H154c>
+#फल तथा हरी सब्जियों का सेवन करें .
+Pala_1 1 - pl - - - - 30:op1
+harA_1 2 - - 3:mod - - - -
+sabjI_1 3 - pl - - - - 30:op2
+[conj_1] 30 - - 20:k2 - - - -
+sevana_9 4 - - - - - - 20:kriyAmUla
+kara_1-e_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H154b.20:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H155>
+#भारी , गरिष्ठ , चाय , काफी , तंबाकू , नशीले पदार्थ व उत्तेजक पदार्थों से परहेज करें .
+BArI_1 1 - - - - - - 30:op1
+gariRTa_9 2 - - - - - - 30:op2
+cAya_1 3 - - - - - - 30:op3
+kAPI_92 4 - - - - - - 30:op4
+waMbAkU_3 5 - - - - - - 30:op5
+naSIlA_1 6 - - 7:mod - - - -
+paxArWa_2 7 - pl - - - - 30:op6
+uwwejaka_2 8 - - 9:mod - - - -
+paxArWa_2 9 - pl - - - - 30:op7
+[conj_1] 30 - - 20:k5 - - - -
+paraheja_1 10 - - - - - - 20:kriyAmUla
+kara_1-e_1 11 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H156>
+#खट्टी चीजों के सेवन से बचें .
+KattA_1 1 - - 2:mod - - - -
+cIja_1 2 - pl 3:r6 - - - -
+sevana_96 3 - - 4:k5 - - - -
+baca_91-e_1 4 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H157>
+#नाक के नथुनों में रोज सुबह-शाम अखरोट का तेल लगाएँ .
+nAka_2 1 - - 2:r6 - - - -
+naWunA_1 2 - pl 9:k7p - - - -
+roja_3 3 - - 9:k7t - - - -
+subaha_1 4 - - - - - - 30:op1
+SAma_1 5 - - - - - - 30:op2
+[conj_1] 30 - - 9:k7t - - - -
+aKarota_1 6 - - 7:r6 - - - -
+wela_1 7 - - 9:k2 - - - -
+lagA_23-e_1 9 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H158>
+#स्नान के बाद रोएँदार तौलिये से शरीर को ऊपर से नीचे की ओर रगड़ें .
+snAna_1 1 - - 2:r6 - - - -
+bAxa_1 2 - - 9:k7t - - - -
+roezxAra_9 3 - - 4:mod - - - -
+wOliyA_1 4 - - 9:k3 - - - -
+SarIra_1 5 - - 9:k2 - - - -
+Upara_2 6 - - 9:k5 - - - -
+nIce_91 7 - - 9:k2p - - - -
+ragadZa_1-e_1 9 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H159>
+#नहाने के लिए गर्म जल का प्रयोग करें .
+nahA_1 1 - kqw 20:rt - - - -
+garma_1 2 - - 3:mod - - - -
+jala_1 3 - - 20:k2 - - - -
+prayoga_9 4 - - - - - - 20:kriyAmUla
+kara_1-e_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H160>
+#रोजमर्रा की जिंदगी में तकनीक के बढ़ते दखल ने हमें बेहद आरामतलब बना दिया है .
+rojamarrA_91 1 - - 2:mod - - - -
+jiMxagI_2 2 - - 6:k7 - - - -
+wakanIka_96 3 - - 6:r6 - - - -
+baDZa_3 4 - - 6:rvks - - - -
+xaKala_91 6 - - 10:k1 - - - -
+$speaker 7 - pl 10:k2 - - - -
+behaxa_6 8 - - 9:intf - - - -
+ArAmawalaba_91 9 - - 10:k2s - - - -
+banA_1-yA_hE_1 10 - - 0:main - [shade:xe_1] - -
+%affirmative
+</sent_id>
+<sent_id=H161>
+#मोबाइल फोन , इंटरनेट से जिंदगी आसान तो हुई है
+mobAila_9 1 - - - - - - 31:mod
+Pona_1 2 - - - - - - 31:head
+[nc_1] 31 - - - - - - 30:op1
+iMtaraneta_1 3 - - - - - - 30:op2
+[conj_1] 30 - - 6:k3 - - - -
+jiMxagI_2 4 - - 6:k1 - - - -
+AsAna_1 5 - - 6:k1s - - - -
+ho_5-yA_hE_1 6 - - 0:main H161b.4:vyaBicAra - - -
+%affirmative
+</sent_id>
+<sent_id=H161b>
+#लेकिन इसके नुकसान भी हैं .
+$wyax 1 - - 2:r6 H161.30:coref proximal - -
+nukasAna_2 2 - pl 4:k1 - BI_1 - -
+hE_1-pres 4 - - 0:main H161.6:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=H162>
+#कोई सूचना या रहस्य यदि एक क्लिक की दूरी पर हो ,
+koI_9 1 - - 10:quant - - - -
+sUcanA_1 2 - - - - - - 10:op1
+rahasya_1 3 - - - - - - 10:op2
+[disjunct_1] 10 - - 7:k1 - - - -
+eka_1 4 - - 5:card - - - -
+klika_9 5 - - 6:r6 - - - -
+xUrI_1 6 - - 7:k7p - - - -
+hE_1-pres 7 - - 0:main H162b.9:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=H162b>
+#तो कोई क्यों अपने दिमाग को कष्ट देना चाहेगा .
+koI_91 1 - - 9:k1 - - - -
+$kim 2 - - 9:rh - - - -
+apanA_91 3 - - 4:r6 - - - -
+ximAga_1 4 - - 6:k4 - - - -
+kaRta_5 5 - - 6:k2 - - - -
+xe_1 6 - kqw 9:k2 - - - -
+cAha_1-gA_1 9 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H163>
+#लेकिन आगे चलकर ये आदतें विशेष रूप से मस्तिष्क की याद रखने की क्षमता पर घातक असर डाल सकती हैं .
+Age_9 1 - - 20:k7t - - - -
+$wyax 2 - pl 3:dem - proximal - -
+Axawa_1 3 - pl 20:k1 - - - -
+viSeRa_1 4 - - 5:mod - - - -
+rUpa_91 5 - - 20:krvn - - - -
+maswiRka_3 6 - - 8:r6 - - - -
+yAxa_1 7 - - - - - - 30:kriyAmUla
+raKa_1 11 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 8:r6 - - - -
+kRamawA_3 8 - - 20:k7p - - - -
+GAwaka_1 9 - - 10:mod - - - -
+asara_91 10 - - 20:k2 - - - -
+dAla_92-0_sakawA_hE_1 20 - - 0:main H161b.4:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=H164>
+#दिमाग का जितना ज्यादा इस्तेमाल करेंगे
+ximAga_3 1 - - 5:k2 - - - -
+jiwanA_91 2 - - 3:mod - - - -
+jyAxA_1 3 - - 4:mod - - - -
+$addressee 6 - - 5:k1 - respect - -
+iswemAla_9 4 - - - - - - 5:kriyAmUla
+kara_1-gA_1 7 - - - - - - 5:verbalizer
+[cp_1] 5 - - 0:main H164b.6:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=H164b>
+#वह उतना ही तेज और सक्षम बनेगा .
+$wyax 1 - - 6:k1 H164.1:coref distal - -
+uwanA_91 2 - - 10:mod - hI_1 - -
+weja_15 3 - - - - - - 10:op1
+sakRama_2 4 - - - - - - 10:op2
+[conj_1] 10 - - 6:k1s - - - -
+bana_16-gA_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H165>
+#ब्रेन एक्सरसाइज इसी फंडे पर काम करती है .
+brena_1 1 - - - - - - 10:mod
+eksarasAija_1 2 - - - - - - 10:head
+[nc_1] 10 - - 20:k1 - - - -
+$wyax 3 - - 4:dem - proximal hI_1 -
+PaMdA_9 4 - - 20:k7p - - - -
+kAma_9 5 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H166>
+#रोज का सामान्य काम जरा सा हटके किया जाए
+roja_3 1 - - 3:mod - - - -
+sAmAnya_2 2 - - 3:mod - - - -
+kAma_1 3 - - 6:k2 - - - -
+jarA_2 4 - - 5:intf - - - -
+hatake_9 5 - - 6:krvn - - - -
+kara_17-yA_jAe_1 6 - - 0:main H166b.20:AvaSyakawApariNAma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H166b>
+#तो आपके दिमाग का हर वह हिस्सा सक्रिय होने लगेगा जिसका पहले इस्तेमाल ही नहीं किया जा रहा था .
+$addressee 1 - - 2:r6 - - - -
+ximAga_3 2 - - 5:r6 - - - -
+hara_2 3 - - 5:quant - - - -
+$wyax 4 - - 5:dem - distal - -
+hissA_1 5 - - 20:k1 - - - -
+sakriya_1 6 - - 20:k1s - - - -
+ho_5-nA_lagegA_1 20 - - 0:main - - - -
+$yax 7 - - 30:k2 5:coref - - -
+pahale_4 8 - - 30:k7t - - - -
+iswemAla_9 9 - - - - - - 30:kriyAmUla
+nahIM_1 10 - - 30:neg - - - -
+kara_1-yA_jA_rahA_WA_1 11 - - - - - - 30:verbalizer
+[cp_1] 30 - - 5:rcelab - - - -
+%affirmative
+</sent_id>
+<sent_id=H167>
+#आँखें बंद करके कपड़े बदलना , कोई नया विषय या नया खेल सीखना .
+AzKa_1 1 - pl 3:k2 - - - -
+baMxa_1 2 - - 3:k2s - - - -
+kara_91 3 - - 4:rpk - - - -
+kapadZA_1 4 - pl 5:k2 - - - -
+baxala_1 5 - kqw - - - - 30:op1
+koI_9 6 - - 8:quant - - - -
+nayA_1 7 - - 8:mod - - - -
+viRaya_1 8 - - - - - - 31:op1
+nayA_1 9 - - 10:mod - - - -
+Kela_2 10 - - - - - - 31:op2
+[disjunct_1] 31 - - 11:k2 - - - -
+sIKa_6 11 - kqw - - - - 30:op2
+[conj_1] 30 - - 40:k1 - - - -
+hE_1-pres 40 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H168>
+#बिजली का स्विच आन करने जैसे काम के लिए सीधे हाथ के बजाय उलटे हाथ का प्रयोग करना जैसे तरीके अपनाएँ ,
+bijalI_1 1 - - 2:r6 - - - -
+svica_1 2 - - 30:k2 - - - -
+Ana_95 3 - - - - - - 30:kriyAmUla
+kara_1 4 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 5:rsm - - - -
+kAma_1 5 - - 31:rt - - - -
+sIXA_3 6 - - 7:mod - - - -
+hAWa_1 7 - - 31:rasneg - - - -
+ulatA_91 8 - - 9:mod - - - -
+hAWa_1 9 - - 31:k2 - - - -
+prayoga_9 10 - - - - - - 31:kriyAmUla
+kara_1 11 - - - - - - 31:verbalizer
+[cp_2] 31 - kqw 13:k2 - - - -
+warIkA_5 12 - pl 13:k2 - - - -
+apanA_2-e_1 13 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H168b>
+#इन्हें अपनाकर दिमाग की बंद खिड़कियों को खोल सकते हैं .
+$wyax 1 - pl 2:k2 H168.12:coref proximal - -
+apanA_2 2 - - 17:rpk - - - -
+ximAga_3 14 - - 16:r6 - - - -
+baMxa_1 15 - - 16:mod - - - -
+KidZakI_1 16 - pl 17:k2 - - - -
+$speaker 18 - pl 17:k1 - - - -
+Kola_4-0_sakawA_hE_1 17 - - 0:main H168.13:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=H169>
+#कोई बात तभी लंबे समय तक याद रहती है
+koI_9 1 - - 2:quant - - - -
+bAwa_1 2 - - 20:k1 - - - -
+waBI_9 3 - - 20:k7t - - - -
+laMbA_1 4 - - 5:mod - - - -
+samaya_1 5 - - 20:k7t - - - -
+yAxa_1 6 - - - - - - 20:kriyAmUla
+raha_1-wA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H169b>
+#जब उस पर ध्यान दिया जाए .
+$wyax 1 - - 20:k7 H169.2:coref distal - -
+XyAna_1 2 - - - - - - 20:kriyAmUla
+xe_1-yA_jAe_1 3 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H169.20:samAnakAla - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H170>
+#जो भी याद रखना है उसे गौर से पढ़ें
+$yax 1 - - 20:k2 - - BI_1 -
+yAxa_1 2 - - - - - - 20:kriyAmUla
+raKa_1-nA_hE_1 3 - - - - - - 20:verbalizer
+[cp_1] 20 - - 4:rcelab - - - -
+$wyax 4 - - 6:k2 1:coref distal - -
+gOra_91 7 - - 6:krvn - - - -
+paDZa_1-e_1 6 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H170b>
+#और आगे बढ़ने से पहले आठ सेकेंड तक ध्यान केंद्रित करें .
+Age_3 1 - - 2:k2p - - - -
+baDZa_91 2 - kqw 3:r6 - - - -
+pahale_2 3 - - 20:k7t - - - -
+ATa_1 4 numex - 5:card - - - -
+sekeMda_3 5 - pl 20:k7t - - - -
+XyAna_1 6 - - 20:k2 - - - -
+keMxriwa_1 7 - - - - - - 20:kriyAmUla
+kara_1-e_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H170.6:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H171>
+#फिर भी चीज कैसे याद नहीं रहती .
+Pira_1 1 - - 20:k7t - BI_1 - -
+cIja_1 2 - - 20:k1 - - - -
+$kim 3 - - 20:krvn - - - -
+yAxa_1 4 - - - - - - 20:kriyAmUla
+nahIM_1 5 - - 20:neg - - - -
+raha_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H172>
+#कोई भी चीज याद रखने या सीखने का हर किसी का अपना तरीका होता है .
+koI_9 1 - - 2:quant - BI_1 - -
+cIja_1 2 - - 31:k2 - - - -
+yAxa_1 3 - - - - - - 31:kriyAmUla
+raKa_1 4 - - - - - - 31:verbalizer
+[cp_1] 31 - kqw - - - - 30:op1
+sIKa_6 5 - kqw - - - - 30:op2
+[disjunct_1] 30 - - 9:r6 - - - -
+harakoI_9 6 - - 9:r6 - - - -
+apanA_91 7 - - 9:mod - - - -
+warIkA_4 9 - - 10:k1 - - - -
+hE_1-pres 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H173>
+#कुछ लोग बेहतर विजुअल लर्नर होते हैं .
+kuCa_1 1 - - 2:quant - - - -
+loga_2 2 - pl 6:k1 - - - -
+behawara_1 3 - - 5:mod - - - -
+vijuala_9 4 - - 5:mod - - - -
+larnara_9 5 - pl 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H174>
+#यह वे लोग होते हैं
+$wyax 1 - pl 4:k1 H173.2:coref proximal - -
+$wyax 2 - pl 3:dem - distal - -
+loga_2 3 - pl 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H174b>
+#जो किसी चीज को देखकर या पढ़कर सीखते हैं .
+$yax 1 - pl 20:k1 H174.3:coref - - -
+koI_9 2 - - 3:quant - - - -
+cIja_1 3 - - 20:k2 - - - -
+xeKa_3 4 - - 20:rpk - - - -
+paDZa_1 5 - - 20:rpk - - - -
+sIKa_6-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H175>
+#वहीं कुछ लोग बेहतर आडियो लर्नर होते हैं
+vahIM_91 1 - - 6:k7t - - - -
+kuCa_1 2 - - 3:quant - - - -
+loga_2 3 - pl 6:k1 - - - -
+behawara_1 4 - - 5:mod - - - -
+Adiyo_9 7 - - 5:mod - - - -
+larnara_9 5 - pl 6:k1s - - - -
+hE_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H175b>
+#जो सुनकर सीखते हैं .
+$yax 1 - pl 3:k1 H175.3:coref - - -
+suna_2 2 - - 3:rpk - - - -
+sIKa_6-wA_hE_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H176>
+#आपके लिए कौन सा तरीका सुविधाजनक है ?
+$addressee 1 - - 5:rt - - - -
+$kim 2 - - 3:mod - - - -
+warIkA_5 3 - - 5:k1 - - - -
+suviXAjanaka_1 4 - - 5:k1s - - - -
+hE_1-pres 5 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H177>
+#इसे पहचानें
+$wyax 1 - - 2:k2 H176.3:coref proximal - -
+pahacAna_91-e_1 2 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H177b>
+#और याद रखने के लिए उसी का इस्तेमाल करें .
+yAxa_1 1 - - - - - - 30:kriyAmUla
+raKa_1 2 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:rt - - - -
+$wyax 3 - - 20:k2 H176.3:coref distal hI_1 -
+iswemAla_9 4 - - - - - - 20:kriyAmUla
+kara_1-e_1 5 - - - - - - 20:verbalizer
+[cp_2] 20 - - 0:main H177.2:samuccaya - - -
+%imperative
+</sent_id>
+<sent_id=H178>
+#चाहे आप विजुअल लर्नर ही क्यों न हों
+$addressee 1 - - 4:k1 - respect - -
+vijuala_9 2 - - 3:mod - - - -
+larnara_9 3 - - 4:k1s - hI_1 - -
+hE_1-pres 4 - - 0:main H178b.20:vyaBicAra - - -
+%affirmative
+</sent_id>
+<sent_id=H178b>
+#याद रखने के लिए बोल कर पढ़ें .
+yAxa_1 1 - - - - - - 30:kriyAmUla
+raKa_1 2 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:rt - - - -
+bola_1 3 - - 20:rpk - - - -
+paDZa_1-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H179>
+#कविता की तरह याद करने की कोशिश करेंगे
+kaviwA_2 1 - - 2:r6 - - - -
+waraha_91 2 - - 30:krvn - - - -
+yAxa_1 3 - - - - - - 30:kriyAmUla
+kara_1 4 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 5:r6 - - - -
+$addressee 7 - - 20:k1 - respect - -
+koSiSa_1 5 - - - - - - 20:kriyAmUla
+kara_1-gA_1 6 - - - - - - 20:verbalizer
+[cp_2] 20 - - 0:main H179b.4:AvaSyakawApariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=H179b>
+#तो और भी अच्छा होगा .
+Ora_3 1 - - 3:intf - BI_1 - -
+acCA_1 3 - - 4:k1s - - - -
+hE_1-gA_1 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H180>
+#जानकारी को किसी रंग , सुगंध , स्वाद से जोड़कर याद रखने की आदत डालें .
+jAnakArI_3 1 - - 30:k2 - - - -
+koI_9 2 - - 20:quant - - - -
+raMga_1 3 - - - - - - 20:op1
+sugaMXa_91 4 - - - - - - 20:op2
+svAxa_1 5 - - - - - - 20:op3
+[conj_1] 20 - - 6:k3 - - - -
+jodZa_91 6 - - 30:rpk - - - -
+yAxa_1 7 - - - - - - 30:kriyAmUla
+raKa_1 8 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 9:r6 - - - -
+Axawa_1 9 - - 10:k2 - - - -
+dAla_93-e_1 10 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H181>
+#नई जानकारी को किसी पुरानी जानकारी से जोड़कर याद रखने का प्रयास करें .
+nayA_1 1 - - 2:mod - - - -
+jAnakArI_3 2 - - 30:k2 - - - -
+koI_9 3 - - 5:quant - - - -
+purAnA_1 4 - - 5:mod - - - -
+jAnakArI_3 5 - - 6:k3 - - - -
+jodZa_91 6 - - 30:rpk - - - -
+yAxa_1 7 - - - - - - 30:kriyAmUla
+raKa_1 8 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:r6 - - - -
+prayAsa_3 9 - - - - - - 20:kriyAmUla
+kara_1-e_1 10 - - - - - - 20:verbalizer
+[cp_2] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H182>
+#किसी भी जानकारी को शब्दों और चित्र के माध्यम से याद रखने का प्रयास करें .
+koI_9 1 - - 2:quant - BI_1 - -
+jAnakArI_3 2 - - 30:k2 - - - -
+Sabxa_1 3 - pl - - - - 31:op1
+ciwra_1 4 - pl - - - - 31:op2
+[conj_1] 31 - - 5:r6 - - - -
+mAXyama_1 5 - - 30:k3 - - - -
+yAxa_1 6 - - - - - - 30:kriyAmUla
+raKa_1 7 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:r6 - - - -
+prayAsa_3 8 - - - - - - 20:kriyAmUla
+kara_1-e_1 9 - - - - - - 20:verbalizer
+[cp_2] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H183>
+#चार्ट , संक्षिप्त रूप में याद रखना भी मददगार साबित होगा .
+cArta_1 1 - - - - - - 31:op1
+saMkRipwa_12 2 - - 3:mod - - - -
+rUpa_1 3 - - - - - - 31:op2
+[disjunct_1] 31 - - 30:k7 - - - -
+yAxa_1 4 - - - - - - 30:kriyAmUla
+raKa_1 5 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k1 - BI_1 - -
+maxaxagAra_91 6 - - 20:k1s - - - -
+sAbiwa_6 7 - - - - - - 20:kriyAmUla
+ho_1-gA_1 8 - - - - - - 20:verbalizer
+[cp_2] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H184>
+#कुछ अच्छी आदतें डालकर भी दिमाग को तेज रखा जा सकता है .
+kuCa_1 1 - - 3:quant - - - -
+acCA_1 2 - - 3:mod - - - -
+Axawa_1 3 - pl 4:k2 - - - -
+dAla_93 4 - - 20:rpk - BI_1 - -
+ximAga_3 5 - - 20:k2 - - - -
+weja_15 6 - - 20:k2s - - - -
+raKa_3-yA_jA_sakawA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H185>
+#नियमित व्यायाम से मस्तिष्क को ज्यादा आक्सीजन मिलती है
+niyamiwa_1 1 - - 2:mod - - - -
+vyAyAma_1 2 - - 6:k3 - - - -
+maswiRka_3 3 - - 6:k4a - - - -
+jyAxA_1 4 - - 5:mod - - - -
+AksIjana_1 5 - - 6:k1 - - - -
+mila_22-wA_hE_1 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H185b>
+#जिससे यादाश्त कम होने का खतरा भी घट जाता है .
+$yax 1 - - 20:k3 H185.6:coref - - -
+yAxaxASwa_1 2 - - 4:k1 - - - -
+kama_4 3 - - - - - - 4:kriyAmUla
+ho_1 5 - - - - - - 4:verbalizer
+[cp_1] 4 - kqw 6:r6 - - - -
+KawarA_5 6 - - 20:k1 - BI_1 - -
+Gata_91-wA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H186>
+#साथ ही कुछ ऐसे रसायन स्रावित होते हैं
+sAWa_1 1 - - 20:krvn - hI_1 - -
+kuCa_1 2 - - 4:quant - - - -
+EsA_1 3 - - 4:mod - - - -
+rAsAyana_9 4 - pl 20:k1 - - - -
+srAviwa_9 5 - - 20:k1s - - - -
+ho_6-wA_hE_1 20 - - 0:main H185.6:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H186b>
+#जो दिमाग की कोशिकाओं को नष्ट होने से बचाएँगे .
+$yax 1 - pl 20:k1 H186.4:coref - - -
+ximAga_3 2 - - 3:r6 - - - -
+koSikA_1 3 - pl 20:k2 - - - -
+naRta_1 4 - - 5:k1s - - - -
+ho_5 5 - kqw 20:k5 - - - -
+bacA_1-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H187>
+#तनाव दिमाग को एकाग्रचित नहीं होने देता .
+wanAva_1 1 - - 20:pk1 - - - -
+ximAga_1 2 - - 4:k1 - - - -
+ekAgraciwa_9 3 - - 4:k1s - - - -
+nahIM_1 5 - - 20:neg - - - -
+ho_5 4 - - 20:k2 - - - -
+xe_91-wA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H188>
+#ज्यादा तनाव से हार्मोन कोर्टिसाल दिमाग के हिप्पोकैंपस को गंभीर नुकसान पहुँचाता है .
+jyAxA_1 1 - - 2:mod - - - -
+wanAva_1 2 - - 20:k3 - - - -
+hArmona_9 3 - - 4:mod - - - -
+kortisAla_9 4 - - 20:k1 - - - -
+ximAga_3 5 - - 6:r6 - - - -
+hippokEMpasa_9 6 - - 20:k4 - - - -
+gaMBIra_1 7 - - 8:mod - - - -
+nukasAna_2 8 - - 20:k2 - - - -
+pahuzcA_9-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H189>
+#अच्छी नींद लेने से दिमाग तरोताजा रहता है .
+acCA_1 1 - - 2:mod - - - -
+nIMxa_1 2 - - 3:k2 - - - -
+le_1 3 - kqw 20:rh - - - -
+ximAga_3 4 - - 20:k1 - - - -
+warowAjA_9 5 - - 20:k1s - - - -
+raha_3-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H190>
+#नींद पूरी नहीं हो पाने से दिनभर थकावट रहती है
+nIMxa_1 1 - - 4:k1 - - - -
+pUrA_1 2 - - 4:k1s - - - -
+nahIM_1 3 - - 4:neg - - - -
+ho_5 4 - kqw 20:rh - - - -
+xinaBara_9 5 - - 20:k7t - - - -
+WakAvata_2 6 - - 20:k1 - - - -
+raha_3-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H190b>
+#और किसी काम में ध्यान केंद्रित करना मुश्किल हो जाता है .
+koI_9 1 - - 2:quant - - - -
+kAma_1 2 - - 30:k7 - - - -
+XyAna_1 3 - - 30:k2 - - - -
+keMxriwa_1 4 - - - - - - 30:kriyAmUla
+kara_1 5 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:k1 - - - -
+muSkila_1 6 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main H190.20:samuccaya [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H191>
+#सिगरेट पीने से मस्तिष्क तक आक्सीजन पहुँचाने वाली धमनियाँ सिकुड़ने लगती हैं
+sigareta_2 1 - - 2:k2 - - - -
+pI_5 2 - kqw 20:rh - - - -
+maswiRka_3 3 - - 5:k2p - - - -
+AksIjana_1 4 - - 5:k2 - - - -
+pahuzcA_91 5 - - 6:rvks - - - -
+XamanI_1 6 - pl 20:k1 - - - -
+sikudZa_1-nA_lagawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H191b>
+#जिससे दिमाग कमजोर होने लगता है .
+$yax 1 - - 20:k3 H191.20:coref - - -
+ximAga_3 2 - - 20:k1 - - - -
+kamajora_1 3 - - 20:k1s - - - -
+ho_5-nA_lagawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H192>
+#फल , सब्जियों का पर्याप्त मात्रा में सेवन सेहत के साथ दिमाग के लिए भी काफी लाभकारी साबित होता है .
+Pala_1 1 - pl - - - - 30:op1
+sabjI_1 2 - pl - - - - 30:op2
+[conj_1] 30 - - 6:r6 - - - -
+paryApwa_2 3 - - 4:mod - - - -
+mAwrA_1 4 - - 6:k7 - - - -
+sevana_96 6 - - 20:k1 - - - -
+sehawa_1 7 - - 20:rask1 - - - -
+ximAga_3 8 - - 20:rt - BI_1 - -
+kAPI_91 9 - - 10:intf - - - -
+lABakArI_91 10 - - 20:k1s - - - -
+sAbiwa_6 11 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 12 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H193>
+#विटामिन बी , बी-12 , बी-6 , फोलिक एसिड युक्त खाद्य पदार्थ जैसे पालक , हरी सब्जियाँ , स्ट्राबेरी , तरबूज - खरबूज जैसे रसीले फल , सोयाबीन से यादाश्त तेज होती है .
+vitAmina-bI_9 1 - - - - - - 30:op1
+@bI-12 2 - - - - - - 30:op2
+@bI-6 3 - - - - - - 30:op3
+Polika_9 4 - - 5:mod - - - -
+esida_1 5 - - 6:k3 - - - -
+yukwa_1 6 - - 8:mod - - - -
+KAxya_1 7 - - 8:mod - - - -
+paxArWa_91 8 - pl - - - - 30:op4
+[conj_1] 30 - - 20:k3 - - - -
+pAlaka_2 9 - - - - - - 31:op1
+harA_1 10 - - 11:mod - - - -
+sabjI_1 11 - pl - - - - 31:op2
+strAbErI_9 12 - - - - - - 31:op3
+warabUja_91 13 - - - - - - 32:op1
+KarabUja_9 14 - - - - - - 32:op2
+[conj_2] 32 - - 16:rsm - - - -
+rasIlA_1 15 - - 16:mod - - - -
+Pala_1 16 - pl - - - - 31:op4
+soyAbIna_91 17 - - - - - - 31:op5
+[conj_3] 31 - - 8:rsm - - - -
+yAxaxASwa_1 18 - - 20:k1 - - - -
+weja_15 19 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H194>
+#ये नसों को क्षति पहुँचाने वाले होमोसिस्टीन को नष्ट करते हैं .
+$wyax 1 - pl 20:k1 H193.30:coref proximal - -
+nasa_3 2 - pl 4:k4 - - - -
+kRawi_6 3 - - 4:k2 - - - -
+pahuzcA_9 4 - - 5:rvks - - - -
+homosisatIna_9 5 - - 20:k2 - - - -
+naRta_9 6 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H195>
+#ये लाल रक्त कणिकाएँ बनाने में मदद करते हैं
+$wyax 1 - pl 20:k1 H193.30:coref proximal - -
+lAla_1 2 - - 10:mod - - - -
+rakwa_1 3 - - - - - - 10:mod
+kaNikA_91 4 - pl - - - - 10:head
+[nc_1] 10 - pl 5:k2 - - - -
+banA_1 5 - kqw 20:k7 - - - -
+maxaxa_1 6 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H195b>
+#जो मस्तिष्क तक आक्सीजन पहुँचाती हैं .
+$yax 1 - pl 4:k1 H195.10:coref - - -
+maswiRka_3 2 - - 4:k2p - - - -
+AksIjana_1 3 - - 4:k2 - - - -
+pahuzcA_91-wA_hE_1 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H196>
+#टमाटर , ग्रीन-टी , ब्रोकली और शकरकंद में विटामिन-ई , सी और एंटीआक्सीडेंट पाए जाते हैं .
+tamAtara_1 1 - - - - - - 30:op1
+grIna-tI_9 2 - - - - - - 30:op2
+brokolI_9 3 - - - - - - 30:op3
+SakarakaMxa_9 4 - - - - - - 30:op4
+[conj_1] 30 - - 20:k7 - - - -
+vitAmina-I_9 5 - - - - - - 31:op1
+sI_9 6 - - - - - - 31:op2
+eMtIAksIdeMta_9 7 - pl - - - - 31:op3
+[conj_2] 31 - - 20:k2 - - - -
+pA_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H197>
+#ये शरीर और दिमाग में आक्सीजन का प्रवाह बढ़ाते हैं
+$wyax 1 - pl 20:k1 H196.31:coref proximal - -
+SarIra_1 2 - - - - - - 30:op1
+ximAga_3 3 - - - - - - 30:op2
+[conj_1] 30 - - 20:k7 - - - -
+AksIjana_1 4 - - 5:r6 - - - -
+pravAha_1 5 - - 20:k2 - - - -
+baDZA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H197b>
+#जिससे दिमाग की सक्रियता बढ़ती है .
+$yax 1 - - 20:k3 H197.20:coref - - -
+ximAga_3 2 - - 3:r6 - - - -
+sakriyawA_9 3 - - 20:k1 - - - -
+baDZa_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H198>
+#मछली , अखरोट और बादाम खाने से भी दिमाग तेज होता है .
+maCalI_1 1 - - - - - - 30:op1
+aKarota_1 2 - - - - - - 30:op2
+bAxAma_1 3 - - - - - - 30:op3
+[conj_1] 30 - - 4:k2 - - - -
+KA_1 4 - kqw 20:rh - BI_1 - -
+ximAga_3 5 - - 20:k1 - - - -
+weja_15 6 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H199>
+#एच.आई.वी. का अर्थ है ह्यूमन इम्यूनो-डेफिशिएंसी वायरस .
+@eca.AI.vI. 1 - - 2:r6 - - - -
+arWa_1 2 - - 20:k1 - - - -
+hyUmana_9 3 - - - - - - 10:mod
+imyUno-dePiSieMsI_9 4 - - - - - - 10:mod
+vAyarasa_1 5 - - - - - - 10:head
+[nc_1] 10 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H200>
+#एच.आई.वी. शरीर की प्रतिरक्षण प्रणाली को आघात पहुँचाता है .
+@eca.AI.vI. 1 - - 20:k1 - - - -
+SarIra_1 2 - - 4:r6 - - - -
+prawirakRaNa_91 3 - - 4:mod - - - -
+praNAlI_1 4 - - 20:k4 - - - -
+AGAwa_9 5 - - 20:k2 - - - -
+pahuzcA_9-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H201>
+#प्रतिरक्षण प्रणाली हमारे शरीर के भीतर ऐसी व्यवस्थाओं का तंत्र है ,
+prawirakRaNa_91 1 - - 2:mod - - - -
+praNAlI_1 2 - - 20:k1 - - - -
+$speaker 3 - pl 4:r6 - - - -
+SarIra_1 4 - - 7:k7p - - - -
+EsA_1 5 - - 6:mod - - - -
+vyavasWA_4 6 - pl 7:r6 - - - -
+waMwra_1 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H201b>
+#जो संक्रमण से हमारी रक्षा करता है .
+$yax 1 - - 20:k1 H201.7:coref - - -
+saMkramaNa_1 2 - - 20:k5 - - - -
+$speaker 3 - pl 20:k2 - - - -
+rakRA_3 4 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H202>
+#प्रतिरक्षण प्रणाली सुरक्षा तंत्र शरीर में रोगवाहकों या बाहरी हमलावरों जैसे वायरस , बैक्टीरिया , आदि की पहचान करता है
+prawirakRaNa_91 1 - - 2:mod - - - -
+praNAlI_1 2 - - 20:k1 - - - -
+surakRA_2 3 - - 4:mod - - - -
+waMwra_1 4 - - 2:rs - - - -
+SarIra_1 5 - - 20:k7p - - - -
+rogavAhaka_9 6 - pl - - - - 30:op1
+bAharI_2 7 - - 8:mod - - - -
+hamalAvara_91 8 - pl - - - - 30:op2
+[disjunct_1] 30 - - 20:k2 - - - -
+vAyarasa_1 9 - - - - - - 31:op1
+bEktIriyA_1 10 - - - - - - 31:op2
+Axi_15 11 - - - - - - 31:op3
+[conj_1] 31 - - 30:rsm - - - -
+pahacAna_9 12 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 13 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H202b>
+#और उनका खात्मा करता है .
+$wyax 1 - pl 20:k2 H202.30:coref distal - -
+KAwmA_9 2 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 3 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H202.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H203>
+#एच.आई.वी. एक वायरस है
+@eca.AI.vI. 1 - - 4:k1 - - - -
+eka_1 2 - - 3:card - - - -
+vAyarasa_1 3 - - 4:k1s - - - -
+hE_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H203b>
+#जो प्रतिरक्षण प्रणाली , विशेषकर सीडी-4 कोशिकाओं पर हमला करता है
+$yax 1 - - 20:k1 H203.3:coref - - -
+prawirakRaNa_91 2 - - 3:mod - - - -
+praNAlI_1 3 - - 20:k7p - - - -
+viSeRakara_1 4 - - 6:mod - - - -
+@sIdI-4 5 - - 6:mod - - - -
+koSikA_1 6 - pl 3:rs - - - -
+hamalA_1 7 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H203c>
+#और उन्हें नष्ट कर देता है .
+$wyax 1 - pl 20:k2 H203b.6:coref distal - -
+naRta_9 2 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 3 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H203b.20:samuccaya [shade:xe_1] - -
+%affirmative
+</sent_id>
+<sent_id=H204>
+#सीडी-4 कोशिकाएँ विभिन्न रोगों से शरीर की रक्षा में मदद करती हैं .
+@sIdI-4 1 - - 2:mod - - - -
+koSikA_1 2 - pl 20:k1 - - - -
+viBinna_1 3 - - 4:mod - - - -
+roga_1 4 - pl 6:k5 - - - -
+SarIra_1 5 - - 6:r6 - - - -
+rakRA_3 6 - - 20:k7 - - - -
+maxaxa_1 7 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H205>
+#क्या होता है ,
+$kim 1 - - 2:k1 - - - -
+ho_10-wA_hE_1 2 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=H205b>
+#जब किसी व्यक्ति को एच.आई.वी. संक्रमण हो जाता है ?
+koI_9 1 - - 2:quant - - - -
+vyakwi_2 2 - - 20:k4a - - - -
+@eca.AI.vI. 3 - - 4:mod - - - -
+saMkramaNa_1 4 - - 20:k1 - - - -
+ho_10-wA_hE_1 20 - - 0:main H205.2:samAnakAla [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H206>
+#सीडी-4 कोशिकाओं में घुसकर एच.आई.वी. प्रजनन के जरिए अपनी संख्या बड़ी तेजी से बढ़ाता है
+@sIdI-4 1 - - 2:mod - - - -
+koSikA_1 2 - pl 3:k7p - - - -
+Gusa_1 3 - - 20:rpk - - - -
+@eca.AI.vI. 4 - - 20:k1 - - - -
+prajanana_1 5 - - 20:k3 - - - -
+apanA_91 6 - - 7:r6 - - - -
+saMKyA_1 7 - - 20:k2 - - - -
+badZA_17 8 - - 9:intf - - - -
+wejI_96 9 - - 20:krvn - - - -
+baDZA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H206b>
+#और इस दौरान कोशिका में नये वायरस पैदा हो जाते हैं .
+$wyax 1 - - 2:dem - proximal - -
+xOrAna_10 2 - - 20:k7t - - - -
+koSikA_1 3 - - 20:k7p - - - -
+nayA_1 4 - - 5:mod - - - -
+vAyarasa_1 5 - pl 20:k1 - - - -
+pExA_1 6 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main H206.20:samuccaya [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H207>
+#इससे सीडी-4 कोशिकाएँ खंडित हो जाती हैं .
+$wyax 1 - - 20:k3 H206b.5:coref proximal - -
+@sIdI-4 2 - - 3:mod - - - -
+koSikA_1 3 - pl 20:k1 - - - -
+KaMdiwa_91 4 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H208>
+#सीडी-4 कोशिका खंडित हो जाने से अनेक वायरस रक्त-प्रवाह में प्रवेश कर जाते हैं .
+@sIdI-4 1 - - 2:mod - - - -
+koSikA_1 2 - - 4:k1 - - - -
+KaMdiwa_91 3 - - 4:k1s - - - -
+ho_5 4 - kqw 20:rh - - - -
+aneka_1 5 - - 6:quant - - - -
+vAyarasa_1 6 - pl 20:k1 - - - -
+rakwapravAha_96 7 - - 20:k7p - - - -
+praveSa_9 8 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H209>
+#इसके बाद एच.आई.वी. अन्य सीडी-4 कोशिकाओं पर हमला करता है ,
+$wyax 1 - - 2:r6 H208.20:coref proximal - -
+bAxa_1 2 - - 20:k7t - - - -
+@eca.AI.vI. 3 - - 20:k1 - - - -
+anya_1 4 - - 6:mod - - - -
+@sIdI-4 5 - - 6:mod - - - -
+koSikA_1 6 - pl 20:k7p - - - -
+hamalA_1 7 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H209b>
+#और यह प्रक्रिया बार - बार दोहरायी जाती है .
+$wyax 1 - - 2:dem - proximal - -
+prakriyA_1 2 - - 4:k2 - - - -
+bArabAra_96 3 - - 4:krvn - - - -
+xoharA_4-yA_jAwA_hE_1 4 - - 0:main H209.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H210>
+#एच.आई.वी. ज्यादातर सीडी-4 कोशिकाओं को नष्ट कर देता है
+@eca.AI.vI. 1 - - 20:k1 - - - -
+jyAxAwara_3 2 - - 4:quant - - - -
+@sIdI-4 3 - - 4:mod - - - -
+koSikA_1 4 - pl 20:k2 - - - -
+naRta_9 5 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - [shade:xe_1] - -
+%affirmative
+</sent_id>
+<sent_id=H210b>
+#और इस प्रकार संक्रमित व्यक्ति की प्रतिरक्षण प्रणाली नष्ट हो जाती है .
+$wyax 1 - - 2:dem - proximal - -
+prakAra_5 2 - - 20:krvn - - - -
+saMkramiwa_9 3 - - 4:mod - - - -
+vyakwi_2 4 - - 6:r6 - - - -
+prawirakRaNa_91 5 - - 6:mod - - - -
+praNAlI_1 6 - - 20:k1 - - - -
+naRta_1 7 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main H210.20:samuccaya [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H211>
+#एच.आई.वी. की जाँच अवश्य कराएँ .
+@eca.AI.vI. 1 - - 20:k2 - - - -
+avaSya_1 2 - - 20:krvn - - - -
+jAzca_9 3 - - - - - - 20:kriyAmUla
+karA_1-e_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H212>
+#एच.आई.वी. जाँच आसान , सुरक्षित तथा जन स्वास्थ्य केन्द्रों पर उपलब्ध है .
+@eca.AI.vI. 1 - - 2:mod - - - -
+jAzca_3 2 - - 20:k1 - - - -
+AsAna_1 3 - - - - - - 30:op1
+surakRiwa_6 4 - - - - - - 30:op2
+jana_2 5 - - 7:mod - - - -
+svAsWya_1 6 - - 7:mod - - - -
+keMxra_1 7 - pl 8:k7p - - - -
+upalabXa_1 8 - - - - - - 30:op3
+[conj_1] 30 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H213>
+#किसी व्यक्ति को एड्स होने पर निम्न दुष्परिणाम सामने आते हैं .
+koI_9 1 - - 2:quant - - - -
+vyakwi_2 2 - - 4:k4a - - - -
+@edsa 3 - - 4:k1 - - - -
+ho_10 4 - kqw 20:k7t - - - -
+nimna_5 5 - - 6:mod - - - -
+xuRpariNAma_2 6 - pl 20:k1 - - - -
+sAmane_6 7 - - 20:k2p - - - -
+A_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H214>
+#व्यक्ति बार - बार बीमार पड़ने लगता है
+vyakwi_2 1 - - 20:k1 - - - -
+bArabAra_96 2 - - 20:krvn - - - -
+bImAra_2 3 - - 20:k1s - - - -
+padZa_2-nA_lagawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H214b>
+#और निरन्तर कमजोर होता जाता है .
+vyakwi_2 1 - - 20:k1 H214.1:coref - - -
+niraMwara_4 2 - - 20:krvn - - - -
+kamajora_1 3 - - 20:k1s - - - -
+ho_5-wA_jA_wA_hE_1 20 - - 0:main H214.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H215>
+#व्यक्ति को बड़ी आसानी से संक्रमण होने लगते हैं .
+vyakwi_2 1 - - 20:k4a - - - -
+badZA_17 2 - - 3:intf - - - -
+AsAnI_5 3 - - 20:krvn - - - -
+saMkramaNa_1 4 - pl 20:k1 - - - -
+ho_10-nA_lagawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H216>
+#प्रतिरक्षण क्षमता कम होने पर ये व्यक्ति को ये संक्रमण बड़ी आसानी से दबोच लेते है .
+prawirakRaNa_91 1 - - 2:mod - - - -
+kRamawA_3 2 - - 4:k1 - - - -
+kama_4 3 - - 4:k1s - - - -
+ho_5 4 - kqw 20:k7t - - - -
+$wyax 5 - - 6:dem - proximal - -
+vyakwi_2 6 - - 20:k2 - - - -
+$wyax 7 - pl 8:dem - proximal - -
+saMkramaNa_1 8 - pl 20:k1 - - - -
+badZA_17 9 - - 10:intf - - - -
+AsAnI_5 10 - - 20:krvn - - - -
+xaboca_91-wA_hE_1 20 - - 0:main - [shade:le_1] - -
+%affirmative
+</sent_id>
+<sent_id=H217>
+#एड्स के साथ रह रहे लोगों का विरोध न करें .
+@edsa 1 - - 2:rask3 - - - -
+raha_1-0_rahA_hE_1 2 - - 3:rvks - - - -
+loga_2 3 - pl 20:k2 - - - -
+viroXa_1 4 - - - - - - 20:kriyAmUla
+na_1 5 - - 20:neg - - - -
+kara_1-e_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H218>
+#एच.आई.वी. और एड्स के खिलाफ़ देश की महायात्रा में शामिल हों .
+@eca.AI.vI. 1 - - - - - - 30:op1
+@edsa 2 - - - - - - 30:op2
+[conj_1] 30 - - 4:k5 - - - -
+KilAPa_91 3 - - 4:mod - - - -
+xeSa_8 5 - - 4:r6 - - - -
+mahAyAwrA_9 4 - - 20:k7 - - - -
+SAmila_92 6 - - 20:k1s - - - -
+ho_6-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H219>
+#सामुदायिक सेवा केन्द्र एच.आई.वी. एड्स से संक्रमित एवं अप्रभावित लोगों के लिए हैं .
+sAmuxAyika_91 1 - - 3:mod - - - -
+sevA_1 2 - - 3:mod - - - -
+keMxra_1 3 - pl 20:k1 - - - -
+@eca.AI.vI. 4 - - 5:mod - - - -
+@edsa 5 - - 6:k5 - - - -
+saMkramiwa_9 6 - - - - - - 30:op1
+apraBAviwa_2 7 - - - - - - 30:op2
+[conj_1] 30 - - 8:mod - - - -
+loga_2 8 - pl 20:rt - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H220>
+#यहाँ पर एच.आई.वी. संक्रमित व्यक्तियों की सम्पूर्ण देखभाल व सहायता की जाती है ,
+yahAz_1 1 - - 20:k7p - - - -
+@eca.AI.vI. 2 - - 3:mod - - - -
+saMkramiwa_9 3 - - 4:mod - - - -
+vyakwi_2 4 - pl 20:r6 - - - -
+saMpUrNa_3 5 - - 30:mod - - - -
+xeKaBAla_1 6 - - - - - - 30:op1
+sahAyawA_3 7 - - - - - - 30:op2
+[conj_1] 30 - - 20:k2 - - - -
+kara_17-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H220b>
+#जिससे कि प्रभावित परिवार के सदस्य एक सम्मानित व सम्पूर्ण जीवन जी सकें .
+praBAviwa_3 1 - - 2:mod - - - -
+parivAra_1 2 - - 3:r6 - - - -
+saxasya_1 3 - pl 20:k1 - - - -
+eka_1 4 - - 7:card - - - -
+sammAniwa_96 5 - - - - - - 30:op1
+saMpUrNa_3 6 - - - - - - 30:op2
+[conj_1] 30 - - 7:mod - - - -
+jIvana_1 7 - - 20:k2 - - - -
+jI_3-0_sakawA_hE_1 20 - - 0:main H220.20:uxxeSya - - -
+%affirmative
+</sent_id>
+<sent_id=H221>
+#आमतौर पर पैप लड़कियों में 15 साल की उम्र के बाद होने लगता है .
+AmawOra_1 1 - - 20:krvn - - - -
+pEpa_9 2 - - 20:k1 - - - -
+ladZakI_1 3 - pl 20:k7 - - - -
+15 4 numex - 5:card - - - -
+sAla_1 5 - pl 6:r6 - - - -
+umra_1 6 - - 7:r6 - - - -
+bAxa_1 7 - - 20:k7t - - - -
+ho_11-nA_lagawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H222>
+#आज पेट और छाती के अनेक विकारों को दूर करने के लिए एक छोटा सा छेद ही पर्याप्त होता है
+Aja_1 1 - - 20:k7t - - - -
+peta_1 2 - - - - - - 30:op1
+CAwI_2 3 - - - - - - 30:op2
+[conj_1] 30 - - 5:r6 - - - -
+aneka_3 4 - - 5:quant - - - -
+vikAra_4 5 - pl 31:k2 - - - -
+xUra_9 6 - - - - - - 31:kriyAmUla
+kara_1 7 - - - - - - 31:verbalizer
+[cp_1] 31 - kqw 20:rt - - - -
+eka_1 8 - - 10:card - - - -
+CotA_1 9 - - 10:mod - - - -
+Cexa_1 10 - - 20:k1 - hI_1 - -
+paryApwa_2 11 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H222b>
+#और इस विधि को लैपरोस्कोपिक सर्जरी या की होल या बटन होल सर्जरी के नाम से जाना जाता है .
+$wyax 1 - - 2:dem - proximal - -
+viXi_2 2 - - 20:k2 - - - -
+lEparoskopika_9 3 - - - - - - 31:mod
+sarjarI_1 4 - - - - - - 31:head
+[nc_1] 31 - - - - - - 30:op1
+kI_9 5 - - - - - - 32:mod
+hola_6 6 - - - - - - 32:head
+[nc_2] 32 - - - - - - 30:op2
+batana_1 7 - - - - - - 33:mod
+hola_6 8 - - - - - - 33:mod
+sarjarI_1 9 - - - - - - 33:head
+[nc_3] 33 - - - - - - 30:op3
+[disjunct_1] 30 - - 10:r6 - - - -
+nAma_1 10 - - 20:k3 - - - -
+jAna_10-yA_jAwA_hE_1 20 - - 0:main H222.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H223>
+#पित्ताशय में पथरी हो जाने पर पित्ताशय निकालने के लिए .
+piwwASaya_1-bladder 1 - - 3:k7p - - - -
+paWarI_4 2 - - 3:k1 - - - -
+ho_10 3 - kqw 20:k7t - [shade:jA_1] - -
+piwwASaya_1-bladder 4 - - 5:k2 - - - -
+nikAla_91 5 - kqw 20:rt - - - -
+kara_17-yA_jAwA_hE_1 20 - - 0:main H222b.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H224>
+#अपेंडिक्श में सूजन आ जाने पर अपेंडिक्श निकालने के लिए .
+apeMdikSa_9 1 - - 3:k7p - - - -
+sUjana_1 2 - - 3:k1 - - - -
+A_1 3 - kqw 20:k7t - [shade:jA_1] - -
+apeMdikSa_9 4 - - 5:k2 - - - -
+nikAla_91 5 - kqw 20:rt - - - -
+kara_17-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H225>
+#पेप्टिक अल्सर की बीमारी दूर करने के लिए .
+peptika_9 1 - - - - - - 10:mod
+alsara_9 2 - - - - - - 10:head
+[nc_1] 10 - - 3:r6 - - - -
+bImArI_3 3 - - 31:k2 - - - -
+xUra_9 4 - - - - - - 31:kriyAmUla
+kara_1 5 - - - - - - 31:verbalizer
+[cp_1] 31 - kqw 20:rt - - - -
+kara_17-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H226>
+#हायाटस हर्निया को दुरुस्त करने के लिए .
+hAyAtasa_9 1 - - - - - - 10:mod
+harniyA_9 2 - - - - - - 10:head
+[nc_1] 10 - - 31:k2 - - - -
+xuruswa_9 3 - - - - - - 31:kriyAmUla
+kara_1 4 - - - - - - 31:verbalizer
+[cp_1] 31 - kqw 20:rt - - - -
+kara_17-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H227>
+#इंग्वाईनल हर्निया के उपचार के लिए .
+iMgvAInala_9 1 - - - - - - 10:mod
+harniyA_9 2 - - - - - - 10:head
+[nc_1] 10 - - 3:r6 - - - -
+upacAra_7 3 - - 20:rt - - - -
+kara_17-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H228>
+#इस के अलावा छाती के भीतर के कुछ विकारों को भी इस विधि से दूर किया जा सकता है .
+$wyax 1 - - 20:rask1 H222b.2:coref proximal/samAveSI - -
+CAwI_2 2 - - 3:r6 - - - -
+BIwara_2 3 - - 5:r6 - - - -
+kuCa_1 4 - - 5:quant - - - -
+vikAra_4 5 - pl 20:k2 - BI_1 - -
+$wyax 6 - - 7:dem - proximal - -
+viXi_2 7 - - 20:k3 - - - -
+xUra_9 8 - - - - - - 20:kriyAmUla
+kara_1-yA_jA_sakawA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H229>
+#मसलन कैंसर (पेट का) , लिवर की बीमारियाँ , आंत संबंधी रोग आदि .
+masalana_91 1 - - 20:krvn - - - -
+peta_1 2 - - 3:r6 - - - -
+kEMsara_1 3 - - - - - - 30:op1
+livara_1 4 - - 5:r6 - - - -
+bImArI_3 5 - pl - - - - 30:op2
+AMwa_1 6 - - 7:k5 - - - -
+saMbaMXI_4 7 - - 8:mod - - - -
+roga_1 8 - pl - - - - 30:op3
+Axi_15 9 - - - - - - 30:op4
+[conj_1] 30 - - 20:k1 - - - -
+hE_1-pres 20 - - 0:main H228.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H230>
+#पारंपरिक शल्यक्रिया के मुकाबले इस विधि के अनेक फायदे हैं .
+pAraMparika_1 1 - - 2:mod - - - -
+SalyakriyA_2 2 - - 20:rv - - - -
+$wyax 3 - - 4:dem - proximal - -
+viXi_2 4 - - 6:r6 - - - -
+aneka_1 5 - - 6:quant - - - -
+PAyaxA_1 6 - pl 20:k1 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H231>
+#बटन होल सर्जरी में मरीज को ऑपरेशन के पश्चात का दर्द बहुत कम होता है .
+batana_1 1 - - - - - - 10:mod
+hola_6 2 - - - - - - 10:mod
+sarjarI_1 3 - - - - - - 10:head
+[nc_1] 10 - - 20:k7 - - - -
+marIja_1 4 - - 20:k4a - - - -
+oYpareSana_9 5 - - 6:r6 - - - -
+paScAwa_91 6 - - 7:r6 - - - -
+xarxa_1 7 - - 20:k1 - - - -
+bahuwa_7 8 - - 9:intf - - - -
+kama_4 9 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H232>
+#टाँके नहीं लगे होने की वजह से अस्पताल में ज्यादा दिन रहने की जरूरत नहीं पड़ती .
+tAzkA_1 1 - pl 3:k1 - - - -
+nahIM_1 2 - - 3:neg - - - -
+laga_91 3 - kqw 4:r6 - - - -
+vajaha_2 4 - - 20:rh - - - -
+aspawAla_1 5 - - 8:k7p - - - -
+jyAxA_1 6 - - 7:mod - - - -
+xina_1 7 - pl 8:k7t - - - -
+raha_2 8 - kqw 9:r6 - - - -
+jarUrawa_1 9 - - 20:k1 - - - -
+nahIM_1 10 - - 20:neg - - - -
+padZa_4-wA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H233>
+#बटन होल सर्जरी में पेट के भीतरी अवयवों को चोट लगने की संभावना काफी कम होती है .
+batana_1 1 - - - - - - 10:mod
+hola_6 2 - - - - - - 10:mod
+sarjarI_1 3 - - - - - - 10:head
+[nc_1] 10 - - 20:k7 - - - -
+peta_1 4 - - 6:r6 - - - -
+BIwarI_1 5 - - 6:mod - - - -
+avayava_7 6 - pl 8:k4 - - - -
+cota_1 7 - - 8:k1 - - - -
+laga_3 8 - kqw 9:r6 - - - -
+saMBAvanA_1 9 - - 20:k1 - - - -
+kAPI_91 11 - - 12:intf - - - -
+kama_4 12 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H234>
+#चूँकि भीतरी दृश्य टीवी के पटल पर विस्तारित होकर दिखता है
+BIwarI_1 1 - - 2:mod - - - -
+xqSya_1 2 - - 20:k1 - - - -
+tIvI_1 3 - - 4:r6 - - - -
+patala_3 4 - - 20:k7p - - - -
+viswAriwa_1 5 - - 20:k1s - - - -
+ho_5 6 - - 20:rpk - - - -
+xiKa_91-wA_hE_1 20 - - 0:main H233.20:kAryakAraNa - - -
+%affirmative
+</sent_id>
+<sent_id=H234b>
+#और प्रत्यक्ष रूप से अधिक स्पष्ट दिखाई देता है .
+prawyakRa_6 1 - - 2:mod - - - -
+rUpa_91 2 - - 20:rv - - - -
+aXika_1 3 - - 4:intf - - - -
+spaRta_1 4 - - 20:krvn - - - -
+xiKAI_9 5 - - - - - - 20:kriyAmUla
+xe_1-wA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H234.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H235>
+#केवल चार छोटे छेद बने होने के कारण इन घावों के पकने या संक्रमित हो जाने की गुंजाइश काफी कम हो जाती है .
+kevala_1 1 - - 2:mod - - - -
+cAra_1 2 numex - 4:card - - - -
+CotA_1 3 - - 4:mod - - - -
+Cexa_1 4 - pl 5:k1 - - - -
+bana_21 5 - kqw 6:r6 - - - -
+kAraNa_1 6 - - 20:rh - - - -
+$wyax 7 - pl 8:dem - proximal - -
+GAva_1 8 - pl 9:k1 - - - -
+paka_1 9 - kqw - - - - 30:op1
+saMkramiwa_9 10 - - 11:k1s - - - -
+ho_5 11 - kqw - - - - 30:op2
+[disjunct_1] 30 - - 12:r6 - - - -
+guMjAiSa_91 12 - - 20:k1 - - - -
+kAPI_91 13 - - 14:intf - - - -
+kama_4 14 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H236>
+#सामान्य शल्यक्रिया के पश्चात मरीज करीब एक सप्ताह बिस्तर पर ही रहता है .
+sAmAnya_6 1 - - 2:mod - - - -
+SalyakriyA_2 2 - - 3:r6 - - - -
+paScAwa_91 3 - - 20:k7t - - - -
+marIja_1 4 - - 20:k1 - - - -
+eka_1 6 - - 7:card - - - -
+sapwAha_1 7 - - 20:k7t - karIba_1 - -
+biswara_2 8 - - 20:k7p - hI_1 - -
+raha_2-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H237>
+#ऐसे में उसे निमोनिया होने , शिराओं में खून के थक्के जमने जैसी लताओं का सामना करना पड़ सकता है .
+EsA_1 1 - - 20:k7 - - - -
+$wyax 2 - - 20:k1 H236.4:coref distal - -
+nimoniyA_1 3 - - 4:k1 - - - -
+ho_10 4 - kqw - - - - 30:op1
+SirA_1 5 - pl 8:k7p - - - -
+KUna_3 6 - - 7:r6 - - - -
+WakkA_1 7 - pl - - - - 30:op2
+jama_91 8 - - 7:rvks - - - -
+[conj_1] 30 - - 9:rsm - - - -
+lawA_9 9 - pl 20:k2 - - - -
+sAmanA_9 10 - - - - - - 20:kriyAmUla
+kara_1-nA_padZa_sakawA_hE_1 11 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H238>
+#लैपरोस्कोपिक विधि में ये संभावनाएँ नगण्य होती हैं .
+lEparoskopika_9 1 - - 2:mod - - - -
+viXi_2 2 - - 20:k7 - - - -
+$wyax 3 - pl 4:dem - proximal - -
+saMBAvanA_1 4 - pl 20:k1 - - - -
+nagaNya_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H239>
+#लैपरोस्कोपिक विधि में सामान्य चिकित्सा के मुकाबले दोगुना समय लगता है .
+lEparoskopika_9 1 - - 2:mod - - - -
+viXi_2 2 - - 20:k7 - - - -
+sAmAnya_6 3 - - 4:mod - - - -
+cikiwsA_1 4 - - 20:rv - - - -
+xogunA_1 5 - - 6:mod - - - -
+samaya_1 6 - - 20:k1 - - - -
+laga_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H240>
+#मरीज को ज्यादा निश्चेतक दवा देनी पड़ती है ,
+marIja_1 1 - - 20:k4 - - - -
+jyAxA_1 2 - - 4:mod - - - -
+niScewaka_1 3 - - 4:mod - - - -
+xavA_1 4 - - 20:k2 - - - -
+xe_1-nA_padZawA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H240b>
+#जिसके अपने नुकसान हैं .
+$yax 1 - - 3:r6 H240.4:coref - - -
+apanA_91 2 - - 3:mod - - - -
+nukasAna_2 3 - pl 20:k1 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H241>
+#शल्यचिकित्सा के क्षेत्र में की होल सर्जरी एक क्रान्तिकारी आविष्कार है
+SalyacikiwsA_1 1 - - 2:r6 - - - -
+kRewra_1 2 - - 20:k7 - - - -
+kI_9 3 - - - - - - 10:mod
+hola_6 4 - - - - - - 10:mod
+sarjarI_1 5 - - - - - - 10:head
+[nc_1] 10 - - 20:k1 - - - -
+eka_1 6 - - 8:card - - - -
+krAnwikArI_1 7 - - 8:mod - - - -
+AviRkAra_1 8 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H241b>
+#और इससे ज्यादा से ज्यादा मरीज लाभान्वित हो रहे हैं .
+$wyax 1 - - 20:k3 H241.10:coref proximal - -
+aXikaseaXika_97 2 - - 3:mod - - - -
+marIja_1 3 - pl 20:k1 - - - -
+lABAnviwa_91 4 - - 20:k1s - - - -
+ho_5-0_rahA_hE_1 20 - - 0:main H241.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H242>
+#एच.आई.वी. उस वायरस या विषाणु को कहते हैं ,
+@eca.AI.vI. 1 - - 20:k2s - - - -
+$wyax 2 - - 10:dem - distal - -
+vAyarasa_1 3 - - - - - - 10:op1
+viRANu_96 4 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:k2 - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H242b>
+#जो इंसानों के अंदर बीमारी से बचने वाली ताकत को कम कर सकता है .
+$yax 1 - - 20:k1 H242.10:coref - - -
+iMsAna_2 2 - pl 3:r6 - - - -
+aMxara_2 3 - - 6:k7p - - - -
+bImArI_3 4 - - 5:k5 - - - -
+baca_4 5 - - 6:rvks - - - -
+wAkawa_2 6 - - 20:k2 - - - -
+kama_4 7 - - - - - - 20:kriyAmUla
+kara_1-0_sakawA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H243>
+#एड्स उस हालत को कहते हैं ,
+@edsa 1 - - 20:k2s - - - -
+$wyax 2 - - 3:dem - distal - -
+hAlawa_1 3 - - 20:k2 - - - -
+kaha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H243b>
+#जिसमें बीमारियों से लड़ने की ताकत बिल्कुल कम या खत्म हो जाती है .
+$yax 1 - - 20:k7 H243.3:coref - - -
+bImArI_3 2 - pl 3:k5 - - - -
+ladZa_14 3 - kqw 4:r6 - - - -
+wAkawa_2 4 - - 20:k1 - - - -
+bilkula_91 5 - - 20:krvn - - - -
+kama_4 6 - - - - - - 10:op1
+Kawma_91 7 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H244>
+#एच.आई.वी. एड्स का अभी तक कोई इलाज नहीं है
+@eca.AI.vI. 1 - - 2:mod - - - -
+@edsa 2 - - 5:r6 - - - -
+aBIwaka_9 3 - - 20:k7t - - - -
+koI_9 4 - - 5:quant - - - -
+ilAja_1 5 - - 20:k1 - - - -
+nahIM_1 6 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H244b>
+#मगर इस से पूरी तरह बचा जा सकता है .
+$wyax 1 - - 20:k5 H244.2:coref proximal - -
+pUrA_1 2 - - 3:mod - - - -
+waraha_11 3 - - 20:krvn - - - -
+baca_91-yA_jA_sakawA_hE_1 20 - - 0:main H244.20:viroXI - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H245>
+#एड्स का पहला मरीज भारत में 1986 में पाया गया .
+@edsa 1 - - 3:r6 - - - -
+pahalA_1 2 - - 3:mod - - - -
+marIja_1 3 - - 20:k2 - - - -
+BArawa_96 10 place - 20:k7p - - - -
+1986 5 yoc - 20:k7t - - - -
+pA_1-yA_gayA_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H246>
+#1986 से सन 2002 तक एच.आई.वी. के साथ जी रहे लोगों की संख्या करीब पैंतालीस लाख हो गई है .
+1986 1 yoc - 20:k5 - - - -
+2002 2 yoc - - - - - 30:end
+[span_1] 30 - - 20:k7t - - - -
+@eca.AI.vI. 3 - - 4:rask3 - - - -
+jI_3-0_rahA_hE_1 4 - - 5:rvks - - - -
+loga_2 5 - pl 6:r6 - - - -
+saMKyA_1 6 - - 20:k1 - - - -
+pEMwAlIsa_1 8 numex - 9:card - - - -
+lAKa_3 9 - - 20:k1s - karIba_1 - -
+ho_5-yA_hE_1 20 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H247>
+#एड्स इनसे फैलता है .
+@edsa 1 - - 20:k1 - - - -
+$wyax 2 - pl 20:k5 - proximal - -
+PEla_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H248>
+#असुरक्षित यौन संबंध से एड्स फैलता है .
+asurakRiwa_1 1 - - 3:mod - - - -
+yOna_1 2 - - 3:mod - - - -
+saMbaMXa_1 3 - pl 20:k3 - - - -
+@edsa 4 - - 20:k1 - - - -
+PEla_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H249>
+#एच.आई.वी. संक्रमित रक्त चढ़ाने से एड्स फैलता है .
+@eca.AI.vI. 1 - - 2:k3 - - - -
+saMkramiwa_9 2 - - 3:mod - - - -
+rakwa_1 3 - - 4:k2 - - - -
+caDZA_91 4 - kqw 20:rh - - - -
+@edsa 5 - - 20:k1 - - - -
+PEla_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H250>
+#बिना उबली हुई या पहले से इस्तेमाल की गई सुई के प्रयोग से एड्स फैलता है .
+binA_1 1 - - 2:mod - - - -
+ubala_1 2 - - - - - - 10:op1
+pahale_91 3 - - 4:k7t - - - -
+iswemAla_9 4 - - - - - - 11:kriyAmUla
+kara_1-yA_gayA_1 5 - - - - - - 11:verbalizer
+[cp_1] 11 - - - - - - 10:op2
+[disjunct_1] 10 - - 6:rvks - - - -
+suI_1 6 - - 7:r6 - - - -
+prayoga_2 7 - - 20:k3 - - - -
+@edsa 8 - - 20:k1 - - - -
+PEla_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H251>
+#एच.आई.वी. संक्रमित माँ से उसके बच्चे को एड्स फैलता है .
+@eca.AI.vI. 1 - - 2:k3 - - - -
+saMkramiwa_9 2 - - 3:mod - - - -
+mAz_1 3 female - 20:k5 - - - -
+$wyax 4 - - 5:r6 3:coref distal - -
+baccA_1 5 - - 20:k4 - - - -
+@edsa 6 - - 20:k1 - - - -
+PEla_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H252>
+#एड्स इनसे नहीं फैलता है .
+@edsa 1 - - 20:k1 - - - -
+$wyax 2 - pl 20:k5 - proximal - -
+nahIM_1 3 - - 20:neg - - - -
+PEla_1-wA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H253>
+#छूने से आपसी मेल-जोल से एड्स नहीं फैलता है .
+CU_4 1 - kqw - - - - 10:op1
+ApasI_1 2 - - 3:mod - - - -
+melajola_91 3 - - - - - - 10:op2
+[conj_1] 10 - - 20:k3 - - - -
+@edsa 4 - - 20:k1 - - - -
+nahIM_1 5 - - 20:neg - - - -
+PEla_1-wA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H254>
+#साथ रहने या उठने बैठने से एड्स नहीं फैलता है .
+sAWa_2 1 - - 2:krvn - - - -
+raha_1 2 - kqw - - - - 10:op1
+uTanAbETanA_9 3 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:k3 - - - -
+@edsa 4 - - 20:k1 - - - -
+nahIM_1 5 - - 20:neg - - - -
+PEla_1-wA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H255>
+#साथ खाना खाने से , एक दूसरे के कपड़े पहनने से या एक ही गुसलखाने का प्रयोग करने से एड्स नहीं फैलता है .
+sAWa_2 1 - - 3:krvn - - - -
+KAnA_1 2 - - 3:k2 - - - -
+KA_1 3 - kqw - - - - 10:op1
+ekaxUsarA_9 4 - - 5:r6 - - - -
+kapadZA_1 5 - pl 6:k2 - - - -
+pahana_3 6 - kqw - - - - 10:op2
+eka_1 7 - - 8:card - hI_1 - -
+gusalaKAnA_1 8 - - 11:k2 - - - -
+prayoga_9 9 - - - - - - 11:kriyAmUla
+kara_1 12 - - - - - - 11:verbalizer
+[cp_1] 11 - kqw - - - - 10:op3
+[disjunct_1] 10 - - 20:k3 - - - -
+@edsa 13 - - 20:k1 - - - -
+nahIM_1 14 - - 20:neg - - - -
+PEla_1-wA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H256>
+#एच.आई.वी. वायरस शरीर की बीमारियों से लड़ने की शक्ति को धीरे - धीरे नष्ट कर देता है .
+@eca.AI.vI. 1 - - 2:mod - - - -
+vAyarasa_1 2 - - 20:k1 - - - -
+SarIra_1 3 - - 6:r6 - - - -
+bImArI_3 4 - pl 5:k5 - - - -
+ladZa_14 5 - kqw 6:r6 - - - -
+Sakwi_1 6 - - 20:k2 - - - -
+XIreXIre_96 7 - - 20:krvn - - - -
+naRta_9 8 - - - - - - 20:kriyAmUla
+kara_1-wA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - [shade:xe_1] - -
+%affirmative
+</sent_id>
+<sent_id=H257>
+#बुखार नहीं जाता ,
+buKAra_1 1 - - 20:k1 - - - -
+nahIM_1 2 - - 20:neg - - - -
+jA_1-wA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H257b>
+#डायरिया नहीं रूकता ,
+dAyariyA_9 1 - - 20:k1 - - - -
+nahIM_1 2 - - 20:neg - - - -
+ruka_1-wA_hE_1 20 - - 0:main H257.20:samuccaya - - -
+%negative
+</sent_id>
+<sent_id=H257c>
+#वजन कम हो जाता है .
+vajana_1 1 - - 20:k1 - - - -
+kama_4 2 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 3 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H257b.20:samuccaya [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H258>
+#मुँह के छाले ठीक नहीं होते
+muzha_12 1 - - 2:r6 - - - -
+CAlA_1 2 - pl 20:k1 - - - -
+TIka_6 3 - - 20:k1s - - - -
+nahIM_1 4 - - 20:neg - - - -
+ho_5-wA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H258b>
+#और दवाइयाँ असर नहीं करतीं .
+xavAI_1 1 - pl 20:k1 - - - -
+asara_1 2 - - - - - - 20:kriyAmUla
+nahIM_1 3 - - 20:neg - - - -
+kara_1-wA_hE_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H258.20:samuccaya - - -
+%negative
+</sent_id>
+<sent_id=H259>
+#टी.बी. निमोनिया आदि घेर लेते हैं .
+@tIbI 1 - - - - - - 10:op1
+nimoniyA_1 2 - - - - - - 10:op2
+Axi_15 3 - - - - - - 10:op3
+[conj_1] 10 - - 20:k1 - - - -
+Gera_17-wA_hE_1 20 - - 0:main - [shade:le_1] - -
+%affirmative
+</sent_id>
+<sent_id=H260>
+#हमारे शरीर में सैकड़ों ऐसे छोटे जीव रहते हैं
+$speaker 1 - pl 2:r6 - - - -
+SarIra_1 2 - - 20:k7p - - - -
+sEkadZoM_9 3 - - 6:quant - - - -
+EsA_1 4 - - 6:mod - - - -
+CotA_1 5 - - 6:mod - - - -
+jIva_1 6 - pl 20:k1 - - - -
+raha_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H260b>
+#जिन्हें माइक्रोस्कोप से ही देखा जा सकता है .
+$yax 1 - pl 20:k2 H260.6:coref - - -
+mAikroskopa_9 2 - - 20:k3 - hI_1 - -
+xeKa_1-yA_jA_sakawA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H261>
+#एड्स के कारण ऐसे अनेक लक्षण दिखलाई पड़ने लगते हैं
+@edsa 1 - - 20:rh - - - -
+EsA_1 2 - - 4:mod - - - -
+aneka_3 3 - - 4:quant - - - -
+lakRaNa_1 4 - pl 20:k1 - - - -
+xiKalAI_9 5 - - - - - - 20:kriyAmUla
+padZa_1-nA_lagawA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H261b>
+#जो एड्स होने का आभास देते हैं .
+$yax 1 - pl 20:k1 H261.4:coref - - -
+@edsa 2 - - 3:k1 - - - -
+ho_10 3 - kqw 4:r6 - - - -
+ABAsa_91 4 - - 20:k2 - - - -
+xe_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H262>
+#कुछ महत्वपूर्ण लक्षणों का विवरण नीचे दिया जा रहा है .
+kuCa_1 1 - - 3:quant - - - -
+mahawvapUrNa_1 2 - - 3:mod - - - -
+lakRaNa_1 3 - pl 4:r6 - - - -
+vivaraNa_5 4 - pl 20:k2 - - - -
+nIce_1 5 - - 20:k7p - - - -
+xe_1-yA_jA_rahA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H263>
+#एक माह से लगातार बुखार आना .
+eka_1 1 - - 2:card - - - -
+mAha_1 2 - - 20:k7t - - - -
+lagAwAra_1 3 - - 20:krvn - - - -
+buKAra_1 4 - - 20:k1 - - - -
+A_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H264>
+#एक माह से लगातार दस्त आना .
+eka_1 1 - - 2:card - - - -
+mAha_1 2 - - 20:k7t - - - -
+lagAwAra_1 3 - - 20:krvn - - - -
+xaswa_3 4 - - 20:k1 - - - -
+A_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H265>
+#एक माह से लगातार खाँसी आना .
+eka_1 1 - - 2:card - - - -
+mAha_1 2 - - 20:k7t - - - -
+lagAwAra_1 3 - - 20:krvn - - - -
+KAzsI_1 4 - - 20:k1 - - - -
+A_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H266>
+#शरीर का वजन एकाएक 10 प्रतिशत कम होना .
+SarIra_1 1 - - 2:r6 - - - -
+vajana_1 2 - - 20:k1 - - - -
+ekAeka_1 3 - - 20:krvn - - - -
+10 4 numex - 5:card - - - -
+prawiSawa_1 5 - - 20:krvn - - - -
+kama_4 6 - - - - - - 20:kriyAmUla
+ho_1-wA_hE_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H267>
+#मुँह में लगातार घाव व छाले होना .
+muzha_12 1 - - 20:k7p - - - -
+lagAwAra_1 2 - - 20:krvn - - - -
+GAva_1 3 - pl - - - - 10:op1
+CAlA_1 4 - pl - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+ho_10-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H268>
+#शरीर में लगातार चकत्ते या फोड़े-फुंसी होना .
+SarIra_1 1 - - 20:k7p - - - -
+lagAwAra_1 2 - - 20:krvn - - - -
+cakawwA_1 3 - pl - - - - 10:op1
+PodZA_1 4 - pl - - - - 10:op2
+[disjunct_1] 10 - - 20:k1 - - - -
+ho_10-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H269>
+#टी.बी. ,
+@tIbI 1 - - 20:k1 - - - -
+ho_10-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H269b>
+#जिसमें औषधि का असर न हो .
+$yax 1 - - 20:k7 H269.1:coref - - -
+ORaXi_1 2 - - 3:r6 - - - -
+asara_1 3 - - 20:k1 - - - -
+na_1 4 - - 20:neg - - - -
+ho_6-e_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H270>
+#लसिका ग्रन्थियों का एक से अधिक स्थान पर आकार बढ़ना .
+lasikA_2 1 - - - - - - 10:mod
+granWi_91 2 - pl - - - - 10:head
+[nc_1] 10 - pl 6:r6 - - - -
+eka_1 3 - - 4:rv - - - -
+aXika_1 4 - - 5:mod - - - -
+sWAna_1 5 - pl 20:k7p - - - -
+AkAra_3 6 - - 20:k1 - - - -
+baDZa_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H271>
+#स्तन पर या शरीर में अन्य कहीं गाँठ या सूजन .
+swana_2 1 - - - - - - 10:op1
+SarIra_1 2 - - 4:k7p - - - -
+anya_1 3 - - 4:mod - - - -
+kahIM_9 4 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:k7p - - - -
+gAzTa_91 5 - - - - - - 11:op1
+sUjana_1 6 - - - - - - 11:op2
+[disjunct_2] 11 - - 20:k1 - - - -
+ho_10-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H272>
+#एड्स से बचाव एवं प्रचार प्रसार .
+@edsa 1 - - 2:k5 - - - -
+bacAva_9 2 - - - - - - 10:op1
+pracAra_1 3 - - - - - - 11:mod
+prasAra_5 4 - - - - - - 11:head
+[nc_1] 11 - - - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H273>
+#ऐसी कई बीमारियाँ हैं
+EsA_1 1 - - 3:mod - - - -
+kaI_1 2 - - 3:quant - - - -
+bImArI_3 3 - pl 20:k1 - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H273b>
+#जिनका इलाज नहीं है .
+$yax 1 - pl 2:r6 H273.3:coref - - -
+ilAja_1 2 - - 20:k1 - - - -
+nahIM_1 3 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H274>
+#पौष्टिक भोजन और स्वस्थ जीवन शैली अपनाएँ .
+pORtika_2 1 - - 2:mod - - - -
+Bojana_1 2 - - - - - - 10:op1
+svasWa_1 3 - - 11:mod - - - -
+jIvana_1 4 - - - - - - 11:mod
+SElI_1 5 - - - - - - 11:head
+[nc_1] 11 - - - - - - 10:op2
+[conj_1] 10 - - 20:k2 - - - -
+apanA_2-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H275>
+#धूम्रपान , मद्यपान , नशीली दवाओं का सेवन न करें .
+XUmrapAna_1 1 - - - - - - 10:op1
+maxyapAna_1 2 - - - - - - 10:op2
+naSIlA_1 3 - - 4:mod - - - -
+xavA_2 4 - pl - - - - 10:op3
+[conj_1] 10 - - 20:k2 - - - -
+sevana_9 5 - - - - - - 20:kriyAmUla
+na_1 6 - - 20:neg - - - -
+kara_1-e_1 7 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H276>
+#तन - मन दोनों प्रसन्न रहेंगे .
+wana_1 1 - - - - - - 10:op1
+mana_12 2 - - - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+xonoM_9 3 - - 10:quant - - - -
+prasanna_2 4 - - 20:k1s - - - -
+raha_3-gA_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H277>
+#शारीरिक स्वच्छता पर ध्यान दें .
+SArIrika_1 1 - - 2:mod - - - -
+svacCawA_1 2 - - 20:k7 - - - -
+XyAna_1 3 - - - - - - 20:kriyAmUla
+xe_1-e_1 4 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H278>
+#सिर्फ सुरक्षित यौन संबंध रखें .
+siraPa_9 1 - - 4:mod - - - -
+surakRiwa_6 2 - - 4:mod - - - -
+yOna_1 3 - - 4:mod - - - -
+saMbaMXa_1 4 - pl 20:k2 - - - -
+raKa_3-e_1 20 - - 0:main - - - -
+%imperative
+</sent_id>
+<sent_id=H279>
+#अस्पतालों में एच.आई.वी. के साथ जी रहे लोगों को अलग करना या इलाज न करना जुर्म है .
+aspawAla_1 1 - pl 30:k7p - - - -
+@eca.AI.vI. 2 - - 3:rask3 - - - -
+jI_3-0_rahA_hE_1 3 - - 4:rvks - - - -
+loga_2 4 - pl 31:k2 - - - -
+alaga_9 5 - - - - - - 31:kriyAmUla
+kara_1 6 - - - - - - 31:verbalizer
+[cp_1] 31 - kqw - - - - 30:op1
+ilAja_1 7 - - 9:k2 - - - -
+na_1 8 - - 9:neg - - - -
+kara_17 9 - kqw - - - - 30:op2
+[disjunct_1] 30 - - 20:k1 - - - -
+jurma_2 10 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H280>
+#एच.आई.वी. के साथ जी रहे लोगों की गोपनीयता बनाये रखना अनिवार्य है .
+@eca.AI.vI. 1 - - 2:rask3 - - - -
+jI_3-0_rahA_hE_1 2 - - 3:rvks - - - -
+loga_2 3 - pl 4:r6 - - - -
+gopanIyawA_91 4 - - 5:k2 - - - -
+raKa_91 5 - kqw 20:k1 - - - -
+anivArya_91 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H281>
+#एच.आई.वी. के साथ जी रहे लोगों और उनके परिवार जनों को सलाह परामर्श देना आवश्यक है .
+@eca.AI.vI. 1 - - 2:rask3 - - - -
+jI_3-0_rahA_hE_1 2 - - 3:rvks - - - -
+loga_2 3 - pl - - - - 10:op1
+$wyax 4 - pl 5:r6 3:coref distal - -
+parivAra_1 5 - - 6:mod - - - -
+jana_96 6 - pl - - - - 10:op2
+[conj_1] 10 - - 9:k4 - - - -
+salAha_1 7 - - - - - - 11:op1
+parAmarSa_96 8 - - - - - - 11:op2
+[conj_2] 11 - - 9:k2 - - - -
+xe_1 9 - kqw 20:k1 - - - -
+AvaSyaka_1 12 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H282>
+#एक डाक्टर के लिए सभी मरीज एक से हैं
+eka_1 1 - - 2:card - - - -
+dAktara_91 2 - - 20:rt - - - -
+saBI_1 3 - - 4:quant - - - -
+marIja_1 4 - pl 20:k1 - - - -
+eka-sA_9 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H282b>
+#फिर भेदभाव कैसा .
+BexaBAva_1 1 - - 20:k1 - - - -
+$kim 2 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main H282.20:pariNAma - - -
+%interrogative
+</sent_id>
+<sent_id=H283>
+#एच.आई.वी. एड्स छूत का रोग नहीं है .
+@eca.AI.vI. 1 - - 2:mod - - - -
+@edsa 2 - - 20:k1 - - - -
+CUwa_1 3 - - 4:r6 - - - -
+roga_1 4 - - 20:k1s - - - -
+nahIM_1 5 - - 20:neg - - - -
+hE_1-pres 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H284>
+#संक्रमित व्यक्ति 10 - 15 साल तक भी सामान्य जीवन बिताते हैं .
+saMkramiwa_9 1 - - 2:mod - - - -
+vyakwi_2 2 - pl 20:k1 - - - -
+10 3 numex - - - - - 30:start
+15 4 numex - - - - - 30:end
+[span_1] 30 - - 5:card - - - -
+sAla_1 5 - pl 20:k7t - BI_1 - -
+sAmAnya_4 6 - - 7:mod - - - -
+jIvana_1 7 - - 20:k2 - - - -
+biwA_1-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H285>
+#संक्रमित व्यक्ति के साथ भेदभाव नाइंसाफी है
+saMkramiwa_9 1 - - 2:mod - - - -
+vyakwi_2 2 - - 3:rask3 - - - -
+BexaBAva_1 3 - - 20:k1 - - - -
+nAiMsAPI_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H285b>
+#और हमारी अनभिज्ञता का संकेत .
+BexaBAva_1 1 - - 20:k1 H285.3:coref - - -
+$speaker 2 - pl 3:r6 - - - -
+anaBijFawA_1 3 - - 4:r6 - - - -
+saMkewa_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main H285.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H286>
+#दफ्तर , घर , दोस्तों के बीच उनके प्रति पहले सा ही बर्ताव होना चाहिये .
+xaPwara_1 1 - - - - - - 10:op1
+Gara_1 2 - - - - - - 10:op2
+xoswa_1 3 - pl 4:r6 - - - -
+bIca_91 4 - - - - - - 10:op3
+[conj_1] 10 - - 20:k7p - - - -
+$wyax 5 - pl 6:r6 H285.2:coref distal - -
+prawi_91 6 - - 8:mod - - - -
+pahale_91 7 - - 8:mod - hI_1 - -
+barwAva_1 8 - - 20:k1 - - - -
+ho_6-nA_cAhie_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H287>
+#भारत वर्ष मे दृष्टिहीनता की व्यापकता दर 1.4 प्रतिशत है ,
+BArawa 1 - - - - - - 10:begin
+varRa 2 - - - - - - 10:inside
+[ne_1] 10 place - 20:k7p - - - -
+xqRtihInawA_1 3 - - 5:r6 - - - -
+vyApakawA_91 4 - - 5:mod - - - -
+xara_1 5 - - 20:k1 - - - -
+1.4 6 numex - 7:card - - - -
+prawiSawa_1 7 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H287b>
+#इस व्यापकता दर को 0.3 प्रतिशत लाने के लिये भारत सरकार द्वारा वर्ष 1976 में राष्ट्रीय दृष्टिहीनता निवारण कार्यक्रम का आरम्भ किया गया .
+$wyax 1 - - 3:dem - proximal - -
+vyApakawA_91 2 - - 3:mod - - - -
+xara_1 3 - - 6:k2 - - - -
+0.3 4 numex - 5:card - - - -
+prawiSawa_1 5 - - 6:k2p - - - -
+lA_1 6 - kqw 20:rt - - - -
+BArawa_2 7 - - 8:mod - - - -
+sarakAra_1 8 - - 20:k1 - - - -
+varRa_1 9 - - 10:mod - - - -
+1976 10 yoc - 20:k7t - - - -
+rARtrIya_1 11 - - 15:mod - - - -
+xqRtihInawA_1 12 - - 13:mod - - - -
+nivAraNa_91 13 - - 15:mod - - - -
+kAryakrama_1 15 - - 20:k2 - - - -
+AraMBa_1 16 - - - - - - 20:kriyAmUla
+kara_1-yA_gayA_1 17 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H287.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H288>
+#दृष्टिहीनता का मुख्य कारण मोतियाबिंद है
+xqRtihInawA_1 1 - - 3:r6 - - - -
+muKya_18 2 - - 3:mod - - - -
+kAraNa_1 3 - - 20:k1 - - - -
+mowiyAbiMxa_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H288b>
+#जो कुल अंधता का लगभग 55 प्रतिशत है .
+$yax 1 - - 20:k1 H288.4:coref - - -
+kula_1 2 - - 3:mod - - - -
+aMXawA_1 3 - - 6:r6 - - - -
+55 5 numex - 6:card - - - -
+prawiSawa_1 6 - - 20:k1s - karIba_1 - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H289>
+#राष्ट्रीय दृष्टिहीनता निवारण कार्यक्रम के अन्तर्गत दृष्टिहीन व्यक्तियों विशेषकर मोतियाबिंद से ग्रसित लोगों को शल्यक्रिया द्वारा ऑपरेशन कर लाभान्वित किया जा रहा है .
+rARtrIya_1 1 - - 4:mod - - - -
+xqRtihInawA_1 2 - - 4:mod - - - -
+nivAraNa_91 3 - - 4:mod - - - -
+kAryakrama_1 4 - - 5:r6 - - - -
+anwargawa_1 5 - - 20:k7 - - - -
+xqRtihIna_1 6 - - 7:mod - - - -
+vyakwi_2 7 - pl 20:k2 - - - -
+viSeRakara_1 8 - - 11:mod - - - -
+mowiyAbiMxa_1 9 - - 10:k5 - - - -
+grasiwa_91 10 - - 11:mod - - - -
+loga_2 11 - pl 7:rs - - - -
+SalyakriyA_2 12 - - 30:k3 - - - -
+oYpareSana_9 13 - - - - - - 30:kriyAmUla
+kara_1 14 - - - - - - 30:verbalizer
+[cp_1] 30 - - 20:rpk - - - -
+lABAnviwa_91 15 - - 20:k2s - - - -
+kara_91-yA_jA_rahA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H290>
+#मोतियाबिंद ऑपरेशन की गुणवत्ता पर विशेष ध्यान दिया जा रहा है
+mowiyAbiMxa_1 1 - - 2:mod - - - -
+oYpareSana_9 2 - - 3:r6 - - - -
+guNavawwA_1 3 - - 20:k7 - - - -
+viSeRa_1 4 - - 5:mod - - - -
+XyAna_1 5 - - - - - - 20:kriyAmUla
+xe_1-yA_jA_rahA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H290b>
+#जिसके लिये सभी जिला चिकित्सालयों , बेस चिकित्सालयों को माइक्रोस्कोपिक सेन्टर में परिवर्तित किया जा रहा है .
+$yax 1 - - 20:rt H290.20:coref - - -
+saBI_1 2 - - 10:quant - - - -
+jilA_3 3 - - 4:mod - - - -
+cikiwsAlaya_1 4 - pl - - - - 10:op1
+besa_1 5 - - 6:mod - - - -
+cikiwsAlaya_1 6 - pl - - - - 10:op2
+[conj_1] 10 - - 20:k2 - - - -
+mAikroskopika_9 7 - - 8:mod - - - -
+sentara_1 8 - pl 20:k7 - - - -
+parivarwiwa_9 9 - - - - - - 20:kriyAmUla
+kara_1-yA_jA_rahA_hE_1 11 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H291>
+#दृष्टिहीनता की व्यापकता दर को कम करने के लिये शिक्षा सत्र के आरम्भ में 10-14 वर्ष के स्कूली छात्रों के नेत्र परीक्षण का कार्यक्रम अभियान के रूप में चलाया जा रहा है
+xqRtihInawA_1 1 - - 3:r6 - - - -
+vyApakawA_91 2 - - 3:mod - - - -
+xara_1 3 - - 30:k2 - - - -
+kama_4 4 - - - - - - 30:kriyAmUla
+kara_1 5 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:rt - - - -
+SikRA_1 6 - - 7:mod - - - -
+sawra_1 7 - - 8:r6 - - - -
+AraMBa_2 8 - - 20:k7t - - - -
+10 9 numex - - - - - 31:start
+14 10 numex - - - - - 31:end
+[span_1] 31 - - 11:card - - - -
+varRa_1 11 - pl 13:r6 - - - -
+skUlI_1 12 - - 13:mod - - - -
+CAwra_1 13 - pl 15:r6 - - - -
+newra_1 14 - - 15:mod - - - -
+parIkRaNa_3 15 - - 16:r6 - - - -
+kAryakrama_1 16 - - 20:k2 - - - -
+aBiyAna_1 17 - - 18:r6 - - - -
+rUpa_1 18 - - 20:k7 - - - -
+calA_91-yA_jA_rahA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H291b>
+#तथा दृष्टि दोष से पीड़ित गरीब छात्रों को निशुल्क चश्में वितरित किये जा रहे हैं .
+xqRti_3 1 - - 2:mod - - - -
+xoRa_4 2 - - 3:k5 - - - -
+pIdZiwa_9 3 - - 5:mod - - - -
+garIba_1 4 - - 5:mod - - - -
+CAwra_1 5 - pl 20:k4 - - - -
+niSulka_96 6 - - 20:krvn - - - -
+caSmA_2 7 - pl 20:k2 - - - -
+viwariwa_1 8 - - - - - - 20:kriyAmUla
+kara_1-yA_jA_rahA_hE_1 9 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H291.20:samuccaya - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H292>
+#नेत्र कार्यक्रमों में सभी सरकारी , गैरसरकारी , स्वैच्छिक संस्थाओं का सक्रिय सहयोग लिया जा रहा है .
+newra_1 1 - - 2:mod - - - -
+kAryakrama_1 2 - pl 20:k7 - - - -
+saBI_1 3 - - 10:quant - - - -
+sarakArI_1 4 - - - - - - 10:op1
+gErasarakArI_9 5 - - - - - - 10:op2
+svEcCika_1 6 - - - - - - 10:op3
+[conj_1] 10 - - 7:mod - - - -
+saMsWA_2 7 - pl 9:r6 - - - -
+sakriya_1 8 - - 9:mod - - - -
+sahayoga_1 9 - - 20:k2 - - - -
+le_1-yA_jA_rahA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H293>
+#दृष्टिहीनता की व्यापकता दर को कम करने के लिये भारत सरकार द्वारा नेत्र विभाग से सम्बन्धित स्टॉफ को विभिन्न स्तर पर प्रशिक्षण दिया जाता है .
+xqRtihInawA_1 1 - - 3:r6 - - - -
+vyApakawA_91 2 - - 3:mod - - - -
+xara_1 3 - - 30:k2 - - - -
+kama_4 4 - - - - - - 30:kriyAmUla
+kara_1 5 - - - - - - 30:verbalizer
+[cp_1] 30 - kqw 20:rt - - - -
+BArawa_2 6 - - 7:mod - - - -
+sarakAra_1 7 - - 20:k1 - - - -
+newra_1 8 - - 9:mod - - - -
+viBAga_1 9 - - 10:k5 - - - -
+saMbaMXiwa_1 10 - - 11:mod - - - -
+stoYPa_9 11 - - 20:k4 - - - -
+viBinna_1 12 - - 13:mod - - - -
+swara_2 13 - pl 20:k7p - - - -
+praSikRaNa_1 14 - - 20:k2 - - - -
+xe_1-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H294>
+#दृष्टिहीनता के मुख्य कारणों में मोतियाबिंद 55 प्रतिशत है ,
+xqRtihInawA_1 1 - - 3:r6 - - - -
+muKya_18 2 - - 3:mod - - - -
+kAraNa_1 3 - pl 20:k7 - - - -
+mowiyAbiMxa_1 4 - - 20:k1 - - - -
+55 5 numex - 6:card - - - -
+prawiSawa_1 6 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H294b>
+#दृष्टि दोष 19 प्रतिशत ,
+xqRti_3 1 - - 2:mod - - - -
+xoRa_4 2 - - 20:k1 - - - -
+19 3 numex - 4:card - - - -
+prawiSawa_1 4 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main H294.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H294c>
+#काला मोतिया 4 प्रतिशत ,
+kAlA_1 5 - - 6:mod - - - -
+mowiyA_9 6 - - 20:k1 - - - -
+4 7 numex - 8:card - - - -
+prawiSawa_1 8 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main H294b.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H294d>
+#कॉर्नियल पैथॉलाजी 7 प्रतिशत ,
+koYrniyala_9 9 - - 10:mod - - - -
+pEWoYlAjI_9 10 - - 20:k1 - - - -
+7 11 numex - 12:card - - - -
+prawiSawa_1 12 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main H294c.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H294e>
+#अन्य 15 प्रतिशत है .
+anya_1 13 - pl 20:k1 - - - -
+15 14 numex - 15:card - - - -
+prawiSawa_1 15 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main H294d.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H295>
+#जब साधारणतया स्वच्छ लैन्स या उसका कैपस्यूल धुंधला या दुधिया हो जाता है
+sAXAraNawayA_91 1 - - 3:mod - - - -
+svacCa_2 2 - - 3:mod - - - -
+lEnsa_1 3 - - - - - - 10:op1
+$wyax 4 - - 5:r6 3:coref distal - -
+kEpasyUla_9 5 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:k1 - - - -
+XuMXalA_1 6 - - - - - - 11:op1
+xuXiyA_1 7 - - - - - - 11:op2
+[disjunct_2] 11 - - 20:k1s - - - -
+ho_5-wA_hE_1 20 - - 0:main H295b.20:samAnakAla [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=H295b>
+#जिससे रोशनी आँख के अन्दर नही पहुँच पाती है
+$yax 1 - - 20:k3 H295.20:coref - - -
+roSanI_1 2 - - 20:k1 - - - -
+AzKa_1 3 - - 4:r6 - - - -
+aMxara_2 4 - - 20:k2p - - - -
+nahIM_1 5 - - 20:neg - - - -
+pahuzca_1-0_sakawA_hE_1 20 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=H295c>
+#तथा मरीज को धुंधला या कम दिखाई देता है .
+marIja_1 1 - - 20:k4a - - - -
+XuMXalA_1 2 - - - - - - 10:op1
+kama_4 3 - - - - - - 10:op2
+[disjunct_1] 10 - - 20:krvn - - - -
+xiKAI_9 4 - - - - - - 20:kriyAmUla
+xe_1-wA_hE_1 5 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main H295b.20:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=H296>
+#मोतियाबिंद से पीड़ित रोगियों की पहचान करके चिकित्साधिकारी तथा नेत्र सहायक अपने चिकित्सालय क्षेत्र में स्क्रीनिंग करते हैं .
+mowiyAbiMxa_1 1 - - 2:k5 - - - -
+pIdZiwa_9 2 - - 3:mod - - - -
+rogI_1 3 - pl 30:k2 - - - -
+pahacAna_9 4 - - - - - - 30:kriyAmUla
+kara_1 5 - - - - - - 30:verbalizer
+[cp_1] 30 - - 20:rpk - - - -
+cikiwsAXikArI_9 6 - pl - - - - 10:op1
+newra_1 7 - - 8:mod - - - -
+sahAyaka_2 8 - pl - - - - 10:op2
+[conj_1] 10 - - 20:k1 - - - -
+apanA_91 9 - - 11:r6 - - - -
+cikiwsAlaya_1 12 - - 11:mod - - - -
+kRewra_5 11 - pl 20:k7p - - - -
+skrIniMga_9 13 - - 20:k2 - - - -
+kara_17-wA_hE_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=H297>
+#तत्पश्चात मोतियाबिंद वाले मरीजों का सुसज्जित अस्पतालों में नेत्रशल्यक द्वारा ऑपरेशन किया जाता है .
+wawpaScAwa_2 1 - - 20:k7t - - - -
+mowiyAbiMxa_1 2 - - 3:mod - - - -
+marIja_1 3 - pl 20:k2 - - - -
+susajjiwa_91 4 - - 5:mod - - - -
+aspawAla_1 5 - pl 20:k7p - - - -
+newraSalyaka_9 6 - - 20:k1 - - - -
+oYpareSana_9 7 - - - - - - 20:kriyAmUla
+kara_1-yA_jAwA_hE_1 8 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H298>
+#6 सप्ताह बाद चश्में की जाँच की जाती है .
+6 1 numex - 2:card - - - -
+sapwAha_1 2 - pl 3:r6 - - - -
+bAxa_1 3 - - 20:k7t - - - -
+caSmA_2 4 - pl 20:k2 - - - -
+jAzca_9 5 - - - - - - 20:kriyAmUla
+kara_1-yA_jAwA_hE_1 6 - - - - - - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H299>
+#जिला अन्धता निवारण समितियों द्वारा व्यापक प्रचार प्रसार कर
+jilA_3 1 - - 4:mod - - - -
+aMXawA_1 2 - - 4:mod - - - -
+nivAraNa_91 3 - - 4:mod - - - -
+samiwi_1 4 - pl 20:k1 - - - -
+vyApaka_1 5 - - 8:mod - - - -
+pracAra_1 6 - - - - - - 8:mod
+prasAra_5 7 - - - - - - 8:head
+[nc_1] 8 - - 20:k2 - - - -
+kara_17 20 - - 0:main H299b.20:pUrvakAla - - -
+%affirmative
+</sent_id>
+<sent_id=H299b>
+#सरकारी , गैरसरकारी , निजी एवं स्वैच्छिक संस्थाओं के माध्यम से शिविर लगाये जाते हैं .
+sarakArI_1 1 - - - - - - 10:op1
+gErasarakArI_9 2 - - - - - - 10:op2
+nijI_3 3 - - - - - - 10:op3
+svEcCika_1 4 - - - - - - 10:op4
+[conj_1] 10 - - 5:mod - - - -
+saMsWA_2 5 - pl 6:r6 - - - -
+mAXyama_1 6 - - 20:k3 - - - -
+Sivira_1 7 - pl 20:k2 - - - -
+lagA_92-yA_jAwA_hE_1 20 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=H300>
+#मोतियाबिंद का उपचार केवल शल्य-चिकित्सा द्वारा ही सम्भव है .
+mowiyAbiMxa_1 1 - - 2:r6 - - - -
+upacAra_7 2 - - 20:k1 - - - -
+kevala_1 3 - - 4:mod - - - -
+SalyacikiwsA_1 4 - - 20:k3 - hI_1 - -
+saMBava_1 5 - - 20:k1s - - - -
+hE_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>

@@ -1,0 +1,28 @@
+# verb lemma, USR relation, preposition the English verb governs (table-driven; add rows, not code)
+rule	k7	over
+rule	k7p	over
+take pride	k7	on
+ask question	k2	to
+listen	k2	to
+gift	k4	-
+join	k5	with
+attach	k5	to
+attached	k5	to
+stress	k7	on
+take pride	k7p	on
+depend	k7	on
+spread	k3	through
+occur	k3	through
+avoid	k5	-
+attack	k7p	on
+attack	k7	on
+touch	k3	to
+pay attention	k7	to
+fight	k5	with
+show	k5	to
+convert	k7	into
+prevent	k5	-
+show	k3	to
+divide	k7	into
+pass	k2p	through
+understand	k5	by

@@ -1,0 +1,25 @@
+# speaker-view marker (USR column 7) -> English word and position relative to its host phrase
+# marker	english	position(pre|post)	note
+BI_1	also	pre	"also X"; "even" not used in gold
+hI_1	only	post	emphatic hI: "X only" (gold: 25 of 36 chunk-final)
+kevala_1	only	pre
+mAwra_1	only	pre
+sirPa_1	only	pre
+lagaBaga_1	almost	pre
+lagaBaga_3	almost	pre
+karIba_1	about	pre
+wakarIbana_1	about	pre
+Axi_1	etc	post
+Axi_15	etc	post
+sA_1	like	post	"X-like"
+sI_1	like	post
+Osawana_1	on average	pre
+se_1	-	-	ablative particle on adverbs (Pira se = again)
+wo_1	-	-	topic particle, no English word
+respect	ji	post	only after a person name; dropped elsewhere
+def	-	-	no article inserted (spec 4)
+samAveSI	-	-	inclusive reading, no word
+proximal	this	det	plural: these
+distal	that	det	plural: those
+nakevala_1	not only	pre
+nasirPa_1	not only	pre

@@ -715,6 +715,10 @@ def np(n, ctx, top=True):
         pre, post = [], []
     elif n.kind == 'cp' or (is_verbal(n) and n.rel in ('rbks', 'rvks', 'rpk', 'rsk', 'rbk', 'rblsk')):
         return nonfinite(n, ctx)
+    elif n.rel == 'mod' and 'kqw' in (n.gnp or '') and POS.get(n.root) == 'v' and not n.concept.startswith(('[', '$')) \
+            and any(k.rel == 'k2p' and not k.kids and not k.concept.startswith(('[', '$'))
+                    and word(k) in ('up', 'down', 'back', 'forward', 'backward', 'ahead', 'away', 'upward', 'downward') for k in n.kids):
+        return nonfinite(n, ctx)                     # participle modifier with a direction: 'going up from ground'
     elif 'kqw' in (n.gnp or '') and (n.rel in ('r6', 'k1', 'k2', 'k3', 'k5', 'k7', 'k7t', 'k4', 'k2p', 'rask1', 'rasneg')
                                      or (n.rel == 'rh' and n.root.startswith('ho_5') and any(k.rel == 'k1' for k in n.kids)) or not n.rel
                                      or (n.cx and n.cx in n.sent.by and n.sent.by[n.cx].kind in ('conj', 'disjunct')))             and not n.concept.startswith(('[', '$')):   # also a verbal noun inside a list: 'learning arts and practising them'

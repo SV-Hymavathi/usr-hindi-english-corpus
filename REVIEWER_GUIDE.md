@@ -40,14 +40,14 @@ Checks the English morphology and a regression lock of 441 sentences. The last l
 Expected output:
 
 ```
-dev      (post-edited gold):  exact 405/449 = 90.2%   chunk F1 0.954
+dev      (post-edited gold):  exact 406/449 = 90.4%   chunk F1 0.955
 held-out (post-edited gold):  exact  88/112 = 78.6%   chunk F1 0.892
 tourism new 549:              exact 468/549 = 85.2%   chunk F1 0.892
 health 402:                   exact 322/402 = 80.1%   chunk F1 0.924
 geography 558:                exact 447/558 = 80.1%   chunk F1 0.929
 ```
 
-Tourism = 405 + 88 + 468 = 961/1,110 (86.6%); all domains = 1,730/2,070 (83.6%).
+Tourism = 406 + 88 + 468 = 962/1,110 (86.7%); all domains = 1,731/2,070 (83.6%).
 The held-out tourism set (112 USRs) was never inspected during development.
 
 ## 5. Look at the output of a few sentences

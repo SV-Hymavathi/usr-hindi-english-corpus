@@ -1,0 +1,46 @@
+{
+ "tourism": {
+  "n": 1111,
+  "rows": 10.9,
+  "ref_words": 12.6,
+  "discourse": 93,
+  "speaker": 452,
+  "names": 876,
+  "numbers": 202,
+  "constructions": 1001,
+  "questions": 5
+ },
+ "health": {
+  "n": 402,
+  "rows": 7.3,
+  "ref_words": 10.7,
+  "discourse": 95,
+  "speaker": 169,
+  "names": 8,
+  "numbers": 30,
+  "constructions": 222,
+  "questions": 21
+ },
+ "geography": {
+  "n": 558,
+  "rows": 7.1,
+  "ref_words": 11.4,
+  "discourse": 158,
+  "speaker": 261,
+  "names": 46,
+  "numbers": 83,
+  "constructions": 242,
+  "questions": 41
+ },
+ "ALL": {
+  "n": 2071,
+  "rows": 9.2,
+  "ref_words": 11.9,
+  "discourse": 346,
+  "speaker": 882,
+  "names": 930,
+  "numbers": 315,
+  "constructions": 1465,
+  "questions": 67
+ }
+}

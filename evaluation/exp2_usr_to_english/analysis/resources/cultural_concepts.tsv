@@ -1,0 +1,31 @@
+# Culture-specific concepts. Edit freely: one row per Hindi concept root (WX, without sense number).
+# root	culturally appropriate English (regex alternatives; a match means the concept was rendered well)	literal / generic renderings to flag (regex)	note
+snAna	holy dip|dip|ritual bath|sacred bath|snan|bathe in the (holy )?(ganga|ganges|river)|bathing in the (holy )?(ganga|ganges)|holy bath	\bbath\b|bathing ceremony|shower|wash	holy dip in a sacred river, not an ordinary bath
+prakRAla	ablution|prakshal|abhishek|ritual (washing|bathing|cleansing)|anointing|lustration	foot ?wash|feet|washing|cleaning	ritual washing of the idol, not foot washing
+prakRAlana	ablution|prakshal|abhishek|ritual (washing|bathing|cleansing)|anointing	foot ?wash|feet|washing|cleaning	ritual washing of the idol
+aBiReka	abhishek|anointing|consecration|coronation|ritual bath	\bbath\b|washing	consecration / ritual bathing of a deity or king
+xarSana	darshan|darsh|visit|sight of|glimpse|pay (their )?(respects|obeisance)|behold|worship	\bvision\b|\bseeing\b|\bview\b|\blook\b	seeing a deity / holy place is a religious act
+AraWI	aart|arti|aarat|arati	prayer|worship|light ceremony	ritual of lamps
+prasAxa	prasad|prasadam|offering	palace|blessing	consecrated food offering (prAsAxa = palace is a different word)
+yajFa	yaj|yag|yajñ|havan|fire (ritual|sacrifice|ceremony)|sacrificial fire	\bsacrifice\b(?! fire)	vedic fire ritual
+havana	havan|yaj|yag|fire ritual|yajna	\bsacrifice\b	fire ritual
+xIpaxAna	deepdaan|deep daan|lamp|diya	donation of light|light donation|offer(ing)? light	offering of lamps
+xIpa	lamp|diya|deep	\blight\b	earthen lamp
+GAta	ghat|bathing steps|steps (leading )?(to|down to) the (river|ganga)	\bwharf\b|\bpier\b|\bdock\b|\bbank\b	stepped river bank
+mokRa	moksha|salvation|liberation|mukti|emancipation		spiritual liberation
+wIrWa	pilgrimage|tirth|holy place|sacred place|holy site|pilgrim	\bshrine\b	place of pilgrimage
+wIrWaMkara	tirthankar	prophet|saint	Jain spiritual teacher
+kalyANaka	kalyanak|auspicious event|holy event	welfare|well-being	five auspicious events in a Tirthankara's life
+xIkRA	diksha|initiation|ordination		spiritual initiation
+vrawa	fast|vrat|vow		religious fast / vow
+parikramA	parikrama|circumambulation|pradakshina|go(ing)? around	\bround\b|\btour\b	walking around a sacred site
+kumBa	kumbh		Kumbh (festival)
+meLA	mela|fair|festival		religious fair
+puNya	merit|punya|virtue|religious merit	\bprofit\b|\bbenefit\b	religious merit
+pApa	sin|papa	\bcrime\b	sin
+sAXu	sadhu|ascetic|holy man|monk	\bgentleman\b	ascetic
+mahAwmya	mahatmya|glory|greatness|significance		religious glory of a place
+BagavAna	lord|god|bhagwan|deity		deity title
+gaMgA	ganga|ganges		the river Ganga (both acceptable)
+caraNABiReka	anoint|abhishek|consecrat|ritual (bath|worship) of the (feet|lotus feet)|foot[- ]ritual worship|charan	foot[- ]?wash|feet[- ]?wash|washing (of )?(the )?feet	ritual anointing of the deity's feet; "foot washing" is culturally wrong
+ABiReka	abhishek|anoint|consecrat	wash	consecration / anointing

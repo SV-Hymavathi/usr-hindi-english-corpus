@@ -1,0 +1,2265 @@
+{
+ "n": 2071,
+ "changed_usrs": 116,
+ "changed_refs": 0,
+ "runs": {
+  "gpt-oss-120b|E2a": {
+   "chrf": 13.7,
+   "chrf_ci": [
+    13.4,
+    14.0
+   ],
+   "bleu": 0.4,
+   "flagged": 99.9,
+   "flagged_ci": [
+    99.7,
+    100.0
+   ]
+  },
+  "gpt-oss-120b|E2b": {
+   "chrf": 17.7,
+   "chrf_ci": [
+    17.0,
+    18.3
+   ],
+   "bleu": 2.0,
+   "flagged": 98.4,
+   "flagged_ci": [
+    97.9,
+    98.9
+   ]
+  },
+  "gpt-oss-120b|E2c": {
+   "chrf": 38.7,
+   "chrf_ci": [
+    38.0,
+    39.3
+   ],
+   "bleu": 10.3,
+   "flagged": 71.9,
+   "flagged_ci": [
+    69.9,
+    74.1
+   ]
+  },
+  "gpt-oss-120b|DT": {
+   "chrf": 61.6,
+   "chrf_ci": [
+    60.9,
+    62.4
+   ],
+   "bleu": 36.8,
+   "flagged": 49.0,
+   "flagged_ci": [
+    47.1,
+    50.9
+   ]
+  },
+  "gpt-oss-120b|CP": {
+   "chrf": 57.1,
+   "chrf_ci": [
+    56.3,
+    57.8
+   ],
+   "bleu": 29.6,
+   "flagged": 29.8,
+   "flagged_ci": [
+    27.9,
+    31.9
+   ]
+  },
+  "Ministral 14B|E2a": {
+   "chrf": 16.3,
+   "chrf_ci": [
+    16.0,
+    16.6
+   ],
+   "bleu": 0.5,
+   "flagged": 99.9,
+   "flagged_ci": [
+    99.8,
+    100.0
+   ]
+  },
+  "Ministral 14B|E2b": {
+   "chrf": 20.4,
+   "chrf_ci": [
+    20.0,
+    20.8
+   ],
+   "bleu": 1.3,
+   "flagged": 99.0,
+   "flagged_ci": [
+    98.6,
+    99.4
+   ]
+  },
+  "Ministral 14B|E2c": {
+   "chrf": 40.5,
+   "chrf_ci": [
+    39.8,
+    41.1
+   ],
+   "bleu": 10.3,
+   "flagged": 72.5,
+   "flagged_ci": [
+    70.6,
+    74.4
+   ]
+  },
+  "Ministral 14B|DT": {
+   "chrf": 50.7,
+   "chrf_ci": [
+    49.9,
+    51.4
+   ],
+   "bleu": 18.7,
+   "flagged": 72.7,
+   "flagged_ci": [
+    71.0,
+    74.6
+   ]
+  },
+  "Ministral 14B|CP": {
+   "chrf": 56.3,
+   "chrf_ci": [
+    55.5,
+    57.0
+   ],
+   "bleu": 28.1,
+   "flagged": 38.7,
+   "flagged_ci": [
+    36.6,
+    40.7
+   ]
+  },
+  "Gemma 3 4B|E2a": {
+   "chrf": 11.6,
+   "chrf_ci": [
+    11.4,
+    11.8
+   ],
+   "bleu": 0.3,
+   "flagged": 100.0,
+   "flagged_ci": [
+    99.9,
+    100.0
+   ]
+  },
+  "Gemma 3 4B|E2b": {
+   "chrf": 8.2,
+   "chrf_ci": [
+    7.9,
+    8.4
+   ],
+   "bleu": 0.1,
+   "flagged": 100.0,
+   "flagged_ci": [
+    99.9,
+    100.0
+   ]
+  },
+  "Gemma 3 4B|E2c": {
+   "chrf": 19.1,
+   "chrf_ci": [
+    18.5,
+    19.6
+   ],
+   "bleu": 2.0,
+   "flagged": 95.4,
+   "flagged_ci": [
+    94.5,
+    96.3
+   ]
+  },
+  "Gemma 3 4B|DT": {
+   "chrf": 55.2,
+   "chrf_ci": [
+    54.4,
+    55.9
+   ],
+   "bleu": 29.4,
+   "flagged": 60.2,
+   "flagged_ci": [
+    58.1,
+    62.4
+   ]
+  },
+  "Gemma 3 4B|CP": {
+   "chrf": 53.1,
+   "chrf_ci": [
+    52.3,
+    53.8
+   ],
+   "bleu": 23.7,
+   "flagged": 33.0,
+   "flagged_ci": [
+    31.0,
+    35.5
+   ]
+  },
+  "Google Translate|DT": {
+   "chrf": 68.8,
+   "chrf_ci": [
+    68.1,
+    69.4
+   ],
+   "bleu": 46.9,
+   "flagged": 33.7,
+   "flagged_ci": [
+    31.7,
+    35.6
+   ]
+  },
+  "IndicTrans2|DT": {
+   "chrf": 65.0,
+   "chrf_ci": [
+    64.3,
+    65.7
+   ],
+   "bleu": 42.0,
+   "flagged": 44.9,
+   "flagged_ci": [
+    42.8,
+    47.0
+   ]
+  }
+ },
+ "tests": [
+  {
+   "a": "gpt-oss-120b|E2a",
+   "b": "gpt-oss-120b|E2b",
+   "chrf_diff": 4.0,
+   "chrf_p": 0.0,
+   "fixed": 32,
+   "broken": 2,
+   "mcnemar_p": 6.9e-08,
+   "flagged_diff": -1.4
+  },
+  {
+   "a": "gpt-oss-120b|E2b",
+   "b": "gpt-oss-120b|E2c",
+   "chrf_diff": 21.0,
+   "chrf_p": 0.0,
+   "fixed": 559,
+   "broken": 11,
+   "mcnemar_p": 2.5e-149,
+   "flagged_diff": -26.5
+  },
+  {
+   "a": "gpt-oss-120b|E2a",
+   "b": "gpt-oss-120b|E2c",
+   "chrf_diff": 25.0,
+   "chrf_p": 0.0,
+   "fixed": 578,
+   "broken": 0,
+   "mcnemar_p": 2e-174,
+   "flagged_diff": -27.9
+  },
+  {
+   "a": "gpt-oss-120b|E2c",
+   "b": "gpt-oss-120b|DT",
+   "chrf_diff": 23.0,
+   "chrf_p": 0.0,
+   "fixed": 725,
+   "broken": 249,
+   "mcnemar_p": 1.6e-54,
+   "flagged_diff": -23.0
+  },
+  {
+   "a": "gpt-oss-120b|E2c",
+   "b": "gpt-oss-120b|CP",
+   "chrf_diff": 18.4,
+   "chrf_p": 0.0,
+   "fixed": 948,
+   "broken": 76,
+   "mcnemar_p": 2.2e-192,
+   "flagged_diff": -42.1
+  },
+  {
+   "a": "Ministral 14B|E2a",
+   "b": "Ministral 14B|E2b",
+   "chrf_diff": 4.1,
+   "chrf_p": 0.0,
+   "fixed": 18,
+   "broken": 0,
+   "mcnemar_p": 7.6e-06,
+   "flagged_diff": -0.9
+  },
+  {
+   "a": "Ministral 14B|E2b",
+   "b": "Ministral 14B|E2c",
+   "chrf_diff": 20.1,
+   "chrf_p": 0.0,
+   "fixed": 557,
+   "broken": 7,
+   "mcnemar_p": 1.2e-154,
+   "flagged_diff": -26.6
+  },
+  {
+   "a": "Ministral 14B|E2a",
+   "b": "Ministral 14B|E2c",
+   "chrf_diff": 24.1,
+   "chrf_p": 0.0,
+   "fixed": 568,
+   "broken": 0,
+   "mcnemar_p": 2.1e-171,
+   "flagged_diff": -27.4
+  },
+  {
+   "a": "Ministral 14B|E2c",
+   "b": "Ministral 14B|DT",
+   "chrf_diff": 10.2,
+   "chrf_p": 0.0,
+   "fixed": 379,
+   "broken": 384,
+   "mcnemar_p": 0.88,
+   "flagged_diff": 0.2
+  },
+  {
+   "a": "Ministral 14B|E2c",
+   "b": "Ministral 14B|CP",
+   "chrf_diff": 15.9,
+   "chrf_p": 0.0,
+   "fixed": 812,
+   "broken": 113,
+   "mcnemar_p": 4.4e-131,
+   "flagged_diff": -33.8
+  },
+  {
+   "a": "Gemma 3 4B|E2a",
+   "b": "Gemma 3 4B|E2b",
+   "chrf_diff": -3.4,
+   "chrf_p": 0.0,
+   "fixed": 1,
+   "broken": 1,
+   "mcnemar_p": 1.0,
+   "flagged_diff": 0.0
+  },
+  {
+   "a": "Gemma 3 4B|E2b",
+   "b": "Gemma 3 4B|E2c",
+   "chrf_diff": 10.9,
+   "chrf_p": 0.0,
+   "fixed": 94,
+   "broken": 0,
+   "mcnemar_p": 1e-28,
+   "flagged_diff": -4.5
+  },
+  {
+   "a": "Gemma 3 4B|E2a",
+   "b": "Gemma 3 4B|E2c",
+   "chrf_diff": 7.5,
+   "chrf_p": 0.0,
+   "fixed": 95,
+   "broken": 1,
+   "mcnemar_p": 2.4e-27,
+   "flagged_diff": -4.5
+  },
+  {
+   "a": "Gemma 3 4B|E2c",
+   "b": "Gemma 3 4B|DT",
+   "chrf_diff": 36.0,
+   "chrf_p": 0.0,
+   "fixed": 778,
+   "broken": 48,
+   "mcnemar_p": 9.9e-171,
+   "flagged_diff": -35.2
+  },
+  {
+   "a": "Gemma 3 4B|E2c",
+   "b": "Gemma 3 4B|CP",
+   "chrf_diff": 34.0,
+   "chrf_p": 0.0,
+   "fixed": 1305,
+   "broken": 12,
+   "mcnemar_p": 0.0,
+   "flagged_diff": -62.4
+  },
+  {
+   "a": "gpt-oss-120b|E2c",
+   "b": "Ministral 14B|E2c",
+   "chrf_diff": 1.8,
+   "chrf_p": 0.0,
+   "fixed": 213,
+   "broken": 224,
+   "mcnemar_p": 0.63,
+   "flagged_diff": 0.5
+  },
+  {
+   "a": "Gemma 3 4B|E2c",
+   "b": "Ministral 14B|E2c",
+   "chrf_diff": 21.3,
+   "chrf_p": 0.0,
+   "fixed": 500,
+   "broken": 25,
+   "mcnemar_p": 7e-116,
+   "flagged_diff": -22.9
+  },
+  {
+   "a": "Gemma 3 4B|E2c",
+   "b": "gpt-oss-120b|E2c",
+   "chrf_diff": 19.6,
+   "chrf_p": 0.0,
+   "fixed": 503,
+   "broken": 17,
+   "mcnemar_p": 1.9e-125,
+   "flagged_diff": -23.5
+  }
+ ],
+ "robust": {
+  "gpt-oss-120b|E2a": {
+   "chrf": 13.7,
+   "flagged": 99.8
+  },
+  "gpt-oss-120b|E2b": {
+   "chrf": 17.8,
+   "flagged": 98.4
+  },
+  "gpt-oss-120b|E2c": {
+   "chrf": 38.8,
+   "flagged": 71.9
+  },
+  "gpt-oss-120b|DT": {
+   "chrf": 61.9,
+   "flagged": 48.4
+  },
+  "gpt-oss-120b|CP": {
+   "chrf": 57.3,
+   "flagged": 30.1
+  },
+  "Ministral 14B|E2a": {
+   "chrf": 16.3,
+   "flagged": 99.9
+  },
+  "Ministral 14B|E2b": {
+   "chrf": 20.5,
+   "flagged": 99.1
+  },
+  "Ministral 14B|E2c": {
+   "chrf": 40.6,
+   "flagged": 72.4
+  },
+  "Ministral 14B|DT": {
+   "chrf": 50.9,
+   "flagged": 72.3
+  },
+  "Ministral 14B|CP": {
+   "chrf": 56.5,
+   "flagged": 39.1
+  },
+  "Gemma 3 4B|E2a": {
+   "chrf": 11.6,
+   "flagged": 99.9
+  },
+  "Gemma 3 4B|E2b": {
+   "chrf": 8.1,
+   "flagged": 99.9
+  },
+  "Gemma 3 4B|E2c": {
+   "chrf": 19.1,
+   "flagged": 95.3
+  },
+  "Gemma 3 4B|DT": {
+   "chrf": 55.4,
+   "flagged": 59.9
+  },
+  "Gemma 3 4B|CP": {
+   "chrf": 53.2,
+   "flagged": 33.1
+  },
+  "Google Translate|DT": {
+   "chrf": 69.2,
+   "flagged": 33.0
+  },
+  "IndicTrans2|DT": {
+   "chrf": 65.5,
+   "flagged": 43.8
+  }
+ },
+ "gloss_hand_inputs": 246,
+ "robust_no_hand": {
+  "gpt-oss-120b|E2a": {
+   "chrf": 13.9,
+   "flagged": 99.8
+  },
+  "gpt-oss-120b|E2b": {
+   "chrf": 17.7,
+   "flagged": 98.5
+  },
+  "gpt-oss-120b|E2c": {
+   "chrf": 38.6,
+   "flagged": 71.7
+  },
+  "gpt-oss-120b|DT": {
+   "chrf": 61.7,
+   "flagged": 48.0
+  },
+  "gpt-oss-120b|CP": {
+   "chrf": 56.3,
+   "flagged": 30.4
+  },
+  "Ministral 14B|E2a": {
+   "chrf": 16.4,
+   "flagged": 99.9
+  },
+  "Ministral 14B|E2b": {
+   "chrf": 20.4,
+   "flagged": 99.0
+  },
+  "Ministral 14B|E2c": {
+   "chrf": 40.2,
+   "flagged": 71.9
+  },
+  "Ministral 14B|DT": {
+   "chrf": 50.5,
+   "flagged": 72.9
+  },
+  "Ministral 14B|CP": {
+   "chrf": 55.6,
+   "flagged": 38.7
+  },
+  "Gemma 3 4B|E2a": {
+   "chrf": 11.7,
+   "flagged": 99.9
+  },
+  "Gemma 3 4B|E2b": {
+   "chrf": 8.3,
+   "flagged": 99.9
+  },
+  "Gemma 3 4B|E2c": {
+   "chrf": 19.0,
+   "flagged": 95.3
+  },
+  "Gemma 3 4B|DT": {
+   "chrf": 55.1,
+   "flagged": 59.8
+  },
+  "Gemma 3 4B|CP": {
+   "chrf": 52.5,
+   "flagged": 33.6
+  },
+  "Google Translate|DT": {
+   "chrf": 68.6,
+   "flagged": 32.8
+  },
+  "IndicTrans2|DT": {
+   "chrf": 65.3,
+   "flagged": 44.2
+  }
+ },
+ "layers": {
+  "gpt-oss-120b|E2a": {
+   "Lexical": 1896,
+   "L2 Morphology": 516,
+   "L3 Semantic relations": 444,
+   "L4 Discourse": 241,
+   "L5 Speaker's view": 440,
+   "L6 Sentence type": 8,
+   "L7 Adequacy": 2032,
+   "L8 Output form": 888
+  },
+  "gpt-oss-120b|E2b": {
+   "Lexical": 1869,
+   "L2 Morphology": 329,
+   "L3 Semantic relations": 282,
+   "L4 Discourse": 242,
+   "L5 Speaker's view": 174,
+   "L6 Sentence type": 21,
+   "L7 Adequacy": 1912,
+   "L8 Output form": 265
+  },
+  "gpt-oss-120b|E2c": {
+   "Lexical": 709,
+   "L2 Morphology": 358,
+   "L3 Semantic relations": 242,
+   "L4 Discourse": 267,
+   "L5 Speaker's view": 185,
+   "L6 Sentence type": 11,
+   "L7 Adequacy": 613,
+   "L8 Output form": 201
+  },
+  "gpt-oss-120b|DT": {
+   "Lexical": 800,
+   "L2 Morphology": 56,
+   "L3 Semantic relations": 99,
+   "L4 Discourse": 51,
+   "L5 Speaker's view": 90,
+   "L6 Sentence type": 4,
+   "L7 Adequacy": 235,
+   "L8 Output form": 20
+  },
+  "gpt-oss-120b|CP": {
+   "Lexical": 138,
+   "L2 Morphology": 13,
+   "L3 Semantic relations": 62,
+   "L4 Discourse": 34,
+   "L5 Speaker's view": 35,
+   "L6 Sentence type": 51,
+   "L7 Adequacy": 335,
+   "L8 Output form": 56
+  },
+  "Ministral 14B|E2a": {
+   "Lexical": 1913,
+   "L2 Morphology": 582,
+   "L3 Semantic relations": 600,
+   "L4 Discourse": 223,
+   "L5 Speaker's view": 441,
+   "L6 Sentence type": 5,
+   "L7 Adequacy": 2042,
+   "L8 Output form": 628
+  },
+  "Ministral 14B|E2b": {
+   "Lexical": 1875,
+   "L2 Morphology": 200,
+   "L3 Semantic relations": 445,
+   "L4 Discourse": 182,
+   "L5 Speaker's view": 207,
+   "L6 Sentence type": 22,
+   "L7 Adequacy": 1988,
+   "L8 Output form": 460
+  },
+  "Ministral 14B|E2c": {
+   "Lexical": 790,
+   "L2 Morphology": 364,
+   "L3 Semantic relations": 236,
+   "L4 Discourse": 199,
+   "L5 Speaker's view": 230,
+   "L6 Sentence type": 20,
+   "L7 Adequacy": 618,
+   "L8 Output form": 147
+  },
+  "Ministral 14B|DT": {
+   "Lexical": 997,
+   "L2 Morphology": 90,
+   "L3 Semantic relations": 200,
+   "L4 Discourse": 119,
+   "L5 Speaker's view": 102,
+   "L6 Sentence type": 23,
+   "L7 Adequacy": 490,
+   "L8 Output form": 429
+  },
+  "Ministral 14B|CP": {
+   "Lexical": 246,
+   "L2 Morphology": 30,
+   "L3 Semantic relations": 156,
+   "L4 Discourse": 107,
+   "L5 Speaker's view": 57,
+   "L6 Sentence type": 45,
+   "L7 Adequacy": 323,
+   "L8 Output form": 68
+  },
+  "Gemma 3 4B|E2a": {
+   "Lexical": 1945,
+   "L2 Morphology": 276,
+   "L3 Semantic relations": 474,
+   "L4 Discourse": 248,
+   "L5 Speaker's view": 478,
+   "L6 Sentence type": 66,
+   "L7 Adequacy": 2062,
+   "L8 Output form": 1009
+  },
+  "Gemma 3 4B|E2b": {
+   "Lexical": 1937,
+   "L2 Morphology": 176,
+   "L3 Semantic relations": 424,
+   "L4 Discourse": 267,
+   "L5 Speaker's view": 451,
+   "L6 Sentence type": 61,
+   "L7 Adequacy": 2060,
+   "L8 Output form": 1504
+  },
+  "Gemma 3 4B|E2c": {
+   "Lexical": 1551,
+   "L2 Morphology": 396,
+   "L3 Semantic relations": 419,
+   "L4 Discourse": 281,
+   "L5 Speaker's view": 468,
+   "L6 Sentence type": 57,
+   "L7 Adequacy": 1372,
+   "L8 Output form": 1308
+  },
+  "Gemma 3 4B|DT": {
+   "Lexical": 987,
+   "L2 Morphology": 84,
+   "L3 Semantic relations": 122,
+   "L4 Discourse": 69,
+   "L5 Speaker's view": 108,
+   "L6 Sentence type": 5,
+   "L7 Adequacy": 361,
+   "L8 Output form": 48
+  },
+  "Gemma 3 4B|CP": {
+   "Lexical": 189,
+   "L2 Morphology": 25,
+   "L3 Semantic relations": 88,
+   "L4 Discourse": 52,
+   "L5 Speaker's view": 36,
+   "L6 Sentence type": 69,
+   "L7 Adequacy": 325,
+   "L8 Output form": 55
+  },
+  "Google Translate|DT": {
+   "Lexical": 534,
+   "L2 Morphology": 40,
+   "L3 Semantic relations": 58,
+   "L4 Discourse": 23,
+   "L5 Speaker's view": 37,
+   "L6 Sentence type": 3,
+   "L7 Adequacy": 127,
+   "L8 Output form": 10
+  },
+  "IndicTrans2|DT": {
+   "Lexical": 689,
+   "L2 Morphology": 61,
+   "L3 Semantic relations": 108,
+   "L4 Discourse": 24,
+   "L5 Speaker's view": 114,
+   "L6 Sentence type": 1,
+   "L7 Adequacy": 171,
+   "L8 Output form": 49
+  }
+ },
+ "cross": {
+  "E2a": {
+   "none_flagged": 1,
+   "all3_flagged": 2067,
+   "one": 0,
+   "two": 3,
+   "layers": {
+    "Lexical": {
+     "all3": 1869,
+     "two": 57,
+     "one": 33
+    },
+    "L2 Morphology": {
+     "all3": 158,
+     "two": 242,
+     "one": 416
+    },
+    "L3 Semantic relations": {
+     "all3": 236,
+     "two": 186,
+     "one": 438
+    },
+    "L4 Discourse": {
+     "all3": 186,
+     "two": 61,
+     "one": 32
+    },
+    "L5 Speaker's view": {
+     "all3": 408,
+     "two": 63,
+     "one": 9
+    },
+    "L6 Sentence type": {
+     "all3": 2,
+     "two": 1,
+     "one": 71
+    },
+    "L7 Adequacy": {
+     "all3": 2011,
+     "two": 49,
+     "one": 5
+    },
+    "L8 Output form": {
+     "all3": 213,
+     "two": 558,
+     "one": 770
+    }
+   },
+   "unique": {
+    "Ministral 14B / L2 Morphology": 202,
+    "Ministral 14B / L3 Semantic relations": 251,
+    "gpt-oss-120b / L3 Semantic relations": 85,
+    "gpt-oss-120b / L8 Output form": 247,
+    "gpt-oss-120b / L2 Morphology": 148,
+    "Gemma 3 4B / L8 Output form": 376,
+    "Gemma 3 4B / L3 Semantic relations": 102,
+    "Ministral 14B / L8 Output form": 147,
+    "Gemma 3 4B / Lexical": 26,
+    "Gemma 3 4B / L2 Morphology": 66,
+    "Ministral 14B / Lexical": 5,
+    "Gemma 3 4B / L4 Discourse": 15,
+    "Gemma 3 4B / L6 Sentence type": 63,
+    "Gemma 3 4B / L7 Adequacy": 2,
+    "gpt-oss-120b / L7 Adequacy": 2,
+    "gpt-oss-120b / L4 Discourse": 8,
+    "Ministral 14B / L4 Discourse": 9,
+    "Gemma 3 4B / L5 Speaker's view": 9,
+    "gpt-oss-120b / Lexical": 2,
+    "Ministral 14B / L7 Adequacy": 1,
+    "Ministral 14B / L6 Sentence type": 2,
+    "gpt-oss-120b / L6 Sentence type": 6
+   }
+  },
+  "E2b": {
+   "none_flagged": 0,
+   "all3_flagged": 2025,
+   "one": 8,
+   "two": 38,
+   "layers": {
+    "Lexical": {
+     "all3": 1816,
+     "two": 93,
+     "one": 47
+    },
+    "L2 Morphology": {
+     "all3": 44,
+     "two": 106,
+     "one": 361
+    },
+    "L3 Semantic relations": {
+     "all3": 82,
+     "two": 192,
+     "one": 521
+    },
+    "L4 Discourse": {
+     "all3": 148,
+     "two": 102,
+     "one": 43
+    },
+    "L5 Speaker's view": {
+     "all3": 122,
+     "two": 123,
+     "one": 220
+    },
+    "L6 Sentence type": {
+     "all3": 3,
+     "two": 7,
+     "one": 81
+    },
+    "L7 Adequacy": {
+     "all3": 1863,
+     "two": 169,
+     "one": 33
+    },
+    "L8 Output form": {
+     "all3": 63,
+     "two": 418,
+     "one": 1204
+    }
+   },
+   "unique": {
+    "gpt-oss-120b / L2 Morphology": 202,
+    "Ministral 14B / L3 Semantic relations": 269,
+    "Gemma 3 4B / L8 Output form": 1046,
+    "Gemma 3 4B / L5 Speaker's view": 209,
+    "Gemma 3 4B / L2 Morphology": 87,
+    "Gemma 3 4B / L3 Semantic relations": 199,
+    "Ministral 14B / L8 Output form": 113,
+    "gpt-oss-120b / L8 Output form": 45,
+    "gpt-oss-120b / L3 Semantic relations": 53,
+    "Gemma 3 4B / L4 Discourse": 29,
+    "Gemma 3 4B / L7 Adequacy": 32,
+    "Ministral 14B / Lexical": 5,
+    "Ministral 14B / L2 Morphology": 72,
+    "Ministral 14B / L6 Sentence type": 13,
+    "Ministral 14B / L4 Discourse": 4,
+    "gpt-oss-120b / Lexical": 4,
+    "Gemma 3 4B / Lexical": 38,
+    "Ministral 14B / L5 Speaker's view": 9,
+    "gpt-oss-120b / L4 Discourse": 10,
+    "Gemma 3 4B / L6 Sentence type": 54,
+    "gpt-oss-120b / L5 Speaker's view": 2,
+    "gpt-oss-120b / L6 Sentence type": 14,
+    "Ministral 14B / L7 Adequacy": 1
+   }
+  },
+  "E2c": {
+   "none_flagged": 60,
+   "all3_flagged": 1270,
+   "one": 325,
+   "two": 416,
+   "layers": {
+    "Lexical": {
+     "all3": 469,
+     "two": 453,
+     "one": 737
+    },
+    "L2 Morphology": {
+     "all3": 109,
+     "two": 204,
+     "one": 383
+    },
+    "L3 Semantic relations": {
+     "all3": 78,
+     "two": 163,
+     "one": 337
+    },
+    "L4 Discourse": {
+     "all3": 185,
+     "two": 85,
+     "one": 22
+    },
+    "L5 Speaker's view": {
+     "all3": 164,
+     "two": 86,
+     "one": 219
+    },
+    "L6 Sentence type": {
+     "all3": 3,
+     "two": 6,
+     "one": 67
+    },
+    "L7 Adequacy": {
+     "all3": 471,
+     "two": 215,
+     "one": 760
+    },
+    "L8 Output form": {
+     "all3": 51,
+     "two": 173,
+     "one": 1157
+    }
+   },
+   "unique": {
+    "Ministral 14B / L8 Output form": 30,
+    "Gemma 3 4B / Lexical": 654,
+    "Gemma 3 4B / L5 Speaker's view": 219,
+    "Gemma 3 4B / L8 Output form": 1090,
+    "Gemma 3 4B / L3 Semantic relations": 201,
+    "Ministral 14B / L3 Semantic relations": 101,
+    "Gemma 3 4B / L7 Adequacy": 706,
+    "Ministral 14B / L2 Morphology": 115,
+    "Gemma 3 4B / L4 Discourse": 17,
+    "Gemma 3 4B / L2 Morphology": 151,
+    "gpt-oss-120b / L2 Morphology": 117,
+    "gpt-oss-120b / L3 Semantic relations": 35,
+    "gpt-oss-120b / Lexical": 38,
+    "Ministral 14B / L7 Adequacy": 30,
+    "gpt-oss-120b / L8 Output form": 37,
+    "Ministral 14B / Lexical": 45,
+    "gpt-oss-120b / L7 Adequacy": 24,
+    "gpt-oss-120b / L4 Discourse": 2,
+    "Gemma 3 4B / L6 Sentence type": 51,
+    "Ministral 14B / L6 Sentence type": 11,
+    "gpt-oss-120b / L6 Sentence type": 5,
+    "Ministral 14B / L4 Discourse": 3
+   }
+  },
+  "DT": {
+   "none_flagged": 351,
+   "all3_flagged": 778,
+   "one": 452,
+   "two": 490,
+   "layers": {
+    "Lexical": {
+     "all3": 557,
+     "two": 371,
+     "one": 371
+    },
+    "L2 Morphology": {
+     "all3": 22,
+     "two": 32,
+     "one": 100
+    },
+    "L3 Semantic relations": {
+     "all3": 37,
+     "two": 60,
+     "one": 190
+    },
+    "L4 Discourse": {
+     "all3": 29,
+     "two": 38,
+     "one": 76
+    },
+    "L5 Speaker's view": {
+     "all3": 35,
+     "two": 51,
+     "one": 93
+    },
+    "L6 Sentence type": {
+     "all3": 3,
+     "two": 2,
+     "one": 19
+    },
+    "L7 Adequacy": {
+     "all3": 112,
+     "two": 171,
+     "one": 408
+    },
+    "L8 Output form": {
+     "all3": 7,
+     "two": 19,
+     "one": 438
+    }
+   },
+   "unique": {
+    "gpt-oss-120b / L6 Sentence type": 1,
+    "gpt-oss-120b / L3 Semantic relations": 26,
+    "Ministral 14B / L7 Adequacy": 251,
+    "Ministral 14B / Lexical": 163,
+    "Ministral 14B / L8 Output form": 404,
+    "Gemma 3 4B / L2 Morphology": 40,
+    "Gemma 3 4B / L3 Semantic relations": 46,
+    "Gemma 3 4B / L7 Adequacy": 117,
+    "Gemma 3 4B / Lexical": 155,
+    "gpt-oss-120b / L5 Speaker's view": 25,
+    "gpt-oss-120b / L4 Discourse": 5,
+    "Gemma 3 4B / L5 Speaker's view": 41,
+    "gpt-oss-120b / Lexical": 53,
+    "Ministral 14B / L3 Semantic relations": 118,
+    "Ministral 14B / L5 Speaker's view": 27,
+    "Ministral 14B / L2 Morphology": 41,
+    "Gemma 3 4B / L8 Output form": 29,
+    "Ministral 14B / L4 Discourse": 57,
+    "gpt-oss-120b / L2 Morphology": 19,
+    "gpt-oss-120b / L7 Adequacy": 40,
+    "gpt-oss-120b / L8 Output form": 5,
+    "Ministral 14B / L6 Sentence type": 18,
+    "Gemma 3 4B / L4 Discourse": 14
+   }
+  },
+  "CP": {
+   "none_flagged": 1073,
+   "all3_flagged": 477,
+   "one": 370,
+   "two": 151,
+   "layers": {
+    "Lexical": {
+     "all3": 93,
+     "two": 46,
+     "one": 202
+    },
+    "L2 Morphology": {
+     "all3": 8,
+     "two": 6,
+     "one": 32
+    },
+    "L3 Semantic relations": {
+     "all3": 42,
+     "two": 25,
+     "one": 130
+    },
+    "L4 Discourse": {
+     "all3": 32,
+     "two": 14,
+     "one": 69
+    },
+    "L5 Speaker's view": {
+     "all3": 25,
+     "two": 9,
+     "one": 35
+    },
+    "L6 Sentence type": {
+     "all3": 29,
+     "two": 21,
+     "one": 36
+    },
+    "L7 Adequacy": {
+     "all3": 260,
+     "two": 59,
+     "one": 85
+    },
+    "L8 Output form": {
+     "all3": 45,
+     "two": 5,
+     "one": 34
+    }
+   },
+   "unique": {
+    "Gemma 3 4B / Lexical": 68,
+    "Gemma 3 4B / L7 Adequacy": 22,
+    "Ministral 14B / L3 Semantic relations": 100,
+    "Ministral 14B / L7 Adequacy": 40,
+    "Ministral 14B / Lexical": 117,
+    "gpt-oss-120b / L8 Output form": 7,
+    "gpt-oss-120b / L5 Speaker's view": 5,
+    "Ministral 14B / L4 Discourse": 62,
+    "Ministral 14B / L5 Speaker's view": 24,
+    "Ministral 14B / L8 Output form": 20,
+    "Gemma 3 4B / L5 Speaker's view": 6,
+    "gpt-oss-120b / L7 Adequacy": 23,
+    "Gemma 3 4B / L3 Semantic relations": 25,
+    "Ministral 14B / L2 Morphology": 18,
+    "Gemma 3 4B / L2 Morphology": 12,
+    "Gemma 3 4B / L6 Sentence type": 20,
+    "gpt-oss-120b / L2 Morphology": 2,
+    "Gemma 3 4B / L4 Discourse": 7,
+    "gpt-oss-120b / L3 Semantic relations": 5,
+    "gpt-oss-120b / Lexical": 17,
+    "Ministral 14B / L6 Sentence type": 6,
+    "gpt-oss-120b / L6 Sentence type": 10,
+    "Gemma 3 4B / L8 Output form": 7
+   }
+  }
+ },
+ "jaccard_E2c": {
+  "gpt-oss-120b vs Ministral 14B": 0.745,
+  "gpt-oss-120b vs Gemma 3 4B": 0.739,
+  "Ministral 14B vs Gemma 3 4B": 0.738
+ },
+ "subtypes": {
+  "gpt-oss-120b|E2a": {
+   "L1a Lexical & NE :: NE dropped / translated": 192,
+   "L1a Lexical & NE :: NE replaced": 155,
+   "L1a Lexical & NE :: lexical choice differs": 1833,
+   "L1a Lexical & NE :: number missing / changed": 87,
+   "L1b Cultural concepts :: cultural concept missing": 32,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 30,
+   "L2 Morphology :: aspect (perfect lost)": 21,
+   "L2 Morphology :: aspect (progressive lost)": 7,
+   "L2 Morphology :: degree (superlative lost)": 14,
+   "L2 Morphology :: modality (ability lost)": 65,
+   "L2 Morphology :: modality (obligation lost)": 16,
+   "L2 Morphology :: modality (possibility lost)": 3,
+   "L2 Morphology :: number (plural lost)": 15,
+   "L2 Morphology :: tense": 407,
+   "L3 Semantic relations :: negation added": 68,
+   "L3 Semantic relations :: negation lost": 10,
+   "L3 Semantic relations :: relation rasneg not expressed": 4,
+   "L3 Semantic relations :: relation rh not expressed": 31,
+   "L3 Semantic relations :: relation rsm not expressed": 21,
+   "L3 Semantic relations :: relation rt not expressed": 148,
+   "L3 Semantic relations :: voice (active -> passive)": 71,
+   "L3 Semantic relations :: voice (passive -> active)": 137,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 24,
+   "L4 Discourse :: connective missing (anyawra)": 2,
+   "L4 Discourse :: connective missing (arWAw)": 4,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 12,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 25,
+   "L4 Discourse :: connective missing (samAnakAla)": 22,
+   "L4 Discourse :: connective missing (samuccaya)": 72,
+   "L4 Discourse :: connective missing (uxxeSya)": 2,
+   "L4 Discourse :: connective missing (vAkyakarma)": 35,
+   "L4 Discourse :: connective missing (viroXI)": 31,
+   "L4 Discourse :: connective missing (viroXI_xyowaka)": 4,
+   "L4 Discourse :: connective missing (viroXi)": 1,
+   "L4 Discourse :: connective missing (vyaBicAra)": 6,
+   "L5 Speaker's view :: deixis distal lost": 38,
+   "L5 Speaker's view :: deixis proximal lost": 202,
+   "L5 Speaker's view :: deixis proximal reversed": 28,
+   "L5 Speaker's view :: honorific dropped": 4,
+   "L5 Speaker's view :: particle BI lost": 122,
+   "L5 Speaker's view :: particle hI lost": 52,
+   "L5 Speaker's view :: particle kevala lost": 8,
+   "L5 Speaker's view :: particle lagaBaga lost": 23,
+   "L5 Speaker's view :: particle mAwra lost": 2,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: command -> statement": 2,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: statement -> question": 4,
+   "L7 Adequacy :: addition (content not in reference)": 1874,
+   "L7 Adequacy :: omission (low coverage)": 2003,
+   "L8 Output form :: Hindi script left": 2,
+   "L8 Output form :: much longer than reference": 182,
+   "L8 Output form :: much shorter than reference": 143,
+   "L8 Output form :: number added (hallucination)": 756
+  },
+  "gpt-oss-120b|E2b": {
+   "L1a Lexical & NE :: NE dropped / translated": 236,
+   "L1a Lexical & NE :: NE replaced": 212,
+   "L1a Lexical & NE :: lexical choice differs": 1778,
+   "L1a Lexical & NE :: number missing / changed": 109,
+   "L1b Cultural concepts :: cultural concept missing": 36,
+   "L1b Cultural concepts :: culturally wrong gloss": 2,
+   "L1b Cultural concepts :: literal / generic rendering": 1,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 53,
+   "L2 Morphology :: aspect (perfect lost)": 7,
+   "L2 Morphology :: aspect (progressive lost)": 1,
+   "L2 Morphology :: degree (superlative lost)": 4,
+   "L2 Morphology :: modality (ability lost)": 1,
+   "L2 Morphology :: modality (obligation lost)": 8,
+   "L2 Morphology :: modality (possibility lost)": 2,
+   "L2 Morphology :: number (plural lost)": 29,
+   "L2 Morphology :: tense": 288,
+   "L3 Semantic relations :: negation added": 24,
+   "L3 Semantic relations :: negation lost": 4,
+   "L3 Semantic relations :: relation rasneg not expressed": 1,
+   "L3 Semantic relations :: relation rh not expressed": 21,
+   "L3 Semantic relations :: relation rsm not expressed": 14,
+   "L3 Semantic relations :: relation rt not expressed": 118,
+   "L3 Semantic relations :: voice (active -> passive)": 87,
+   "L3 Semantic relations :: voice (passive -> active)": 39,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 23,
+   "L4 Discourse :: connective missing (anyawra)": 2,
+   "L4 Discourse :: connective missing (arWAw)": 4,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 11,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 25,
+   "L4 Discourse :: connective missing (samAnakAla)": 18,
+   "L4 Discourse :: connective missing (samuccaya)": 90,
+   "L4 Discourse :: connective missing (uwwarakAla)": 1,
+   "L4 Discourse :: connective missing (uxxeSya)": 1,
+   "L4 Discourse :: connective missing (vAkyakarma)": 29,
+   "L4 Discourse :: connective missing (viroXI)": 27,
+   "L4 Discourse :: connective missing (viroXI_xyowaka)": 4,
+   "L4 Discourse :: connective missing (vyaBicAra)": 6,
+   "L5 Speaker's view :: deixis distal lost": 1,
+   "L5 Speaker's view :: deixis distal reversed": 1,
+   "L5 Speaker's view :: deixis proximal lost": 21,
+   "L5 Speaker's view :: honorific dropped": 5,
+   "L5 Speaker's view :: particle BI lost": 96,
+   "L5 Speaker's view :: particle hI lost": 37,
+   "L5 Speaker's view :: particle kevala lost": 3,
+   "L5 Speaker's view :: particle lagaBaga lost": 19,
+   "L5 Speaker's view :: particle mAwra lost": 2,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: command -> statement": 4,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 2,
+   "L6 Sentence type :: statement -> question": 14,
+   "L7 Adequacy :: addition (content not in reference)": 1619,
+   "L7 Adequacy :: omission (low coverage)": 1883,
+   "L8 Output form :: much longer than reference": 14,
+   "L8 Output form :: much shorter than reference": 190,
+   "L8 Output form :: number added (hallucination)": 65
+  },
+  "gpt-oss-120b|E2c": {
+   "L1a Lexical & NE :: NE dropped / translated": 352,
+   "L1a Lexical & NE :: NE replaced": 104,
+   "L1a Lexical & NE :: lexical choice differs": 276,
+   "L1a Lexical & NE :: number missing / changed": 103,
+   "L1b Cultural concepts :: cultural concept missing": 4,
+   "L1b Cultural concepts :: culturally wrong gloss": 2,
+   "L1b Cultural concepts :: literal / generic rendering": 3,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 3,
+   "L2 Morphology :: aspect (perfect lost)": 23,
+   "L2 Morphology :: aspect (progressive lost)": 4,
+   "L2 Morphology :: degree (superlative lost)": 14,
+   "L2 Morphology :: modality (ability lost)": 9,
+   "L2 Morphology :: modality (obligation lost)": 4,
+   "L2 Morphology :: modality (possibility lost)": 2,
+   "L2 Morphology :: number (plural lost)": 181,
+   "L2 Morphology :: tense": 146,
+   "L3 Semantic relations :: negation added": 2,
+   "L3 Semantic relations :: negation lost": 1,
+   "L3 Semantic relations :: relation rasneg not expressed": 2,
+   "L3 Semantic relations :: relation rh not expressed": 24,
+   "L3 Semantic relations :: relation rsm not expressed": 16,
+   "L3 Semantic relations :: relation rt not expressed": 118,
+   "L3 Semantic relations :: voice (active -> passive)": 63,
+   "L3 Semantic relations :: voice (passive -> active)": 37,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 24,
+   "L4 Discourse :: connective missing (anyawra)": 2,
+   "L4 Discourse :: connective missing (arWAw)": 4,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 11,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 25,
+   "L4 Discourse :: connective missing (samAnakAla)": 21,
+   "L4 Discourse :: connective missing (samuccaya)": 102,
+   "L4 Discourse :: connective missing (uwwarakAla)": 1,
+   "L4 Discourse :: connective missing (uxxeSya)": 2,
+   "L4 Discourse :: connective missing (vAkyakarma)": 34,
+   "L4 Discourse :: connective missing (viroXI)": 29,
+   "L4 Discourse :: connective missing (viroXI_xyowaka)": 4,
+   "L4 Discourse :: connective missing (viroXi)": 1,
+   "L4 Discourse :: connective missing (vyaBicAra)": 6,
+   "L5 Speaker's view :: deixis distal lost": 2,
+   "L5 Speaker's view :: deixis distal reversed": 4,
+   "L5 Speaker's view :: deixis proximal lost": 17,
+   "L5 Speaker's view :: deixis proximal reversed": 1,
+   "L5 Speaker's view :: honorific dropped": 4,
+   "L5 Speaker's view :: particle BI lost": 102,
+   "L5 Speaker's view :: particle hI lost": 37,
+   "L5 Speaker's view :: particle kevala lost": 7,
+   "L5 Speaker's view :: particle lagaBaga lost": 21,
+   "L5 Speaker's view :: particle mAwra lost": 2,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: command -> statement": 3,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 1,
+   "L6 Sentence type :: statement -> question": 5,
+   "L7 Adequacy :: addition (content not in reference)": 460,
+   "L7 Adequacy :: omission (low coverage)": 528,
+   "L8 Output form :: much longer than reference": 3,
+   "L8 Output form :: much shorter than reference": 111,
+   "L8 Output form :: number added (hallucination)": 88,
+   "L8 Output form :: repetition": 3
+  },
+  "gpt-oss-120b|DT": {
+   "L1a Lexical & NE :: NE dropped / translated": 65,
+   "L1a Lexical & NE :: NE replaced": 33,
+   "L1a Lexical & NE :: lexical choice differs": 672,
+   "L1a Lexical & NE :: number missing / changed": 21,
+   "L1b Cultural concepts :: cultural concept missing": 3,
+   "L1b Cultural concepts :: culturally wrong gloss": 4,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 72,
+   "L2 Morphology :: aspect (perfect lost)": 5,
+   "L2 Morphology :: aspect (progressive lost)": 1,
+   "L2 Morphology :: modality (ability lost)": 5,
+   "L2 Morphology :: modality (obligation lost)": 1,
+   "L2 Morphology :: modality (possibility lost)": 1,
+   "L2 Morphology :: number (plural lost)": 24,
+   "L2 Morphology :: tense": 22,
+   "L3 Semantic relations :: negation added": 3,
+   "L3 Semantic relations :: negation lost": 8,
+   "L3 Semantic relations :: relation rh not expressed": 2,
+   "L3 Semantic relations :: relation rsm not expressed": 1,
+   "L3 Semantic relations :: relation rt not expressed": 10,
+   "L3 Semantic relations :: voice (active -> passive)": 47,
+   "L3 Semantic relations :: voice (passive -> active)": 28,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 5,
+   "L4 Discourse :: connective missing (anyawra)": 1,
+   "L4 Discourse :: connective missing (arWAw)": 2,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 3,
+   "L4 Discourse :: connective missing (samuccaya)": 18,
+   "L4 Discourse :: connective missing (vAkyakarma)": 15,
+   "L4 Discourse :: connective missing (viroXI)": 5,
+   "L4 Discourse :: connective missing (vyaBicAra)": 1,
+   "L5 Speaker's view :: deixis distal lost": 6,
+   "L5 Speaker's view :: deixis proximal lost": 40,
+   "L5 Speaker's view :: deixis proximal reversed": 14,
+   "L5 Speaker's view :: honorific dropped": 1,
+   "L5 Speaker's view :: particle BI lost": 6,
+   "L5 Speaker's view :: particle hI lost": 22,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: exclamation lost": 1,
+   "L6 Sentence type :: question -> statement": 1,
+   "L6 Sentence type :: statement -> question": 2,
+   "L7 Adequacy :: addition (content not in reference)": 175,
+   "L7 Adequacy :: omission (low coverage)": 203,
+   "L8 Output form :: Hindi script left": 2,
+   "L8 Output form :: much longer than reference": 2,
+   "L8 Output form :: much shorter than reference": 6,
+   "L8 Output form :: number added (hallucination)": 9,
+   "L8 Output form :: repetition": 1
+  },
+  "gpt-oss-120b|CP": {
+   "L1a Lexical & NE :: NE dropped / translated": 2,
+   "L1a Lexical & NE :: NE replaced": 2,
+   "L1a Lexical & NE :: lexical choice differs": 103,
+   "L1a Lexical & NE :: number missing / changed": 23,
+   "L1b Cultural concepts :: cultural concept missing": 1,
+   "L1b Cultural concepts :: culturally wrong gloss": 2,
+   "L1b Cultural concepts :: literal / generic rendering": 3,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 5,
+   "L2 Morphology :: aspect (progressive lost)": 1,
+   "L2 Morphology :: number (plural lost)": 4,
+   "L2 Morphology :: tense": 8,
+   "L3 Semantic relations :: negation added": 4,
+   "L3 Semantic relations :: negation lost": 1,
+   "L3 Semantic relations :: relation rt not expressed": 4,
+   "L3 Semantic relations :: voice (active -> passive)": 50,
+   "L3 Semantic relations :: voice (passive -> active)": 3,
+   "L4 Discourse :: connective missing (vAkyakarma)": 34,
+   "L5 Speaker's view :: deixis distal lost": 6,
+   "L5 Speaker's view :: deixis proximal lost": 13,
+   "L5 Speaker's view :: particle BI lost": 7,
+   "L5 Speaker's view :: particle hI lost": 9,
+   "L6 Sentence type :: command -> statement": 15,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 30,
+   "L6 Sentence type :: statement -> question": 4,
+   "L7 Adequacy :: addition (content not in reference)": 271,
+   "L7 Adequacy :: omission (low coverage)": 286,
+   "L8 Output form :: much shorter than reference": 30,
+   "L8 Output form :: number added (hallucination)": 21,
+   "L8 Output form :: repetition": 5
+  },
+  "Ministral 14B|E2a": {
+   "L1a Lexical & NE :: NE dropped / translated": 187,
+   "L1a Lexical & NE :: NE replaced": 232,
+   "L1a Lexical & NE :: lexical choice differs": 1835,
+   "L1a Lexical & NE :: number missing / changed": 195,
+   "L1b Cultural concepts :: cultural concept missing": 39,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 26,
+   "L2 Morphology :: aspect (perfect lost)": 12,
+   "L2 Morphology :: aspect (progressive lost)": 9,
+   "L2 Morphology :: degree (superlative lost)": 14,
+   "L2 Morphology :: modality (ability lost)": 64,
+   "L2 Morphology :: modality (obligation lost)": 15,
+   "L2 Morphology :: modality (possibility lost)": 3,
+   "L2 Morphology :: number (plural lost)": 11,
+   "L2 Morphology :: tense": 505,
+   "L3 Semantic relations :: negation added": 166,
+   "L3 Semantic relations :: negation lost": 1,
+   "L3 Semantic relations :: relation rasneg not expressed": 2,
+   "L3 Semantic relations :: relation rh not expressed": 29,
+   "L3 Semantic relations :: relation rsm not expressed": 21,
+   "L3 Semantic relations :: relation rt not expressed": 114,
+   "L3 Semantic relations :: voice (active -> passive)": 217,
+   "L3 Semantic relations :: voice (passive -> active)": 132,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 24,
+   "L4 Discourse :: connective missing (anyawra)": 2,
+   "L4 Discourse :: connective missing (arWAw)": 4,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 11,
+   "L4 Discourse :: connective missing (pariNAma)": 25,
+   "L4 Discourse :: connective missing (samAnakAla)": 17,
+   "L4 Discourse :: connective missing (samuccaya)": 69,
+   "L4 Discourse :: connective missing (uwwarakAla)": 1,
+   "L4 Discourse :: connective missing (uxxeSya)": 1,
+   "L4 Discourse :: connective missing (vAkyakarma)": 29,
+   "L4 Discourse :: connective missing (viroXI)": 30,
+   "L4 Discourse :: connective missing (viroXI_xyowaka)": 4,
+   "L4 Discourse :: connective missing (vyaBicAra)": 6,
+   "L5 Speaker's view :: deixis distal lost": 32,
+   "L5 Speaker's view :: deixis proximal lost": 205,
+   "L5 Speaker's view :: deixis proximal reversed": 37,
+   "L5 Speaker's view :: honorific dropped": 5,
+   "L5 Speaker's view :: particle BI lost": 122,
+   "L5 Speaker's view :: particle hI lost": 51,
+   "L5 Speaker's view :: particle kevala lost": 9,
+   "L5 Speaker's view :: particle lagaBaga lost": 23,
+   "L5 Speaker's view :: particle mAwra lost": 2,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: command -> statement": 2,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 1,
+   "L7 Adequacy :: addition (content not in reference)": 1976,
+   "L7 Adequacy :: omission (low coverage)": 2011,
+   "L8 Output form :: much longer than reference": 300,
+   "L8 Output form :: much shorter than reference": 59,
+   "L8 Output form :: notes / markdown": 196,
+   "L8 Output form :: number added (hallucination)": 193,
+   "L8 Output form :: repetition": 7
+  },
+  "Ministral 14B|E2b": {
+   "L1a Lexical & NE :: NE dropped / translated": 76,
+   "L1a Lexical & NE :: NE replaced": 273,
+   "L1a Lexical & NE :: lexical choice differs": 1784,
+   "L1a Lexical & NE :: number missing / changed": 183,
+   "L1b Cultural concepts :: cultural concept missing": 40,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 49,
+   "L2 Morphology :: aspect (perfect lost)": 17,
+   "L2 Morphology :: aspect (progressive lost)": 2,
+   "L2 Morphology :: degree (superlative lost)": 9,
+   "L2 Morphology :: modality (ability lost)": 4,
+   "L2 Morphology :: modality (obligation lost)": 4,
+   "L2 Morphology :: modality (possibility lost)": 2,
+   "L2 Morphology :: number (plural lost)": 20,
+   "L2 Morphology :: tense": 147,
+   "L3 Semantic relations :: negation added": 77,
+   "L3 Semantic relations :: negation lost": 2,
+   "L3 Semantic relations :: relation rh not expressed": 11,
+   "L3 Semantic relations :: relation rsm not expressed": 4,
+   "L3 Semantic relations :: relation rt not expressed": 45,
+   "L3 Semantic relations :: voice (active -> passive)": 316,
+   "L3 Semantic relations :: voice (passive -> active)": 22,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 6,
+   "L4 Discourse :: connective missing (anyawra)": 1,
+   "L4 Discourse :: connective missing (arWAw)": 4,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 7,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 23,
+   "L4 Discourse :: connective missing (samAnakAla)": 13,
+   "L4 Discourse :: connective missing (samuccaya)": 75,
+   "L4 Discourse :: connective missing (uwwarakAla)": 1,
+   "L4 Discourse :: connective missing (uxxeSya)": 1,
+   "L4 Discourse :: connective missing (vAkyakarma)": 18,
+   "L4 Discourse :: connective missing (viroXI)": 22,
+   "L4 Discourse :: connective missing (viroXI_xyowaka)": 3,
+   "L4 Discourse :: connective missing (viroXi)": 1,
+   "L4 Discourse :: connective missing (vyaBicAra)": 6,
+   "L5 Speaker's view :: deixis distal lost": 7,
+   "L5 Speaker's view :: deixis distal reversed": 6,
+   "L5 Speaker's view :: deixis proximal lost": 42,
+   "L5 Speaker's view :: deixis proximal reversed": 14,
+   "L5 Speaker's view :: honorific dropped": 5,
+   "L5 Speaker's view :: particle BI lost": 81,
+   "L5 Speaker's view :: particle hI lost": 34,
+   "L5 Speaker's view :: particle kevala lost": 6,
+   "L5 Speaker's view :: particle lagaBaga lost": 20,
+   "L5 Speaker's view :: particle mAwra lost": 1,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: command -> statement": 11,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 3,
+   "L6 Sentence type :: statement -> question": 7,
+   "L7 Adequacy :: addition (content not in reference)": 1844,
+   "L7 Adequacy :: omission (low coverage)": 1944,
+   "L8 Output form :: much longer than reference": 125,
+   "L8 Output form :: much shorter than reference": 21,
+   "L8 Output form :: notes / markdown": 233,
+   "L8 Output form :: number added (hallucination)": 143,
+   "L8 Output form :: repetition": 2
+  },
+  "Ministral 14B|E2c": {
+   "L1a Lexical & NE :: NE dropped / translated": 246,
+   "L1a Lexical & NE :: NE replaced": 176,
+   "L1a Lexical & NE :: lexical choice differs": 311,
+   "L1a Lexical & NE :: number missing / changed": 195,
+   "L1b Cultural concepts :: cultural concept missing": 5,
+   "L1b Cultural concepts :: literal / generic rendering": 2,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 2,
+   "L2 Morphology :: aspect (perfect lost)": 21,
+   "L2 Morphology :: aspect (progressive lost)": 2,
+   "L2 Morphology :: degree (superlative lost)": 14,
+   "L2 Morphology :: modality (ability lost)": 18,
+   "L2 Morphology :: modality (obligation lost)": 3,
+   "L2 Morphology :: modality (possibility lost)": 2,
+   "L2 Morphology :: number (plural lost)": 203,
+   "L2 Morphology :: tense": 122,
+   "L3 Semantic relations :: negation added": 31,
+   "L3 Semantic relations :: negation lost": 2,
+   "L3 Semantic relations :: relation rh not expressed": 9,
+   "L3 Semantic relations :: relation rsm not expressed": 5,
+   "L3 Semantic relations :: relation rt not expressed": 57,
+   "L3 Semantic relations :: voice (active -> passive)": 117,
+   "L3 Semantic relations :: voice (passive -> active)": 28,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 4,
+   "L4 Discourse :: connective missing (arWAw)": 4,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 7,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 22,
+   "L4 Discourse :: connective missing (samAnakAla)": 10,
+   "L4 Discourse :: connective missing (samuccaya)": 95,
+   "L4 Discourse :: connective missing (uwwarakAla)": 1,
+   "L4 Discourse :: connective missing (vAkyakarma)": 24,
+   "L4 Discourse :: connective missing (viroXI)": 22,
+   "L4 Discourse :: connective missing (viroXI_xyowaka)": 3,
+   "L4 Discourse :: connective missing (vyaBicAra)": 6,
+   "L5 Speaker's view :: deixis distal lost": 4,
+   "L5 Speaker's view :: deixis distal reversed": 3,
+   "L5 Speaker's view :: deixis proximal lost": 32,
+   "L5 Speaker's view :: deixis proximal reversed": 10,
+   "L5 Speaker's view :: honorific dropped": 4,
+   "L5 Speaker's view :: particle BI lost": 114,
+   "L5 Speaker's view :: particle hI lost": 45,
+   "L5 Speaker's view :: particle kevala lost": 10,
+   "L5 Speaker's view :: particle lagaBaga lost": 18,
+   "L5 Speaker's view :: particle mAwra lost": 2,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: command -> statement": 10,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 3,
+   "L6 Sentence type :: statement -> question": 6,
+   "L7 Adequacy :: addition (content not in reference)": 522,
+   "L7 Adequacy :: omission (low coverage)": 486,
+   "L8 Output form :: much longer than reference": 45,
+   "L8 Output form :: much shorter than reference": 36,
+   "L8 Output form :: notes / markdown": 7,
+   "L8 Output form :: number added (hallucination)": 59,
+   "L8 Output form :: repetition": 2
+  },
+  "Ministral 14B|DT": {
+   "L1a Lexical & NE :: NE dropped / translated": 72,
+   "L1a Lexical & NE :: NE replaced": 64,
+   "L1a Lexical & NE :: lexical choice differs": 870,
+   "L1a Lexical & NE :: number missing / changed": 21,
+   "L1b Cultural concepts :: cultural concept missing": 3,
+   "L1b Cultural concepts :: culturally wrong gloss": 3,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 74,
+   "L2 Morphology :: aspect (perfect lost)": 12,
+   "L2 Morphology :: aspect (progressive lost)": 2,
+   "L2 Morphology :: modality (ability lost)": 4,
+   "L2 Morphology :: modality (obligation lost)": 4,
+   "L2 Morphology :: modality (possibility lost)": 2,
+   "L2 Morphology :: number (plural lost)": 30,
+   "L2 Morphology :: tense": 38,
+   "L3 Semantic relations :: negation added": 13,
+   "L3 Semantic relations :: negation lost": 40,
+   "L3 Semantic relations :: relation rasneg not expressed": 2,
+   "L3 Semantic relations :: relation rh not expressed": 10,
+   "L3 Semantic relations :: relation rsm not expressed": 3,
+   "L3 Semantic relations :: relation rt not expressed": 14,
+   "L3 Semantic relations :: voice (active -> passive)": 81,
+   "L3 Semantic relations :: voice (passive -> active)": 45,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 6,
+   "L4 Discourse :: connective missing (anyawra)": 2,
+   "L4 Discourse :: connective missing (arWAw)": 1,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 1,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 13,
+   "L4 Discourse :: connective missing (samuccaya)": 56,
+   "L4 Discourse :: connective missing (vAkyakarma)": 28,
+   "L4 Discourse :: connective missing (viroXI)": 8,
+   "L4 Discourse :: connective missing (viroXi)": 1,
+   "L4 Discourse :: connective missing (vyaBicAra)": 2,
+   "L5 Speaker's view :: deixis distal lost": 13,
+   "L5 Speaker's view :: deixis distal reversed": 2,
+   "L5 Speaker's view :: deixis proximal lost": 43,
+   "L5 Speaker's view :: deixis proximal reversed": 8,
+   "L5 Speaker's view :: honorific dropped": 1,
+   "L5 Speaker's view :: particle BI lost": 12,
+   "L5 Speaker's view :: particle hI lost": 22,
+   "L5 Speaker's view :: particle lagaBaga lost": 1,
+   "L5 Speaker's view :: particle mAwra lost": 1,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: command -> statement": 2,
+   "L6 Sentence type :: question -> statement": 17,
+   "L6 Sentence type :: statement -> question": 4,
+   "L7 Adequacy :: addition (content not in reference)": 451,
+   "L7 Adequacy :: omission (low coverage)": 287,
+   "L8 Output form :: Hindi script left": 4,
+   "L8 Output form :: much longer than reference": 51,
+   "L8 Output form :: much shorter than reference": 9,
+   "L8 Output form :: notes / markdown": 376,
+   "L8 Output form :: number added (hallucination)": 28
+  },
+  "Ministral 14B|CP": {
+   "L1a Lexical & NE :: NE dropped / translated": 4,
+   "L1a Lexical & NE :: NE replaced": 4,
+   "L1a Lexical & NE :: lexical choice differs": 186,
+   "L1a Lexical & NE :: number missing / changed": 46,
+   "L1b Cultural concepts :: cultural concept missing": 1,
+   "L1b Cultural concepts :: culturally wrong gloss": 1,
+   "L1b Cultural concepts :: literal / generic rendering": 3,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 10,
+   "L2 Morphology :: aspect (progressive lost)": 2,
+   "L2 Morphology :: modality (ability lost)": 1,
+   "L2 Morphology :: number (plural lost)": 13,
+   "L2 Morphology :: tense": 15,
+   "L3 Semantic relations :: negation added": 6,
+   "L3 Semantic relations :: negation lost": 4,
+   "L3 Semantic relations :: relation rh not expressed": 2,
+   "L3 Semantic relations :: relation rsm not expressed": 1,
+   "L3 Semantic relations :: relation rt not expressed": 9,
+   "L3 Semantic relations :: voice (active -> passive)": 123,
+   "L3 Semantic relations :: voice (passive -> active)": 14,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 1,
+   "L4 Discourse :: connective missing (samAnakAla)": 1,
+   "L4 Discourse :: connective missing (samuccaya)": 66,
+   "L4 Discourse :: connective missing (vAkyakarma)": 34,
+   "L4 Discourse :: connective missing (viroXI)": 5,
+   "L5 Speaker's view :: deixis distal lost": 9,
+   "L5 Speaker's view :: deixis proximal lost": 19,
+   "L5 Speaker's view :: particle BI lost": 11,
+   "L5 Speaker's view :: particle hI lost": 20,
+   "L6 Sentence type :: command -> statement": 10,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 31,
+   "L6 Sentence type :: statement -> question": 2,
+   "L7 Adequacy :: addition (content not in reference)": 264,
+   "L7 Adequacy :: omission (low coverage)": 254,
+   "L8 Output form :: much longer than reference": 1,
+   "L8 Output form :: much shorter than reference": 31,
+   "L8 Output form :: notes / markdown": 13,
+   "L8 Output form :: number added (hallucination)": 22,
+   "L8 Output form :: repetition": 1
+  },
+  "Gemma 3 4B|E2a": {
+   "L1a Lexical & NE :: NE dropped / translated": 340,
+   "L1a Lexical & NE :: NE replaced": 219,
+   "L1a Lexical & NE :: lexical choice differs": 1847,
+   "L1a Lexical & NE :: number missing / changed": 185,
+   "L1b Cultural concepts :: cultural concept missing": 37,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 20,
+   "L2 Morphology :: aspect (perfect lost)": 29,
+   "L2 Morphology :: aspect (progressive lost)": 4,
+   "L2 Morphology :: degree (superlative lost)": 14,
+   "L2 Morphology :: modality (ability lost)": 64,
+   "L2 Morphology :: modality (obligation lost)": 16,
+   "L2 Morphology :: modality (possibility lost)": 3,
+   "L2 Morphology :: number (plural lost)": 7,
+   "L2 Morphology :: tense": 155,
+   "L3 Semantic relations :: negation added": 40,
+   "L3 Semantic relations :: negation lost": 29,
+   "L3 Semantic relations :: relation rasneg not expressed": 4,
+   "L3 Semantic relations :: relation rh not expressed": 32,
+   "L3 Semantic relations :: relation rsm not expressed": 21,
+   "L3 Semantic relations :: relation rt not expressed": 131,
+   "L3 Semantic relations :: voice (active -> passive)": 104,
+   "L3 Semantic relations :: voice (passive -> active)": 162,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 24,
+   "L4 Discourse :: connective missing (anyawra)": 2,
+   "L4 Discourse :: connective missing (arWAw)": 4,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 10,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 25,
+   "L4 Discourse :: connective missing (samAnakAla)": 22,
+   "L4 Discourse :: connective missing (samuccaya)": 75,
+   "L4 Discourse :: connective missing (uwwarakAla)": 1,
+   "L4 Discourse :: connective missing (uxxeSya)": 1,
+   "L4 Discourse :: connective missing (vAkyakarma)": 43,
+   "L4 Discourse :: connective missing (viroXI)": 29,
+   "L4 Discourse :: connective missing (viroXI_xyowaka)": 4,
+   "L4 Discourse :: connective missing (viroXi)": 1,
+   "L4 Discourse :: connective missing (vyaBicAra)": 6,
+   "L5 Speaker's view :: deixis distal lost": 40,
+   "L5 Speaker's view :: deixis proximal lost": 268,
+   "L5 Speaker's view :: deixis proximal reversed": 4,
+   "L5 Speaker's view :: honorific dropped": 5,
+   "L5 Speaker's view :: particle BI lost": 122,
+   "L5 Speaker's view :: particle hI lost": 55,
+   "L5 Speaker's view :: particle kevala lost": 11,
+   "L5 Speaker's view :: particle lagaBaga lost": 23,
+   "L5 Speaker's view :: particle mAwra lost": 2,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: command -> statement": 9,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 52,
+   "L6 Sentence type :: statement -> question": 3,
+   "L7 Adequacy :: addition (content not in reference)": 1847,
+   "L7 Adequacy :: omission (low coverage)": 2056,
+   "L8 Output form :: much longer than reference": 203,
+   "L8 Output form :: much shorter than reference": 406,
+   "L8 Output form :: number added (hallucination)": 590,
+   "L8 Output form :: repetition": 12
+  },
+  "Gemma 3 4B|E2b": {
+   "L1a Lexical & NE :: NE dropped / translated": 454,
+   "L1a Lexical & NE :: NE replaced": 118,
+   "L1a Lexical & NE :: lexical choice differs": 1854,
+   "L1a Lexical & NE :: number missing / changed": 256,
+   "L1b Cultural concepts :: cultural concept missing": 36,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 16,
+   "L2 Morphology :: aspect (perfect lost)": 33,
+   "L2 Morphology :: aspect (progressive lost)": 9,
+   "L2 Morphology :: degree (superlative lost)": 14,
+   "L2 Morphology :: modality (ability lost)": 59,
+   "L2 Morphology :: modality (obligation lost)": 10,
+   "L2 Morphology :: modality (possibility lost)": 3,
+   "L2 Morphology :: number (plural lost)": 6,
+   "L2 Morphology :: tense": 46,
+   "L3 Semantic relations :: negation lost": 75,
+   "L3 Semantic relations :: relation rasneg not expressed": 4,
+   "L3 Semantic relations :: relation rh not expressed": 31,
+   "L3 Semantic relations :: relation rsm not expressed": 21,
+   "L3 Semantic relations :: relation rt not expressed": 144,
+   "L3 Semantic relations :: voice (active -> passive)": 12,
+   "L3 Semantic relations :: voice (passive -> active)": 180,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 24,
+   "L4 Discourse :: connective missing (anyawra)": 2,
+   "L4 Discourse :: connective missing (arWAw)": 4,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 11,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 23,
+   "L4 Discourse :: connective missing (samAnakAla)": 19,
+   "L4 Discourse :: connective missing (samuccaya)": 98,
+   "L4 Discourse :: connective missing (uwwarakAla)": 1,
+   "L4 Discourse :: connective missing (uxxeSya)": 2,
+   "L4 Discourse :: connective missing (vAkyakarma)": 41,
+   "L4 Discourse :: connective missing (viroXI)": 30,
+   "L4 Discourse :: connective missing (viroXI_xyowaka)": 4,
+   "L4 Discourse :: connective missing (viroXi)": 1,
+   "L4 Discourse :: connective missing (vyaBicAra)": 6,
+   "L5 Speaker's view :: deixis distal lost": 34,
+   "L5 Speaker's view :: deixis distal reversed": 3,
+   "L5 Speaker's view :: deixis proximal lost": 254,
+   "L5 Speaker's view :: honorific dropped": 5,
+   "L5 Speaker's view :: particle BI lost": 117,
+   "L5 Speaker's view :: particle hI lost": 52,
+   "L5 Speaker's view :: particle kevala lost": 11,
+   "L5 Speaker's view :: particle lagaBaga lost": 23,
+   "L5 Speaker's view :: particle mAwra lost": 2,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: command -> statement": 2,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 56,
+   "L6 Sentence type :: statement -> question": 1,
+   "L7 Adequacy :: addition (content not in reference)": 1739,
+   "L7 Adequacy :: omission (low coverage)": 2057,
+   "L8 Output form :: Hindi script left": 1,
+   "L8 Output form :: much longer than reference": 252,
+   "L8 Output form :: much shorter than reference": 477,
+   "L8 Output form :: number added (hallucination)": 1233,
+   "L8 Output form :: repetition": 10
+  },
+  "Gemma 3 4B|E2c": {
+   "L1a Lexical & NE :: NE dropped / translated": 620,
+   "L1a Lexical & NE :: NE replaced": 68,
+   "L1a Lexical & NE :: lexical choice differs": 1205,
+   "L1a Lexical & NE :: number missing / changed": 274,
+   "L1b Cultural concepts :: cultural concept missing": 24,
+   "L1b Cultural concepts :: culturally wrong gloss": 2,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 9,
+   "L2 Morphology :: aspect (perfect lost)": 34,
+   "L2 Morphology :: aspect (progressive lost)": 11,
+   "L2 Morphology :: degree (superlative lost)": 14,
+   "L2 Morphology :: modality (ability lost)": 64,
+   "L2 Morphology :: modality (obligation lost)": 14,
+   "L2 Morphology :: modality (possibility lost)": 3,
+   "L2 Morphology :: number (plural lost)": 249,
+   "L2 Morphology :: tense": 37,
+   "L3 Semantic relations :: negation added": 1,
+   "L3 Semantic relations :: negation lost": 63,
+   "L3 Semantic relations :: relation rasneg not expressed": 4,
+   "L3 Semantic relations :: relation rh not expressed": 32,
+   "L3 Semantic relations :: relation rsm not expressed": 21,
+   "L3 Semantic relations :: relation rt not expressed": 149,
+   "L3 Semantic relations :: voice (active -> passive)": 22,
+   "L3 Semantic relations :: voice (passive -> active)": 163,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 24,
+   "L4 Discourse :: connective missing (anyawra)": 2,
+   "L4 Discourse :: connective missing (arWAw)": 4,
+   "L4 Discourse :: connective missing (kAryakAraNa)": 12,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 25,
+   "L4 Discourse :: connective missing (samAnakAla)": 22,
+   "L4 Discourse :: connective missing (samuccaya)": 104,
+   "L4 Discourse :: connective missing (uwwarakAla)": 1,
+   "L4 Discourse :: connective missing (uxxeSya)": 2,
+   "L4 Discourse :: connective missing (vAkyakarma)": 43,
+   "L4 Discourse :: connective missing (viroXI)": 30,
+   "L4 Discourse :: connective missing (viroXI_xyowaka)": 4,
+   "L4 Discourse :: connective missing (viroXi)": 1,
+   "L4 Discourse :: connective missing (vyaBicAra)": 6,
+   "L5 Speaker's view :: deixis distal lost": 39,
+   "L5 Speaker's view :: deixis distal reversed": 1,
+   "L5 Speaker's view :: deixis proximal lost": 265,
+   "L5 Speaker's view :: deixis proximal reversed": 1,
+   "L5 Speaker's view :: honorific dropped": 5,
+   "L5 Speaker's view :: particle BI lost": 121,
+   "L5 Speaker's view :: particle hI lost": 50,
+   "L5 Speaker's view :: particle kevala lost": 11,
+   "L5 Speaker's view :: particle lagaBaga lost": 23,
+   "L5 Speaker's view :: particle mAwra lost": 2,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: command -> statement": 2,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 52,
+   "L6 Sentence type :: statement -> question": 1,
+   "L7 Adequacy :: addition (content not in reference)": 974,
+   "L7 Adequacy :: omission (low coverage)": 1256,
+   "L8 Output form :: much longer than reference": 64,
+   "L8 Output form :: much shorter than reference": 725,
+   "L8 Output form :: number added (hallucination)": 857,
+   "L8 Output form :: repetition": 11
+  },
+  "Gemma 3 4B|DT": {
+   "L1a Lexical & NE :: NE dropped / translated": 165,
+   "L1a Lexical & NE :: NE replaced": 74,
+   "L1a Lexical & NE :: lexical choice differs": 798,
+   "L1a Lexical & NE :: number missing / changed": 12,
+   "L1b Cultural concepts :: cultural concept missing": 6,
+   "L1b Cultural concepts :: culturally wrong gloss": 4,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 71,
+   "L2 Morphology :: aspect (perfect lost)": 9,
+   "L2 Morphology :: aspect (progressive lost)": 1,
+   "L2 Morphology :: modality (ability lost)": 6,
+   "L2 Morphology :: modality (obligation lost)": 2,
+   "L2 Morphology :: modality (possibility lost)": 1,
+   "L2 Morphology :: number (plural lost)": 24,
+   "L2 Morphology :: tense": 45,
+   "L3 Semantic relations :: negation added": 4,
+   "L3 Semantic relations :: negation lost": 9,
+   "L3 Semantic relations :: relation rasneg not expressed": 1,
+   "L3 Semantic relations :: relation rh not expressed": 4,
+   "L3 Semantic relations :: relation rsm not expressed": 4,
+   "L3 Semantic relations :: relation rt not expressed": 18,
+   "L3 Semantic relations :: voice (active -> passive)": 58,
+   "L3 Semantic relations :: voice (passive -> active)": 27,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 6,
+   "L4 Discourse :: connective missing (anyawra)": 1,
+   "L4 Discourse :: connective missing (arWAw)": 3,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 1,
+   "L4 Discourse :: connective missing (samAnakAla)": 2,
+   "L4 Discourse :: connective missing (samuccaya)": 30,
+   "L4 Discourse :: connective missing (vAkyakarma)": 22,
+   "L4 Discourse :: connective missing (viroXI)": 1,
+   "L4 Discourse :: connective missing (vyaBicAra)": 2,
+   "L5 Speaker's view :: deixis distal lost": 9,
+   "L5 Speaker's view :: deixis proximal lost": 35,
+   "L5 Speaker's view :: deixis proximal reversed": 12,
+   "L5 Speaker's view :: honorific dropped": 3,
+   "L5 Speaker's view :: particle BI lost": 18,
+   "L5 Speaker's view :: particle hI lost": 27,
+   "L5 Speaker's view :: particle lagaBaga lost": 1,
+   "L5 Speaker's view :: particle mAwra lost": 2,
+   "L5 Speaker's view :: particle sirPa lost": 1,
+   "L6 Sentence type :: question -> statement": 2,
+   "L6 Sentence type :: statement -> question": 3,
+   "L7 Adequacy :: addition (content not in reference)": 266,
+   "L7 Adequacy :: omission (low coverage)": 314,
+   "L8 Output form :: Hindi script left": 24,
+   "L8 Output form :: much longer than reference": 1,
+   "L8 Output form :: much shorter than reference": 12,
+   "L8 Output form :: number added (hallucination)": 11
+  },
+  "Gemma 3 4B|CP": {
+   "L1a Lexical & NE :: NE dropped / translated": 36,
+   "L1a Lexical & NE :: NE replaced": 6,
+   "L1a Lexical & NE :: lexical choice differs": 111,
+   "L1a Lexical & NE :: number missing / changed": 33,
+   "L1b Cultural concepts :: cultural concept missing": 2,
+   "L1b Cultural concepts :: culturally wrong gloss": 2,
+   "L1b Cultural concepts :: literal / generic rendering": 3,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 3,
+   "L2 Morphology :: aspect (progressive lost)": 1,
+   "L2 Morphology :: number (plural lost)": 5,
+   "L2 Morphology :: tense": 19,
+   "L3 Semantic relations :: negation added": 4,
+   "L3 Semantic relations :: negation lost": 4,
+   "L3 Semantic relations :: relation rt not expressed": 4,
+   "L3 Semantic relations :: voice (active -> passive)": 74,
+   "L3 Semantic relations :: voice (passive -> active)": 3,
+   "L4 Discourse :: connective missing (pariNAma)": 1,
+   "L4 Discourse :: connective missing (samuccaya)": 16,
+   "L4 Discourse :: connective missing (vAkyakarma)": 35,
+   "L5 Speaker's view :: deixis distal lost": 5,
+   "L5 Speaker's view :: deixis proximal lost": 10,
+   "L5 Speaker's view :: deixis proximal reversed": 1,
+   "L5 Speaker's view :: particle BI lost": 8,
+   "L5 Speaker's view :: particle hI lost": 13,
+   "L6 Sentence type :: command -> statement": 16,
+   "L6 Sentence type :: exclamation lost": 2,
+   "L6 Sentence type :: question -> statement": 50,
+   "L6 Sentence type :: statement -> question": 1,
+   "L7 Adequacy :: addition (content not in reference)": 264,
+   "L7 Adequacy :: omission (low coverage)": 278,
+   "L8 Output form :: much longer than reference": 3,
+   "L8 Output form :: much shorter than reference": 30,
+   "L8 Output form :: number added (hallucination)": 19,
+   "L8 Output form :: repetition": 3
+  },
+  "Google Translate|DT": {
+   "L1a Lexical & NE :: NE dropped / translated": 31,
+   "L1a Lexical & NE :: NE replaced": 8,
+   "L1a Lexical & NE :: lexical choice differs": 448,
+   "L1a Lexical & NE :: number missing / changed": 2,
+   "L1b Cultural concepts :: cultural concept missing": 2,
+   "L1b Cultural concepts :: culturally wrong gloss": 3,
+   "L1b Cultural concepts :: literal / generic rendering": 2,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 63,
+   "L2 Morphology :: aspect (perfect lost)": 6,
+   "L2 Morphology :: aspect (progressive lost)": 1,
+   "L2 Morphology :: degree (superlative lost)": 1,
+   "L2 Morphology :: modality (ability lost)": 3,
+   "L2 Morphology :: modality (obligation lost)": 1,
+   "L2 Morphology :: modality (possibility lost)": 3,
+   "L2 Morphology :: number (plural lost)": 15,
+   "L2 Morphology :: tense": 11,
+   "L3 Semantic relations :: negation added": 1,
+   "L3 Semantic relations :: relation rh not expressed": 3,
+   "L3 Semantic relations :: relation rt not expressed": 1,
+   "L3 Semantic relations :: voice (active -> passive)": 45,
+   "L3 Semantic relations :: voice (passive -> active)": 9,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 5,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 2,
+   "L4 Discourse :: connective missing (samAnakAla)": 1,
+   "L4 Discourse :: connective missing (samuccaya)": 7,
+   "L4 Discourse :: connective missing (vAkyakarma)": 1,
+   "L4 Discourse :: connective missing (viroXI)": 5,
+   "L4 Discourse :: connective missing (vyaBicAra)": 1,
+   "L5 Speaker's view :: deixis distal lost": 4,
+   "L5 Speaker's view :: deixis proximal lost": 14,
+   "L5 Speaker's view :: particle BI lost": 3,
+   "L5 Speaker's view :: particle hI lost": 16,
+   "L6 Sentence type :: question -> statement": 1,
+   "L6 Sentence type :: statement -> question": 2,
+   "L7 Adequacy :: addition (content not in reference)": 75,
+   "L7 Adequacy :: omission (low coverage)": 110,
+   "L8 Output form :: Hindi script left": 1,
+   "L8 Output form :: much longer than reference": 1,
+   "L8 Output form :: much shorter than reference": 5,
+   "L8 Output form :: number added (hallucination)": 2,
+   "L8 Output form :: repetition": 1
+  },
+  "IndicTrans2|DT": {
+   "L1a Lexical & NE :: NE dropped / translated": 27,
+   "L1a Lexical & NE :: NE replaced": 14,
+   "L1a Lexical & NE :: lexical choice differs": 601,
+   "L1a Lexical & NE :: number missing / changed": 13,
+   "L1b Cultural concepts :: cultural concept missing": 4,
+   "L1b Cultural concepts :: culturally wrong gloss": 2,
+   "L1b Cultural concepts :: literal / generic rendering": 2,
+   "L1d Other sense used :: other sense of the Hindi word (polysemy or near-synonym: check)": 77,
+   "L2 Morphology :: aspect (perfect lost)": 9,
+   "L2 Morphology :: aspect (progressive lost)": 2,
+   "L2 Morphology :: modality (ability lost)": 8,
+   "L2 Morphology :: modality (obligation lost)": 3,
+   "L2 Morphology :: modality (possibility lost)": 2,
+   "L2 Morphology :: number (plural lost)": 25,
+   "L2 Morphology :: tense": 15,
+   "L3 Semantic relations :: negation added": 1,
+   "L3 Semantic relations :: negation lost": 5,
+   "L3 Semantic relations :: relation rh not expressed": 9,
+   "L3 Semantic relations :: relation rsm not expressed": 1,
+   "L3 Semantic relations :: relation rt not expressed": 8,
+   "L3 Semantic relations :: voice (active -> passive)": 67,
+   "L3 Semantic relations :: voice (passive -> active)": 20,
+   "L4 Discourse :: connective missing (AvaSyakawApariNAma)": 5,
+   "L4 Discourse :: connective missing (pUrvakAla)": 1,
+   "L4 Discourse :: connective missing (pariNAma)": 2,
+   "L4 Discourse :: connective missing (samAnakAla)": 2,
+   "L4 Discourse :: connective missing (samuccaya)": 7,
+   "L4 Discourse :: connective missing (vAkyakarma)": 3,
+   "L4 Discourse :: connective missing (viroXI)": 3,
+   "L4 Discourse :: connective missing (vyaBicAra)": 1,
+   "L5 Speaker's view :: deixis distal lost": 8,
+   "L5 Speaker's view :: deixis proximal lost": 69,
+   "L5 Speaker's view :: deixis proximal reversed": 12,
+   "L5 Speaker's view :: honorific dropped": 2,
+   "L5 Speaker's view :: particle BI lost": 6,
+   "L5 Speaker's view :: particle hI lost": 18,
+   "L5 Speaker's view :: particle mAwra lost": 1,
+   "L6 Sentence type :: question -> statement": 1,
+   "L7 Adequacy :: addition (content not in reference)": 104,
+   "L7 Adequacy :: omission (low coverage)": 152,
+   "L8 Output form :: Hindi script left": 25,
+   "L8 Output form :: much shorter than reference": 9,
+   "L8 Output form :: number added (hallucination)": 15,
+   "L8 Output form :: repetition": 1
+  }
+ },
+ "by_size": {
+  "1-5": {
+   "n": 446,
+   "gpt-oss-120b|E2c": 60.3,
+   "gpt-oss-120b|DT": 44.4,
+   "gpt-oss-120b|CP": 26.0,
+   "Ministral 14B|E2c": 60.8,
+   "Ministral 14B|DT": 64.8,
+   "Ministral 14B|CP": 37.0,
+   "Gemma 3 4B|E2c": 89.0,
+   "Gemma 3 4B|DT": 49.8,
+   "Gemma 3 4B|CP": 32.3,
+   "Google Translate|DT": 33.6,
+   "IndicTrans2|DT": 42.4
+  },
+  "6-8": {
+   "n": 612,
+   "gpt-oss-120b|E2c": 64.9,
+   "gpt-oss-120b|DT": 48.0,
+   "gpt-oss-120b|CP": 25.3,
+   "Ministral 14B|E2c": 66.2,
+   "Ministral 14B|DT": 71.6,
+   "Ministral 14B|CP": 36.8,
+   "Gemma 3 4B|E2c": 95.1,
+   "Gemma 3 4B|DT": 59.3,
+   "Gemma 3 4B|CP": 28.9,
+   "Google Translate|DT": 31.7,
+   "IndicTrans2|DT": 41.5
+  },
+  "9-11": {
+   "n": 488,
+   "gpt-oss-120b|E2c": 75.4,
+   "gpt-oss-120b|DT": 48.6,
+   "gpt-oss-120b|CP": 31.6,
+   "Ministral 14B|E2c": 76.2,
+   "Ministral 14B|DT": 73.2,
+   "Ministral 14B|CP": 36.3,
+   "Gemma 3 4B|E2c": 97.3,
+   "Gemma 3 4B|DT": 63.5,
+   "Gemma 3 4B|CP": 32.0,
+   "Google Translate|DT": 31.6,
+   "IndicTrans2|DT": 44.1
+  },
+  "12-15": {
+   "n": 333,
+   "gpt-oss-120b|E2c": 85.0,
+   "gpt-oss-120b|DT": 51.4,
+   "gpt-oss-120b|CP": 35.1,
+   "Ministral 14B|E2c": 83.5,
+   "Ministral 14B|DT": 78.7,
+   "Ministral 14B|CP": 40.5,
+   "Gemma 3 4B|E2c": 99.1,
+   "Gemma 3 4B|DT": 62.2,
+   "Gemma 3 4B|CP": 37.2,
+   "Google Translate|DT": 32.1,
+   "IndicTrans2|DT": 46.5
+  },
+  "16-99": {
+   "n": 192,
+   "gpt-oss-120b|E2c": 90.1,
+   "gpt-oss-120b|DT": 59.4,
+   "gpt-oss-120b|CP": 39.6,
+   "Ministral 14B|E2c": 91.1,
+   "Ministral 14B|DT": 83.3,
+   "Ministral 14B|CP": 52.1,
+   "Gemma 3 4B|E2c": 100.0,
+   "Gemma 3 4B|DT": 75.0,
+   "Gemma 3 4B|CP": 42.7,
+   "Google Translate|DT": 47.9,
+   "IndicTrans2|DT": 60.9
+  }
+ },
+ "by_domain": {
+  "tourism": {
+   "gpt-oss-120b|E2a": {
+    "chrf": 15.4,
+    "flagged": 99.9
+   },
+   "gpt-oss-120b|E2b": {
+    "chrf": 18.7,
+    "flagged": 98.9
+   },
+   "gpt-oss-120b|E2c": {
+    "chrf": 33.6,
+    "flagged": 80.4
+   },
+   "gpt-oss-120b|DT": {
+    "chrf": 62.5,
+    "flagged": 45.7
+   },
+   "gpt-oss-120b|CP": {
+    "chrf": 51.5,
+    "flagged": 34.8
+   },
+   "Ministral 14B|E2a": {
+    "chrf": 17.9,
+    "flagged": 100.0
+   },
+   "Ministral 14B|E2b": {
+    "chrf": 21.5,
+    "flagged": 99.5
+   },
+   "Ministral 14B|E2c": {
+    "chrf": 36.4,
+    "flagged": 80.0
+   },
+   "Ministral 14B|DT": {
+    "chrf": 51.5,
+    "flagged": 72.9
+   },
+   "Ministral 14B|CP": {
+    "chrf": 52.6,
+    "flagged": 40.0
+   },
+   "Gemma 3 4B|E2a": {
+    "chrf": 12.7,
+    "flagged": 100.0
+   },
+   "Gemma 3 4B|E2b": {
+    "chrf": 9.2,
+    "flagged": 99.9
+   },
+   "Gemma 3 4B|E2c": {
+    "chrf": 16.2,
+    "flagged": 97.7
+   },
+   "Gemma 3 4B|DT": {
+    "chrf": 55.0,
+    "flagged": 62.0
+   },
+   "Gemma 3 4B|CP": {
+    "chrf": 47.8,
+    "flagged": 37.7
+   },
+   "Google Translate|DT": {
+    "chrf": 68.7,
+    "flagged": 30.0
+   },
+   "IndicTrans2|DT": {
+    "chrf": 66.3,
+    "flagged": 42.0
+   }
+  },
+  "health": {
+   "gpt-oss-120b|E2a": {
+    "chrf": 10.4,
+    "flagged": 99.8
+   },
+   "gpt-oss-120b|E2b": {
+    "chrf": 15.2,
+    "flagged": 97.3
+   },
+   "gpt-oss-120b|E2c": {
+    "chrf": 46.8,
+    "flagged": 58.7
+   },
+   "gpt-oss-120b|DT": {
+    "chrf": 54.1,
+    "flagged": 62.4
+   },
+   "gpt-oss-120b|CP": {
+    "chrf": 65.9,
+    "flagged": 23.1
+   },
+   "Ministral 14B|E2a": {
+    "chrf": 13.6,
+    "flagged": 99.8
+   },
+   "Ministral 14B|E2b": {
+    "chrf": 18.1,
+    "flagged": 98.0
+   },
+   "Ministral 14B|E2c": {
+    "chrf": 46.8,
+    "flagged": 60.0
+   },
+   "Ministral 14B|DT": {
+    "chrf": 43.9,
+    "flagged": 79.4
+   },
+   "Ministral 14B|CP": {
+    "chrf": 62.0,
+    "flagged": 34.6
+   },
+   "Gemma 3 4B|E2a": {
+    "chrf": 10.1,
+    "flagged": 100.0
+   },
+   "Gemma 3 4B|E2b": {
+    "chrf": 6.9,
+    "flagged": 100.0
+   },
+   "Gemma 3 4B|E2c": {
+    "chrf": 24.5,
+    "flagged": 92.0
+   },
+   "Gemma 3 4B|DT": {
+    "chrf": 48.9,
+    "flagged": 67.7
+   },
+   "Gemma 3 4B|CP": {
+    "chrf": 61.7,
+    "flagged": 25.4
+   },
+   "Google Translate|DT": {
+    "chrf": 63.4,
+    "flagged": 48.5
+   },
+   "IndicTrans2|DT": {
+    "chrf": 56.0,
+    "flagged": 62.2
+   }
+  },
+  "geography": {
+   "gpt-oss-120b|E2a": {
+    "chrf": 11.0,
+    "flagged": 99.8
+   },
+   "gpt-oss-120b|E2b": {
+    "chrf": 17.0,
+    "flagged": 98.2
+   },
+   "gpt-oss-120b|E2c": {
+    "chrf": 46.6,
+    "flagged": 64.7
+   },
+   "gpt-oss-120b|DT": {
+    "chrf": 64.7,
+    "flagged": 45.7
+   },
+   "gpt-oss-120b|CP": {
+    "chrf": 65.9,
+    "flagged": 24.7
+   },
+   "Ministral 14B|E2a": {
+    "chrf": 14.0,
+    "flagged": 99.8
+   },
+   "Ministral 14B|E2b": {
+    "chrf": 18.9,
+    "flagged": 98.7
+   },
+   "Ministral 14B|E2c": {
+    "chrf": 47.0,
+    "flagged": 66.5
+   },
+   "Ministral 14B|DT": {
+    "chrf": 53.5,
+    "flagged": 67.6
+   },
+   "Ministral 14B|CP": {
+    "chrf": 62.3,
+    "flagged": 39.2
+   },
+   "Gemma 3 4B|E2a": {
+    "chrf": 9.4,
+    "flagged": 99.8
+   },
+   "Gemma 3 4B|E2b": {
+    "chrf": 6.4,
+    "flagged": 100.0
+   },
+   "Gemma 3 4B|E2c": {
+    "chrf": 22.8,
+    "flagged": 93.4
+   },
+   "Gemma 3 4B|DT": {
+    "chrf": 60.1,
+    "flagged": 51.1
+   },
+   "Gemma 3 4B|CP": {
+    "chrf": 61.1,
+    "flagged": 29.0
+   },
+   "Google Translate|DT": {
+    "chrf": 73.0,
+    "flagged": 30.3
+   },
+   "IndicTrans2|DT": {
+    "chrf": 68.1,
+    "flagged": 38.2
+   }
+  }
+ }
+}

@@ -5,7 +5,7 @@ All scripts read the released data in `../inputs/` (gold references) and the sys
 
 | Script | Produces | Command |
 |---|---|---|
-| `dataset_stats.py` | Corpus statistics (paper Tables 4–5) | `python dataset_stats.py` |
+| `dataset_stats.py` | Corpus statistics and sentence lengths (paper Tables 7–8); reads `../../corpus/` | `python dataset_stats.py` |
 | `significance.py` | Paired bootstrap tests (Koehn 2004), BLEU and chrF++ with 95% CIs, all system pairs, all domains | `python significance.py --samples 1000 --seed 12345` |
 | `semantic_metrics.py` | COMET (wmt22-comet-da) and BERTScore F1 (roberta-large, rescaled) | see below |
 | `../iaa/iaa.py` | USR inter-annotator agreement (paper Table 3) | `python iaa.py "Annotator 2 tourism (1).xlsx"` |

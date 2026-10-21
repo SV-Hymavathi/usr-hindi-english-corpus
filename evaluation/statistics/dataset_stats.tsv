@@ -1,0 +1,4 @@
+tourism	{"usr": 1111, "source": 998, "nodes": 12096, "concepts": 6181, "name_tokens": 2654, "hindi_tokens": 15370, "ref_tokens": 14015, "avg_nodes": 10.89, "passive": 84, "words_per_source_sentence": 13.7, "max_words_source_sentence": 61, "words_per_usr": 12.3, "max_words_usr": 61}
+health	{"usr": 402, "source": 300, "nodes": 3004, "concepts": 2379, "name_tokens": 21, "hindi_tokens": 4477, "ref_tokens": 4294, "avg_nodes": 7.47, "passive": 40, "words_per_source_sentence": 13.5, "max_words_source_sentence": 51, "words_per_usr": 10.1, "max_words_usr": 32}
+geography	{"usr": 558, "source": 381, "nodes": 4013, "concepts": 3100, "name_tokens": 77, "hindi_tokens": 5920, "ref_tokens": 6373, "avg_nodes": 7.19, "passive": 88, "words_per_source_sentence": 15.5, "max_words_source_sentence": 85, "words_per_usr": 10.6, "max_words_usr": 30}
+dictionary_additions	{"concept sense": 156, "complex predicate (cp)": 14}

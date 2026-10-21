@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Corpus statistics of the gold USR dataset (tables of the LRE paper).
     python dataset_stats.py            -> dataset_stats.xlsx, dataset_stats.tsv
-Reads ../inputs/<domain>.jsonl (gold USR, Hindi, reference) and ../exp1/resources/concept-to-mrs-rels.dat."""
+Reads ../../corpus/<domain>.jsonl (gold USR, Hindi, reference) and ../../usr2chunk/data/concept-to-mrs-rels.dat."""
 import collections, json, os, re
 import openpyxl
 from openpyxl.styles import Font, PatternFill
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-EXP = os.path.join(HERE, '..')
+REL = os.path.join(HERE, '..', '..')
 DOMS = ['tourism', 'health', 'geography']
 REL_GROUP = {'k1': 'karta (agent/subject)', 'k2': 'karma (object)', 'k3': 'karana (instrument)', 'k4': 'sampradana (recipient)',
              'k5': 'apadana (source)', 'k7p': 'location (place)', 'k7t': 'location (time)', 'k7': 'location (other)',
@@ -17,13 +17,15 @@ REL_GROUP = {'k1': 'karta (agent/subject)', 'k2': 'karma (object)', 'k3': 'karan
              'rbks': 'participle (V-ed) modifier', 'rpk': 'conjunctive participle', 'rsm': 'similarity', 'rasneg': 'without'}
 stat, rel, tam, disc, cx, stype, spk = {}, {}, {}, {}, {}, {}, {}
 for d in DOMS:
-    items = [json.loads(l) for l in open(os.path.join(EXP, 'inputs', d + '.jsonl'), encoding='utf-8')]
+    items = [json.loads(l) for l in open(os.path.join(REL, 'corpus', d + '.jsonl'), encoding='utf-8')]
     rel[d], tam[d], disc[d], cx[d], stype[d], spk[d] = (collections.Counter() for _ in range(6))
     n_nodes = n_concepts = n_names = 0
-    base = set(); toks = 0; ref_toks = 0
+    base = set(); toks = 0; ref_toks = 0; src_len = collections.Counter(); usr_len = []
     for it in items:
         base.add(re.sub(r'(?<=\d)[a-z]$|(?<=\d)[a-z]\d?$', '', it['id']))
         toks += len(it['hindi'].split()); ref_toks += len(it['reference'].split())
+        words = len([w for w in it['hindi'].split() if re.search(r'\w', w)])   # punctuation tokens not counted
+        usr_len.append(words); src_len[re.sub(r'(?<=\d)[a-z]$|(?<=\d)[a-z]\d?$', '', it['id'])] += words
         for l in it['usr'].splitlines():
             l = l.strip()
             if l.startswith('%'):
@@ -50,9 +52,12 @@ for d in DOMS:
                 n_names += 1
     stat[d] = dict(usr=len(items), source=len(base), nodes=n_nodes, concepts=n_concepts, name_tokens=n_names,
                    hindi_tokens=toks, ref_tokens=ref_toks, avg_nodes=round(n_nodes / len(items), 2),
-                   passive=sum(v for k, v in stype[d].items() if 'pass' in k))
+                   passive=sum(v for k, v in stype[d].items() if 'pass' in k),
+                   words_per_source_sentence=round(sum(src_len.values()) / len(src_len), 1),
+                   max_words_source_sentence=max(src_len.values()),
+                   words_per_usr=round(sum(usr_len) / len(usr_len), 1), max_words_usr=max(usr_len))
 dict_new = collections.Counter()
-for l in open(os.path.join(EXP, 'exp1', 'resources', 'concept-to-mrs-rels.dat'), encoding='utf-8'):
+for l in open(os.path.join(REL, 'usr2chunk', 'data', 'concept-to-mrs-rels.dat'), encoding='utf-8'):
     c = l.split()
     if c and re.search(r'_9[0-9]$', c[0]):
         dict_new['complex predicate (cp)' if '+' in c[0] else 'concept sense'] += 1
@@ -65,9 +70,10 @@ def hdr(w):
 ws.append(['Statistic'] + DOMS + ['Total']); hdr(ws)
 for k, lab in [('source', 'Source sentences'), ('usr', 'USRs (after clause segmentation)'), ('hindi_tokens', 'Hindi tokens'),
                ('ref_tokens', 'English reference tokens'), ('nodes', 'USR rows (nodes)'), ('concepts', 'Concepts with dictionary sense'),
-               ('name_tokens', 'Named-entity tokens'), ('avg_nodes', 'Mean nodes per USR'), ('passive', 'Passive USRs')]:
+               ('name_tokens', 'Named-entity tokens'), ('avg_nodes', 'Mean nodes per USR'), ('passive', 'Passive USRs'),
+               ('words_per_source_sentence', 'Mean Hindi words per source sentence'), ('words_per_usr', 'Mean Hindi words per USR')]:
     vals = [stat[d][k] for d in DOMS]
-    ws.append([lab] + vals + [round(sum(vals) / 3, 2) if k == 'avg_nodes' else sum(vals)])
+    ws.append([lab] + vals + ['' if k.startswith(('avg', 'words')) else sum(vals)])
 for title, C, top in [('Relations', rel, 30), ('TAM', tam, 30), ('Discourse', disc, 20), ('Constructions', cx, 15),
                       ('Sentence types', stype, 15), ("Speaker's view", spk, 20)]:
     w = wb.create_sheet(title); w.append([title[:-1] if title.endswith('s') else title] + DOMS + ['Total'] +

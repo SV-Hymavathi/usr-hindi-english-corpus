@@ -1,0 +1,10 @@
+# General Telugu rules (lexical table): a Hindi dependent + head that Telugu expresses as ONE word.
+# Apply in every USR where the dependent concept depends on that head (directly, or on the named-entity construction).
+# The dependent row is removed. Kind "name": the head becomes this Telugu name (named entity, no sense number).
+# Kind "phrase": the head keeps its own Telugu concept (column 3 = "-").
+# Hindi dependent concept	Hindi head (NE members, or a concept)	Telugu name or "-"	semantic category if a concept becomes a name
+mA_3	gaMgA	గంగమ్మ	-
+mA_3	BagavawI_1	అమ్మవారు	per
+BagavAna_21	SrI rAma	శ్రీరామచంద్రుడు	-
+pawiwa_13	pAvanI_2	-	-
+pawiwa_1	pAvanI_2	-	-

@@ -1,0 +1,3623 @@
+<sent_id=Sent_1>
+#సప్తపురుల దర్శనంతో మోక్షం లభిస్తుంది!
+sapwapuri 1 - - - - - - 9:begin
+[ne_1] 9 - pl 3:r6 - - - -
+xarSanaM_1 3 - - 5:k3 - - - -
+laBiMcu_1-wuMxi_1 5 - - 0:main - - - -
+mokRaM_1 7 - - 5:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_2>
+#హిందూ మతంలో తీర్థయాత్రకు గొప్ప ప్రాముఖ్యత ఉంది.
+hiMxU_1 1 - - 2:mod - - - -
+mawaM_1 2 - - 7:k7p - - - -
+wIrWaM_1 3 - - 6:r6 - - - -
+goVppa_1 4 - - 6:mod - - - -
+prAmuKyawa_1 6 - - 7:k1 - - - -
+uMdu_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_3a>
+#ప్రతి తీర్థం గొప్పదీ, ముఖ్యమైనదీ అయినప్పటికీ,
+ayinappatikI_1 1 - - 8:krvn - wo_1 - -
+prawi_1 3 - - 4:quant - - - -
+wIrWaM_1 4 - - 8:k1 - - - -
+goVppa_2 5 - - - - - - 9:op1
+[conj_1] 9 - - 8:k1s - - - -
+muKyamEna_1 7 - - - - - - 9:op2
+uMdu_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_3b>
+#కానీ ఏడు స్థలాలకు గొప్ప ప్రాముఖ్యత మరియు గుర్తింపు ఉన్నాయి.
+edu_1 1 numex - 2:card - - - -
+sWalaM_1 2 - pl 5:r6 - - - -
+goVppa_3 4 - - 10:mod - - - -
+prAmuKyawa_1 5 - - - - - - 10:op1
+gurwiMpu_1 7 - - - - - - 10:op2
+uMdu_2-pres 8 - - 0:main Sent_3a.8:viroXI - - -
+[conj_1] 10 - - 8:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_4>
+#ఈ ఏడు ధర్మస్థలాలు గ్రంథాలలో ఏడు నగరాలుగా లేదా సప్తపురులుగా వర్ణించబడ్డాయి.
+$wyax 1 - pl 3:dem - proximal - -
+edu_1 2 numex pl 3:card - - - -
+XarmasWalaM_1 3 - pl 14:k1 - - - -
+edu_1 4 numex pl 5:card - - - -
+nagaraM_1 5 - pl - - - - 16:op1
+sapwapuri 7 - - - - - - 12:begin
+[ne_1] 12 - - - - - - 16:op2
+graMWaM_1 11 - pl 14:k7p - - - -
+varNiMcabadina_1 13 - - 14:k1s - - - -
+uMdu_1-pres 14 - - 0:main - - - -
+[disjunct_1] 16 - pl 8:mod - - - -
+rUpaM_1 8 - - 14:krvn - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_5a>
+#అది ఇలా చెప్పబడింది
+$wyax 1 - - 2:k2 - proximal - -
+ceVppu_1-badiMxi_1 2 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=Sent_5b>
+#ఈ సప్తపురులను చాతుర్మాసంలో దర్శించుకుంటే మోక్షం ప్రసాదిస్తుంది అని.
+cawurmAsa 6 - - - - - - 1:begin
+[ne_2] 1 moy - 16:k7t - - - -
+$wyax 8 - pl 90:dem - proximal - -
+sapwapuri 9 - pl - - - - 90:begin
+[ne_1] 90 - pl 11:r6 - - - -
+xarSanaM_2 11 - - 16:k1 - - - -
+mokRaM_1 12 - - 20:k2 - - - -
+praxAnaM_1 13 - - - - - - 20:kriyAmUla
+ceyu_7 14 - - - - - - 20:verbalizer
+[cp_1] 20 - wawCIlAxi 16:k1s - - - -
+avu_8-wuMxi_1 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_6>
+#దీనికి బనారస్ లేదా వారణాసి అనే పేరు కూడా ఉంది.
+$wyax 1 - - 2:r6 - proximal - -
+peru_1 2 - - 7:k1 - - - -
+banArasa 3 - - - - - - 10:begin
+[ne_1] 10 place - - - - - 9:op1
+vArANasI 5 - - - - - - 11:begin
+[ne_2] 11 place - - - - - 9:op2
+uMdu_1-pres 7 - - 0:main - - - -
+[disjunct_1] 9 - - 7:k1s - kUdA_1 - -
+%affirmative
+</sent_id>
+<sent_id=Sent_7>
+#గంగా నది ఒడ్డున ఉన్న ఇది పరమశివుడి ప్రసిద్ధ పురం.
+gaMgA 1 female - - - - - 10:begin
+[ne_1] 10 per - 2:r6 - - - -
+oVddu_1 2 - - 9:k7p - - - -
+$wyax 3 - - 9:k1 Sent_6.9:coref proximal - -
+BagavaMwudu_1 4 - - 11:mod - - - -
+SaMkara 5 male - - - - - 11:begin
+[ne_2] 11 per - 8:r6 - - - -
+prasixXamEna_1 7 - - 8:mod - - - -
+puraM_1 8 - - 9:k1s - - - -
+uMdu_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_8a>
+#ముఘల్ సరాయ్ నుండి అమృత్‌సర్ మరియు డెహ్రాడూన్‌కు వెళ్లే ప్రధాన రైల్వే లైనులో ముఘల్ సరాయ్ స్టేషన్ నుండి 7 మైళ్ల దూరంలో కాశీ ఉంది.
+mugala 1 - - - - - - 24:begin
+sarAya 2 - - - - - - 24:inside
+[ne_1] 24 place - 7:k5 - - - -
+amqwasara 4 - - - - - - 55:begin
+[ne_2] 55 place - - - - - 23:op1
+xeharAxUna 6 - - - - - - 26:begin
+[ne_3] 26 place - - - - - 23:op2
+veVlYlYu_1 7 - wawCIlAxi 27:mod - - - -
+praXAna_1 9 - - 27:mod - - - -
+rElve_1 10 - - - - - - 27:mod
+lEnu_1 11 - - - - - - 27:head
+[6-tat_1] 27 - - 21:k7p - - - -
+mugala 13 - - - - - - 28:begin
+sarAya 14 - - - - - - 28:inside
+steSana_1 15 - - - - - - 28:inside
+[ne_4] 28 place - 21:k5 - - - -
+7 17 numex - - - - - 25:count
+mElu_1 18 - - - - - - 25:unit
+[dist_meas_1] 25 - - 21:k7p - - - -
+kASI 20 - - - - - - 29:begin
+[ne_5] 29 place - 21:k1 - - - -
+uMdu_1-pres 21 - - 0:main - - - -
+[conj_1] 23 - - 7:k2 - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_8b>
+#మరియు దాని నుండి 4 మైళ్లు ముందుకు బనారస్ కంటోన్మెంట్ స్టేషన్ ఉంది.
+$wyax 1 - - 5:k5 8a.29:coref distal - -
+4 2 numex - - - - - 12:count
+mElu_1 3 - - - - - - 12:unit
+[dist_meas_1] 12 - - 4:mod - - - -
+muMxu_1 4 - - 8:k7p - - - -
+banArasa 5 - - - - - - 9:begin
+CAvanI 6 - - - - - - 9:inside
+steSana 7 - - - - - - 9:inside
+[ne_1] 9 place - 8:k1 - - - -
+uMdu_1-pres 8 - - 0:main Sent_8a.8:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_9>
+#అలహాబాద్‌లోని ప్రయాగ్ స్టేషన్ నుండి కూడా ఒక లైను నేరుగా కాశీ మీదుగా బనారస్ కంటోన్మెంట్ వరకు వెళ్తుంది.
+ilAhAbAxa 1 - - - - - - 30:begin
+[ne_1] 30 place - 20:r6 - - - -
+prayAga 3 - - - - - - 20:begin
+steSana_1 4 - - - - - - 20:inside
+[ne_2] 20 place - - - kUdA_1 - 19:start
+oVka_2 7 - - 9:quant - - - -
+nerugA_1 8 - - 9:mod - - - -
+lEnu_1 9 - - 16:k1 - - - -
+kASI 10 - - - - - - 50:begin
+[ne_3] 50 place - 11:k2 - - - -
+mIxugA_1 11 - - 16:rsk - - - -
+banArasa 13 - - - - - - 21:begin
+CAvanI 14 - - - - - - 21:inside
+[ne_4] 21 place - - - - - 19:end
+veVlYlYu_1-wuMxi_1 16 - - 0:main - - - -
+[span_1] 19 - - 16:k2p - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_10a>
+#ఈశాన్య రైల్వేకి చెందిన ఒక లైను భట్నీ నుండి వెళ్తుంది.
+pUrvowwara 1 - - - - - - 10:begin
+relave 2 - - - - - - 10:inside
+[ne_1] 10 - - 5:r6 - - - -
+oVka_1 4 numex - 5:card - - - -
+lEnu_1 5 - - 8:k1 - - - -
+BatanI 6 - - - - - - 9:begin
+[ne_2] 9 place - 8:k5 - - - -
+veVlYlYu_1-wuMxi_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_10b>
+#మరియు మరొకటి ఛప్రా నుండి అలహాబాద్ సిటీ వరకు వెళ్తుంది.
+maroVkati_1 1 - - 7:k1 - - - -
+CaparA 2 - - - - - - 11:begin
+[ne_1] 11 place - - - - - 10:start
+ilAhAbAxa 4 - - - - - - 12:begin
+sitI 5 - - - - - - 12:inside
+[ne_2] 12 place - - - - - 10:end
+veVlYlYu_1-wuMxi_1 7 - - 0:main Sent_10a.8:samuccaya - - -
+[span_1] 10 - - 7:k2p - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_11>
+#ఈ మార్గంలో కూడా బనారస్ సిటీ మీదుగా కంటోన్మెంట్‌కు వెళ్లవచ్చు.
+$wyax 1 - - 2:dem - proximal - -
+mArgaM_1 2 - - 10:k5 - kUdA_1 - -
+banArasa 5 - - - - - - 11:begin
+sitI 6 - - - - - - 11:inside
+[ne_1] 11 place - 7:k2 - - - -
+mIxugA_1 7 - - 10:rsk - - - -
+CAvanI 9 - - - - - - 12:begin
+[ne_2] 12 place - 10:k2p - - - -
+veVlYlYu_1-vaccu_1 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_12>
+#పవిత్ర గంగమ్మ హరిద్వార్‌లో పర్వత ప్రాంతాన్ని విడిచిపెట్టి, మైదాన ప్రాంతంలోకి ప్రవేశిస్తుంది.
+paviwra_1 25 - - 19:mod - - - -
+gaMgA 3 female - - - - - 19:begin
+[ne_1] 19 per - 17:k1 - - - -
+harixvAra 4 - - - - - - 20:begin
+[ne_2] 20 place - 17:k7p - - - -
+parvawa_1 6 - - 7:mod - - - -
+prAMwaM_1 7 - - 9:k2 - - - -
+vidicipeVttu_1 9 - - 17:rpk - - - -
+mExAna_1 10 - - 11:mod - - - -
+prAMwaM_2 11 - - 17:k7p - - - -
+praveSaM_1 13 - - - - - - 17:kriyAmUla
+ceyu_1-wuMxi_1 14 - - - - - - 17:verbalizer
+[cp_1] 17 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_13>
+#అందుకే హరిద్వార్‌ను గంగాద్వారం అని కూడా అంటారు.
+harixvAra 1 - - - - - - 7:begin
+[ne_1] 7 place - 6:k2 - - - -
+gaMgA 3 female - - - - - 8:begin
+xvAra 4 - - - - - - 8:inside
+[ne_2] 8 per - 6:k2s - kUdA_1 - -
+anu_1-wuMxi_1 6 - - 0:main sent_12.17:pariNAma - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_14>
+#హరిద్వార్‌లో ప్రతిరోజూ సాయంత్రం జరిగే గంగమ్మ హారతి సమయంలో భక్తుల గుంపు పోటెత్తుతుంది.
+harixvAra 1 - - - - - - 2:begin
+[ne_1] 2 place - 6:k7p - - - -
+prawiroju_1 3 - - 6:k7t - - - -
+sAyaMwraM_1 4 - - 6:k7t - - - -
+jarugu_1 6 - kqw 11:mod - - - -
+gaMgamma 9 female - - - - - 18:begin
+[ne_2] 18 per - 11:r6 - - - -
+hArawi_1 11 - - 60:r6 - - - -
+samayaM_1 60 - - 17:k7t - - - -
+Bakwudu_1 14 - pl 16:r6 - - - -
+guMpu_1 16 - - 17:k1 - - - -
+poteVwwu_1-wuMxi_1 17 - - 0:main - [shade:padZa_1] - -
+%affirmative
+</sent_id>
+<sent_id=Sent_15>
+#గంగా నదిపై తేలుతున్న దీపాల వరుసల దృశ్యం చూడముచ్చటగా ఉంటుంది.
+gaMgA 1 - - - - - - 11:begin
+naxI 2 - - - - - - 11:inside
+[ne_1] 11 place - 4:k7p - - - -
+welu_1 4 - - 5:rvks - - - -
+xIpAlavarusa_1 5 - pl 7:r6 - - - -
+xqSyaM_1 7 - - 8:k2 - - - -
+cUdamuccata_1 8 - - 10:rsk - e_1 - -
+uMdu_3-wuMxi_1 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_16>
+#ఉత్తర రైల్వేకి చెందిన ముగల్ సరాయ్ నుండి అమృత్‌సర్ వెళ్లే ప్రధాన మార్గంలో స్టేషన్ ఉంది.
+uwwara 1 - - - - - - 15:begin
+relave 2 - - - - - - 15:inside
+[ne_1] 15 - - 5:r6 - - - -
+mugala 4 - - - - - - 16:begin
+sarAya 5 - - - - - - 16:inside
+[ne_2] 16 place - 8:k5 - - - -
+amqwasara 7 - - - - - - 17:begin
+[ne_3] 17 place - 8:k2p - - - -
+veVlYlYu_2 8 - kqw 11:mod - - - -
+praXAna_1 10 - - 11:mod - - - -
+lEnu_1 11 - - 14:k7p - - - -
+steRan_1 13 - - 14:k1 - - - -
+uMdu_1-pres 14 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_17>
+#లక్సర్ నుండి ఒక లైను హరిద్వార్ వరకు వెళ్లింది.
+laksara 1 - - - - - - 11:begin
+[ne_1] 11 place - - - - - 10:start
+oVka_1 3 numex - 4:card - - - -
+lEnu_1 4 - - 7:k1 - - - -
+harixvAra 5 - - - - - - 12:begin
+[ne_2] 12 place - - - - - 10:end
+veVlYlYu_1-iMxi_1 7 - - 0:main - - - -
+[span_1] 10 - - 7:k2p - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_18>
+#పూర్వకాలంలో బ్రహ్మదేవుడు కంచిలో అమ్మవారి దర్శనం కోసం ఘోర తపస్సు చేశారు.
+pUrva_1 1 - - 2:mod - - - -
+kAlaM_1 2 - - 18:k7t - - - -
+piwAmaha 4 male - - - - - 22:begin
+brahmA 5 male - - - - - 22:inside
+[ne_1] 22 per - 18:k1 - respect - -
+kAMcI 8 - - - - - - 23:begin
+[ne_2] 23 place - 18:k7p - - - -
+ammavAru 11 per - 13:r6 - - - -
+xarSanaM_1 13 - - 18:rt - - - -
+Gora_1 16 - - 17:mod - - - -
+wapassu_1 17 - - 18:k2 - - - -
+ceyu_2-AdZu_1 18 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_19>
+#అప్పుడు మహాలక్ష్మీదేవి చేతిలో కమలం పట్టుకుని వారి ముందు ప్రత్యక్షమయ్యారు.
+mahAlakRmI 2 female - - - - - 17:begin
+[ne_1] 17 per - 16:k1 - - - -
+ceVyyi_1 3 - - 15:k7p - - - -
+kamalaM_1 5 - - 15:k2 - - - -
+pattu_1 6 - - - - - - 15:kriyAmUla
+ko_1 7 - - - - - - 15:verbalizer
+$wyax 9 - pl 10:r6 Sent_18.22:coref distal/respect - -
+muMxu_2 10 - - 16:k7p - - - -
+prawyakRaM_1 11 - - - - - - 16:kriyAmUla
+avu_1-AdZu_1 12 - - - - - - 16:verbalizer
+[cp_1] 15 - - 16:rvks - - - -
+[cp_2] 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_20>
+#దక్షిణ రైల్వేకు చెందిన చెన్నై స్టేషన్ నుండి ధనుష్కోడికి వెళ్లే ప్రధాన మార్గంలో, చెన్నై నుండి 35 మైళ్ల దూరంలో చెంగల్పట్టు స్టేషన్ ఉంది.
+xakRiNa 1 - - - - - - 28:begin
+relave 2 - - - - - - 28:inside
+[ne_5] 28 - - 23:r6 - - - -
+cennE 4 - - - - - - 23:begin
+steSana 5 - - - - - - 23:inside
+[ne_1] 23 place - 24:k5 - - - -
+XanuRkoti 7 - - - - - - 25:begin
+[ne_2] 25 place - 24:k2p - - - -
+veVlYlYu_1 24 - kqw 11:mod - - - -
+praXAna_1 10 - - 11:mod - - - -
+lEnu_1 11 - - 22:k7p - - - -
+cennE 13 - - - - - - 26:begin
+[ne_3] 26 place - 22:k5 - - - -
+35 15 numex - - - - - 35:count
+mElu_1 16 - - - - - - 35:unit
+xUraM_1 18 - - 22:k7p - - - -
+[dist_meas_1] 35 - - 18:r6 - - - -
+ceMgalapata 20 - - - - - - 27:begin
+steSana 21 - - - - - - 27:inside
+[ne_4] 27 place - 22:k1 - - - -
+uMdu_1-pres 22 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_21>
+#చెంగల్పట్టు స్టేషన్ నుండి ఒక లైను అరక్కోణం వరకు వెళ్తుంది.
+ceMgalapata 1 - - - - - - 9:begin
+steSana 2 - - - - - - 9:inside
+[ne_1] 9 place - - - - - 10:start
+oVka_1 4 numex - 5:card - - - -
+lEnu_1 5 - - 8:k1 - - - -
+arakonama 6 - - - - - - 11:begin
+[ne_2] 11 place - - - - - 10:end
+veVlYlYu_1-wuMxi_1 8 - - 0:main - - - -
+[span_1] 10 - - 8:k2p - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_22>
+#చెంగల్పట్టు స్టేషన్ నుండి అరక్కోణం వెళ్లే మార్గంలో కాంజీవరం స్టేషన్ ఉంది.
+ceMgalapata 1 - - - - - - 12:begin
+steSana 2 - - - - - - 12:inside
+[ne_1] 12 place - 5:k5 - - - -
+arakonama 4 - - - - - - 13:begin
+[ne_2] 13 place - 5:k2p - - - -
+veVlYlYu_1 5 - kqw 7:mod - - - -
+lEnu_1 7 - - 11:k7p - - - -
+kAMjIvarama 9 - - - - - - 14:begin
+steSana 10 - - - - - - 14:inside
+[ne_3] 14 place - 11:k1 - - - -
+uMdu_1-pres 11 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_23a>
+#స్టేషన్ పేరు కాంజీవరం అన్నది నిజమే,
+steRan_1 1 - - 3:r6 - - - -
+peru_1 3 - - 6:k1 - - - -
+kAMjIvarama 4 - - - - - - 7:begin
+[ne_1] 7 place - 6:k1s - - - -
+nijame_1 5 - - 6:krvn - - - -
+uMdu_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_23b>
+#కానీ, ఆ ఊరి పేరు కాంచీపురం.
+nagaraM_2 1 - - 3:r6 - def - -
+peru_1 3 - - 5:k1 - - - -
+kAMcIpurama 4 - - - - - - 6:begin
+[ne_1] 6 place - 5:k1s - - - -
+uMdu_1-pres 5 - - 0:main Sent_23a.6:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_24>
+#'అయోధ్య' శ్రీరామచంద్రుని అవతారానికి చెందిన పవిత్ర భూమి.
+ayoXyA 2 - - - - - - 13:begin
+[ne_1] 13 place - 12:k1 - - - -
+SrIrAmacaMxrudu 5 male - - - - - 14:begin
+[ne_2] 14 per - 8:r6 - - - -
+avawAraM_1 8 - - 11:r6 - - - -
+paviwra_2 10 - - 11:mod - - - -
+BUmi_1 11 - - 12:k1s - - - -
+uMdu_1-pres 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_25>
+#అయోధ్య పవిత్రమైన సరయూ నదీ తీరాన ఉంది.
+ayoXyA 1 - - - - - - 10:begin
+[ne_1] 10 place - 9:k1 - - - -
+paviwramEna_1 2 - - 20:mod - - - -
+naxI 3 - - - - - - 20:begin
+sarayU 4 - - - - - - 20:inside
+[ne_2] 20 - - 6:r6 - - - -
+wIraM_1 6 - - 9:k7p - - - -
+uMdu_4 8 - - 9:k1s - - - -
+uMdu_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_26>
+#ఉత్తర రైల్వేకి చెందిన ముఘల్‌సరాయ్-లక్నో మార్గంలో ముఘల్ సరాయ్ స్టేషన్ నుండి 128 మైళ్ల దూరంలో అయోధ్య స్టేషన్ ఉంది.
+uwwara 1 - - - - - - 19:begin
+relave 2 - - - - - - 19:inside
+[ne_1] 19 - - 20:r6 - - - -
+mugalasarAya-laKanaU 4 - - - - - - 20:begin
+lAina 5 - - - - - - 20:inside
+[ne_2] 20 place - 21:r6 - - - -
+mugalasarAya 7 - - - - - - 21:begin
+steSana 9 - - - - - - 21:inside
+[ne_3] 21 place - 18:k5 - - - -
+128 11 numex - - - - - 15:count
+mElu_1 12 - - - - - - 15:unit
+[dist_meas_1] 15 - - 14:r6 - - - -
+xUraM_1 14 - - 18:k7p - - - -
+ayoXyA 16 - - - - - - 22:begin
+steSana 17 - - - - - - 22:inside
+[ne_4] 22 place - 18:k1 - - - -
+uMdu_1-pres 18 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_27>
+#షిప్రా లేదా క్షిప్రా నదీ తీరాన వెలసిన మహాకాలుడి ఈ ఉజ్జయిని నగరం ఎంతో పవిత్రమైనది.
+SiprA 1 - - - - - - 35:begin
+[ne_1] 35 - - - - - - 18:op1
+kRiprA 3 - - - - - - 36:begin
+[ne_2] 36 - - - - - - 18:op2
+naxi_1 4 - - 6:r6 - - - -
+wIraM_1 6 - - 8:k7p - - - -
+veVlayu_1 8 - - 20:rbks - - - -
+mahAkAla 9 male - - - - - 19:begin
+[ne_3] 19 per - 20:r6 - - - -
+$wyax 11 - - 20:dem - proximal - -
+ujjEna 12 - - - - - - 20:begin
+nagarI 13 - - - - - - 20:inside
+[ne_4] 20 place - 16:k1 - - - -
+paviwra_1 15 - - 16:k1s - - - -
+uMdu_1-pres 16 - - 0:main - - - -
+[disjunct_1] 18 - - 4:mod - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_28a>
+#అది ఇలా అంటారు
+$wyax 2 - - 1:k2 - proximal - -
+anu_2-wuMxi_1 1 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_28b>
+#ఉజ్జయినిలో మహాకాలునికి నమస్కరించుకుంటే ఇక మరణం గురించిన చింత ఉండదు అని.
+ujjEna 4 - - - - - - 20:begin
+[ne_1] 20 place - 9:k7p - - - -
+mahAkAla 6 male - - - - - 21:begin
+[ne_2] 21 per - 9:k2 - - - -
+namaskAraM_1 8 - - - - - - 19:kriyAmUla
+ceyu_30 9 - - - - [shade:le_1] - 19:verbalizer
+ika_1 12 - - 17:krvn - - - -
+maraNaM_1 13 - - 15:r6 - - - -
+ciMwa_1 15 - - 17:k1 - - - -
+lexu_1 16 - - 17:neg - - - -
+uMdu_5-wuMxi_1 17 - - 0:main - - - -
+[cp_1] 19 - - 17:rpk - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_29>
+#మధ్య రైల్వేకి చెందిన ముంబై-భోపాల్-ఢిల్లీ లైనులోని భోపాల్ స్టేషన్ నుండి ఒక లైను ఉజ్జయినికి వెళ్తుంది.
+maXya 1 - - - - - - 14:begin
+relave 2 - - - - - - 14:inside
+[ne_1] 14 - - 15:r6 - - - -
+muMbaI-BopAla-xillI 4 - - - - - - 15:begin
+lAina 5 - - - - - - 15:inside
+[ne_2] 15 place - 8:r6 - - - -
+BopAla 7 - - - - - - 16:begin
+steSana 8 - - - - - - 16:inside
+[ne_3] 16 place - 13:k5 - - - -
+oVka_1 10 numex - 11:card - - - -
+lEnu_1 11 - - 13:k1 - - - -
+ujjEna 12 - - - - - - 17:begin
+[ne_4] 17 place - 13:k2p - - - -
+veVlYlYu_1-wuMxi_1 13 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_30>
+#పశ్చిమ రైల్వేకి చెందిన ముంబై-కోటా-ఢిల్లీ లైనులోని నాగదా స్టేషన్ నుండి ఒక పెద్ద లైను కూడా ఉజ్జయిని వరకు వెళ్లింది.
+paScima 1 - - - - - - 17:begin
+relave 2 - - - - - - 17:inside
+[ne_1] 17 - - 18:r6 - - - -
+muMbaI-kotA-xillI 4 - - - - - - 18:begin
+lAina 5 - - - - - - 18:inside
+[ne_2] 18 place - 16:k7p - - - -
+nAgaxA 7 - - - - - - 20:begin
+steSana 8 - - - - - - 20:inside
+[ne_3] 20 place - - - - - 19:start
+oVka_1 10 numex - 12:card - - - -
+peVxxa_1 11 - - 12:mod - - - -
+lEnu_1 12 - - 16:k1 - kUdA_1 - -
+ujjEna 14 - - - - - - 21:begin
+[ne_4] 21 place - - - - - 19:end
+veVlYlYu_1-iMxi_1 16 - - 0:main - - - -
+[span_1] 19 - - 16:k2p - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_31>
+#పై మార్గంలోని మహూ స్టేషన్ నుండి కూడా ఒక లైన్ ఉజ్జయినికి వెళ్తుంది.
+pE_1 1 - - 2:mod - - - -
+lEnu_1 2 - - 13:r6 - - - -
+mahU 4 - - - - - - 13:begin
+steSana 5 - - - - - - 13:inside
+[ne_1] 13 place - 12:k5 - kUdA_1 - -
+oVka_1 8 numex - 9:card - - - -
+lEnu_1 9 - - 12:k1 - - - -
+ujjEna 10 - - - - - - 14:begin
+[ne_2] 14 place - 12:k2p - - - -
+veVlYlYu_1-iMxi_1 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_32>
+#ద్వారక చార్‌ధామ్‌లలో ఒక ధామం కూడా.
+xvArakA 1 - - - - - - 9:begin
+[ne_1] 9 place - 8:k1 - - - -
+cAra 2 - - - - - - 10:begin
+XAma 3 - - - - - - 10:inside
+[ne_2] 10 - pl 6:rn - - - -
+oVka_2 5 - - 6:quant - - - -
+XAma 6 - - - - - - 11:begin
+[ne_3] 11 - - 8:k1s - kUdA_1 - -
+uMdu_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_33>
+#శ్రీకృష్ణ భగవానుడు దీనిని సముద్రం మధ్యలో ప్రత్యేకంగా నిర్మించారు.
+BagavaMwudu_1 1 - - 13:mod - - - -
+kqRNa 2 male - - - - - 13:begin
+[ne_1] 13 per - 12:k1 - - - -
+$wyax 4 - - 12:k2 Sent_32.1:coref proximal - -
+samuxraM_1 5 - - 7:r6 - - - -
+maXya_1 7 - - 12:k7p - - - -
+prawyeka_1 9 - - 10:mod - - - -
+rUpaM_1 10 - - 12:krvn - - - -
+nirmiMcu_1-AdZu_1 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_34>
+#పశ్చిమ రైల్వేకు చెందిన సురేంద్రనగర్-ఓఖా పోర్ట్ మార్గంలో ఉన్న ఈ నగరం సముద్ర ఒడ్డున ఉన్న ఒక స్టేషన్.
+paScima 1 - - - - - - 16:begin
+relave 2 - - - - - - 16:inside
+[ne_1] 16 - - 17:r6 - - - -
+sureMxranagara 4 - - - - - - 17:begin
+oKA 22 - - - - - - 17:inside
+porta 5 - - - - - - 17:inside
+lAina 6 - - - - - - 17:inside
+[ne_2] 17 place - 8:k7p - - - -
+uMdu_4 8 - - 10:mod - - - -
+$wyax 9 - - 10:dem Sent_32.9:coref proximal - -
+nagaraM_2 10 - - 15:k1 - - - -
+samuxraM_2 11 - - - - - - 34:mod
+oVddu_1 12 - - - - - - 34:head
+[nc_1] 34 - - 14:r6 - - - -
+steRan_1 14 - - 15:k1s - - - -
+uMdu_1-pres 15 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_35>
+#యమునా నదీ ఒడ్డున , శ్రీకృష్ణభగవానుడు అవతరించిన పవిత్రమైన ఊరు ఈ మథుర.
+yamunA 1 - - - - - - 15:begin
+wIraM_1 2 - - 14:k7p - - - -
+[ne_1] 15 - - 2:r6 - - - -
+BagavaMwudu_1 4 - - 16:mod - - - -
+SrIkqRNa 5 male - - - - - 16:begin
+[ne_2] 16 per - 8:r6 - - - -
+avawAraM_1 7 - - 8:mod - - - -
+prAMwaM_2 8 - - 12:r6 - - - -
+$wyax 10 - - 12:dem - proximal - -
+paviwra_2 11 - - 12:mod - - - -
+nagaraM_2 12 - - 14:k1 - - - -
+maWurA 13 - - - - - - 17:begin
+[ne_3] 17 place - 14:k1s - - - -
+uMdu_1-pres 14 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_36>
+#ఈశాన్య రైల్వేకి చెందిన ఆగ్రా ఫోర్ట్ నుండి గోరఖ్‌పూర్‌కు వెళ్లే లైనులో మరియు పశ్చిమ రైల్వేకి చెందిన ముంబై-కోటా-ఢిల్లీ లైనులో మథుర స్టేషన్ ఉంది.
+pUrvowwara 1 - - - - - - 23:begin
+relave 2 - - - - - - 23:inside
+[ne_1] 23 - - 10:r6 - - - -
+AgarA 4 - - - - - - 24:begin
+Porta 5 - - - - - - 24:inside
+[ne_2] 24 place - 8:k5 - - - -
+goraKapura 7 - - - - - - 25:begin
+[ne_3] 25 place - 8:k2p - - - -
+veVlYlYu_1 8 - kqw 10:mod - - - -
+lEnu_1 10 - - - - - - 22:op1
+paScima 12 - - - - - - 26:begin
+relave 13 - - - - - - 26:inside
+[ne_4] 26 - - 28:r6 - - - -
+muMbaI-kotA-xilli 15 - - - - - - 28:begin
+lAina 16 - - - - - - 28:inside
+[ne_5] 28 - - - - - - 22:op2
+maWurA 18 - - - - - - 29:begin
+steSana 19 - - - - - - 29:inside
+[ne_6] 29 place - 20:k1 - - - -
+uMdu_1-pres 20 - - 0:main - - - -
+[conj_1] 22 - - 20:k7p - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_37>
+#గఢ్-ముక్తేశ్వర్ హిందువుల పవిత్రమైన పుణ్యక్షేత్రం.
+gaDZa 1 - - - - - - 7:begin
+mukweSvara 3 - - - - - - 7:inside
+[ne_1] 7 place - 6:k1 - - - -
+hiMxuvu_1 2 - pl 5:r6 - - - -
+paviwramEna_1 4 - - 5:mod - - - -
+wIrWaM_1 5 - - 6:k1s - - - -
+uMdu_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_38>
+#గఢ్-ముక్తేశ్వర్ గంగా జాతరకు వెళ్దాం.
+veVlYlYu_1-e_1 1 - - 0:main - - - -
+gaDZa 2 - - - - - - 7:begin
+mukweSvara 3 - - - - - - 7:inside
+[ne_1] 7 place - 8:r6 - - - -
+gaMgA 5 - - - - - - 8:begin
+melA 6 - - - - - - 8:inside
+[ne_2] 8 - - 1:k2p - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_39>
+#ఘాజియాబాద్ జిల్లాలోని గఢ్ ముక్తేశ్వర్ వద్ద పాపాలను కడిగే గంగా నది తీరాన ప్రతి సంవత్సరం కార్తీక పౌర్ణమి సందర్భంగా జరిగే ఉత్తర భారతదేశపు ప్రసిద్ధమైన మరియు పురాతనమైన ధార్మిక జాతర చరిత్ర దాదాపు ఐదు వేల సంవత్సరాల నాటిది.
+gAjiyAbAxa 1 - - - - - - 9:begin
+jilA 2 - - - - - - 9:inside
+[ne_1] 9 place - 10:r6 - - - -
+gaDZa 3 - - - - - - 10:begin
+mukweSvara 4 - - - - - - 10:inside
+[ne_2] 10 place - 17:k7p - - - -
+paviwra_1 6 - - 11:mod - - - -
+gaMgA 7 - - - - - - 11:begin
+[ne_4] 11 - - 8:r6 - - - -
+wIraM_1 8 - - 17:k7p - - - -
+prawi_1 12 - - 13:quant - - - -
+saMvawsaraM_1 13 - - 17:k7t - - - -
+kArwika 14 moy - - - - - 15:component
+pUrNimA 44 dom - - - - - 15:component
+[calendar_1] 15 - - 16:r6 - - - -
+saMxarBaM_1 16 - - 17:k7 - - - -
+jarugu_2 17 - kqw 25:mod - - - -
+uwwara 18 - - - - - - 20:begin
+BArawa 19 - - - - - - 20:inside
+[ne_3] 20 - - 25:r6 - - - -
+prasixXamEna_1 21 - - - - - - 23:op1
+pUrva_1 22 - - - - - - 23:op2
+[conj_1] 23 - - 24:mod - - - -
+XArmika_1 24 - - 25:mod - - - -
+jAwara_1 25 - - 26:r6 - - - -
+cariwra_1 26 - - 30:k1 - - - -
+5000 27 numex - 28:card - lagaBaga_1 - -
+saMvawsaraM_1 28 - - 29:mod - - - -
+nAti_1 29 - - 30:k1s - - - -
+uMdu_1-pres 30 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_40a>
+#ఈసారి కూడా గఢ్ ముక్తేశ్వర్‌లో జాతర సందడి బాగా ఉంది.
+$wyax 1 - - 2:dem - proximal - -
+sAri_1 2 - - 11:k7t - kUdA_1 - -
+gaDZa 4 - - - - - - 12:begin
+mukweSvara 5 - - - - - - 12:inside
+[ne_1] 12 place - 11:k7p - - - -
+jAwara_1 7 - - 10:r6 - - - -
+bAgA_1 9 - - 10:mod - - - -
+saMxadi_1 10 - - 11:k1 - - - -
+uMdu_1-pres 11 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_40b>
+#మరియు నదిలో మునగడం కోసం భక్తుల భారీ గుంపుగా చేరుకుంటున్నారు.
+muKya_1 1 - - 2:mod - - - -
+munaka_1 2 - - 9:rt - - - -
+Bakwudu_1 5 - pl 8:r6 - - - -
+BArI_1 7 - - 8:mod - - - -
+guMpu_1 8 - - 9:k1 - - - -
+cerukoVnu_1-0_rahA_hE_1 9 - - 0:main Sent_40a.11:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_41>
+#పుణ్యస్నానం పుణ్యస్నానం నవంబర్ 13న ఉంది.
+muKya_1 1 - - 2:mod - - - -
+munaka_1 2 - - 6:k1 - - - -
+13 3 dom - - - - - 8:component
+navaMbara 4 moy - - - - - 8:component
+uMdu_1-pres 6 - - 0:main - - - -
+[calendar_1] 8 - - 6:k7t - - - -
+%affirmative
+</sent_id>
+<sent_id=Sent_42a>
+#గఢ్ ముక్తేశ్వర్ గురించి ఇలా చెప్పబడుతుంది.
+gaDZa 1 - - - - - - 10:begin
+mukweSvara 2 - - - - - - 10:inside
+[ne_1] 10 place - 4:r6 - - - -
+guriMci_1 4 - - 6:k7 - - - -
+anu_2-yA_jAwA_hE_1 6 - - 0:main - - - -
+$wyax 9 - - 6:k2 - proximal - -
+%pass_affirmative
+</sent_id>
+<sent_id=Sent_42b>
+#మహాభారత ఘోర యుద్ధం ముగిసిన తర్వాత, యోగిరాజు శ్రీకృష్ణుడు, ధర్మరాజు యుధిష్ఠిరుడు మరియు అర్జునుల మనసుల్లో యుద్ధ భీభత్సాన్ని, నరసంహారాన్ని చూసి తీవ్రమైన పశ్చాత్తాపం కలిగింది అని.
+mahABArawa 1 - - - - - - 38:begin
+[ne_6] 38 - - 4:r6 - - - -
+Gora_2 3 - - 4:mod - - - -
+yuxXaM_1 4 - - 6:rkl - - - -
+warvAwa_1 6 - - 23:k7t - - - -
+yogIrAja 7 male - - - - - 30:begin
+SrIkqRNa 8 - - - - - - 30:inside
+[ne_1] 30 per - - - - - 29:op1
+XarmarAja 10 - - - - - - 31:begin
+yuXiRTira 11 male - - - - - 31:inside
+[ne_2] 31 per - - - - - 29:op2
+arjuna 13 male - - - - - 32:begin
+[ne_3] 32 per - - - - - 29:op3
+[conj_1] 29 - - 15:r6 - - - -
+manasu_2 15 - - 23:k7 - - - -
+yuxXaM_1 17 - - 19:r6 - - - -
+BIBawsaM_1 19 - - - - - - 35:op1
+narasaMhAraM_1 21 - - - - - - 35:op2
+[conj_2] 35 - - 23:k2 - - - -
+cUdamuccata_1 23 - - 26:rpk - - - -
+wIvramEna_1 24 - - 25:krvn - - - -
+paScAwwApaM_1 25 - - - - - - 40:kriyAmUla
+avu_1-yA_1 26 - - - - - - 40:verbalizer
+[cp_1] 40 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=43a>
+#వారు ఈ ఆలోచనలో పడ్డారు
+$wyax 1 - pl 5:k1 Sent_42b.29:coref distal - -
+$wyax 2 - - 3:dem - proximal - -
+Alocana_1 3 - - 5:k7p - - - -
+padu_1-yA_gayA_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=43b>
+#యుద్ధంలో మరణించిన లెక్కలేనంత మంది బంధువులు, ఆత్మీయులు మరియు నిరపరాధుల ఆత్మలకు శాంతి చేకూరాలంటే ఎలాంటి ఉపాయాలు లేదా కార్యక్రమాలు చేయాలని.
+yuxXaM_1 8 - - 10:k7p - - - -
+maraNiMcu_1 10 - - 40:rbks - [shade:jA_1] - -
+leVkkalenaMwa_1 12 - - 13:mod - - - -
+baMXuvu_1 13 - pl - - - - 40:op1
+AwmIyudu_1 15 - pl - - - - 40:op2
+niraparAXi_1 17 - - 18:mod - - - -
+maMxi_1 18 - pl - - - - 40:op3
+[conj_1] 40 - - 20:r6 - - - -
+Awma_1 20 - - 22:r6 - - - -
+SAMwi_1 22 - - 29:rt - - - -
+$kim 25 - - 29:k1 - - - -
+upAyaM_1 26 - - - - - - 41:op1
+kAryakramaM_2 28 - - - - - - 41:op2
+[disjunct_1] 41 - - 29:k1s - - - -
+ceyu_17-e_1 29 - - 0:main 44.10:AvaSyakawApariNAma [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=44>
+#అప్పుడు అందరూ ఏకాభిప్రాయంతో నిర్ణయం తీసుకున్నారు.
+aMxaru_1 2 - - 10:k1 - - - -
+oVka_1 3 numex - 4:card - - - -
+aBiprAyaM_1 4 - - 10:k3 - - - -
+nirNayaM_1 6 - - - - - - 10:kriyAmUla
+wIsukoVnu_1-yA_wA_1 7 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=45a>
+#ఖాండవ వనంలో శ్రీ పరశురాముడు ప్రతిష్టించిన శివవల్లభపురం అనే స్థలంలో, ముక్తేశ్వర మహాదేవునికి పూజలు, యజ్ఞాలు నిర్వహించి, పాపాలను కడిగే పవిత్ర గంగా నదిలో పుణ్యస్నానం ఆచరిస్తే పితృదేవతల ఉత్తరక్రియలన్నీ సంపూర్ణమవుతాయని భావించారు.
+KAMdavI 1 - - - - - - 36:begin
+vana 2 - - - - - - 36:inside
+[ne_1] 36 place - 7:k7p - - - -
+BagavaMwudu_1 4 - - 37:mod - - - -
+paraSurAma 5 male - - - - - 37:begin
+[ne_2] 37 per - 7:k1 - - - -
+prawiRtiMcu_1 7 - kqw 11:mod - - - -
+Siva 8 - - - - - - 38:begin
+ballaBapura 9 - - - - - - 38:inside
+[ne_3] 38 place - 11:rs - - - -
+ane_1 10 - - 11:r6 - - - -
+sWalaM_1 11 - - 44:k7p - - - -
+mukweSvara 13 - - - - - - 39:begin
+mahAxeva 14 male - - - - - 39:inside
+[ne_4] 39 per - 16:r6 - - - -
+pUja_1 16 - - - - - - 47:op1
+yajFaM_1 17 - - - - - - 47:op2
+paviwra_1 20 - - 21:mod - - - -
+gaMgA 21 - - - - - - 40:begin
+[ne_5] 40 - - 24:k7p - - - -
+snAnaM_1 23 - - - - - - 47:op3
+[conj_1] 47 - - 24:k2 - - - -
+ceyu_17 24 - kqw 44:k3 - - - -
+annI_1 30 - - 31:quant - - - -
+uwwarakriya_1 31 - - 44:k1 - - - -
+saMpUrNaM_1 32 - - - - - - 44:kriyAmUla
+avu_1-gA_1 33 - - - - [shade:jA_1] - 44:verbalizer
+[cp_4] 44 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=45b>
+#మరియు అక్కడ పిండప్రదానం చేయడం వల్ల అన్ని సంస్కారాలు పూర్తవుతాయి.
+$wyax 26 - - 44:k7p 45a.11:coref distal - -
+piMdaxAna 27 - - - - - - 50:begin
+[ne_1] 50 - - 28:k2 - - - -
+ceyu_4 28 - kqw 44:k3 - - - -
+annI_1 30 - - 31:quant - - - -
+uwwarakriya_1 31 - - 44:k1 - - - -
+saMpUrNaM_1 32 - - - - - - 44:kriyAmUla
+avu_1-e_2 33 - - - - [shade:jA_1] - 44:verbalizer
+[cp_4] 44 - - 0:main 45a.44:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=46a>
+#గుర్తుంచుకోండి.
+gurwu_1 1 - - - - - - 4:kriyAmUla
+uMcu_1-e_1 2 - - - - - - 4:verbalizer
+[cp_1] 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=46b>
+#శివ బల్లభపురాన్నే ఇప్పుడు గఢ్ ముక్తేశ్వర్ అనే పేరుతో పిలుస్తున్నారు అని.
+Siva 1 - - - - - - 17:begin
+ballaBapura 2 - - - - - - 17:inside
+[ne_1] 17 place - 11:k2 - e_1 - -
+ippudu_1 5 - - 11:k7t - - - -
+gaDZa 6 - - - - - - 16:begin
+mukweSvara 7 - - - - - - 16:inside
+peru_1 9 - - 11:k3 - - - -
+pilucu_2-wuMxi_1 11 - - 0:main - - - -
+[ne_2] 16 place - 11:k2s - - - -
+%affirmative
+</sent_id>
+<sent_id=47>
+#శ్రీరామచంద్రుని పూర్వీకుడైన శివి మహారాజు తన శేష జీవితాన్ని ఈ గఢ్‌ముక్తేశ్వర్‌లోనే గడిపారు.
+BagavaMwudu_1 1 - - 18:mod - - - -
+rAma 2 male - - - - - 18:begin
+[ne_1] 18 per - 4:r6 - - - -
+pUrvIkudu_1 4 - - 19:rs - - - -
+mahArAja 5 male - - - - - 19:begin
+Sivi 6 - - - - - - 19:inside
+[ne_2] 19 per - 21:k1 - - - -
+$apanA_1 8 - - 9:r6 - - - -
+SeRajIviwaM_1 9 - - 21:k2 - - - -
+gaDZa 10 - - - - - - 20:begin
+mukweSvara 11 - - - - - - 20:inside
+[ne_3] 20 place - 21:k7p - e_1 - -
+gadupu_1 14 - - - - - - 21:kriyAmUla
+ceyu_22-yA_wA_1 15 - - - - - - 21:verbalizer
+[cp_1] 21 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=48>
+#శివి మహారాజు శ్రీ పరశురామ స్వామి చేత ఇక్కడ శివాలయాన్ని ప్రతిష్టింపజేశారు.
+mahArAja 1 male - - - - - 17:begin
+Siva 2 - - - - - - 17:inside
+[ne_1] 17 per - 55:pk1 - - - -
+BagavaMwudu_1 4 - - 15:mod - - - -
+paraSurAma 5 male - - - - - 15:begin
+[ne_2] 15 per - 55:k1 - - - -
+$wyax 7 - - 12:k7p 47.20:coref proximal - -
+Siva 8 - - - - - - 18:begin
+maMxira 9 - - - - - - 18:inside
+[ne_3] 18 - - 55:k2 - - - -
+prawiRTApana_1 11 - - - - - - 55:kriyAmUla
+ceyu_22-yA_wA_1 12 - - - - - - 55:verbalizer
+[cp_1] 55 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=49>
+#ఆ కాలంలో గఢ్‌ముక్తేశ్వర్ బల్లభ సంప్రదాయానికి ముఖ్యమైన ప్రధాన కేంద్రంగా విరాసిల్లింది.
+$wyax 1 - - 2:dem - distal - -
+samayaM_1 2 - - 10:k7t - - - -
+gaDZa 3 - - - - - - 12:begin
+mukweSvara 4 - - - - - - 12:inside
+[ne_1] 12 place - 10:k1 - - - -
+ballaBa 5 - - - - - - 14:begin
+saMpraxAya 6 - - - - - - 14:inside
+[ne_2] 14 - - 9:r6 - - - -
+praXAna_1 8 - - 9:mod - - - -
+keMxraM_2 9 - - 10:k1s - - - -
+uMdu_1-past 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=50>
+#గఢ్‌ముక్తేశ్వర్‌కు 'శివవల్లభపురం' అనే పేరు స్థిరపడింది.
+gaDZa 1 - - - - - - 9:begin
+mukweSvara 2 - - - - - - 9:inside
+[ne_1] 9 place - 4:r6 - - - -
+peru_1 4 - - 7:k1 - - - -
+Siva 5 - - - - - - 10:begin
+ballaBapura 6 - - - - - - 10:inside
+[ne_2] 10 place - 7:k1s - - - -
+sWirapadu_1-yA_1 7 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=51>
+#గఢ్‌ముక్తేశ్వర్ గురించిన ప్రస్తావన శివపురాణంలో కనిపిస్తుంది.
+gaDZa 1 - - - - - - 11:begin
+mukweSvara 2 - - - - - - 11:inside
+[ne_1] 11 place - 4:r6 - - - -
+varNana_1 4 - - 8:k1 - - - -
+Siva 5 - - - - - - 12:begin
+purANa 6 - - - - - - 12:inside
+[ne_2] 12 - - 8:k7 - - - -
+kanipiMcu_1-wuMxi_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=52>
+#మహాభారత యుద్ధంలో మరణించిన వారందరి ఆత్మలకు శాంతి చేకూరాలని గఢ్‌ముక్తేశ్వర్‌లో ఏకాదశి నుండి చతుర్దశి వరకు మహాయజ్ఞం నిర్వహించారు.
+ekAxaSI 1 - - - - - - 30:begin
+[ne_1] 30 - - - - - - 28:start
+cawurxaSI 3 - - - - - - 31:begin
+[ne_2] 31 - - - - - - 28:end
+[span_1] 28 - - 22:k7t - - - -
+gaDZa 5 - - - - - - 25:begin
+mukweSvara 6 - - - - - - 25:inside
+[ne_3] 25 place - 22:k7p - - - -
+mahABArawa 8 - - - - - - 26:begin
+yuxXa 9 - - - - - - 26:inside
+[ne_4] 26 - - 11:k7p - - - -
+maraNiMcu_1 11 - - 14:rbks - [shade:jA_1] - -
+annI_1 13 - - 14:quant - - - -
+maMxi_1 14 - pl 16:r6 - - - -
+Awma_1 16 - - 18:r6 - - - -
+SAMwi_1 18 - - 22:rt - - - -
+yajFaM_1 21 - - 22:k2 - - - -
+nirvahiMcu_1-yA_gayA_1 22 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=53>
+#చతుర్దశి సాయంకాలం యజ్ఞం ముగిసిన తర్వాత, ఆ ఆత్మలకు గంగా నదిలో దీపదానం చేస్తూ ఘనంగా నివాళులు అర్పించారు.
+cawurxaSI 1 - - - - - - 31:begin
+[ne_3] 31 - - 3:r6 - - - -
+sAyaMkAlaM_1 3 - - 24:k7t - - - -
+yajFaM_1 5 - - 7:r6 - - - -
+mugiMpu_1 7 - - 24:rblsk - - - -
+$wyax 9 - pl 10:dem 52.14:coref distal - -
+Awma_1 10 - pl 24:k4 - - - -
+gaMgA 12 - - - - - - 22:begin
+xIpaM_1 14 - - 23:k2 - - - -
+xAnaM_1 15 - - - - - - 23:kriyAmUla
+ceyu_1 16 - - - - - - 23:verbalizer
+nivAlYi_1 17 - - 24:k2 - - - -
+arpiMcu_1 18 - - - - - - 24:kriyAmUla
+ceyu_1-yA_gayA_1 19 - - - - - - 24:verbalizer
+[ne_1] 22 place - 23:k7p - - - -
+[cp_1] 23 - - 24:rpk - - - -
+[cp_2] 24 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=54>
+#మరుసటి రోజు ఉదయం పౌర్ణమి ఘడియల్లో, అందరూ గంగా నదిలో స్నానాలు ఆచరించి పూజ‑అర్చన, కథలు మొదలైనవి నిర్వహించారు.
+marusati_1 1 - - 2:mod - - - -
+roju_1 2 - - 15:k7t - - - -
+uxayaM_1 3 - - 4:mod - - - -
+pUrNamAsI 4 - - - - - - 30:begin
+[ne_1] 30 dom - 2:rs - - - -
+annI_1 6 - - 15:k1 - - - -
+gaMgA 8 - - - - - - 18:begin
+[ne_2] 18 place - 17:k7p - - - -
+snAnaM_1 9 - - - - - - 17:kriyAmUla
+ceyu_1 10 - - - - - - 17:verbalizer
+pUja_1 11 - - - - - - 19:op1
+arcana_1 20 - - - - - - 19:op2
+kaWa_1 13 - - - - - - 19:op3
+moVxalEna_1 40 - - - - - - 19:op4
+ceyu_4-yA_1 15 - - 0:main - - - -
+[cp_1] 17 - - 15:rpk - - - -
+[conj_1] 19 - - 15:k2 - - - -
+%affirmative
+</sent_id>
+<sent_id=55a>
+#ప్రతి సంవత్సరం కార్తీక పౌర్ణమి నాడు లక్షలాది మంది భక్తులు గఢ్‌ముక్తేశ్వర్‌కు తరలివచ్చి, సమస్త పాపాలను హరించి పుణ్యాలను ప్రసాదించే పవిత్ర గంగా నదిలో పుణ్యస్నానాలు ఆచరిస్తారు.
+prawi_2 1 - - 2:quant - - - -
+saMvawsaraM_1 2 - - 34:k7t - - - -
+lakRa_1 3 numex - 5:card - - - -
+saMKya_1 5 - - 34:k7 - - - -
+Bakwudu_1 7 - pl 34:k1 - - - -
+gaDZa 8 - - - - - - 37:begin
+mukweSvara 9 - - - - - - 37:inside
+[ne_1] 37 place - 34:k2p - - - -
+kArwika 10 moy - - - - - 43:component
+pUrNimA 11 dom - - - - - 43:component
+[calendar_1] 43 - - 34:k7t - - - -
+kalmaRaM_1 13 - - - - - - 44:mod
+nASani_1 14 - - - - - - 44:head
+[nc_1] 44 - - - - - - 45:op1
+pApahAriNi_1 16 - - - - - - 45:op2
+[conj_1] 45 - - 17:mod - - - -
+gaMgA 17 - - - - - - 39:begin
+[ne_3] 39 place - 40:k7p - - - -
+snAnaM_1 19 - - - - - - 40:kriyAmUla
+ceyu_1 20 - - - - - - 40:verbalizer
+[cp_1] 40 - kqw 34:rt - - - -
+vaccu_1-wuMxi_1 34 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=55b>
+#మరియు తమ పితృదేవతల ఆత్మలకు శాంతి కలగాలని ఇక్కడికి చేరుకుని దీపదానాలు సమర్పిస్తారు.
+$apanA_1 22 - pl 23:r6 - - - -
+piwqxevawa_1 23 - pl 25:r6 - - - -
+Awma_1 25 - - 27:r6 - - - -
+SAMwi_1 27 - - 34:rt - - - -
+$wyax 30 - - 34:k7p 37:coref proximal - -
+xIpaM_1 31 - - 46:k2 - - - -
+xAnaM_1 32 - - - - - - 46:kriyAmUla
+ceyu_1 33 - - - - - - 46:verbalizer
+[cp_1] 46 - kqw 34:rt - - - -
+vaccu_1-wuMxi_1 34 - - 0:main 55a.34:samuccaya - - -
+$wyax 50 - pl 34:k1 55a.7:coref distal - -
+%affirmative
+</sent_id>
+<sent_id=56>
+#చతుర్దశి సాయంత్రం వేళ లెక్కింపలేనంత మంది భక్తులు తమ పితృదేవతలకు నివాళులు అర్పించేందుకు గంగా నదిలో దీపదానాలు సమర్పిస్తారు.
+cawurxaSI 1 - - - - - - 30:begin
+[ne_2] 30 dom - 3:r6 - - - -
+sAyaMwraM_1 3 - - 23:k7t - - - -
+leVkkalenaMwa_1 5 - - 6:mod - - - -
+maMxi_1 6 - pl 23:k1 - - - -
+$apanA 7 - pl 8:r6 - - - -
+piwqxevawa_1 8 - pl 22:k4 - - - -
+nivAlYi_1 10 - - - - - - 22:kriyAmUla
+arpiMcu_2 11 - - - - - - 22:verbalizer
+[cp_1] 22 - - 23:rt - - - -
+gaMgA 14 - - - - - - 21:begin
+[ne_1] 21 - - 23:k7p - - - -
+xIpaM_1 16 - - 23:k2 - - - -
+xAnaM_1 17 - - - - - - 23:kriyAmUla
+ceyu_1-wuMxi_1 18 - - - - - - 23:verbalizer
+[cp_2] 23 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=57>
+#ఆ సమయంలో గంగా నదీ ప్రవాహంతో పాటు కొట్టుకుపోయే దీపాల దృశ్యం ఎంతో ప్రశాంతతను, మనోహరంగా కలిగిస్తుంది.
+$wyax 1 - - 2:dem - distal - -
+samayaM_1 2 - - 21:k7t - - - -
+gaMgA 3 female - - - - - 23:begin
+[ne_1] 23 per - 5:r6 - - - -
+pravAhaM_1 5 - - 8:k3 - - - -
+koVttukupovu_1 8 - kqw 9:rvks - - - -
+xIpaM_2 9 - pl 11:r6 - - - -
+xqSyaM_1 11 - - 21:k1 - - - -
+eVMwo_1 12 - - 22:mod - e_1 - -
+praSAMwa_1 14 - - - - - - 22:op1
+manoharamEna_1 16 - - - - - - 22:op2
+anipiMcu_2 17 - - - - - - 21:kriyAmUla
+avu_2-wuMxi_1 18 - - - - - - 21:verbalizer
+[cp_1] 21 - - 0:main - - - -
+[conj_1] 22 - - 21:k1s - - - -
+%affirmative
+</sent_id>
+<sent_id=58>
+#గఢ్‌ముక్తేశ్వర్‌లో ఆధ్యాత్మిక ప్రాధాన్యత కలిగిన ప్రదేశాలు ఎన్నో ఉన్నాయి, వాటిలో నహుషకూపం (నక్కా బావి), ముక్తేశ్వర మహాదేవ ఆలయం.
+gaDZa 1 - - - - - - 21:begin
+mukweSvara 2 - - - - - - 21:inside
+[ne_1] 21 place - 9:k7p - - - -
+XArmika_1 4 - - 5:mod - - - -
+prAmuKyawa_1 5 - - 8:r6 - - - -
+eVnno_1 7 - - 8:quant - - - -
+praxeSaM_1 8 - pl 9:k1 - - - -
+nahuRa-kUpa 10 - - - - - - 14:begin
+[ne_3] 14 place - - - - - 17:op1
+nakkAkuAz 50 - - - - - - 54:begin
+[ne_4] 54 place - 14:rs - - - -
+mukweSvara 12 - - - - - - 15:begin
+mahAxeva 13 - - - - - - 15:inside
+[ne_2] 15 place - 11:r6 - - - -
+AlayaM_1 11 - - - - - - 17:op2
+[conj_1] 17 - - 8:re - - - -
+uMdu_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=59a>
+#ఒక ఆచారం ఉంది.
+AcAraM_1 1 - - 2:k1 - - - -
+uMdu_1-pres 2 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=59b>
+#బద్రీనాథ్ ఆలయాన్ని కేవలం హారతి సమయంలో మాత్రమే తెరుస్తారు అని.
+baxrInAWa 1 - - - - - - 13:begin
+maMxira 2 - - - - - - 13:inside
+hArawi_1 5 - - 12:r6 - - - -
+samayaM_1 12 - - 9:k7t - e_1 - -
+weVrucu_1-yA_jAwA_hE_1 9 - - 0:main - - - -
+[ne_1] 13 place - 9:k2 - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=60>
+#ఈ ఆలయాన్ని సంవత్సరానికి కేవలం ఒకే ఒక్కసారి, అక్షయ తృతీయ మరియు పరశురామ జయంతి పర్వదినాన రోజంతా దర్శనార్థుల కోసం తెరుస్తారు.
+$wyax 1 - - 2:dem 59b.13:coref proximal - -
+AlayaM_1 2 - - 19:k2 - - - -
+saMvawsaraM_1 3 - - 19:k7t - - - -
+oVkasAri_1 6 - - 19:k7t - kevala_1 - -
+akRaya 8 - - - - - - 25:begin
+wqwIyA 30 - - - - - - 25:inside
+[ne_2] 25 dom - 23:rs - - - -
+paraSurAma 11 - - - - - - 23:begin
+jayaMwI 12 - - - - - - 23:inside
+[ne_1] 23 - - 19:k7 - - - -
+roju_1 14 - - 19:k7t - - - -
+aMwA_1 54 - - 14:mod - - - -
+xarSanArWi_1 16 - pl 19:rt - - - -
+weVrucu_1-yA_jAwA_hE_1 19 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=61a>
+#ముక్తేశ్వర మహాదేవుని ఆలయం ముందు విశాలమైన ఇసుక మైదానం ఉంది
+mukweSvara 1 - - - - - - 22:begin
+mahAxeva 2 - - - - - - 22:inside
+maMxira 3 - - - - - - 22:inside
+[ne_1] 22 - - 5:r6 - - - -
+muMxu_3 5 - - 9:k7p - - - -
+viSAlamEna_1 6 - - 8:quant - - - -
+isuka_1 7 - - 8:mod - - - -
+mExAnaM_1 8 - - 9:k1 - - - -
+uMdu_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=61b>
+#దానిని మీరాబాయి ఇసుక మైదానం అనే పేరుతో పిలుస్తారు.
+$wyax 11 - - 10:k2 61a.8:coref distal - -
+mIrAbAI 12 - - - - - - 23:begin
+kI 24 - - - - - - 23:inside
+rewI 14 - - - - - - 23:inside
+peru_1 16 - - 10:k3 - - - -
+pilucu_2-wuMxi_1 10 - - 0:main - - - -
+[ne_2] 23 - - 10:k2s - - - -
+%affirmative
+</sent_id>
+<sent_id=62a>
+#ఇలాంటి నమ్మకం ఉంది.
+$wyax 1 - - 2:dem - proximal - -
+nammakaM_1 2 - - 3:k1 - - - -
+uMdu_1-pres 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=62b>
+#ఒకసారి మీరాబాయి ఇక్కడ గంగా స్నానం కోసం వచ్చారు అని.
+oVkasAri_1 1 - - 9:krvn - - - -
+mIrAbAI 3 female - - - - - 12:begin
+$wyax 4 - - 9:k7p - proximal - -
+gaMgA 5 - - - - - - 10:mod
+snAnaM_1 6 - - - - - - 10:head
+[nc_1] 10 - - 9:rt - - - -
+vaccu_1-AdZu_1 9 - - 0:main - - - -
+[ne_1] 12 per - 9:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=63a>
+#అంటారు.
+ceVppu_2-wuMxi_1 1 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=63b>
+#ఒకసారి పార్వతీదేవి పరమశివుడిని ఒక ప్రశ్న అడిగారు అని.
+oVkasAri_1 1 - - 14:krvn - - - -
+pArvawI 3 female - - - - - 12:begin
+[ne_1] 12 per - 14:k1 - respect - -
+SaMkara 6 male - - - - - 13:begin
+[ne_2] 13 per - 14:k2 - respect - -
+praSna_1 9 - - - - - - 14:kriyAmUla
+ceyu_3-yA_1 10 - - - - - - 14:verbalizer
+[cp_1] 14 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=64a>
+#స్వామీ! అలాంటి ఏదైనా మార్గాన్ని మరియు చోటుని చెప్పండి
+svAmi_1 1 anim - 7:rad - - - -
+$wyax 2 - - 15:dem - proximal - -
+exEnA_1 3 - - 15:quant - - - -
+upAyaM_1 4 - - - - - - 15:op1
+sWalaM_1 6 - - - - - - 15:op2
+ceVppu_3-e_2 7 - - 0:main - - - -
+[conj_1] 15 - - 7:k2 - - - -
+%affirmative
+</sent_id>
+<sent_id=64b>
+#దాని వల్ల లోకంలో అనేక రోగాలతో, పాపాలతో బాధపడుతున్న జీవులకు విముక్తి లభిస్తుంది.
+$yax 9 - - 7:rh 64a.15:coref - - -
+lokaM_1 10 - - 7:k7p - - - -
+aneka_1 12 - - 8:quant - - - -
+rogaM_1 13 - pl - - - - 8:op1
+pApaM_1 1 - pl - - - - 8:op2
+bAXapadu_1 3 - - 4:mod - - - -
+jIvi_1 4 anim - 7:k4 - - - -
+vimukwi_1 6 - - 7:k1 - - - -
+[conj_1] 8 - - 7:k5 - - - -
+laBiMcu_1-e_2 7 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=65a>
+#వాళ్ళు అలాంటి ఏ పుణ్యకార్యం చేయాలి?
+$wyax 1 - pl 5:k1 64b.4:coref distal - -
+$wyax 2 - - 4:dem - proximal - -
+$kim 3 - - 4:mod - - - -
+kAryaM_1 4 - - 5:k2 - - - -
+ceyu_17-e_2 5 - - 0:main - - - -
+%interrogative
+</sent_id>
+<sent_id=65b>
+#దాని వల్ల వాళ్లకు మీ అనుగ్రహం లభిస్తుంది?
+$yax 7 - - 11:rh 65a.4:coref - - -
+$wyax 8 - pl 11:k4 64b.4:coref distal - -
+$addressee 9 - - 10:r6 - respect - -
+anugrahaM_1 10 - - 11:k1 - - - -
+laBiMcu_1-e_2 11 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=66a>
+#దీనిపై శివుడు ఇలా చెప్పారు.
+$wyax 1 - - 5:k7 - proximal - -
+SaMkara 3 male - - - - - 7:begin
+[ne_1] 7 per - 5:k1 - respect - -
+$wyax 6 - - 5:k2 - proximal - -
+ceVppu_2-yA_1 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=66b>
+#ఓ దేవీ, సత్యయుగంలో అన్ని పుణ్యక్షేత్రాలు పుణ్య ఫలాన్ని ఇస్తాయి అని.
+xevI 2 female - - - - - 11:begin
+[ne_1] 11 per - 10:rad 63b.12:coref - - -
+sawayuga 3 - - - - - - 13:begin
+[ne_2] 13 - - 10:k7p - - - -
+annI_1 5 - - 6:quant - - - -
+wIrWaM_1 6 - pl 10:k1 - - - -
+puNyaM_1 7 - - 9:r6 - - - -
+PalaM_1 9 - - 10:k2 - - - -
+arpiMcu_2-wuMxi_1 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=66c>
+#త్రేతాయుగంలో పుష్కర పుణ్యక్షేత్రం పుణ్యఫలాన్ని ఇస్తుంది.
+wrewA 13 - - - - - - 14:begin
+[ne_1] 14 - - 10:k7p - - - -
+puRkara 15 - - - - - - 11:begin
+wIrWa 6 - - - - - - 11:inside
+[ne_2] 11 place - 10:k1 - - - -
+puNyaM_1 7 - - 9:r6 - - - -
+PalaM_1 9 - - 10:k2 - - - -
+arpiMcu_2-wuMxi_1 10 - - 0:main 66b.10:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=66d>
+#ద్వాపరయుగంలో కురుక్షేత్ర పుణ్యక్షేత్రం పుణ్యఫలాన్ని ఇస్తుంది.
+xvApara 17 - - - - - - 13:begin
+[ne_1] 13 - - 10:k7p - - - -
+kurukRewra 19 - - - - - - 11:begin
+wIrWa 20 - - - - - - 11:inside
+[ne_2] 11 place - 10:k1 - - - -
+puNyaM_1 21 - - 23:r6 - - - -
+PalaM_1 23 - - 10:k2 - - - -
+arpiMcu_2-wuMxi_1 10 - - 0:main 66c.10:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=66e>
+#మరియు కలియుగంలో కేవలం గంగా స్నానంతోనే పుణ్య ఫలం లభిస్తుంది.
+kalikAla 1 - - - - - - 11:begin
+[ne_1] 11 - - 10:k7 - - - -
+gaMgA 4 - - - - - - 12:mod
+snAna 5 - - - - - - 12:head
+[nc_1] 12 - - 10:k3 - kevala_1 - -
+puNyaM_1 7 - - 8:mod - - - -
+PalaM_1 8 - - 10:r6 - - - -
+prApwi_1 20 - - - - - - 10:kriyAmUla
+avu_1-wuMxi_1 50 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main 66d.10:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=67>
+#గంగా నది ఒడ్డున శివవల్లభపురం అనే ఒక స్థలం ఉంది.
+gaMgA 1 female - - - - - 11:begin
+[ne_1] 11 per - 2:r6 - - - -
+wIraM_1 2 - - 9:k7p - - - -
+Siva 4 - - - - - - 12:begin
+ballaBapura 5 - - - - - - 12:inside
+ane_1 6 - - 8:mod - - - -
+[ne_2] 12 place - 6:rs - - - -
+oVka_2 7 - - 8:quant - - - -
+sWalaM_1 8 - - 9:k1 - - - -
+uMdu_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=68>
+#శివ బల్లభపురం అనే స్థలంలో శివుడు నివసిస్తాడు.
+Siva 1 - - - - - - 11:begin
+ballaBapura 2 - - - - - - 11:inside
+[ne_1] 11 place - 3:rs - - - -
+ane_1 3 - - 4:mod - - - -
+sWalaM_1 4 - - 14:k7p - - - -
+Siva 6 male - - - - - 13:begin
+[ne_3] 13 per - 14:k1 - - - -
+nivasiMcu_2 7 - - - - - - 14:kriyAmUla
+ceyu_22-wuMxi_1 8 - - - - - - 14:verbalizer
+[cp_1] 14 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=69>
+#శివ బల్లభపురం శివునికి అత్యంత ప్రియమైనది.
+Siva 1 - - - - - - 10:begin
+ballaBapura 2 - - - - - - 10:inside
+[ne_2] 10 place - 7:k1 - - - -
+Siva 3 male - - - - - 11:begin
+[ne_3] 11 per - 7:k4a - respect - -
+awyaMwa_2 5 - - 6:intf - - - -
+priyamEna_1 6 - - 7:k1s - - - -
+uMdu_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=70>
+#శివవల్లభపురం జంబూద్వీపంలోని ఆర్యవర్త దేశంలో హస్తినాపురానికి తూర్పు దిక్కున ఉంది.
+Siva 1 - - - - - - 16:begin
+ballaBapura 2 - - - - - - 16:inside
+[ne_1] 16 place - 14:k1 - - - -
+jambUxvIpa 3 - - - - - - 17:begin
+[ne_2] 17 place - 6:r6 - - - -
+AryAvarwa 5 - - - - - - 19:begin
+xeSa 6 - - - - - - 19:inside
+[ne_3] 19 place - 14:k7p - - - -
+haswinApura 8 - - - - - - 18:begin
+[ne_4] 18 place - 10:r6 - - - -
+wUrpu_1 10 - - 11:mod - - - -
+xikku_1 11 - - 14:k7p - - - -
+uMdu_7 13 - - 14:k1s - - - -
+uMdu_1-pres 14 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=71>
+#గంగా నది ఒడ్డున వెలసిన శివ బల్లభపురం దేవతలకు, మునులకు మరియు పితృదేవతలకు సంతృప్తిని ఇచ్చేది.
+gaMgA 1 - - - - - - 18:begin
+[ne_1] 18 - - - - - - 50:mod
+wIraM_1 2 - - - - - - 50:head
+[nc_1] 50 - - 4:k7p - - - -
+veVlayu_2 4 - - 20:rbks - - - -
+Siva 5 - - - - - - 20:begin
+ballaBapura 6 - - - - - - 20:inside
+[ne_2] 20 place - 14:k1 - - - -
+xevawa_1 7 - pl - - - - 22:op1
+muni_1 9 - pl - - - - 22:op2
+piwqxevawa_2 11 - pl - - - - 22:op3
+[conj_1] 22 anim - 14:k4 - - - -
+saMwqpwi_1 13 - - 14:k2 - - - -
+arpiMcu_2-pres 14 - wawCIlAxi 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=72>
+#శివవల్లభపుర క్షేత్రం నాకు కాశీతో సమానంగా ఇష్టమైనది.
+Siva 1 - - - - - - 12:begin
+ballaBapura 2 - - - - - - 12:inside
+kRewra 3 - - - - - - 12:inside
+[ne_2] 12 place - 9:k1 - - - -
+$speaker 4 - - 9:k4 - - - -
+kASI 5 - - - - - - 13:begin
+[ne_3] 13 place - 9:ru - - - -
+priyamEna_1 8 - - 9:k1s - - - -
+uMdu_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=73>
+#గఢ్ ముక్తేశ్వర్‌లో ఉన్న గంగా దేవి ఆలయం చాలా ఎత్తులో నిర్మించబడింది.
+gaDZa 1 - - - - - - 14:begin
+mukweSvara 2 - - - - - - 14:inside
+[ne_1] 14 place - 4:k7p - - - -
+uMdu_4 4 - - 15:mod - - - -
+gaMgA 5 - - - - - - 15:begin
+maMxira 6 - - - - - - 15:inside
+[ne_2] 15 place - 10:k1 - - - -
+cAlA_1 7 - - 8:quant - - - -
+eVwwu_1 8 - - 10:k7p - - - -
+nirmiMcu_2-iMxi_1 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=74>
+#గఢ్ ముక్తేశ్వర్‌లోని గంగా దేవి ఆలయంలో గంగా మాతతో పాటు బ్రహ్మ దేవుడి విగ్రహం కూడా ఉంది.
+gaDZa 1 - - - - - - 20:begin
+mukweSvara 2 - - - - - - 20:inside
+[ne_1] 20 place - 5:r6 - - - -
+gaMgA 4 - - - - - - 22:begin
+maMxira 5 - - - - - - 22:inside
+[ne_3] 22 place - 16:k7p - - - -
+gaMgA 7 female - - - - - 23:begin
+mEyA 8 - - - - - - 23:inside
+[ne_4] 23 per - - - samAveSI - 24:op1
+brahmA 11 male - - - - - 21:begin
+[ne_2] 21 per - - - respect - 24:op2
+vigrahaM_1 14 - - 16:k1 - kUdA_1 - -
+[conj_1] 24 - - 14:r6 - - - -
+amarcu_1-iMxi_1 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=75a>
+#గఢ్ ముక్తేశ్వర్‌లోని గంగా దేవి ఆలయంలో ఒక వింత రాయి కూడా ఉంది.
+gaDZa 1 - - - - - - 28:begin
+mukweSvara 2 - - - - - - 28:inside
+[ne_1] 28 place - 5:r6 - - - -
+gaMgA 4 - - - - - - 29:begin
+maMxira 5 - - - - - - 29:inside
+[ne_2] 29 place - 11:k7p - - - -
+oVka_2 7 - - 9:quant - - - -
+$wyax 8 - - 9:dem - proximal - -
+rAyi_2 9 - - 11:k1 - kUdA_1 - -
+uMdu_1-pres 11 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=75b>
+#దానిని శ్రద్ధగా గమనిస్తే, దానిపై పరమశివుడి ఆకారం స్పష్టంగా కనిపిస్తుంది.
+$yax 13 - - 15:k2 75a.9:coref - - -
+SraxXagA_1 14 - - 15:krvn - - - -
+gamaniMcu_1 15 - - 25:rh - - - -
+$wyax 17 - - 25:k7 75a.9:coref distal - -
+BagavAna 19 male - - - - - 30:begin
+Siva 20 - - - - - - 30:inside
+[ne_3] 30 per - 22:r6 - - - -
+AkAraM_1 22 - - 24:r6 - - - -
+ABAsaM_1 24 - - - - - - 25:kriyAmUla
+avu_1-wuMxi_1 50 - - - - - - 25:verbalizer
+[cp_1] 25 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=76>
+#ఒకప్పుడు గఢ్ ముక్తేశ్వర్‌లోని గంగా దేవి ఆలయానికి చేరుకోవడానికి 101 మెట్లు ఉండేవి.
+gaDZa 1 - - - - - - 17:begin
+mukweSvara 2 - - - - - - 17:inside
+[ne_1] 17 place - 5:r6 - - - -
+gaMgA 4 - - - - - - 18:begin
+maMxira 5 - - - - - - 18:inside
+[ne_2] 18 place - 7:k7p - - - -
+cerukoVnu_2 7 - - 13:rt - - - -
+oVkappudu_1 10 - - 13:k7t - - - -
+101 11 numex - - - - - 20:count
+meVttu_1 12 - pl - - - - 20:unit
+avu_8-AdZu_1 13 - - 0:main - - - -
+[meas_1] 20 - pl 13:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=77>
+#కానీ ఇప్పుడు గఢ్ ముక్తేశ్వర్‌లోని గంగా దేవి ఆలయంలో కేవలం 86 మెట్లు మాత్రమే మిగిలి ఉన్నాయి.
+gaDZa 1 - - - - - - 14:begin
+mukweSvara 2 - - - - - - 14:inside
+[ne_1] 14 place - 5:r6 - - - -
+gaMgA 4 - - - - - - 15:begin
+maMxira 5 - - - - - - 15:inside
+[ne_2] 15 place - 11:k7p - - - -
+ippudu_1 7 - - 11:k7t - - - -
+86 8 numex - - - - - 16:count
+meVttu_1 9 - pl - - - - 16:unit
+migulu_1-iMxi_1 11 - - 0:main 76.13:viroXI - - -
+[meas_1] 16 - pl 11:k1 - e_1 - -
+%affirmative
+</sent_id>
+<sent_id=78a>
+#చెబుతుంటారు.
+ceVppu_2-wuMxi_1 1 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=78b>
+#1937 వరకు గంగమ్మ గఢ్ ముక్తేశ్వర్‌లోని గంగా దేవి ఆలయ మెట్లను తాకుతూ ప్రవహించేదని.
+1937 1 yoc - - - - - 30:end
+gaMgA 3 female - - - - - 18:begin
+[ne_1] 18 per - 15:k1 - respect - -
+gaDZa 5 - - - - - - 20:begin
+mukweSvara 6 - - - - - - 20:inside
+[ne_3] 20 place - 9:r6 - - - -
+gaMgA 8 - - - - - - 21:begin
+maMxira 9 - - - - - - 21:inside
+[ne_4] 21 place - 11:r6 - - - -
+meVttu_1 11 - pl 13:k2 - - - -
+wAku_1 13 - - 15:rsk - - - -
+koVttukupovu_1-wA_WA_1 15 - - 0:main - - - -
+[span_1] 30 - - 15:k7t - - - -
+%affirmative
+</sent_id>
+<sent_id=79>
+#కానీ కాలక్రమేణా గంగమ్మ ఆ చోటును విడిచిపెట్టి దూరంగా జరిగిపోయింది.
+kramaMgA_1 1 - xviwva 5:krvn - - - -
+gaMgA 2 female - - - - - 9:begin
+[ne_1] 9 per - 5:k1 - respect - -
+sWalaM_1 4 - - 5:k2 - - - -
+vidicipeVttu_1-yA_gayA_1 5 - - 0:main 78b.15:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=80>
+#ఇప్పుడు గంగా నది ఒడ్డు ఈ ఆలయానికి దాదాపు 10 కిలోమీటర్ల దూరంలో ఉంది.
+ippudu_1 1 - - 12:k7t - - - -
+gaMgA 2 female - - - - - 14:begin
+[ne_1] 14 per - 4:r6 - - - -
+wIraM_1 4 - - 12:k1 - - - -
+$wyax 5 - - 6:dem 78b.21:coref proximal - -
+AlayaM_1 6 - - 12:k5 - - - -
+10 9 numex - - - - - 15:count
+kilomItaru_1 10 - - - - - - 15:unit
+xUraM_3 11 - - 12:k7p - - - -
+uMdu_1-pres 12 - - 0:main - - - -
+[dist_meas_1] 15 - - 11:mod - lagaBaga_1 - -
+%affirmative
+</sent_id>
+<sent_id=81>
+#గంగా నది ఒడ్డున ఉన్న ఇసుక మైదానంలో జాతర జరుగుతుంది.
+gaMgA 1 - - - - - - 18:begin
+[ne_1] 18 - - - - - - 11:mod
+wIraM_1 2 - - - - - - 11:head
+[nc_1] 11 - - 5:r6 - - - -
+isuka_1 4 - - 5:mod - - - -
+mExAnaM_1 5 - - 8:k7p - - - -
+jAwara_1 7 - - 8:k1 - - - -
+jarugu_3-wuMxi_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=82>
+#జాతర జరిగే సమయంలో ఆ నది ఒడ్డున గుడారాలతో ఒక పూర్తి నగరమే వెలుస్తుంది.
+jAwara_1 1 - - 3:r6 - - - -
+samayaM_2 3 - - 12:k7t - - - -
+wIraM_1 4 - - 12:k7p - - - -
+gudAraM_1 6 - pl 10:r6 - - - -
+oVka_1 8 numex - 10:card - - - -
+pUrwi_1 9 - - 10:mod - - - -
+nagaraM_2 10 - - 12:k1 - - - -
+veVlayu_3 11 - - - - - - 12:kriyAmUla
+veVlYlYu_1-wuMxi_1 22 - - - - - - 12:verbalizer
+[cp_1] 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=83>
+#ఈ జాతర జరిగే స్థలం ఢిల్లీ నుండి దాదాపు 90 కిలోమీటర్ల దూరంలో ఉంటుంది.
+jAwara_1 1 - - 2:mod - - - -
+sWalaM_3 2 - - 8:k1 - - - -
+xillI 3 - - - - - - 11:begin
+[ne_1] 11 place - 8:k5 - - - -
+90 6 numex - - - - - 12:count
+kilomItaru_1 7 - - - - - - 12:unit
+uMdu_9-wuMxi_1 8 - - 0:main - - - -
+[dist_meas_1] 12 - - 8:k2 - lagaBaga_1 - -
+%affirmative
+</sent_id>
+<sent_id=84>
+#ఈ జాతర జరిగే స్థలానికి కార్లు వంటి వాహనాలలో సులభంగా చేరుకోవచ్చు.
+jAwara_1 1 - - 2:mod - - - -
+sWalaM_4 2 - - 8:k2 - - - -
+kAru_1 3 - - 8:k3 - Axi_1 - -
+sulaBaMgA_1 6 - - 8:krvn - - - -
+cerukoVnu_2-vaccu_1 8 - - 0:main - [shade:jA_1] - -
+%pass_affirmative
+</sent_id>
+<sent_id=85>
+#ఒకప్పుడు గఢ్ ముక్తేశ్వర్‌లో జాతర జరిగే స్థలానికి ప్రజలు నడుచుకుంటూనే వెళ్లాల్సి వచ్చేది.
+gaDZa 1 - - - - - - 19:begin
+mukweSvara 2 - - - - - - 19:inside
+[ne_1] 19 place - 13:k7p - - - -
+kriwaM_1 4 - pl 13:k7t - - - -
+jAwara_1 5 - - - - - - 17:mod
+sWalaM_3 6 - - - - - - 17:head
+[6-waw_1] 17 - - 13:k2 - - - -
+maMxi_1 8 anim pl 13:k1 - - - -
+nadaka_1 10 - - 12:k3 - e_1 - -
+veVlYlYu_1 12 - - 13:rpk - - - -
+veVlYlYu_1-nA_padZawA_WA_1 13 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=86>
+#కానీ ఇప్పుడు రవాణాకు ఎన్నో రకాల వాహనాలు అందుబాటులో ఉన్నాయి.
+ippudu_1 1 - - 7:k7t - - - -
+ravANA_1 2 - - 5:r6 - - - -
+eVnno_1 4 - - 5:quant - - - -
+vAhanaM_1 5 - pl 7:k1 - - - -
+aMxubAtu_1 6 - - 7:k1s - - - -
+uMdu_1-pres 7 - - 0:main 85.13:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=87>
+#ఎంతో మంది ప్రజలు దున్నపోతుల బండ్లు, ట్రాక్టర్లు, కార్లు మరియు ఇతర వాహనాలలో ఈ జాతర స్థలానికి చేరుకుంటారు.
+eVMwo_2 1 - - 2:quant - - - -
+maMxi_1 2 - - 17:k1 - - - -
+BEMsA 3 - - - - - - 21:begin
+buggI 4 - - - - - - 21:inside
+[ne_1] 21 - - - - - - 20:op1
+trAktar_1 6 - - - - - - 20:op2
+trAlI_1 7 - pl - - - - 20:op3
+kAru_1 9 - - - - - - 20:op4
+iwara_1 11 - - 12:mod - - - -
+vAhanaM_2 12 - pl - - - - 20:op5
+jAwara_1 14 - - - - - - 27:mod
+sWalaM_3 15 - - - - - - 27:head
+[compound_1] 27 - - 17:k2 - - - -
+cerukoVnu_2-wuMxi_1 17 - - 0:main - - - -
+[conj_1] 20 - - 17:k3 - - - -
+%affirmative
+</sent_id>
+<sent_id=88a>
+#ఒక అంచనా ఉంది.
+aMcanA_1 1 - - 2:k1 - - - -
+uMdu_1-pres 2 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=88b>
+#ప్రతి సంవత్సరం దాదాపు ఇరవై లక్షల మంది ప్రజలు గఢ్ ముక్తేశ్వర్ జాతర సమయంలో గంగా నదిలో స్నానం చేయడానికి వస్తారు అని.
+prawi_1 1 - - 2:quant - - - -
+saMvawsaraM_1 2 - - 15:k7t - - - -
+20 4 numex - - - - - 25:count
+lakRa_1 5 - - - - - - 25:unit
+[meas_1] 25 - - 6:card - karIba_1 - -
+maMxi_1 6 - pl 15:k1 - - - -
+gaDZa 7 - - - - - - 18:begin
+mukweSvara 8 - - - - - - 18:inside
+[ne_1] 18 place - 9:r6 - - - -
+jAwara_1 9 - pl 11:r6 - - - -
+samayaM_2 11 - - 15:k7t - - - -
+gaMgA 12 - - - - - - 55:begin
+[ne_2] 55 - - - - - - 19:mod
+snAnaM_1 13 - - - - - - 19:head
+[nc_1] 19 - - 15:rt - - - -
+vaccu_1-wuMxi_1 15 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=89>
+#జాతరలో పాల్గొనడానికి వచ్చే భక్తులలో ఎక్కువ మంది అక్కడ వేసిన గుడారాలలోనే విడిది చేస్తారు.
+jAwara_1 1 - pl 5:k7p - - - -
+pAlu_1 3 - - - - - - 16:kriyAmUla
+goVnu_1 4 - - - - - - 16:verbalizer
+vaccu_1 5 - - 7:rbks - - - -
+eVkkuva_1 6 - - 7:quant - - - -
+Bakwudu_1 7 - pl 13:k1 - - - -
+amarcu_1 8 - - 10:rbks - - - -
+gudAraM_1 10 - pl 13:k7p - e_1 - -
+vidixiceyu_1-wuMxi_1 13 - - 0:main - - - -
+[cp_1] 16 - kqw 5:rt - - - -
+%affirmative
+</sent_id>
+<sent_id=90>
+#జాతర రోజుల్లోనే కాకుండా మామూలు రోజుల్లో వచ్చే ప్రజలు బ్రజ్ ఘాట్ చుట్టుపక్కల ఉన్న ధర్మశాలల్లో బస చేస్తారు.
+jAwara_1 1 - - - - samAveSI - 29:op1
+sAXAraNa_1 4 - - 5:mod - - - -
+roju_1 5 - pl - - - - 29:op2
+[conj_1] 29 - pl 17:k7 - - - -
+vaccu_1 7 - - 9:mod - - - -
+maMxi_1 9 - pl 17:k1 - - - -
+braja 10 - - - - - - 20:begin
+GAta 11 - - - - - - 20:inside
+[ne_1] 20 place - 13:r6 - - - -
+cuttupakkala_1 13 - - 14:k7p - - - -
+nirmiMcu_2 14 - - 15:rbks - - - -
+XarmaSAla_1 15 - pl 17:k7p - - - -
+vidixiceyu_1-wuMxi_1 17 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=91>
+#నిజానికి ఇక్కడ తినుబండారాలు చాలా దుకాణాల్లో దొరుకుతాయి.
+nijAniki_1 1 - - 11:krvn - wo_1 - -
+$wyax 3 - - 11:k7p - proximal - -
+winubaMdAraM_1 4 - - - - - - 12:op1
+pAnIyaM_1 13 - - - - - - 12:op2
+[xvanxva_1] 12 - pl 6:r6 - - - -
+sAmAnu_1 6 - - 11:k1 - - - -
+cAlA_2 7 - - 9:quant - sI_1 - -
+xukANaM_1 9 - pl 11:k7p - - - -
+kanipiMcu_1-wuMxi_1 11 - - 0:main - [shade:jA_1] - -
+%pass_affirmative
+</sent_id>
+<sent_id=92>
+#కానీ గుంపులుగా జాతరకు వచ్చే భక్తులు తమ భోజనం మొదలైన వాటి ఏర్పాట్లను స్వయంగా చేసుకుంటారు.
+guMpu_2 1 - - 50:r6 - - - -
+rUpaM_1 50 - - 17:k7 - - - -
+jAwara_1 5 - - 17:k7p - - - -
+vaccu_1 7 - kqw 9:mod - - - -
+Bakwudu_1 9 - pl 17:k1 - - - -
+$apanA 10 - - 51:r6 - - - -
+BojanaM_1 11 - - - - - - 51:op1
+moVxalEna_1 53 - - - - - - 51:op2
+[conj_1] 51 - - 14:r6 - Axi_1 - -
+erpAtu_1 14 - - 17:k2 - - - -
+svayaMgA_1 15 - - 9:rs - e_1 - -
+ceyu_6-wuMxi_1 17 - - 0:main 91.11:viroXI - - -
+%affirmative
+</sent_id>
+<sent_id=93>
+#కార్తీక పౌర్ణమి సందర్భంగా గఢ్ ముక్తేశ్వర్‌లోని గంగా నది ఒడ్డున జరిగే జాతర అత్యంత పెద్ద జాతరలలో ఒకటి.
+kArwika 1 - - - - - - 50:begin
+[ne_1] 50 moy - - - - - 43:component
+pUrNimA 2 - - - - - - 51:begin
+[ne_2] 51 dom - - - - - 43:component
+[calendar_1] 43 - - 4:r6 - - - -
+saMxarBaM_2 4 - - 12:k7 - - - -
+gaDZa 6 - - - - - - 22:begin
+mukweSvara 7 - - - - - - 22:inside
+[ne_4] 22 place - 12:k7p - - - -
+gaMgA 9 - - - - - - 52:begin
+[ne_3] 52 - - - - - - 23:mod
+wIraM_1 10 - - - - - - 23:head
+[nc_1] 23 place - 12:k7p - - - -
+jarugu_3 12 - wawCIlAxi 14:mod - - - -
+jAwara_1 14 - - 20:k1 - - - -
+awipeVxxa_1 15 - superl 16:mod - - - -
+jAwara_1 16 - pl 19:rn - - - -
+oVka_2 19 - - 20:k1s - - - -
+uMdu_1-pres 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=94>
+#ఈ జాతర గంగా నది తీరాన దాదాపు 11 కిలోమీటర్ల ప్రాంతంలో జరుగుతుంది.
+jAwara_1 1 - - 11:k1 - - - -
+gaMgA 2 female - - - - - 15:begin
+[ne_2] 15 pee - 4:r6 - - - -
+oVddu_1 4 - pl 11:k7p - - - -
+11 6 meas - - - - - 16:count
+kilomItaru_1 7 - - - - - - 16:unit
+prAMwaM_1 9 - - 11:k7p - - - -
+jarugu_2-wuMxi_1 11 - - 0:main - - - -
+[dist_meas_1] 16 - - 9:r6 - lagaBaga_1 - -
+%affirmative
+</sent_id>
+<sent_id=95>
+#ఈ సంవత్సరం జాతర స్థలాన్ని 20 విభాగాలుగా విభజించి మేళాను నిర్వహిస్తున్నారు.
+$wyax 1 - - 2:dem - proximal - -
+saMvawsaraM_1 2 - - 14:k7t - - - -
+jAwara_1 3 - pl 5:r6 - - - -
+nirvahaNa_2 5 - - 14:k2 - - - -
+jAwara_1 6 - - - - - - 27:mod
+sWalaM_3 7 - - - - - - 27:head
+[nc_1] 27 - - 12:k2 - - - -
+20 9 numex - 10:card - - - -
+viBAgaM_1 10 - pl 12:k7p - - - -
+viBajiMcu_1 12 - - 14:rpk - - - -
+ceyu_17-0_rahA_hE_1 14 - - 0:main - [shade:jA_1] - -
+%pass_affirmative
+</sent_id>
+<sent_id=96>
+#భద్రతా కారణాల దృష్ట్యా గఢ్ ముక్తేశ్వర్‌లో మునుపటి కంటే ఇప్పుడు మరింత ఎక్కువ మంది పోలీసు సిబ్బందిని మోహరించారు.
+Baxrawa_1 1 - - 36:r6 - - - -
+xqRti_1 36 - - 14:rh - - - -
+gaDZa 5 - - - - - - 18:begin
+mukweSvara 6 - - - - - - 18:inside
+[ne_1] 18 place - 14:k7p - - - -
+kriwaM_1 8 - - 14:k7t - - - -
+polIsu_1 11 - - 12:mod - - - -
+sibbaMxi_1 12 - comparmore 14:k2 - - - -
+mohariMcu_1-yA_gayA_hE_1 14 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=97>
+#ముఖ్యమైన కూడళ్లలో క్లోజ్డ్ సర్క్యూట్ టీవీ కెమెరాలను కూడా అమర్చారు.
+muKyamEna_2 1 - - 2:mod - - - -
+sWalaM_1 2 - pl 9:k7p - - - -
+kloja 4 - - - - - - 11:begin
+sarkita 5 - - - - - - 11:inside
+tIvI 6 - - - - - - 11:inside
+kEmarA 7 - - - - - - 11:inside
+[ne_1] 11 - - 9:k2 - kUdA_1 - -
+amarcu_1-yA_gayA_hE_1 9 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=98>
+#గంగా నదిలో స్నానం చేయడానికి ఎన్నో రేవులను కూడా ఏర్పాటు చేశారు.
+gaMgA 1 - - - - - - 10:begin
+[ne_1] 10 - - - - - - 19:mod
+snAnaM_1 2 - - - - - - 19:head
+[nc_1] 19 - - 8:rt - - - -
+aneka_1 5 - - 6:quant - - - -
+revu_1 6 - pl 8:k2 - kUdA_1 - -
+nirmiMcu_2-yA_gayA_hE_1 8 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=99>
+#హస్తినాపురానికి చారిత్రక ప్రాముఖ్యత ఉంది.
+haswinApura 1 - - - - - - 7:begin
+[ne_1] 7 place - 4:r6 - - - -
+cAriwraka_1 3 - - 4:mod - - - -
+prAmuKyawa_1 4 - - 5:k1 - - - -
+uMdu_2-pres 5 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=100>
+#జైన సమాజానికి మరియు ఉత్తర భారతదేశంలోని అన్ని వర్గాల ప్రజలకు దీనికి ప్రత్యేకమైన ప్రాధాన్యత ఉంది.
+jEna 1 - - - - - - 20:begin
+jagawa 2 - - - - - - 20:inside
+[ne_2] 20 - - 14:rh - - - -
+uwwara 4 - - - - - - 16:begin
+BArawa 5 - - - - - - 16:inside
+varRa 6 - - - - - - 16:inside
+[ne_1] 16 place - 9:r6 - - - -
+anni_1 8 - - 9:mod - - - -
+vargaM_1 9 - pl 14:rt - - - -
+prawyeka_1 12 - - 13:mod - - - -
+prAmuKyawa_1 13 - - 14:k1 - - - -
+uMdu_2-pres 14 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=101>
+#హస్తినాపురానికి వెళ్లడానికి మేము ఢిల్లీలోని కాశ్మీరీ గేట్ బస్ స్టాండ్ నుండి వెళ్లడం సౌకర్యంగా భావించాము.
+haswinApura 1 - - - - - - 17:begin
+[ne_1] 17 place - 2:k2p - - - -
+veVlYlYu_1 2 - - 15:rt - - - -
+$speaker 5 - pl 15:k1 - - - -
+xillI 6 - - - - - - 18:begin
+[ne_2] 18 place - 15:k7p - - - -
+kaSmIrI 8 - - - - - - 19:begin
+geta 9 - - - - - - 19:inside
+basa 10 - - - - - - 19:inside
+addA 11 - - - - - - 19:inside
+[ne_3] 19 place - 13:k5 - - - -
+veVlYlYu_1 13 - kqw 15:k2 - - - -
+sOkaryaM_1 14 - - 15:k2s - - - -
+BAviMcu_1-yA_1 15 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=102>
+#కాశ్మీరీ గేట్ నుండి మీరట్‌కు ఎప్పుడూ బస్సులు తిరుగుతూనే ఉంటాయి.
+kaSmIrI 1 - - - - - - 11:begin
+geta 2 - - - - - - 11:inside
+[ne_1] 11 place - - - - - 12:start
+eVppudU_1 4 - - 9:krvn - - - -
+meraTa 5 - - - - - - 13:begin
+[ne_2] 13 place - - - - - 12:end
+bassu_1 8 - pl 9:k1 - - - -
+veVlYlYu_1-wuMxi_1 9 - - 0:main - - - -
+[span_1] 12 - - 8:r6 - - - -
+%affirmative
+</sent_id>
+<sent_id=103>
+#ఆపై మీరట్ నుండి హస్తినాపురానికి బస్సులు దొరుకుతాయి.
+ika_1 1 - - 7:krvn - - - -
+meraTa 2 - - - - - - 12:begin
+[ne_1] 12 place - 7:k5 - - - -
+haswinApura 4 - - - - - - 11:begin
+[ne_2] 11 place - 6:r6 - - - -
+bassu_1 6 - pl 7:k1 - - - -
+kanipiMcu_1-wuMxi_1 7 - - 0:main - [shade:jA_1] - -
+%pass_affirmative
+</sent_id>
+<sent_id=104>
+#ఢిల్లీ నుండి హస్తినాపురానికి దూరం సుమారు 105 కిలోమీటర్లు.
+xillI 1 - - - - - - 11:begin
+[ne_1] 11 place - 9:k5 - - - -
+haswinApura 3 - - - - - - 12:begin
+[ne_2] 12 place - 5:r6 - - - -
+xUraM_1 5 - - 9:k1 - - - -
+105 7 numex - - - - - 13:count
+kilomItaru_1 8 - - - - - - 13:unit
+uMdu_1-pres 9 - - 0:main - - - -
+[dist_meas_1] 13 - - 9:k1s - wakarIbana_1 - -
+%affirmative
+</sent_id>
+<sent_id=105>
+#హస్తినాపురానికి శాస్త్రాలలో గజపురం, నాగపురం, అసంధివత్, బ్రహ్మస్థలం వంటి ఇతర పేర్లు కూడా ఉన్నాయని చెబుతారు.
+haswinApura 1 - - - - - - 15:begin
+[ne_1] 15 place - 10:k2 - - - -
+SAswraM_1 3 - pl 10:k7 - - - -
+iwara_1 5 - - 7:mod - - - -
+eVnno_1 56 - - 7:quant - - - -
+peru_1 7 - pl 10:k3 - kUdA_1 - -
+pilucu_2-wuMxi_1 10 - - 0:main - - - -
+gajapura 2 - - - - - - 50:begin
+[ne_5] 50 place - - - - - 20:op1
+nAgapura 4 - - - - - - 11:begin
+[ne_2] 11 place - - - - - 20:op2
+asaMXivawa 6 - - - - - - 12:begin
+[ne_3] 12 place - - - - - 20:op3
+brahmAsWala 8 - - - - - - 13:begin
+[ne_4] 13 place - - - - - 20:op4
+[conj_1] 20 - - 7:re - - - -
+%affirmative
+</sent_id>
+<sent_id=106>
+#హస్తినాపురంలో జైన మతపు ఇరవై నాలుగు మంది తీర్థంకరులలో మొట్టమొదటి తీర్థంకరుడైన శ్రీ ఆదినాథ ప్రభువు తన నాలుగు వందల రోజుల వ్రతం తర్వాత శ్రేయాంశకుమారుని చేతుల మీదుగా చెరకు రసం స్వీకరించి తన వ్రతాన్ని ముగించారు.
+haswinApura 1 - - - - - - 41:begin
+[ne_1] 41 place - 38:k7p - - - -
+jEna 3 - - 4:mod - - - -
+Xarma 4 - - 7:r6 - - - -
+24 6 numex - 7:card - - - -
+wIrWaMkarudu_1 7 - pl 12:rn - - - -
+aMxaru_1 10 - - 11:mod - - - -
+moVttamoVxati_1 11 - - 12:ord - - - -
+wIrWaMkarudu_1 12 - - 42:mod - - - -
+SrI 13 - - - - - - 42:begin
+AxinAWa 14 - - - - - - 42:inside
+praBu 15 male - - - - - 42:inside
+[ne_2] 42 per - 45:k1 - - - -
+$apanA 17 - pl 20:r6 - - - -
+400 18 numex - 20:card - - - -
+roju_1 20 - pl 22:r6 - - - -
+vrawaM_1 22 - - 24:rkl - - - -
+warvAwa_2 24 - - 45:k7t - - - -
+SreyaMRakumAra 25 male - - - - - 43:begin
+[ne_3] 43 per - 27:r6 - - - -
+ceVyyi_1 27 - pl 45:k5 - - - -
+ceVraku_1 29 - pl 31:r6 - - - -
+rasaM_1 31 - - 44:k2 - - - -
+svIkariMcu_1 32 - - - - - - 44:kriyAmUla
+ceyu_1 33 - - - - - - 44:verbalizer
+[cp_1] 44 - - 45:rpk - - - -
+$apanA 34 - pl 35:r6 - - - -
+vrawaM_1 35 - - 37:k2 - - - -
+mugiMpu_2 37 - - - - - - 45:kriyAmUla
+ceyu_1-AdZu_1 38 - - - - - - 45:verbalizer
+[cp_2] 45 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=107>
+#శ్రీ శాంతినాథ ప్రభువు, కుంతునాథ ప్రభువు మరియు శ్రీ అరహనాథ ప్రభువుల పన్నెండు కళ్యాణకోత్సవాలు హస్తినాపురంలోనే జరిగాయి.
+haswinApura 1 - - - - - - 19:begin
+[ne_1] 19 place - 17:k7p - e_1 - -
+SrI 4 male - - - - - 20:begin
+SAMwinAWa 5 - - - - - - 20:inside
+praBu 6 male - - - - - 20:inside
+[ne_2] 20 per - - - - - 24:op1
+kuMWanAWa 8 male - - - - - 21:begin
+praBu 9 - - - - - - 21:inside
+[ne_3] 21 per - - - - - 24:op2
+SrI 11 male - - - - - 22:begin
+arahanAWa 12 - - - - - - 22:inside
+praBu 13 male - - - - - 22:inside
+[ne_4] 22 per - - - - - 24:op3
+12 15 numex - 30:card - - - -
+kalyANaka 16 - - - - - - 30:begin
+[ne_5] 30 - - 17:k1 - - - -
+jarugu_4-yA_1 17 - - 0:main - - - -
+[conj_1] 24 - - 16:r6 - respect - -
+%affirmative
+</sent_id>
+<sent_id=108>
+#మల్లినాథ భగవానుడి సమవసరం కూడా హస్తినాపురంలోనే జరిగింది.
+BagavAna 1 male - - - - - 11:begin
+mallinAWa 2 - - - - - - 11:inside
+[ne_1] 11 per - 4:r6 - - - -
+samavasaraM_1 4 - - 9:k1 - kUdA_1 - -
+haswinApura 6 - - - - - - 12:begin
+[ne_2] 12 place - 9:k7p - e_1 - -
+jarugu_1-yA_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=109>
+#ముని సువ్రతనాథ స్వామి, పార్శ్వనాథ భగవానుడు మరియు మహావీర స్వామి భగవానుడు హస్తినాపురంలోనే తమ దివ్యమైన వాక్కులతో ప్రవచనాలు ఇచ్చారు.
+haswinApura 1 - - - - - - 23:begin
+[ne_1] 23 place - 21:k7p - e_1 - -
+muni 4 male - - - - - 24:begin
+suvrawa 5 - - - - - - 24:inside
+nAWa 6 - - - - - - 24:inside
+svAmI 7 - - - - - - 24:inside
+[ne_2] 24 per - - - - - 27:op1
+BagavAna 9 male - - - - - 25:begin
+pArSvanAWa 10 - - - - - - 25:inside
+[ne_3] 25 per - - - - - 27:op2
+BagavAna 12 male - - - - - 26:begin
+mahAvIra 13 - - - - - - 26:inside
+svAmI 14 - - - - - - 26:inside
+[ne_4] 26 per - - - - - 27:op3
+$apanA 16 - - 18:r6 - - - -
+xivyamEna_1 17 - - 18:mod - - - -
+vAkku_1 18 - - 21:k7 - - - -
+pravacanaM_1 20 - - - - - - 21:kriyAmUla
+iccu_1-yA_1 51 - - - - - - 21:verbalizer
+[cp_1] 21 - - 0:main - - - -
+[conj_1] 27 - - 21:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=110>
+#హస్తినాపురంలో అభిషేకం మరియు పూజా కార్యక్రమాల సమయం ఉదయం 8 గంటల నుండి సాయంత్రం 5 గంటల వరకు ఉంటుంది.
+haswinApura 1 - - - - - - 18:begin
+[ne_1] 18 place - 16:k7p - - - -
+aBiRekaM_1 3 - - - - - - 20:op1
+pUja_2 5 - - - - - - 20:op2
+samayaM_1 14 - - 16:k1 - - - -
+uxayaM_1 8 - - 9:mod - - - -
+8 9 clocktime - - - - - 19:start
+sAyaMwraM_1 12 - - 13:mod - - - -
+5 13 clocktime - - - - - 19:end
+uMdu_1-pres 16 - - 0:main - - - -
+[span_1] 19 - - 16:k7t - - - -
+[conj_1] 20 - - 14:r6 - - - -
+%affirmative
+</sent_id>
+<sent_id=111>
+#మరియు దిగంబర జైన ఆలయంలో పూజ చేసే సమయం ఉదయం ఏడు గంటలకు ప్రారంభమవుతుంది.
+xigambara 1 - - - - - - 16:begin
+jEna 2 - - - - - - 16:inside
+maMxira 3 - - - - - - 16:inside
+[ne_1] 16 place - 6:k7p - - - -
+pUja_1 5 - - - - - - 17:kriyAmUla
+ceyu_22 6 - - - - - - 17:verbalizer
+[cp_1] 17 - kqw 8:r6 - - - -
+samayaM_1 8 - - 13:k1 - - - -
+uxayaM_1 9 - - - - - - 25:whole
+7 10 clocktime - - - - - 25:part
+[temporal_1] 25 - - 13:k7t - - - -
+prAraMBaM_1 12 - - - - - - 18:kriyAmUla
+avu_1-wuMxi_1 13 - - - - - - 18:verbalizer
+[cp_2] 18 - - 0:main 110.18:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=112>
+#ఆదినాథ భగవానుడు దీక్ష తీసుకున్న నాలుగు వందల రోజుల తర్వాత వైశాఖ శుద్ధ తదియ నాడే హస్తినాపురానికి వచ్చారు.
+haswinApura 1 - - - - - - 20:begin
+[ne_1] 20 place - 17:k7p - - - -
+AxinAWa 3 - - - - - - 21:begin
+BagavAna 4 - - - - - - 21:inside
+[ne_2] 21 per - 17:k1 - - - -
+xIkRa_1 5 - - - - - - 50:kriyAmUla
+wIsukoVnu_2 6 - - - - - - 50:verbalizer
+[cp_1] 50 - - 10:r6 - - - -
+400 8 numex - 10:card - - - -
+roju_1 10 - pl 11:rkl - - - -
+warvAwa_1 11 - - 17:k7t - - - -
+vESAKa 12 - - - - - - 60:begin
+[ne_3] 60 moy - - - - - 70:component
+Sukla 13 - - - - - - 61:begin
+[ne_4] 61 moy - - - - - 70:component
+wqwIyA 14 - - - - - - 62:begin
+[ne_5] 62 doy - - - - - 70:component
+[calendar_1] 70 - - 16:r6 - - - -
+roju_1 16 - - 17:k7t - - - -
+vaccu_1-past 17 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=113>
+#ప్రజలు దూరదూరాల నుండి ఆయన దర్శనం కోసం వెళ్లేవారు.
+prajalu_1 1 - pl 8:k1 - - - -
+xUraM_2 2 - xviwva 8:k5 - - - -
+$wyax 4 - - 5:r6 112.21:coref distal/respect - -
+xarSanaM_1 5 - - 8:rt - - - -
+veVlYlYu_1-wA_WA_1 8 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=114a>
+#రాజకుమారుడు శ్రేయాంశకుమారునికి ఈ విషయం తెలిసినప్పుడు.
+rAjakumAra_1 1 male - - - - - 11:begin
+SreyaMRakumAra 2 - - - - - - 11:inside
+$yax 4 - - 9:k7t - - - -
+$wyax 5 - - 6:dem - proximal - -
+viRayaM_1 6 - - 8:r6 - - - -
+weVliyu_1 8 - - 9:k2 - - - -
+avu_5-yA_1 9 - - 0:main 114b.14:pariNAma - - -
+[ne_1] 11 per - 9:k4a - - - -
+%affirmative
+</sent_id>
+<sent_id=114b>
+#అప్పుడు ఆయనకు తన పూర్వీకుల అన్నపానీయాల త్యాగ నియమం గుర్తుకు వచ్చింది.
+$wyax 1 - pl 11:k4a 114a.21:coref distal - -
+$apanA 2 - pl 3:r6 - - - -
+pUrvIkudu_1 3 - pl 5:r6 - - - -
+annaM_1 5 - - - - - - 16:op1
+nIru_1 15 - - - - - - 16:op2
+wyAgaM_1 6 - kqw 8:r6 - - - -
+niyamaM_1 8 - - 10:k2 - - - -
+gurwu_2 10 - - - - - - 14:kriyAmUla
+avu_1-yA_1 11 - - - - [shade:A_1] - 14:verbalizer
+[cp_1] 14 - - 0:main - - - -
+[conj_1] 16 - - 6:k2 - - - -
+%affirmative
+</sent_id>
+<sent_id=115a>
+#ఆదినాథ ప్రభువు దీక్షా విరమణ కొరకు రాజకుమారుడు శ్రేయాంసకుమారుడు ఆయనకు చెరుకు రసాన్ని సమర్పించి, దానిని స్వీకరించవలసిందిగా ప్రార్థించాడు.
+rAjakumAra 1 male - - - - - 24:begin
+SreyaMRakumAra 2 - - - - - - 24:inside
+[ne_1] 24 per - 28:k1 - - - -
+AxinAWa 4 male - - - - - 25:begin
+praBu 5 - - - - - - 25:inside
+[ne_2] 25 per - 28:k2 - - - -
+vrawaM_1 7 - - 9:r6 - - - -
+viramaNa_1 9 - - 28:rt - - - -
+ceVruku_1 12 - - 13:r6 - - - -
+rasaM_1 13 - - 15:k2 - - - -
+svIkariMcu_1 14 - - - - - - 27:kriyAmUla
+ceyu_5 15 - - - - - - 27:verbalizer
+[cp_1] 27 - - 28:rt - - - -
+prArWana_1 17 - - - - - - 28:kriyAmUla
+ceyu_5-yA_1 18 - - - - - - 28:verbalizer
+[cp_2] 28 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=115b>
+#దానిని ఆయన స్వీకరించారు.
+$yax 19 - - 29:k2 115.17:coref - - -
+$wyax 20 - - 29:k1 115a.25:coref distal/respect - -
+svIkariMcu_2 21 - - - - - - 29:kriyAmUla
+ceyu_8-yA_wA_1 22 - - - - - - 29:verbalizer
+[cp_3] 29 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=116>
+#తర్వాతి కాలంలో ఈ రోజును 'అక్షయ తృతీయ'గా పిలవడం ప్రారంభించారు.
+$wyax 3 - - 4:dem - proximal - -
+roju_1 4 - - 8:k2 - - - -
+akRaya 6 - - - - - - 12:begin
+wqwIyA 7 - - - - - - 12:inside
+anu_3-yA_nA_lagA_1 8 - - 0:main 115.8:uwwarkAla [shade:jA_1] - -
+[ne_1] 12 - - 8:k2s - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=117>
+#హస్తినాపురంలో భగవంతుడు తన ప్రవచనాల ద్వారా 6 మహా రాజులనుజైన మత అనుచరులుగా చేశారు.
+haswinApura 1 - - - - - - 18:begin
+[ne_1] 18 place - 16:k7p - - - -
+BagavaMwudu_3 3 - - 16:k1 - - - -
+$apanA 5 - pl 6:r6 - - - -
+pravacanaM_2 6 - pl 16:k3 - - - -
+6 8 numex - 10:card - - - -
+peVxxa_1 9 - - 10:quant - - - -
+rAju_1 10 - pl 16:k2 - - - -
+jEna 12 - - - - - - 45:begin
+Xarma 13 - - - - - - 45:inside
+[ne_2] 45 - - 15:r6 - - - -
+anucarudu_1 15 - - 16:k2s - - - -
+ceyu_9-yA_1 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=118>
+#24 తీర్థంకరులలో 20వ తీర్థంకరుడైన శ్రీ మునిసువ్రత స్వామి, 23వ తీర్థంకరుడైన పార్శ్వనాథ భగవానుడు మరియు చివరి తీర్థంకరుడైన శ్రీ మహావీర స్వామి కూడా ఈ క్షేత్రాన్ని తమ పాదస్పర్శతో పవిత్రం చేశారు.
+24 1 numex - 2:card - - - -
+wIrWaMkara 2 - - - - - - 64:begin
+[ne_4] 64 - pl 35:rn - - - -
+20 5 numex - 6:ord - - - -
+wIrWaMkara 6 - - - - - - 65:begin
+[ne_5] 65 - - 32:mod - - - -
+SrI 7 male - - - - - 32:begin
+muni 8 - - - - - - 32:inside
+suvrawa 9 - - - - - - 32:inside
+svAmI 10 - - - - - - 32:inside
+[ne_1] 32 per - - - - - 35:op1
+23 12 numex - 13:ord - - - -
+wIrWaMkara 13 - - - - - - 66:begin
+[ne_6] 66 - - 33:mod - - - -
+pArSvanAWa 14 - - - - - - 33:begin
+BagavAna 15 - - - - - - 33:inside
+[ne_2] 33 per - - - - - 35:op2
+civari_1 17 - - 18:mod - - - -
+wIrWaMkara 18 - - - - - - 67:begin
+[ne_7] 67 - - 34:mod - - - -
+SrI 19 male - - - - - 34:begin
+mahAvIra 20 - - - - - - 34:inside
+svAmI 21 - - - - - - 34:inside
+[ne_3] 34 per - - - kUdA_1 - 35:op3
+$wyax 24 - - 25:dem 117.18:coref proximal - -
+sWalaM_1 25 - - 81:k2 - - - -
+$apanA 27 - pl 28:r6 - - - -
+pAxaM_1 28 - pl 81:k3 - - - -
+paviwraM_1 30 - - - - - - 81:kriyAmUla
+ceyu_1-AdZu_1 31 - - - - - - 81:verbalizer
+[cp_1] 81 - - 0:main - - - -
+[conj_1] 35 - - 81:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=119>
+#భారతదేశంలో మొత్తం 12 మంది చక్రవర్తులు జన్మించారు.
+BArawa 1 - - - - - - 9:begin
+moVwwaM_1 3 - - 5:quant - - - -
+12 4 numex - 5:card - - - -
+cakravarwi_1 5 - - 6:mod - - - -
+samrAt_1 6 anim - 7:k1 - - - -
+avu_8-yA_1 7 - - 0:main - - - -
+[ne_1] 9 place - 7:k7p - - - -
+%affirmative
+</sent_id>
+<sent_id=120>
+#భారతదేశంలోని మొత్తం 12 మంది చక్రవర్తులలో ఆరుగురు హస్తినాపురంలోనే జన్మించారు.
+BArawa 1 - - - - - - 16:begin
+moVwwaM_1 3 - - 5:quant - - - -
+12 4 numex - 5:card - - - -
+cakravarwi_1 5 - - 6:mod - - - -
+samrAt_1 6 anim - 9:rn - - - -
+6 9 numex - 12:r6 - - - -
+puttuka_2 11 - - 12:mod - - - -
+sWalaM_1 12 - - 14:k1 - - - -
+haswinApura 13 - - - - - - 17:begin
+uMdu_1-pres 14 - - 0:main - - - -
+[ne_1] 16 place - 6:r6 - - - -
+[ne_2] 17 place - 14:k1s - - - -
+%affirmative
+</sent_id>
+<sent_id=121>
+#రామాయణ కాలానికి చెందిన పరశురాముడు కూడా హస్తినాపురంలోనే జన్మించారు.
+rAmAyaNa 1 - - - - - - 20:begin
+[ne_1] 20 - - 2:mod - - - -
+kAlaM_3 2 - - 4:r6 - - - -
+paraSurAma 4 male - - - - - 11:begin
+[ne_3] 11 per - 13:k1 - kUdA_1 - -
+haswinApura 6 - - - - - - 12:begin
+[ne_2] 12 place - 13:k7p - - - -
+puttu_1 8 - - - - - - 13:kriyAmUla
+avu_4-yA_1 9 - - - - - - 13:verbalizer
+[cp_1] 13 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=122>
+#హస్తినాపురం కౌరవులకు మరియు పాండవులకు రాజధానిగా విరాజిల్లింది.
+haswinApura 1 - - - - - - 11:begin
+kOrava 2 - - - - - - 20:begin
+[ne_3] 20 - - - - - - 12:op1
+pAMdava 4 - - - - - - 21:begin
+[ne_2] 21 - - - - - - 12:op2
+rAjaXAni_1 6 - - 7:k1s - - - -
+uMdu_5-iMxi_1 7 - - 0:main - [shade:cuka_1] - -
+[ne_1] 11 place - 7:k1 - - - -
+[conj_1] 12 - - 6:r6 - - - -
+%affirmative
+</sent_id>
+<sent_id=123>
+#కార్తీక పూర్ణిమ మరియు వైశాఖ శుక్ల తృతీయ నాడు శ్వేతాంబర జైన ఆలయంలో, కార్తీక శుక్ల పక్షం నుండి పూర్ణిమ మధ్య దిగంబర జైన ఆలయంలో కార్యక్రమాలు నిర్వహిస్తారు.
+kArwika 1 moy - - - - - 45:component
+pUrNimA 2 dom - - - - - 45:component
+[calendar_1] 45 - - - - - - 33:op1
+vESAKa 4 moy - - - - - 46:component
+Sukla 5 - - - - - - 46:component
+wqwIyA 6 dom - - - - - 46:component
+[calendar_2] 46 - - - - - - 33:op2
+[conj_1] 33 - - 32:k7t - - - -
+SvewAmbara 8 - - - - - - 30:begin
+jEna 9 - - - - - - 30:inside
+maMxira 10 - - - - - - 30:inside
+[ne_1] 30 place - - - - - 53:op1
+kArwika 13 moy - - - - - 96:component
+Sukla 14 - - - - - - 96:component
+[calendar_3] 96 - - - - - - 66:start
+pUrNimA 16 dom - - - - - 66:end
+[span_1] 66 - - 18:r6 - - - -
+maXya_2 18 - - 32:k7t - - - -
+xigambara 19 - - - - - - 31:begin
+jEna 20 - - - - - - 31:inside
+maMxira 21 - - - - - - 31:inside
+[ne_2] 31 place - - - - - 53:op2
+[conj_2] 53 - - 32:k7p - - - -
+kAryakramaM_3 23 - - 32:k2 - - - -
+nirvahaNa_1 25 - - - - - - 32:kriyAmUla
+ceyu_1-yA_jAwA_hE_1 26 - - - - - - 32:verbalizer
+[cp_1] 32 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=124>
+#ఆదినాథ భగవానుడు పోదనపురం మరియు హస్తినాపుర రాజ్యాలను తన కుమారుడైన బాహుబలికి అప్పగించారు.
+BagavAna 1 male - - - - - 17:begin
+AxinAWa 2 - - - - - - 17:inside
+[ne_2] 17 per - 12:k1 - - - -
+poxanapura 4 - - - - - - 18:begin
+[ne_3] 18 place - - - - - 21:op1
+haswinApura 6 - - - - - - 19:begin
+[ne_4] 19 place - - - - - 21:op2
+rAjyaM_1 7 - - 12:k2 - - - -
+$apanA 8 - pl 9:r6 - - - -
+kumArudu_1 9 anim - 20:mod - - - -
+bAhubalI 10 male - - - - - 20:begin
+[ne_5] 20 per - 12:k4 - - - -
+appagiMcu_1-AdZu_1 12 - - 0:main - [shade:xe_1] - -
+[conj_1] 21 - - 7:mod - - - -
+%affirmative
+</sent_id>
+<sent_id=125>
+#బాహుబలి పోదనపురాన్ని పరిపాలించాడు.
+bAhubalI 1 male - - - - - 8:begin
+[ne_1] 8 per - 10:k1 - - - -
+poxanapura 3 - - - - - - 9:begin
+[ne_2] 9 place - 10:k7 - - - -
+paripAlana_1 5 - - - - - - 10:kriyAmUla
+ceyu_10-yA_1 6 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=126>
+#మరియు ఆయన కుమారుడైన సోమయశుడు హస్తినాపురాన్ని పరిపాలించాడు.
+$wyax 1 - - 2:r6 125.8:coref distal/respect - -
+kumArudu_1 2 - - 8:mod - - - -
+somayaSa 3 male - - - - - 8:begin
+haswinApura 5 - - - - - - 9:begin
+[ne_1] 8 per - 10:k1 - - - -
+[ne_2] 9 place - 10:k7 - - - -
+paripAlana_1 15 - - - - - - 10:kriyAmUla
+ceyu_10-yA_1 6 - - - - - - 10:verbalizer
+[cp_1] 10 - - 0:main 125.10:viroXI_xyowaka - - -
+%affirmative
+</sent_id>
+<sent_id=127>
+#బాహుబలి చిన్న తమ్ముడైన శ్రేయాంసకుమార్, ఆదినాథ భగవానుడికి చరణాభిషేకం చేశారు.
+bAhubalI 1 male - - - - - 14:begin
+[ne_1] 14 per - 4:r6 - - - -
+cinna_2 3 - - 4:quant - - - -
+soxarudu_1 4 - - 5:mod - - - -
+SreyaMRakumAra 5 male - - - - - 15:begin
+[ne_2] 15 per - 11:k1 - - - -
+AxinAWa 7 male - - - - - 16:begin
+BagavAna 8 - - - - - - 16:inside
+[ne_3] 16 per - 10:r6 - - - -
+caraNABiRekaM_1 10 - - 11:k2 - - - -
+ceyu_11-AdZu_1 11 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=128>
+#శ్రేయాంశకుమారుని జ్ఞాపకార్థం రత్న స్తంభాన్ని నిర్మింపజేశారు.
+SreyaMRakumAra 1 male - - - - - 10:begin
+[ne_1] 10 per - 3:r6 - - - -
+jFApakaM_1 3 - - 7:k7 - - - -
+rawna 5 - - - - - - 11:begin
+swamBa 6 - - - - - - 11:inside
+[ne_2] 11 - - 7:k2 - - - -
+nirmiMcu_2-yA_wA_1 7 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=129>
+#అక్కడ ఆదినాథ భగవానుని చరణపాదుకలను కూడా స్థాపించారు.
+$wyax 1 - - 13:k7p - distal - -
+AxinAWa 3 - - - - - - 12:begin
+BagavAna 4 - - - - - - 12:inside
+caraNapAxukA 6 - - - - - - 20:begin
+[ne_1] 20 - - 13:k2 - kUdA_1 - -
+prawiRTa_1 8 - - - - - - 13:kriyAmUla
+ceyu_5-AdZu_1 9 - - - - - - 13:verbalizer
+[ne_2] 12 per - 6:r6 - - - -
+[cp_1] 13 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=130>
+#శ్రీ శాంతినాథ భగవానుడు, శ్రీ కుంతినాథ భగవానుడు మరియు అరహనాథ భగవానుల నాలుగు కళ్యాణకాల జ్ఞాపకార్థం ఇక్కడ మూడు స్తంభాలను కూడా నిర్మించారు.
+SrI 1 male - - - - - 25:begin
+SAMwinAWa 2 - - - - - - 25:inside
+BagavAna 3 - - - - - - 25:inside
+[ne_2] 25 per - - - - - 29:op1
+SrI 5 male - - - - - 27:begin
+kuMWanAWa 6 - - - - - - 27:inside
+BagavAna 7 - - - - - - 27:inside
+[ne_4] 27 per - - - - - 29:op2
+arahanAWa 9 - - - - - - 28:begin
+BagavAna 10 - - - - - - 28:inside
+[ne_5] 28 per - - - - - 29:op3
+nAlugu_1 12 numex - 13:card - - - -
+kalyANaka 13 - - - - - - 35:begin
+[ne_6] 35 - - 15:r6 - - - -
+jFApakaM_1 15 - - 21:k7 - kUdA_1 - -
+$wyax 18 - - 21:k7p - proximal - -
+3_1 19 numex pl 20:card - - - -
+swaMBaM_1 20 - - 21:k2 - - - -
+nirmiMcu_2-yA_gayA_wA_1 21 - - 0:main - - - -
+[conj_1] 29 - - 13:r6 - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=131a>
+#రాజా శివరాజ్ మహావీర స్వామి ప్రవచనాలను విని జైన మతాన్ని స్వీకరించారు.
+rAju_1 1 - - 27:mod - - - -
+SivarAja 2 male - - - - - 27:begin
+[ne_1] 27 per - 12:k1 - - - -
+mahAvIra 4 male - - - - - 28:begin
+svAmI 5 - - - - - - 28:inside
+[ne_2] 28 per - 7:r6 - - - -
+pravacanaM_2 7 - - 8:k2 - - - -
+vinu_1 8 - - 12:rpk - - - -
+jEna 9 - - - - - - 87:begin
+Xarma 10 - - - - - - 87:inside
+[ne_3] 87 - - 12:k2 - - - -
+svIkariMcu_3-yA_1 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=131b>
+#మహావీర స్వామి జ్ఞాపకార్థం రాజా శివరాజ్ హస్తినాపురంలో ఒక స్తంభాన్ని నిర్మించారు.
+mahAvIra 13 male - - - - - 29:begin
+svAmI 14 - - - - - - 29:inside
+[ne_3] 29 per - 16:r6 - - - -
+jFApakaM_1 16 - - 25:k7 - - - -
+rAju_1 18 - - 30:mod - - - -
+SivarAja 19 male - - - - - 30:begin
+[ne_4] 30 per - 25:k1 - - - -
+haswinApura 21 - - - - - - 31:begin
+[ne_5] 31 place - 25:k7p - - - -
+oVka_2 23 - - 24:quant - - - -
+swaMBaM_1 24 - - 25:k2 - - - -
+nirmiMcu_2-yA_1 25 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=132>
+#సమ్రాట్ అశోకుడి వంశస్థులలో ఒకరు కూడా తన పరిపాలనా కాలంలో అనేక జైన దేవాలయాలను నిర్మించారు.
+samrAt_1 1 - - 18:mod - - - -
+aSoka 2 male - - - - - 18:begin
+[ne_1] 18 per - 5:r6 - - - -
+oVka_2 4 - - 5:quant - - - -
+vaMSasWudu_1 5 - - 16:k1 - kUdA_1 - -
+$apanA 8 - pl 9:r6 - - - -
+paripAlana_2 9 - - - - - - 19:mod
+kAlaM_2 10 - - - - - - 19:head
+[nc_1] 19 - - 12:r6 - - - -
+samayaM_2 12 - - 16:k7p - - - -
+aneka_2 13 - - 15:quant - - - -
+jEna_1 14 - - 15:mod - - - -
+AlayaM_1 15 - - 16:k2 - - - -
+ceyu_9-yA_1 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=133>
+#కానీ కాలక్రమంలో ఆ ప్రాచీన స్తంభాలు, ఆలయాలు క్రమంగా కనుమరుగయ్యాయి.
+samayaM_1 1 - - 3:r6 - - - -
+wo_1 3 - - 14:k7t - - - -
+$wyax 4 - pl 15:dem - distal - -
+pUrva_1 5 - - 15:mod - - - -
+swaMBaM_1 6 - - - - - - 15:op1
+AlayaM_1 8 - - - - - - 15:op2
+kramaMgA_1 9 - xviwva 14:krvn - - - -
+kanumarugu_1 10 - - - - - - 14:kriyAmUla
+avu_1-yA_1 11 - - - - - - 14:verbalizer
+[cp_1] 14 - - 0:main 132.16:viroXi - - -
+[conj_1] 15 - - 14:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=134>
+#ఈ హస్తినాపురం నగరం పవిత్ర గంగా నది తీరాన ఉంది.
+$wyax 1 - - 11:dem - proximal - -
+haswinApura 2 - - - - - - 11:begin
+nagara 3 - - - - - - 11:inside
+[ne_1] 11 place - 9:k1 - - - -
+paviwra_2 4 - - 5:mod - - - -
+gaMgA 5 - - - - - - 12:begin
+[ne_2] 12 place - 7:r6 - - - -
+oVddu_1 7 - pl 9:k7p - - - -
+uMdu_6 8 - - 9:k1s - - - -
+uMdu_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=135>
+#హస్తినాపురానికి చేరుకునే ప్రజలకు బస చేయడానికి ధర్మశాల ఏర్పాటు కూడా ఉంది.
+haswinApura 1 - - - - - - 15:begin
+[ne_1] 15 place - 2:k2p - - - -
+cerukoVnu_2 2 - - 3:rbks - - - -
+maMxi_1 3 - pl 5:r6 - - - -
+vidixiceyu_1 5 - - 12:rt - - - -
+XarmaSAla_1 8 - - 11:r6 - kUdA_1 - -
+erpAtu_2 11 - - 12:k1 - - - -
+kanipiMcu_1-wuMxi_1 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=136>
+#శ్వేతాంబర ట్రస్ట్ ధర్మశాలలో బస చేయడానికి 400 గదులు, ఉదయం అల్పాహారం, మధ్యాహ్న భోజనం మరియు రాత్రి భోజనం ఏర్పాటు ఉంటాయి.
+SvewAMbara 1 - - - - - - 27:begin
+trasta 2 - - - - - - 27:inside
+XarmaSAlA 3 - - - - - - 27:inside
+[ne_1] 27 org - 24:k7p - - - -
+vidixiceyu_1 5 - - 24:rt - - - -
+400 8 numex - 9:card - - - -
+gaxi_1 9 - pl - - - - 29:op4
+uxayaM_1 11 - - 13:r6 - - - -
+alpAhAraM_1 13 - - - - - - 29:op1
+maXyAhnaM_1 15 - - 17:r6 - - - -
+BojanaM_2 17 - - - - - - 29:op2
+rAwri_1 19 - - 21:r6 - - - -
+BojanaM_1 21 - - - - - - 29:op3
+erpAtu_1 23 - - 24:k1 - - - -
+avu_8-wuMxi_1 24 - - 0:main - - - -
+[conj_1] 29 - - 23:r6 - - - -
+%affirmative
+</sent_id>
+<sent_id=137>
+#ఇదే విధంగా ఇతర అనేక ధర్మశాలలు సులభంగా దొరుకుతాయి.
+$wyax 1 - - 2:dem - proximal - -
+viXaM_1 2 - - 8:krvn - - - -
+iwara_1 3 - - 5:mod - - - -
+eVnno_1 4 - - 5:quant - - - -
+XarmaSAla_1 5 - pl 8:k1 - - - -
+sulaBaMgA_1 6 - - 8:krvn - - - -
+kanipiMcu_1-wuMxi_1 8 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=138>
+#అతిశయ క్షేత్రం తిజారా: ఇక్కడ కోరిన దానికంటే ఎక్కువ లభిస్తుంది.
+awiSaya 1 - - - - - - 11:begin
+kRewra 2 - - - - - - 11:inside
+wijArA 3 - - - - - - 11:inside
+[ne_1] 11 place - 8:k7p - - - -
+korika_1 5 - - 6:rv - - - -
+eVkkuva_2 6 - - 8:k1 - - - -
+laBiMcu_1-wuMxi_1 8 - - 0:main - - - -
+$wyax 10 - - 8:k7p - proximal - -
+%affirmative
+</sent_id>
+<sent_id=139>
+#చంద్రప్రభు దిగంబర జైన అతిశయ క్షేత్రం దేహరా-తిజారా రాజస్థాన్‌లోని అల్వర్ జిల్లాలో ఉంది.
+caMxra 1 male - - - - - 16:begin
+praBu 2 - - - - - - 16:inside
+xigaMbara 3 - - - - - - 16:inside
+jEna 4 - - - - - - 16:inside
+awiSaya 5 - - - - - - 16:inside
+kRewra 6 - - - - - - 16:inside
+xeharA-wijArA 7 - - - - - - 16:inside
+[ne_1] 16 place - 14:k1 - - - -
+rAjasWAna 8 - - - - - - 18:begin
+[ne_3] 18 place - 10:r6 - - - -
+alavara 10 - - - - - - 19:begin
+jilA 11 - - - - - - 19:inside
+[ne_4] 19 place - 14:k7p - - - -
+uMdu_4 13 - - 14:k1s - - - -
+uMdu_1-pres 14 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=140>
+#దీనిని అతిశయ క్షేత్రం అంటారు.
+$wyax 1 - - 4:k2 - proximal - -
+awiSaya 2 - - - - - - 16:begin
+kRewra 3 - - - - - - 16:inside
+[ne_1] 16 place - 4:k2s - - - -
+anu_1-wuMxi_1 4 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=141>
+#అతిశయం అంటే సాధారణం కంటే చాలా ఎక్కువ.
+awiSaya 1 - - - - - - 9:begin
+[ne_1] 9 - - 3:r6 - - - -
+arWaM_1 3 - - 4:k1 - - - -
+uMdu_1-pres 4 - - 0:main - - - -
+sAXAraNaM_1 5 - - 8:intf - - - -
+cAlA_3 7 - - 8:intf - - - -
+eVkkuva_2 8 - - 4:k1s - - - -
+%affirmative
+</sent_id>
+<sent_id=142a>
+#అంటే ఏదో అసాధారణమైనది జరిగే క్షేత్రం.
+$wyax 2 - - 3:dem - proximal - -
+prAMwaM_1 3 - - 15:k1 - - - -
+eVkkada_1 4 - - 15:k7p - - - -
+exo_1 5 - - 6:quant - - - -
+asAXAraNamEna_1 6 - - 15:k1 - - - -
+jarugu_5 7 - - - - - - 15:kriyAmUla
+avu_3-e_2 8 - - - - - - 15:verbalizer
+[cp_1] 15 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=142b>
+#అంటే ఏదైనా అసాధారణమైన అద్భుతం జరిగే క్షేత్రం.
+$wyax 2 - - 3:dem - proximal - -
+prAMwaM_1 3 - - 15:k7p - - - -
+eVkkada_1 4 - - 15:k7p - - - -
+exEnA_2 10 - - 11:mod - - - -
+asAXAraNamEna_1 6 - - 11:mod - - - -
+axBuwaM_1 11 - - 15:k1 - - - -
+jarugu_1-e_2 15 - - 0:main 142a.15:udāharaṇasvarūpa [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=143a>
+#అంటే, సాధారణంగా మనం ఏది కోరుకున్నా సరే.
+sAXAraNa_1 3 - - 4:mod - - - -
+wIru_1 4 - - 18:k7 - - - -
+$yax 6 - - 7:dem - - - -
+exi_1 7 - - 18:k2 - - - -
+koru_1-yA_jA_e_1 18 - - 0:main 143b.14:AvaSyakawApariNAma - - -
+%pass_affirmative
+</sent_id>
+<sent_id=143b>
+#దానికంటే చాలా ఎక్కువ లభిస్తే.
+$wyax 11 - - 14:k5 - distal - -
+cAlA_3 12 - - 25:mod - - - -
+eVkkuva_2 25 - - 14:k1 - - - -
+laBiMcu_1-e_2 14 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=144a>
+#ఎంత లభిస్తుందంటే.
+eVMwa_1 1 - - 2:k1 - - - -
+laBiMcu_1-e_1 2 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=144b>
+#మీరు తడిసి ముద్దవుతారు అని.
+$addressee 1 - - 6:k1 - respect - -
+wadisimuxxa_1 2 - - - - - - 6:kriyAmUla
+avu_1-e_1 3 - - - - [shade:jA_1] - 6:verbalizer
+[cp_1] 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=145>
+#తిజారా క్షేత్రపు నమ్మకం ఇలాంటిదే.
+$wyax 1 - - 3:k1s - e_1/proximal - -
+uMdu_1-pres 3 - - 0:main - - - -
+wijArA 4 - - - - - - 9:begin
+kRewra 5 - - - - - - 9:inside
+nammakaM_1 7 - - 3:k1 - - - -
+[ne_1] 9 place - 7:r6 - - - -
+%affirmative
+</sent_id>
+<sent_id=146a>
+#తిజారా యొక్క ఈ అతిశయ క్షేత్రం లేదా ఇలా అందాం...
+wijArA 1 - - - - - - 9:begin
+$wyax 3 - - 5:dem - proximal - -
+awiSaya_1 4 - - 5:mod - - - -
+prAMwaM_1 5 - - 7:k2 - - - -
+ceVppu_2-e_1 7 - - 0:main - - - -
+[ne_1] 9 place - 5:r6 - - - -
+%affirmative
+</sent_id>
+<sent_id=146b>
+#ఆలయం అల్వర్ జిల్లా నుండి 52 కిలోమీటర్లు మరియు ఢిల్లీ నుండి 117 కిలోమీటర్ల దూరంలో ఉంది అని.
+AlayaM_1 1 - - 16:k1 - - - -
+alavara 2 - - - - - - 18:begin
+jilA 3 - - - - - - 18:inside
+[ne_1] 18 place - 16:k5 - - - -
+52 5 numex - - - - - 20:count
+kilomItaru_1 6 - - - - - - 20:unit
+[dist_meas_1] 20 - - - - - - 22:op1
+xillI 8 - - - - - - 19:begin
+[ne_2] 19 place - 16:k5 - - - -
+117 10 numex - - - - - 21:count
+kilomItaru_1 11 - - - - - - 21:unit
+[dist_meas_1] 21 - - - - - - 22:op2
+[conj_1] 22 - - 13:r6 - - - -
+xUraM_1 13 - - 16:k7p - - - -
+uMdu_4 15 - - 16:k1s - - - -
+uMdu_1-pres 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=147>
+#తిజారా అతిశయ క్షేత్రంలో 24 మంది తీర్థంకరులలో 8వ తీర్థంకరుడైన శ్రీ చంద్రప్రభు భగవానుని ఆరాధిస్తారు.
+wijArA 1 - - - - - - 21:begin
+awiSaya 2 - - - - - - 21:inside
+kRewra 3 - - - - - - 21:inside
+[ne_1] 21 place - 17:k7p - - - -
+24 5 numex - 6:card - - - -
+wIrWaMkara 6 - - - - - - 67:begin
+[ne_3] 67 - pl 17:rn - - - -
+8 9 numex - 10:ord - - - -
+wIrWaMkara 10 - - - - - - 68:begin
+[ne_4] 68 - - 22:rs - - - -
+SrI 11 - - - - - - 22:begin
+caMxra 12 male - - - - - 22:inside
+praBu 13 - - - - - - 22:inside
+BagavAna 14 - - - - - - 22:inside
+[ne_2] 22 per - 16:r6 - - - -
+ArAXana_1 16 - - - - - - 17:kriyAmUla
+ceyu_22-yA_jAwA_hE_1 37 - - - - - - 17:verbalizer
+[cp_1] 17 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=148>
+#తిజారా అతిశయ క్షేత్రంలో చంద్రప్రభు భగవానుని తెల్లని అత్యంత మనోహరమైన పాలరాతి విగ్రహం ప్రతిష్ఠించబడింది.
+wijArA 1 - - - - - - 20:begin
+awiSaya 2 - - - - - - 20:inside
+kRewra 3 - - - - - - 20:inside
+[ne_1] 20 place - 18:k7p - - - -
+caMxra 5 male - - - - - 21:begin
+praBu 6 - - - - - - 21:inside
+BagavAna 7 - - - - - - 21:inside
+[ne_2] 21 per - 16:r6 - - - -
+weVllani_1 9 - - 10:mod - - - -
+raMgu_1 10 - - 14:r6 - - - -
+awyaMwa_1 12 - - 13:intf - - - -
+manoharamEna_2 13 - - 16:mod - - - -
+pAlarAyi_1 14 - - 16:r6 - - - -
+vigrahaM_1 16 - - 18:k1 - - - -
+neVlakoVnu_1 17 - - 18:k1s - - - -
+uMdu_1-pres 18 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=149>
+#ఈ పాలరాతి విగ్రహం ఈ ప్రాంతంలో జరిపిన త్రవ్వకాలలో 1956 ఆగస్టు 16న బయటపడింది.
+$wyax 1 - - 3:dem - proximal - -
+pAlarAyi_1 2 - - 3:mod - - - -
+vigrahaM_1 3 - - 17:k1 - - - -
+$wyax 4 - - 5:dem - proximal - -
+prAMwaM_1 5 - - 7:k7p - - - -
+jarupu_1 7 - - 9:rbks - [shade:jA_1] - -
+wravvakaM_1 9 - - 11:r6 - - - -
+samayaM_2 11 - - 17:k7t - - - -
+16 12 dom - - - - - 20:component
+Agastu_1 13 moy - - - - - 20:component
+1956 15 yoc - - - - - 20:component
+bayatapadu_1-AdZu_1 17 - - 0:main - - - -
+[calendar_1] 20 - - 17:k7t - - - -
+%affirmative
+</sent_id>
+<sent_id=150a>
+#చెబుతారు.
+ceVppu_2-wuMxi_1 1 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=150b>
+#తిజారా ప్రాంతానికి చెందిన ఒక ప్రసిద్ధ వైద్యుడు బిహారీ లాల్ భార్య సరస్వతీ దేవి మూడు రోజులు ఉపవాసం ఉన్నారు అని.
+wijArA 1 - - - - - - 21:begin
+kRewra 2 - - - - - - 21:inside
+[ne_1] 21 place - 22:r6 - - - -
+oVka_2 4 - - 22:quant - - - -
+prasixXa_1 5 - - 22:mod - - - -
+vExya 6 - - - - - - 22:begin
+bihArI 7 male - - - - - 22:inside
+lAla 8 male - - - - - 22:inside
+[ne_2] 22 per - 10:r6 - - - -
+BArya_1 10 - - 12:mod - - - -
+sarasvawI 11 female - - - - - 23:begin
+xevI 12 - - - - - - 23:inside
+[ne_3] 23 per - 18:k1 - - - -
+mUdu_1 14 numex - 15:card - - - -
+roju_1 15 - pl 17:r6 - - - -
+upavAsaM_1 17 - - 18:k2 - - - -
+kaligiuMdu_1-past 18 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=151>
+#మూడవ రోజు ఉపవాస దీక్ష రాత్రి, సరస్వతీ దేవికి తన ఇంటి దగ్గర ఉన్న ఒక స్థలం గురించి కలలో ఏదో అద్భుతం కనిపించింది.
+mUdava_1 1 numex - 2:ord - - - -
+roju_1 2 - - 24:k7t - - - -
+vrawaM_1 3 - - 5:r6 - - - -
+rAwri_1 5 - - 24:k7t - - - -
+sarasvawI 7 female - - - - - 26:begin
+xevI 8 - - - - - - 26:inside
+[ne_1] 26 per - 24:k4 - - - -
+kala_1 10 - - 24:k7 - - - -
+$apanA 12 - - 13:r6 26:coref - - -
+illu_1 13 - - 15:r6 - - - -
+xaggara_1 15 - - 16:k7p - - - -
+uMdu_4 16 - - 18:mod - - - -
+oVka_2 17 - - 18:quant - - - -
+sWalaM_1 18 - - 50:r6 - - - -
+guriMci_1 50 - - 24:k7 - - - -
+exi_1 22 - - 23:quant - - - -
+axBuwaM_2 23 - - 24:k1 - - - -
+kanipiMcu_2-yA_wA_1 24 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=152a>
+#మరుసటి రోజు ఉదయం ఆ స్థలంలో తవ్వకం చేయించినప్పుడు,
+marusati_1 1 - - 2:mod - - - -
+uxayaM_1 2 - - 23:k7t - - - -
+$yax 3 - - 23:k7t - - - -
+$wyax 4 - - 5:dem - distal - -
+sWalaM_1 5 - - 23:k2 - - - -
+wavvakaM_1 7 - - - - - - 23:kriyAmUla
+ceyu_1-yA_gayA_1 8 - - - - - - 23:verbalizer
+[cp_1] 23 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=152b>
+#అక్కడ చంద్రప్రభు భగవానుని భవ్యమైన విగ్రహం లభించింది.
+$wyax 11 - - 24:k7p 152a.5:coref distal - -
+caMxra 12 male - - - - - 21:begin
+praBu 13 - - - - - - 21:inside
+BagavAna 14 - - - - - - 21:inside
+[ne_1] 21 per - 17:r6 - - - -
+BavyamEna_1 16 - - 17:mod - - - -
+vigrahaM_1 17 - - 24:k1 - - - -
+laBiMcu_2 18 - - - - - - 24:kriyAmUla
+avu_3-yA_1 19 - - - - - - 24:verbalizer
+[cp_1] 24 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=153>
+#త్రవ్వకాలు జరిపిన తర్వాత విగ్రహం బయటపడినప్పుడు, భక్తులు దీనికి ఈ అర్థం తీశారు.
+wravvakaM_1 1 - - - - - - 18:kriyAmUla
+ceyu_1 2 - - - - - - 18:verbalizer
+warvAwa_2 4 - - 8:k7t - - - -
+$yax 5 - - 6:dem - - - -
+samayaM_1 6 - - 8:k7t - - - -
+vigrahaM_1 7 - - 8:k2 - - - -
+bayatapadu_2 8 - - 10:rvks - - - -
+Bakwudu_1 10 - - 11:mod - - - -
+janaM_1 11 - pl 16:k1 - - - -
+$wyax 13 - - 14:r6 - proximal - -
+arWaM_1 14 - - 16:k2 - - - -
+$wyax 15 - - 16:k2s - proximal - -
+wIyu_1-yA_1 16 - - 0:main - - - -
+[cp_1] 18 - - 4:rkl - - - -
+%affirmative
+</sent_id>
+<sent_id=154>
+#రైలులో ప్రకృతిని పూర్తిగా ఆస్వాదిస్తూ గోవాకు వెళ్లడంలో ప్రత్యేకమైన ఆనందమే ఉంది.
+rElu_1 1 - - 17:k7p - - - -
+prakqwi_1 3 - - 6:r6 - - - -
+pUrwigA_1 5 - - 6:mod - - - -
+AnaMxaM_1 6 - - - - - - 17:kriyAmUla
+wIsukoVnu_2 7 - - - - - - 17:verbalizer
+govA 9 - - - - - - 50:begin
+[ne_1] 50 - - 10:k2p - - - -
+veVlYlYu_1 10 - kqw 14:r6 - - - -
+prawyekamEna_1 12 - - 14:mod - e_1 - -
+AnaMxaM_2 14 - - 15:k1 - - - -
+uMdu_2-pres 15 - - 0:main - - - -
+[cp_1] 17 - - 15:rsk - - - -
+%affirmative
+</sent_id>
+<sent_id=155>
+#ప్రకృతే విగ్రహానికి జలాభిషేకం చేసి దానిని పవిత్రం చేసింది.
+prakqwi_1 1 - - 14:k1 - e_1 - -
+vigrahaM_1 4 - - 13:r6 - - - -
+jalABiReka 6 - - - - - - 13:begin
+ceyu_17 7 - - 14:rpk - - - -
+$wyax 8 - - 14:k2 4:coref distal - -
+paviwra_2 9 - - - - - - 14:kriyAmUla
+ceyu_22-yA_1 10 - - - - [shade:xe_1] - 14:verbalizer
+[ne_1] 13 - - 7:k2 - - - -
+[cp_1] 14 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=156>
+#ఈ సంఘటన జరిగిన అనేక సంవత్సరాల తర్వాత అదే ప్రాంతం నుండి 29 మార్చి, 1972న పద్మాసన ముద్రలో ఉన్న చంద్రప్రభు భగవానుని నల్లని మరో విగ్రహం లభించింది.
+$wyax 1 - - 2:dem - proximal - -
+saMGatana_1 2 - - 5:r6 - - - -
+eVnno_1 4 - - 5:quant - - - -
+saMvawsaraM_1 5 - - 6:rkl - - - -
+warvAwa_1 6 - - 32:k7t - - - -
+$wyax 7 - - 8:dem - e_1/distal - -
+prAMwaM_3 8 - - 32:k5 - - - -
+29 10 dom - - - - - 33:component
+mArci_1 11 moy - - - - - 33:component
+1972 13 yoc - - - - - 33:component
+caMxra 15 male - - - - - 31:begin
+praBu 16 - - - - - - 31:inside
+BagavAna 17 - - - - - - 31:inside
+nallani_1 19 - - 20:mod - - - -
+raMgu_1 20 - - 27:r6 - - - -
+paxmAsana 22 - - - - - - 80:begin
+[ne_2] 80 - - 23:mod - - - -
+muxra_1 23 - - 32:k7 - - - -
+oVka_2 25 - - 27:quant - - - -
+maro_1 26 - - 27:mod - - - -
+vigrahaM_1 27 - - 32:k1 - - - -
+laBiMcu_2 28 - - - - - - 32:kriyAmUla
+avu_3-yA_1 29 - - - - - - 32:verbalizer
+[ne_1] 31 per - 27:r6 - - - -
+[cp_1] 32 - - 0:main - - - -
+[calendar_1] 33 - - 32:k7t - - - -
+%affirmative
+</sent_id>
+<sent_id=157>
+#చంద్రప్రభు భగవానుని ఈ విగ్రహం ఆలయ దక్షిణ ద్వారం తవ్వకాల సమయంలో బయటపడింది.
+caMxra 1 male - - - - - 18:begin
+praBu 2 - - - - - - 18:inside
+BagavAna 3 - - - - - - 18:inside
+[ne_1] 18 per - 6:r6 - - - -
+$wyax 5 - - 6:dem - proximal - -
+vigrahaM_1 6 - - 15:k1 - - - -
+AlayaM_1 7 - - 10:r6 - - - -
+xakRiNa_1 9 - - 10:mod - - - -
+xvAraM_1 10 - - 12:r6 - - - -
+wravvakaM_1 12 - - 14:r6 - - - -
+samayaM_2 14 - - 15:k7t - - - -
+bayatapadu_1-AdZu_1 15 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=158>
+#అతిశయ క్షేత్రంలో నెలకొన్న ఈ ఆలయ బాహ్య స్వరూపం అత్యంత భవ్యమైనది.
+awiSaya 1 - - - - - - 13:begin
+kRewra 2 - - - - - - 13:inside
+[ne_1] 13 place - 4:k7p - - - -
+neVlakoVnu_1 4 - - 6:mod - - - -
+$wyax 5 - - 6:dem - proximal - -
+AlayaM_1 6 - - 9:r6 - - - -
+bAhya_1 8 - - 9:mod - - - -
+svarUpaM_1 9 - - 12:k1 - - - -
+awyaMwa_1 10 - - 11:mod - - - -
+BavyamEna_1 11 - - 12:k1s - - - -
+uMdu_1-pres 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=159>
+#అతిశయ క్షేత్రంలో నెలకొన్న ఈ ఆలయ అంతర్గత అలంకరణ ఎంతో ఆకర్షణీయంగా ఉంటుంది.
+awiSaya 1 - - - - - - 13:begin
+kRewra 2 - - - - - - 13:inside
+[ne_1] 13 place - 4:k7p - - - -
+neVlakoVnu_1 4 - - 6:mod - - - -
+$wyax 5 - - 6:dem - proximal - -
+AlayaM_1 6 - - 9:r6 - - - -
+aMwargawa_1 8 - - 9:mod - - - -
+alaMkaraNa_1 9 - - 12:k1 - - - -
+eVMwo_1 10 - - 11:intf - - - -
+AkarRaNIyamEna_1 11 - - 12:k1s - - - -
+uMdu_1-pres 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=160a>
+#ఆలయ ప్రాంగణంలో ఎంత స్థలం ఉందంటే.
+AlayaM_1 1 - - 3:r6 - - - -
+prAMgaNaM_1 3 - - 7:k7p - - - -
+eVMwa_1 5 - - 6:quant - - - -
+sWalaM_2 6 - - 7:k1 - - - -
+uMdu_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=160b>
+#ఒకేసారి ఇక్కడ రెండు వేల మంది సులభంగా ఉండగలరు అని.
+oVka_2 1 - - 3:quant - e_1 - -
+sAri_1 3 - - 16:k7t - - - -
+$wyax 5 - - 16:k7p 160a.3:coref proximal - -
+2000 7 numex - 8:card - - - -
+maMxi_1 8 - pl 16:k1 - - - -
+sulaBaMgA_1 9 - - 16:krvn - - - -
+uMdu_6 11 - - - - - - 16:kriyAmUla
+uMdu_5-vaccu_1 12 - - - - - - 16:verbalizer
+[cp_1] 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=161>
+#గోవాకు వెళ్లే రైలు మార్గం చిన్న చిన్న కొండలతో, లోయలతో నిండి ఉంది.
+govA 1 - - - - - - 15:begin
+[ne_1] 15 place - 2:k2p - - - -
+veVlYlYu_1 2 - kqw 5:r6 - - - -
+rElu_1 4 - - 5:mod - - - -
+mArgaM_1 5 - - 11:k1 - - - -
+cinna_1 6 - xviwva 16:mod - - - -
+koVMda_1 7 - pl - - - - 16:op1
+loya_1 9 - pl - - - - 16:op2
+niMdu_1-iMxi_1 11 - - 0:main - [shade:padZA_1] - -
+[conj_1] 16 - pl 11:k3 - - - -
+%affirmative
+</sent_id>
+<sent_id=162>
+#తిజారాలో ఒక పెద్ద హాలు ఉంది.
+wijArA 1 - - - - - - 8:begin
+[ne_1] 8 place - 6:k7p - - - -
+oVka_2 3 - - 5:quant - - - -
+peVxxa_1 4 - - 5:mod - - - -
+hAlu_1 5 - - 6:k1 - - - -
+uMdu_1-pres 6 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=163>
+#తిజారా హాలుకు రెండు వైపులా గోడలపై అద్దాల పని చేశారు.
+wijArA 1 - - - - - - 20:begin
+[ne_1] 20 place - 3:r6 - - - -
+hAlu_1 3 - - 6:r6 - - - -
+reVMdu_1 5 numex - 6:card - - - -
+vEpu_1 6 - - 7:r6 - - - -
+goda_1 7 - pl 12:k7p - - - -
+axxaM_1 9 - - 11:r6 - - - -
+pani_1 11 - - 12:k2 - - - -
+ceyu_17-yA_gayA_hE_1 12 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=164>
+#తిజారా హాలు గోడలపై చిత్రాల ద్వారా పౌరాణిక గాథను చెక్కారు.
+wijArA 1 - - - - - - 17:begin
+[ne_1] 17 place - 3:r6 - - - -
+hAlu_1 3 - - 5:r6 - - - -
+goda_1 5 - pl 13:k7p - - - -
+ciwraM_1 7 - pl 13:k3 - - - -
+pOrANika_1 11 - - 12:mod - - - -
+gAWa_1 12 - - 13:k2 - - - -
+ceVkku_1-yA_gayA_hE_1 13 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=165>
+#అతిశయ క్షేత్రంలోని ఆలయంలో వ్యక్తి ఈ విగ్రహం ముందు నిండు మనసుతో ప్రార్థిస్తాడు.
+awiSaya 1 - - - - - - 19:begin
+kRewra 2 - - - - - - 19:inside
+[ne_1] 19 place - 4:r6 - - - -
+AlayaM_1 4 - - 18:k7p - - - -
+vyakwi_1 6 - - 18:k1 - - - -
+$wyax 7 - - 8:dem - proximal - -
+vigrahaM_1 8 - - 10:r6 - - - -
+muMxu_2 10 - - 18:k7p - - - -
+niMdu_2 11 - - 12:mod - - - -
+manasu_1 12 - - 18:krvn - - - -
+prArWana_1 14 - - - - - - 18:kriyAmUla
+ceyu_3-wuMxi_1 15 - - - - - - 18:verbalizer
+[cp_1] 18 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=166a>
+#ఒక నమ్మకం ఉంది.
+nammakaM_1 1 - - 2:k1 - - - -
+uMdu_1-pres 2 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=166b>
+#వ్యక్తి కోరికలన్నీ నెరవేరుతాయి అని.
+vyakwi_1 1 - - 4:r6 - - - -
+annI_1 3 - - 4:quant - - - -
+korika_1 4 - pl 9:k1 - - - -
+neVraveru_1 5 - - - - - - 9:kriyAmUla
+avu_1-wuMxi_1 6 - - - - - - 9:verbalizer
+[cp_1] 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=167>
+#చేతబడి ప్రభావానికి గురైన వారు కూడా తమ సమస్యల పరిష్కారం కోసం తిజారాకు వస్తారు.
+cewabadi_1 1 - - 3:k3 - - - -
+praBAviwamEna_1 3 - kqw 4:mod - - - -
+maMxi_1 4 - pl 13:k1 - kUdA_1 - -
+$apanA 6 - - 7:r6 4:coref - - -
+samasya_1 7 - pl 9:r6 - - - -
+pariRkAraM_1 9 - - 13:rt - - - -
+wijArA 12 - - - - - - 16:begin
+[ne_1] 16 place - 13:k2p - - - -
+vaccu_1-wuMxi_1 13 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=168>
+#ఆలయం ముందు అత్యంత ఆకర్షణీయమైన ఒక స్తంభం ప్రతిష్ఠించబడి ఉంది.
+AlayaM_1 1 - - 3:rdl - - - -
+muMxu_3 3 - - 9:k7p - - - -
+oVka_2 4 - - 7:quant - - - -
+awyaMwa_1 5 - - 7:mod - - - -
+AkarRaNIyamEna_2 6 - - 7:mod - - - -
+swaMBaM_1 7 - - 9:k1 - - - -
+neVlakoVnu_1 8 - - 9:k1s - - - -
+uMdu_1-pres 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=169>
+#దీనిని మానస్తంభం అని పిలుస్తారు.
+$wyax 1 - - 3:k2 168.7:coref proximal - -
+mAna-swaMBa 2 - - - - - - 5:begin
+[ne_1] 5 - - 3:k2s - - - -
+anu_3 3 - - 4:rpk - - - -
+pilucu_1-yA_jAwA_hE_1 4 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=170>
+#స్తంభం పైన భగవంతుని విగ్రహాలను అమర్చారు.
+swaMBaM_1 1 - - 3:r6 - - - -
+pEna_1 3 - - 7:k7p - - - -
+BagavaMwudu_2 4 - - 6:r6 - - - -
+vigrahaM_1 6 - pl 7:k1 - - - -
+amarcu_1-yA_gayA_hE_1 7 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=171>
+#భగవంతుని విగ్రహాల దర్శనం దూరం నుండే అవుతుంది.
+BagavaMwudu_2 1 - - 3:r6 - - - -
+vigrahaM_1 3 - pl 20:r6 - - - -
+xUraM_2 5 - - 20:k5 - e_1 - -
+xarSanaM_3 8 - - - - - - 20:kriyAmUla
+avu_8-wuMxi_1 9 - - - - [shade:jA_1] - 20:verbalizer
+[cp_1] 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=172>
+#దీనిని మానస్తంభం అంటారు.
+$wyax 1 - - 3:k2 - proximal - -
+mAna-swaMBa 2 - - - - - - 4:begin
+[ne_1] 4 - - 3:k2s - - - -
+anu_3-yA_jAwA_hE_1 3 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=173>
+#మానస్తంభాన్ని దర్శిస్తే చాలు, మనిషిలోని గర్వం తగ్గిపోతుంది.
+mAna-swaMBa 1 - - - - - - 16:begin
+[ne_1] 16 - - 3:r6 - - - -
+xarSanaM_2 3 - - 11:k3 - mAwra_1/e_1 - -
+vyakwi_1 7 - - 9:r6 - - - -
+garvaM_1 9 - - 11:k1 - - - -
+waggu_1 15 - - 11:k1s - - - -
+avu_8-wuMxi_1 11 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=174a>
+#సాధారణ పద్ధతి అయితే ఇది.
+sAXAraNa_1 1 - - 2:mod - - - -
+paxXawi_1 2 - - 4:k1 - - - -
+$wyax 3 - - 4:k1s - proximal - -
+uMdu_1-pres 4 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=174b>
+#మానస్తంభం శిఖరంపై తీర్థంకర భగవానుని నాలుగు విగ్రహాలను ప్రతిష్ఠిస్తారు అని.
+mAna-swaMBa 1 - - - - - - 17:begin
+[ne_1] 17 - - 3:r6 - - - -
+SiKaraM_1 3 - - 11:k7p - - - -
+wIrWaMkara 5 - - - - - - 12:begin
+BagavAna 6 - - - - - - 12:inside
+[ne_2] 12 - - 9:r6 - - - -
+nAlugu_1 8 numex - 9:card - - - -
+vigrahaM_1 9 - pl 11:k2 - - - -
+prawiRTa_1 10 - - - - - - 11:kriyAmUla
+ceyu_5-yA_jAwA_hE_1 19 - - - - - - 11:verbalizer
+[cp_1] 11 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=175>
+#తిజారాలో సంవత్సరానికి రెండు సార్లు ప్రత్యేక కార్యక్రమాలు నిర్వహిస్తారు.
+wijArA 1 - - - - - - 15:begin
+[ne_1] 15 place - 11:k7p - - - -
+saMvawsaraM_1 3 - - 11:k7t - - - -
+reVMdusArlu_1 6 - - 11:krvn - - - -
+prawyeka_1 7 - - 8:mod - - - -
+kAryakramaM_1 8 - pl 11:k2 - - - -
+nirvahaNa_1 10 - - - - - - 11:kriyAmUla
+ceyu_22-yA_jAwA_hE_1 19 - - - - - - 11:verbalizer
+[cp_1] 11 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=176>
+#ఒకసారి ఫాల్గుణ సప్తమి నాడు మరియు మరోసారి శ్రావణ శుక్ల దశమి నాడు.
+oVkasAri_1 1 - - 41:krvn - - - -
+PAlguna 3 moy - - - - - 25:component
+sapwamI 4 dom - - - - - 25:component
+[calendar_1] 25 - - 41:k7t - - - -
+marosAri_1 7 - - 8:mod - - - -
+sAri_1 8 - - 41:krvn - - - -
+SrAvaNa 9 moy - - - - - 26:component
+Sukla 10 - - - - - - 26:component
+xaSamI 11 dom - - - - - 26:component
+[calendar_2] 26 - - 41:k7t - - - -
+nirvahaNa_1 30 - - - - - - 41:kriyAmUla
+ceyu_22-yA_jAwA_hE_1 39 - - - - - - 41:verbalizer
+[cp_1] 41 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=177>
+#తిజారా అతిశయ క్షేత్రంలో భక్తులు బస చేయడానికి 300 గదుల ధర్మశాలను నిర్మించారు.
+wijArA 1 - - - - - - 19:begin
+[ne_1] 19 place - 4:r6 - - - -
+awiSaya 3 - - - - - - 20:begin
+kRewra 4 - - - - - - 20:inside
+[ne_2] 20 place - 15:k7p - - - -
+Bakwudu_1 6 - pl 8:r6 - - - -
+basa_1 8 - - 15:rt - - - -
+300 11 numex - 12:card - - - -
+gaxi_1 12 - pl 14:r6 - - - -
+XarmaSAla_1 14 - - 15:k2 - - - -
+nirmiMcu_2-yA_gayA_hE_1 15 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=178>
+#ప్రాచీన కాలంలో తిజారా అతిశయ క్షేత్రం దేహరా అనే పేరుతో ప్రసిద్ధి చెందింది.
+pUrva_1 1 - - 2:mod - - - -
+kAlaM_2 2 - - 11:k7t - - - -
+wijArA 4 - - - - - - 13:begin
+awiSaya 5 - - - - - - 13:inside
+kRewra 6 - - - - - - 13:inside
+[ne_1] 13 place - 11:k1 - - - -
+xeharA 7 - - - - - - 14:begin
+[ne_2] 14 place - 8:mod - - - -
+peru_1 8 - - 11:k3 - - - -
+prasixXamEna_1 10 - - 11:k1s - - - -
+uMdu_1-past 11 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=179>
+#కాలక్రమంలో ఈ స్థలాన్ని దేహరా-తిజారా అని, ఇప్పుడు కేవలం తిజారా అని కూడా పిలుస్తున్నారు.
+kAlakramaM_1 1 - - 11:k7t - - - -
+$wyax 3 - - 4:dem - proximal - -
+sWalaM_1 4 - - 11:k1 - - - -
+xeharA-wijArA 5 - - - - - - 20:begin
+[ne_1] 20 place - - - - - 15:op1
+ippudu_1 7 - - 11:k7t - - - -
+wijArA 9 - - - - - - 14:begin
+[ne_2] 14 place - - - sirPa_1/kUdA_1 - 15:op2
+pilucu_2-wuMxi_1 11 - - 0:main - - - -
+[conj_1] 15 - - 11:k2 - - - -
+%affirmative
+</sent_id>
+<sent_id=180>
+#బస్తర్ జిల్లా కేంద్రమైన జగదల్‌పూర్‌కు దక్షిణంగా 35 కిలోమీటర్ల దూరంలో కాంగేర్ లోయ జాతీయ ఉద్యానవనం ఉంది.
+baswara 1 - - - - - - 21:begin
+[ne_1] 21 place - 4:r6 - - - -
+jillA_1 3 - - - - - - 25:mod
+keMxraM_1 4 - - - - - - 25:head
+[6-waw_1] 25 - - 5:mod - - - -
+jagaxalapura 5 - - - - - - 22:begin
+[ne_2] 22 place - 19:k5 - - - -
+xakRiNaM_1 7 - - 19:k7 - - - -
+35 9 numex - - - - - 24:count
+kilomItaru_1 10 - - - - - - 24:unit
+[dist_meas_1] 24 - - 12:r6 - - - -
+xUraM_1 12 - - 19:k7 - - - -
+kAMkera 14 - - - - - - 23:begin
+GAtI 15 - - - - - - 23:inside
+rARtrIya 16 - - - - - - 23:inside
+uxyAna 17 - - - - - - 23:inside
+[ne_3] 23 place - 19:k1 - - - -
+uMdu_4 18 - - 19:k1s - - - -
+uMdu_1-pres 19 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=181>
+#కాంగేర్ లోయ జాతీయ ఉద్యానవనం తన జలపాతాలకు, గుహలకు మరియు జీవ వైవిధ్యానికి ప్రసిద్ధి చెందింది.
+kAMkera 1 - - - - - - 16:begin
+GAtI 2 - - - - - - 16:inside
+rARtrIya 3 - - - - - - 16:inside
+uxyAna 4 - - - - - - 16:inside
+[ne_1] 16 place - 14:k1 - - - -
+$apanA 5 - pl 17:r6 16:coref - - -
+jalapAwaM_1 6 - pl - - - - 17:op1
+guha_1 8 - pl - - - - 17:op2
+jIva_1 10 - - - - - - 50:mod
+vEviXyaM_1 11 - - - - - - 50:head
+[nc_1] 50 - - - - - - 17:op3
+prasixXamEna_1 19 - - 14:k1s - - - -
+[conj_1] 17 - - 14:rt - - - -
+uMdu_1-pres 14 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=182>
+#కాంగేర్ లోయలోని ప్రధాన పర్యాటక స్థలాలు ఈ క్రింది విధంగా ఉన్నాయి -
+kAMkera 1 - - - - - - 11:begin
+GAtI 2 - - - - - - 11:inside
+[ne_1] 11 place - 6:r6 - - - -
+praXAna_1 4 - - 12:mod - - - -
+paryAtaka_1 5 - - - - - - 12:mod
+sWalaM_1 6 - - - - - - 12:head
+[6_waw_1] 12 - pl 8:k1 - - - -
+IkriMxiviXaMgA_1 7 - - 8:k1s - - - -
+uMdu_1-pres 8 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=183>
+#జగదల్‌పూర్ నుండి 35 కిలోమీటర్ల దూరంలో ఉన్న తీరథ్‌గఢ్ మనోహరమైన జలపాతం పర్యాటకుల మనసు దోచుకుంటుంది.
+jagaxalapura 1 - - - - - - 20:begin
+[ne_1] 20 place - 6:k5 - - - -
+35 3 numex - - - - - 23:count
+kilomItaru_1 4 - - - - - - 23:unit
+[dist_meas_1] 23 - - 6:r6 - - - -
+xUraM_1 6 - - 8:k7p - - - -
+uMdu_7 8 - - 12:mod - - - -
+wIraWagaDZa 9 - - - - - - 21:begin
+[ne_2] 21 place - 12:r6 - - - -
+manoharamEna_3 11 - - 12:mod - - - -
+jalapAwaM_1 12 - - 16:k1 - - - -
+paryAtakudu_1 13 anim pl 15:r6 - - - -
+manasu_2 15 - - 16:k2 - - - -
+xocukoVnu_1-wuMxi_1 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=184>
+#పర్యాటకులు దాని మనోహరమైన సౌందర్యంలో మైమరచిపోతారు.
+paryAtakudu_1 1 - pl 6:k1 - - - -
+$wyax 2 - - 4:r6 183.12:coref proximal - -
+manoharamEna_1 3 - - 4:mod - - - -
+sOMxaryaM_1 4 - - 6:k7 - - - -
+mEmaracu_1-wuMxi_1 6 - - 0:main - [shade:jA_1] - -
+%affirmative
+</sent_id>
+<sent_id=185>
+#తీరథ్‌గఢ్ నుండి తిరిగి వెళ్లాలనే అనిపించదు.
+wIraWagaDZa 1 - - - - - - 11:begin
+[ne_1] 11 place - 4:k5 - - - -
+wirigi_1 3 - - - - - - 12:kriyAmUla
+veVlYlYu_1 4 - - - - - - 12:verbalizer
+[cp_1] 12 - kqw 13:k1 - - - -
+anipiMcu_1 6 - - - - e_1 - 13:kriyAmUla
+lexu_1 8 - - 13:neg - - - -
+ceyu_22-past 10 - - - - - - 13:verbalizer
+[cp_2] 13 - - 0:main - - - -
+%negative
+</sent_id>
+<sent_id=186>
+#మునగాబహార్ నదిపై ఉన్న ఈ జలపాతం, చంద్రవంక ఆకారంలో ఉన్న కొండపై నుండి 300 అడుగుల కిందకు, మెట్ల లాంటి సహజమైన రాతి నిర్మాణాలపై పడుతుంది.
+munagAbahAra 1 - - - - - - 23:begin
+naxI 2 - - - - - - 23:inside
+[ne_1] 23 place - 4:k7p - - - -
+uMdu_4 4 - kqw 6:mod - - - -
+$wyax 5 - - 6:dem - proximal - -
+jalapAwaM_1 6 - - 20:k1 - - - -
+caMxrAkAraM_1 7 - - 8:mod - - - -
+rUpaM_1 8 - - 10:k3 - - - -
+erpadu_1 10 - - 11:rbks - - - -
+koVMda_1 11 - - 20:k5 - - - -
+300 13 numex - 14:card - - - -
+adugu_1 14 - - 15:mod - - - -
+kiMxaku_1 15 - - 20:k7p - - - -
+meVtlalAMti_1 16 - - 18:ru - - - -
+sahaja_1 17 - - 18:mod - - - -
+nirmANaM_1 18 - pl 20:k7p - - - -
+padu_1-wuMxi_1 20 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=187>
+#పైనుండి పడే నీటి వల్ల ఏర్పడే పాలలాంటి తెల్లటి నురుగు మరియు నీటి బిందువుల సహజమైన జల్లు పర్యాటకులను మెల్లమెల్లగా తడుపుతుంది.
+nIru_1 1 - - 3:k1 - - - -
+padu_1 3 - kqw 5:rh - - - -
+erpadu_1 5 - - 7:rbks - - - -
+pAlalAMti_1 6 - - 7:mod - - - -
+nurugu_1 7 - - - - - - 23:op1
+nIru_1 9 - - 11:r6 - - - -
+biMxuvu_1 11 - pl 14:r6 - - - -
+sahaja_1 13 - - 14:mod - - - -
+jallu_1 14 - - - - - - 23:op2
+paryAtakudu_1 15 anim pl 18:k2 - - - -
+meVllagA_1 17 - xviwva 18:krvn - - - -
+wadupu_1-wuMxi_1 18 - - 0:main - [shade:xe_1] - -
+[conj_1] 23 - - 18:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=188>
+#భూవిజ్ఞానశాస్త్రంలో ఎం.టెక్. చేసి ఉండటం వల్ల నేను దీని భూవైజ్ఞానిక పుట్టుకను తెలుసుకోవడానికి ప్రయత్నించాను.
+BUvijFAnaSAswraM_1 1 - - 7:k7p - - - -
+@.ema.teka 3 - - - - - - 19:begin
+[ne_1] 19 - - 7:k1s - - - -
+avu_8 7 - - 21:rh - - - -
+$speaker 10 - - 21:k1 - - - -
+$wyax 11 - - 13:r6 186.6:coref proximal - -
+BUvEjFAnika_1 12 - - 13:mod - - - -
+puttuka_1 13 - - 14:k2 - - - -
+weVlusukoVnu_1 14 - - 16:k2 - - - -
+prayawnaM_1 16 - - - - - - 21:kriyAmUla
+ceyu_22-yA_1 17 - - - - - - 21:verbalizer
+[cp_2] 21 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=189>
+#నేను ఇది కనుగొన్నాను.
+$speaker 1 - - 3:k1 - - - -
+$wyax 2 - - 3:k2 - proximal - -
+kanugoVnu_1-yA_1 3 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=190>
+#కోట్ల సంవత్సరాల క్రితం ఏదో భూకంపం వల్ల ఏర్పడిన చంద్రాకార భ్రంశం కారణంగా నది దిగువ వైపు ఉన్న రాళ్లు కిందకు కుంగిపోయాయి.
+koti_1 1 numex - 2:card - - - -
+saMvawsaraM_1 2 - - 7:k7t - - - -
+kriwaM_1 3 - pl 2:k7p - - - -
+exo_1 4 - - 5:mod - - - -
+BUkaMpaM_1 5 - - 7:k5 - - - -
+erpadu_1 7 - - 8:rbks - - - -
+caMxrAkAra_1 8 - - - - - - 60:mod
+BraMSaM_1 9 - - - - - - 60:head
+[nc_1] 60 - - 17:k5 - - - -
+naxi_1 10 - - 13:r6 - - - -
+xiguva_1 12 - - 13:mod - - - -
+vEpu_1 13 - - 15:r6 - - - -
+rAyi_1 15 - pl 17:k1 - - - -
+kiMxaku_1 16 - pl 17:k7 - - - -
+kuMgu_1-yA_gayA_WA_1 17 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=191>
+#మరియు దీని వల్ల ఏర్పడిన మెట్ల వంటి లోయ ఈ మనోహరమైన జలపాతాన్ని సృష్టించి ఉండవచ్చు.
+$wyax 1 - - 16:rh - proximal - -
+erpadu_1 2 - - 5:rbks - - - -
+meVtlu_1 3 - - 5:ru - - - -
+loya_1 5 - - 12:k1 - - - -
+$wyax 7 - - 9:dem - proximal - -
+manoharamEna_1 8 - - 9:mod - - - -
+jalapAwaM_1 9 - - 11:k2 - - - -
+sqRti_1 11 - - - - - - 16:kriyAmUla
+ceyu_1-yA_hogA_1 12 - - - - - - 16:verbalizer
+[cp_1] 16 - - 0:main 190.17:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=192>
+#తీరథ్‌గఢ్ జలపాతం నుండి 20 కిలోమీటర్ల దూరంలో చింగీతరాయిలో పురాతత్వ ప్రాముఖ్యత గల ఆలయం ఉంది.
+wIraWagaDZa 1 - - - - - - 18:begin
+jalaprapAwa 2 - - - - - - 18:inside
+[ne_1] 18 place - 16:k5 - - - -
+20 4 numex - - - - - 20:count
+kilomItaru_1 5 - - - - - - 20:unit
+[dist_meas_1] 20 - - 7:r6 - - - -
+xUraM_1 7 - - 16:k7p - - - -
+purAwawva_1 9 - - 10:mod - - - -
+prAmuKyawa_1 10 - - 12:r6 - - - -
+AlayaM_1 12 - - 16:k1 - - - -
+ciMgIwarAI 13 - - - - - - 19:begin
+[ne_2] 19 place - 16:k7p - - - -
+uMdu_7 15 - - 16:k1s - - - -
+uMdu_1-pres 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=193>
+#తీరథ్‌గఢ్‌తో పాటు చింగీతరాయి మరియు చంద్రగిరి చారిత్రక ప్రాముఖ్యత కలిగి ఉన్నాయి.
+wIraWagaDZa 1 - - - - - - 12:begin
+[ne_1] 12 place - 15:rask1 - - - -
+ciMgIwarAI 4 - - - - - - 13:begin
+[ne_2] 13 place - - - - - 15:op1
+canxragirI 6 - - - - - - 14:begin
+[ne_3] 14 place - - - - - 15:op2
+[conj_1] 15 - pl 9:k1 - - - -
+cAriwraka_1 7 - - 8:mod - - - -
+prAmuKyawa_1 8 - - 9:k2 - - - -
+kaligiuMdu_1-wuMxi_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=194>
+#ఇలా చెప్పబడుతుంది.
+$wyax 1 - - 2:k2 - proximal - -
+ceVppu_2-yA_jAwA_hE_1 2 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=195>
+#తీరథ్‌గఢ్ సంస్థానానికి చెందిన ఒక రాజుకు ఇద్దరు కుమారులు ఉండేవారు.
+wIraWagaDZa 1 - - - - - - 11:begin
+riyAsawa 2 - - - - - - 11:inside
+[ne_1] 11 place - 5:r6 - - - -
+oVka_2 4 - - 5:quant - - - -
+rAju_1 5 - - 8:r6 - - - -
+ixxaru_1 7 numex - 8:card - - - -
+kumArudu_1 8 - pl 9:k1 - - - -
+uMdu_1-past 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=196>
+#ఒక రాజకుమారుడు చంద్రదేవుడు, మరొకడు తీరథదేవుడు.
+oVka_1 1 numex - 8:card - - - -
+rAjakumArudu_1 2 - - 8:mod - - - -
+canxraxeva 3 male - - - - - 8:begin
+[ne_1] 8 per - - - - - 10:op1
+maroVkadu_1 5 - - 9:mod - - - -
+wIraWaxeva 6 male - - - - - 9:begin
+[ne_2] 9 per - - - - - 10:op2
+uMdu_1-past 11 - - 0:main - - - -
+[conj_1] 10 - - 11:k1 - - - -
+%affirmative
+</sent_id>
+<sent_id=197>
+#రాజకుమారుడు చంద్రదేవునికి వారసత్వంగా చంద్రగిరి ప్రాంతం లభించింది.
+rAjakumArudu_1 1 - - 2:mod - - - -
+canxraxeva 2 male - - - - - 11:begin
+[ne_1] 11 per - 9:k4 - - - -
+vArasawvaM_1 4 - - 9:k7 - - - -
+canxragirI 6 - - - - - - 12:begin
+[ne_2] 12 place - 8:r6 - - - -
+prAMwaM_1 8 - - 9:k1 - - - -
+laBiMcu_1-yA_1 9 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=198>
+#చంద్రదేవుని పేరు మీదే ఈ నగరానికి చంద్రగిరి అనే పేరు వచ్చింది.
+canxraxeva 1 male - - - - - 14:begin
+[ne_1] 14 per - 3:r6 - - - -
+peru_1 3 - - 12:k7 - e_1 - -
+$wyax 6 - - 7:dem - proximal - -
+nagaraM_2 7 - - 9:r6 - - - -
+peru_1 9 - - 12:k1 - - - -
+canxragirI 11 - - - - - - 15:begin
+[ne_2] 15 place - 12:k1s - - - -
+vaccu_1-yA_wA_1 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=199>
+#అదే సమయంలో ఆయన సోదరునికి తీరథ్‌గఢ్ జాగీరు లభించింది.
+$wyax 2 - pl 3:r6 196.8:coref distal - -
+soxarudu_1 3 - - 8:k4 - - - -
+wIraWagaDZa 5 - - - - - - 10:begin
+[ne_1] 10 place - 7:r6 - - - -
+jAgIru_1 7 - - 8:k1 - - - -
+laBiMcu_1-yA_1 8 - - 0:main 197.9:samuccaya - - -
+%affirmative
+</sent_id>
+<sent_id=200>
+#దానికి ఆయన పేరు మీద తీరథ్‌గఢ్ అనే పేరు వచ్చింది.
+$yax 1 - - 2:r6 199.10:coref - - -
+peru_1 2 - - 7:k1 - - - -
+$wyax 3 - - 4:r6 196.9:coref distal - -
+peru_1 4 - - 7:k7 - - - -
+wIraWagaDa 6 - - - - - - 10:begin
+vaccu_1-yA_gayA_1 7 - - 0:main - - - -
+[ne_1] 10 place - 7:k1s - - - -
+%affirmative
+</sent_id>
+<sent_id=201>
+#చంద్రగిరి మరియు చింగీతరాయిలో పురాతత్వ ప్రాముఖ్యత గల అవశేషాలు లభిస్తాయి.
+canxragirI 1 - - - - - - 13:begin
+ciMgIwarAI 3 - - - - - - 14:begin
+purAwawva_1 5 - - 6:mod - - - -
+prAmuKyawa_1 6 - - 8:r6 - - - -
+avaSeRaM_1 8 - pl 15:k1 - - - -
+laBiMcu_2 9 - - - - - - 15:kriyAmUla
+avu_3-wuMxi_1 10 - - - - - - 15:verbalizer
+[ne_1] 13 place - - - - - 16:op1
+[ne_2] 14 place - - - - - 16:op2
+[cp_1] 15 - - 0:main - - - -
+[conj_1] 16 - - 15:k7p - - - -
+%affirmative
+</sent_id>
+<sent_id=202>
+#జగదల్‌పూర్ నుండి 30 కిలోమీటర్ల దూరంలో ప్రపంచ ప్రసిద్ధి చెందిన కోటంసర్ సహజ గుహలు ఉన్నాయి.
+jagaxalapura 1 - - - - - - 17:begin
+[ne_1] 17 place - 15:k5 - - - -
+30 3 numex - - - - - 19:count
+kilomItaru_1 4 - - - - - - 19:unit
+[dist_meas_1] 19 - - 6:r6 - - - -
+xUraM_1 6 - - 15:k7p - - - -
+prapaMcaM_1 8 - - 9:mod - - - -
+prasixXi_1 9 - - 13:mod - - - -
+kotamasara 10 - - - - - - 18:begin
+[ne_2] 18 place - 13:r6 - - - -
+sahaja_1 12 - - 13:mod - - - -
+guha_1 13 - pl 15:k1 - - - -
+uMdu_7 14 - - 15:k1s - - - -
+uMdu_1-pres 15 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=203>
+#ప్రపంచంలోనే అత్యంత పొడవైన ఈ గుహ పొడవు 4500 మీటర్లు.
+prapaMcaM_1 1 - - 6:r6 - - - -
+poVdavEna_1 4 - superl 6:mod - - - -
+$wyax 5 - - 6:dem 202.18:coref proximal - -
+guha_1 6 - - 8:r6 - - - -
+poVdavu_1 8 - - 11:k1 - - - -
+4500 9 numex - - - - - 13:count
+mItaru_1 10 - - - - - - 13:unit
+uMdu_1-pres 11 - - 0:main - - - -
+[meas_1] 13 - - 11:k1s - - - -
+%affirmative
+</sent_id>
+<sent_id=204>
+#సున్నపురాయి కరగడం వల్ల ఏర్పడిన ఈ గుహలు సున్నపురాయి పేరుకుపోవడం వల్ల ఏర్పడిన నిర్మాణాలకు ప్రసిద్ధి చెందాయి.
+sunnaM_1 1 - - - - - - 19:mod
+rAyi_2 2 - - - - - - 19:head
+[nc_1] 19 - - 4:k1 - - - -
+karagu_1 4 - kqw 6:rh - - - -
+erpadu_1 6 - - 8:rbks - - - -
+$wyax 7 - - 8:dem 202.18:coref proximal - -
+guha_1 8 - pl 18:k1 - - - -
+sunnaM_1 9 - - - - - - 20:mod
+rAyi_2 79 - - - - - - 20:head
+[nc_2] 20 - - 11:r6 - - - -
+perukupovu_1 11 - kqw 13:rh - - - -
+erpadu_2 13 - - 14:rbks - - - -
+nirmANaM_1 14 - pl 18:rh - - - -
+prasixXamEna_1 17 - - 18:k1s - - - -
+uMdu_1-pres 18 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=205>
+#సున్నపురాయి పేరుకుపోవడం వల్ల స్టాలక్టైట్, స్టాలగ్మైట్ మరియు డ్రిప్‌స్టోన్ వంటి నిర్మాణాలు ఏర్పడతాయి.
+sunnaM_1 1 - - - - - - 18:mod
+rAyi_2 79 - - - - - - 18:head
+[nc_1] 18 - - 3:r6 - - - -
+perukupovu_1 3 - - 13:rh - - - -
+stalegatAita 6 - - - - - - 25:begin
+[ne_2] 25 - - - - - - 17:op1
+stalegamAita 8 - - - - - - 26:begin
+[ne_3] 26 - - - - - - 17:op2
+drapistona 10 - - - - - - 27:begin
+[ne_4] 27 - - - - - - 17:op3
+nirmANaM_1 12 - pl 13:k1 - - - -
+erpadu_1-wuMxi_1 13 - - 0:main - [shade:jA_1] - -
+[conj_1] 17 - - 12:re - - - -
+%affirmative
+</sent_id>
+<sent_id=206a>
+#పైకప్పుకు వేలాడే షాండ్లియర్ల వంటి వాటిని స్టాలక్టైట్లు అంటారు.
+pEkappu_1 1 - - 3:k7p - - - -
+velAdu_1 3 - - 2:rvks - - - -
+RAMdliyar_1 2 - pl 22:k2 - - - -
+stalegatAita 5 - - - - - - 6:begin
+[ne_1] 6 - - 22:k2s - - - -
+anu_4-wuMxi_1 22 - - 0:main - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=206b>
+#నేల నుండి పైకి వెళ్లే స్తంభాలను స్టాలగ్మైట్లు అని, పైకప్పుకు మరియు నేలకు కలిసిన పెద్ద పెద్ద స్తంభాలను డ్రిప్‌స్టోన్లు అని అంటారు.
+nela_1 7 - - 10:k5 - - - -
+pEki_1 9 - - 10:k2p - - - -
+veVlYlYu_1 10 - kqw 11:mod - - - -
+swaMBaM_1 11 - pl - - - - 25:op1
+stalegamAita 12 - - - - - - 66:begin
+[ne_1] 66 - - - - - - 27:op1
+pEkappu_1 14 - - - - - - 26:op1
+nela_1 16 - - - - - - 26:op2
+kaliyu_1 18 - kqw 20:rbks - - - -
+peVxxa_1 19 - xviwva 20:mod - - - -
+swaMBaM_1 20 - pl - - - - 25:op2
+drapistona 21 - - - - - - 65:begin
+[ne_2] 65 - - - - - - 27:op2
+anu_4-wuMxi_1 22 - - 0:main - - - -
+[conj_1] 25 - pl 22:k2 - - - -
+[conj_2] 26 - - 18:k5 - - - -
+[conj_3] 27 - - 22:k2s - - - -
+%pass_affirmative
+</sent_id>
+<sent_id=207>
+#డా. శంకర్ తివారీ మొట్టమొదటిసారి ఈ గుహను వర్ణించారు.
+@dr. 1 - - - - - - 15:begin
+SaMkara 3 male - - - - - 15:inside
+wivArI 4 - - - - - - 15:inside
+moVttamoVxati_1 6 - - 7:mod - - - -
+sAri_1 7 - - 16:k7t - - - -
+$wyax 8 - - 9:dem - proximal - -
+guha_1 9 - - 16:k2 - - - -
+varNana_1 11 - - - - - - 16:kriyAmUla
+ceyu_22-AdZu_1 12 - - - - - - 16:verbalizer
+[ne_1] 15 per - 16:k1 - - - -
+[cp_1] 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=208>
+#ఈ గుహలో చిన్న చిన్న నీటి గుంటలు ఉన్నాయి.
+$wyax 1 - - 2:dem - proximal - -
+guha_1 2 - - 7:k7p - - - -
+cinna_1 4 - xviwva 5:mod - - - -
+nItiguMta_1 5 - pl 7:k1 - - - -
+uMdu_7 6 - - 7:k1s - - - -
+uMdu_1-pres 7 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=209>
+#గుహలలో నివసించే చిన్న చిన్న చేపలకు కళ్లు ఉండవు.
+guha_1 1 - pl 3:k7p - - - -
+nivasiMcu_1 3 - wawCIlAxi 7:mod - - - -
+cinna_1 6 - xviwva 7:mod - - - -
+cepa_1 7 - pl 9:r6 - - - -
+kannu_1 9 - pl 11:k1 - - - -
+lexu_1 10 - - 11:neg - - - -
+kanugoVnu_1-yA_jAwA_hE_1 11 - - 0:main - - - -
+%pass_negative
+</sent_id>
+<sent_id=210>
+#శతాబ్దాలుగా చీకటిలో ఉండటం వల్ల వీటి కళ్ల ఉపయోగం పోయింది.
+SawAbxaM_1 1 - pl 5:k5 - - - -
+cIkati_1 3 - - 5:k7p - - - -
+uMdu_8 5 - - 16:rh - - - -
+$wyax 8 - pl 9:r6 209.7:coref proximal - -
+kannu_1 9 - pl 26:r6 - - - -
+upayogaM_1 26 - - 16:k1 - - - -
+povu_1 12 - - - - - - 16:kriyAmUla
+avu_1-yA_gayA_1 13 - - - - - - 16:verbalizer
+[cp_1] 16 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=211>
+#ఇప్పుడు ఈ చేపలు పుట్టుకతోనే గుడ్డివిగా పుడతాయి.
+ippudu_1 1 - - 9:k7t - - - -
+$wyax 2 - pl 3:dem - proximal - -
+cepa_1 3 - pl 12:k1 - - - -
+puttuka_2 4 - - 12:k5 - e_1 - -
+guddi_1 7 - - 12:k1s - - - -
+puttu_1 8 - - - - - - 12:kriyAmUla
+avu_4-wuMxi_1 9 - - - - - - 12:verbalizer
+[cp_1] 12 - - 0:main - - - -
+%affirmative
+</sent_id>
+<sent_id=212>
+#ఇది డార్విన్ సిద్ధాంతాన్ని ధృవీకరిస్తుంది.
+$wyax 1 - - 11:k1 - proximal - -
+dArvina 2 - - - - - - 10:begin
+[ne_1] 10 per - 4:r6 - - - -
+sixXAMwaM_1 4 - - 11:k2 - - - -
+XqvIkaraNa_1 6 - - - - - - 11:kriyAmUla
+ceyu_1-wuMxi_1 7 - - - - - - 11:verbalizer
+[cp_1] 11 - - 0:main - - - -
+%affirmative
+</sent_id>

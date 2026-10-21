@@ -1,0 +1,12 @@
+# English of a Telugu concept where the Telugu word means something different from the aligned Hindi concept.
+# (Default: the Telugu concept takes the English sense of its Hindi concept.)
+# Hindi concept	English (with sense number)	reason
+pAvanI_2	holy_1 _holy_a_1	పవిత్ర = holy (Sent_12, Sent_27; gold dropped patita pāvanī)
+samawala_1	plain_1 _plain_a_1	మైదాన = plain (Sent_12)
+BUmi_1	area_1 _area_n_of	ప్రాంతం = area (Sent_12)
+xuRkara_1	severe_1 _severe_a_1	ఘోర = severe (Sent_18)
+basA_7	build_1 _build_v_1	నిర్మించు = build (Sent_33)
+pA_14	live_1 _live_v_1	నివసించు = live (209: gold says the fish living in caves)
+^dAuna_1	down_1	దిగువ (190; English loanword in the Hindi)
+^sAida_1	side_1	వైపు (190; English loanword in the Hindi)
+^laMca_1	lunch_1 _lunch_n_1	భోజనం (136; English loanword in the Hindi)

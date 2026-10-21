@@ -1,0 +1,1002 @@
+Sent_1
+  GOLD   : [moksha]_SUBJ [by visit of saptapuris] [gets]_ACTIVE
+  from HI: [moksha]_SUBJ [by visit of saptapuris] [gets]_ACTIVE
+  from TE: [moksha]_SUBJ [by visit of saptapuris] [gets]_ACTIVE
+Sent_2
+  GOLD   : [utmost importance of pilgrimage]_SUBJ [in Hindu religion] [is]_ACTIVE
+  from HI: [utmost importance of pilgrimage]_SUBJ [in Hindu religion] [is]_ACTIVE
+  from TE: [utmost importance of pilgrimage]_SUBJ [in Hindu religion] [is]_ACTIVE
+Sent_3a
+  GOLD   : [every pilgrimage]_SUBJ [although] [major and important] [is]_ACTIVE
+  from HI: [every pilgrimage]_SUBJ [although] [major and important] [is]_ACTIVE
+  from TE: [every pilgrimage]_SUBJ [although] [major and important] [is]_ACTIVE
+Sent_3b
+  GOLD   : [but] [great importance and acceptance of seven places]_SUBJ [are]_ACTIVE
+  from HI: [but] [great importance and acceptance of seven places]_SUBJ [are]_ACTIVE
+  from TE: [but] [great importance and acceptance of seven places]_SUBJ [are]_ACTIVE
+Sent_4
+  GOLD   : [these seven religious places]_SUBJ [as seven places or saptapuri] [in scriptures] [described] [are]_ACTIVE
+  from HI: [these seven religious places]_SUBJ [as seven places or saptapuri] [in scriptures] [described] [are]_ACTIVE
+  from TE: [these seven religious places]_SUBJ [as seven places or saptapuri] [in scriptures] [described] [are]_ACTIVE
+Sent_5a
+  GOLD   : [this]_SUBJ [has been stated]_PASSIVE
+  from HI: [this]_SUBJ [has been stated]_PASSIVE
+  from TE: [this]_SUBJ [has been stated]_PASSIVE
+Sent_5b
+  GOLD   : [view of these saptapuris]_SUBJ [in caturmasa] [provider of moksha] [is]_ACTIVE
+  from HI: [view of these saptapuris]_SUBJ [in caturmasa] [provider of moksha] [is]_ACTIVE
+  from TE: [view of these saptapuris]_SUBJ [in caturmasa] [provider of moksha] [is]_ACTIVE
+Sent_6
+  GOLD   : [its name]_SUBJ [also banarasa or varanasi] [is]_ACTIVE
+  from HI: [its name]_SUBJ [also banarasa or varanasi] [is]_ACTIVE
+  from TE: [its name]_SUBJ [also banarasa or varanasi] [is]_ACTIVE
+Sent_7
+  GOLD   : [this]_SUBJ [on bank of ganga] [famous abode of lord shankara] [is]_ACTIVE
+  from HI: [this]_SUBJ [on bank of ganga] [famous abode of lord shankara] [is]_ACTIVE
+  from TE: [this]_SUBJ [on bank of ganga] [famous abode of lord shankara] [is]_ACTIVE
+Sent_8a
+  GOLD   : [kashi]_SUBJ [on main line of railway going from mugala saraya to amrtasara and deharaduna] [7 miles from mugala saraya steshana] [is]_ACTIVE
+  from HI: [kashi]_SUBJ [on main railway line going from mugala saraya amrtasara and deharaduna] [from mugala saraya steshana] [in 7 miles] [is]_ACTIVE
+  from TE: [kashi]_SUBJ [on main railway line going from mugala saraya amrtasara and deharaduna] [from mugala saraya steshana] [in 7 miles] [is]_ACTIVE
+Sent_8b
+  GOLD   : [and] [banarasa chavani steshana from it]_SUBJ [4 miles ahead] [is]_ACTIVE
+  from HI: [and] [banarasa chavani steshana from it]_SUBJ [4 miles ahead] [is]_ACTIVE
+  from TE: [and] [banarasa chavani steshana from it]_SUBJ [4 miles ahead] [is]_ACTIVE
+Sent_9
+  GOLD   : [a direct line]_SUBJ [also from prayaga steshana of ilahabada to banarasa chavani] [through kashi] [goes]_ACTIVE
+  from HI: [a direct line]_SUBJ [also from prayaga steshana of ilahabada to banarasa chavani] [through kashi] [goes]_ACTIVE
+  from TE: [a direct line]_SUBJ [also from prayaga steshana of ilahabada to banarasa chavani] [through kashi] [goes]_ACTIVE
+Sent_10a
+  GOLD   : [one line of purvottara relave]_SUBJ [from bhatani] [goes]_ACTIVE
+  from HI: [one line of purvottara relave]_SUBJ [from bhatani] [goes]_ACTIVE
+  from TE: [one line of purvottara relave]_SUBJ [from bhatani] [goes]_ACTIVE
+Sent_10b
+  GOLD   : [and] [another]_SUBJ [from chapara to ilahabada siti] [goes]_ACTIVE
+  from HI: [and] [another]_SUBJ [from chapara to ilahabada siti] [goes]_ACTIVE
+  from TE: [and] [another]_SUBJ [from chapara to ilahabada siti] [goes]_ACTIVE
+Sent_11
+  GOLD   : [also from this route] [through banarasa siti] [to chavani] [can go]_ACTIVE
+  from HI: [also from this route] [through banarasa siti] [to chavani] [can go]_ACTIVE
+  from TE: [also from this route] [through banarasa siti] [to chavani] [can go]_ACTIVE
+Sent_12
+  GOLD   : [sin-cleansing of fallen ganga]_SUBJ [in haridvara] [leaving mountainous area] [in level land] [enters]_ACTIVE
+  from HI: [sin-cleansing of fallen ganga]_SUBJ [in haridvara] [leaving mountainous area] [in level land] [enters]_ACTIVE
+  from TE: [holy ganga]_SUBJ [in haridvara] [leaving mountainous area] [in plain area] [enters]_ACTIVE   <-- differs
+Sent_13
+  GOLD   : [therefore] [haridvara]_SUBJ [also as ganga dvara] [is called]_ACTIVE
+  from HI: [therefore] [haridvara]_SUBJ [also as ganga dvara] [is called]_ACTIVE
+  from TE: [therefore] [haridvara]_SUBJ [also as ganga dvara] [is called]_ACTIVE
+Sent_14
+  GOLD   : [crowd of devotees]_SUBJ [in haridvara] [daily] [in evening] [at time of prayer of mother ganga] [gathers]_ACTIVE
+  from HI: [crowd of devotees]_SUBJ [at time of prayer of mother ganga happened in haridvara daily in evening] [gathers]_ACTIVE
+  from TE: [crowd of devotees]_SUBJ [at time of prayer of gangamma happened in haridvara daily in evening] [gathers]_ACTIVE   <-- differs
+Sent_15
+  GOLD   : [scene of floating chain-of-diyas]_SUBJ [in ganga nadi] [on seeing only] [becomes]_ACTIVE
+  from HI: [seeing scene of chain of diya floating in ganga nadi only] [becomes]_ACTIVE
+  from TE: [seeing scene of chain of diya floating in ganga nadi only] [becomes]_ACTIVE
+Sent_16
+  GOLD   : [station]_SUBJ [on main line going from mugala saraya of uttara relave to amrtasara] [is]_ACTIVE
+  from HI: [station]_SUBJ [on main line going from mugala saraya of uttara relave to amrtasara] [is]_ACTIVE
+  from TE: [station]_SUBJ [on main line going from mugala saraya of uttara relave to amrtasara] [is]_ACTIVE
+Sent_17
+  GOLD   : [one line]_SUBJ [from laksara to haridvara] [has gone]_ACTIVE
+  from HI: [one line]_SUBJ [from laksara to haridvara] [has gone]_ACTIVE
+  from TE: [one line]_SUBJ [from laksara to haridvara] [has gone]_ACTIVE
+Sent_18
+  GOLD   : [pitamaha brahma ji]_SUBJ [in ancient times] [in kanci] [for visit of mother goddess] [difficult penance] [had performed]_ACTIVE
+  from HI: [pitamaha brahma ji]_SUBJ [in ancient times] [in kanci] [for visit of mother goddess] [difficult penance] [had performed]_ACTIVE
+  from TE: [pitamaha brahma ji]_SUBJ [in ancient times] [in kanci] [for visit of ammavaru] [severe penance] [had performed]_ACTIVE   <-- differs
+Sent_19
+  GOLD   : [mahalakshmi]_SUBJ [holding lotus in hand] [before them] [had appeared]_ACTIVE
+  from HI: [mahalakshmi]_SUBJ [holding lotus in hand] [before them] [had appeared]_ACTIVE
+  from TE: [mahalakshmi]_SUBJ [holding lotus in hand] [before them] [had appeared]_ACTIVE
+Sent_20
+  GOLD   : [cengalapata steshana]_SUBJ [on main line going from cennai steshana of dakshina relave to dhanushkoti] [at distance of 35 miles from cennai] [is]_ACTIVE
+  from HI: [cengalapata steshana]_SUBJ [on main line going from cennai steshana of dakshina relave to dhanushkoti] [at distance of 35 miles from cennai] [is]_ACTIVE
+  from TE: [cengalapata steshana]_SUBJ [on main line going from cennai steshana of dakshina relave to dhanushkoti] [at distance of 35 miles from cennai] [is]_ACTIVE
+Sent_21
+  GOLD   : [one line]_SUBJ [from cengalapata steshana to arakonama] [goes]_ACTIVE
+  from HI: [one line]_SUBJ [from cengalapata steshana to arakonama] [goes]_ACTIVE
+  from TE: [one line]_SUBJ [from cengalapata steshana to arakonama] [goes]_ACTIVE
+Sent_22
+  GOLD   : [kanjivarama steshana]_SUBJ [on line going from cengalapata steshana to arakonama] [is]_ACTIVE
+  from HI: [kanjivarama steshana]_SUBJ [on line going from cengalapata steshana to arakonama] [is]_ACTIVE
+  from TE: [kanjivarama steshana]_SUBJ [on line going from cengalapata steshana to arakonama] [is]_ACTIVE
+Sent_23a
+  GOLD   : [name of station]_SUBJ [certainly] [kanjivarama] [is]_ACTIVE
+  from HI: [name of station]_SUBJ [certainly] [kanjivarama] [is]_ACTIVE
+  from TE: [name of station]_SUBJ [certainly] [kanjivarama] [is]_ACTIVE
+Sent_23b
+  GOLD   : [but] [name of city]_SUBJ [kancipurama] [is]_ACTIVE
+  from HI: [but] [name of city]_SUBJ [kancipurama] [is]_ACTIVE
+  from TE: [but] [name of city]_SUBJ [kancipurama] [is]_ACTIVE
+Sent_24
+  GOLD   : [ayodhya]_SUBJ [holy city of incarnation of lord shri rama] [is]_ACTIVE
+  from HI: [ayodhya]_SUBJ [holy city of incarnation of lord shri rama] [is]_ACTIVE
+  from TE: [ayodhya]_SUBJ [holy city of incarnation of shriramacandrudu] [is]_ACTIVE   <-- differs
+Sent_25
+  GOLD   : [ayodhya]_SUBJ [on bank of sacred nadi sarayu] [situated] [is]_ACTIVE
+  from HI: [ayodhya]_SUBJ [on bank of sacred nadi sarayu] [situated] [is]_ACTIVE
+  from TE: [ayodhya]_SUBJ [on bank of sacred nadi sarayu] [situated] [is]_ACTIVE
+Sent_26
+  GOLD   : [ayodhya steshana]_SUBJ [at distance of 128 miles from mugalasaraya steshana of mugalasaraya-lakhanau laina of uttara relave] [is]_ACTIVE
+  from HI: [ayodhya steshana]_SUBJ [at distance of 128 miles from mugalasaraya steshana of mugalasaraya-lakhanau laina of uttara relave] [is]_ACTIVE
+  from TE: [ayodhya steshana]_SUBJ [at distance of 128 miles from mugalasaraya steshana of mugalasaraya-lakhanau laina of uttara relave] [is]_ACTIVE
+Sent_27
+  GOLD   : [this ujjaina nagari of mahakala settled on bank of shipra or kshipra river]_SUBJ [sin-cleansing of fallen] [is]_ACTIVE
+  from HI: [this ujjaina nagari of mahakala settled on bank of shipra or kshipra river]_SUBJ [sin-cleansing of fallen] [is]_ACTIVE
+  from TE: [this ujjaina nagari of mahakala settled on bank of shipra or kshipra river]_SUBJ [holy] [is]_ACTIVE   <-- differs
+Sent_28a
+  GOLD   : [this]_SUBJ [is said]_ACTIVE
+  from HI: [this]_SUBJ [is said]_ACTIVE
+  from TE: [this]_SUBJ [is said]_ACTIVE
+Sent_28b
+  GOLD   : [anxiety of death]_SUBJ [having saluted mahakala in ujjaina] [then] [does not remain]_ACTIVE
+  from HI: [anxiety of death]_SUBJ [having saluted mahakala in ujjaina] [then] [does not remain]_ACTIVE
+  from TE: [anxiety of death]_SUBJ [having saluted mahakala in ujjaina] [then] [does not remain]_ACTIVE
+Sent_29
+  GOLD   : [one line]_SUBJ [from bhopala steshana of mumbai-bhopala-dilli laina of madhya relave] [to ujjaina] [goes]_ACTIVE
+  from HI: [one line]_SUBJ [from bhopala steshana of mumbai-bhopala-dilli laina of madhya relave] [to ujjaina] [goes]_ACTIVE
+  from TE: [one line]_SUBJ [from bhopala steshana of mumbai-bhopala-dilli laina of madhya relave] [to ujjaina] [goes]_ACTIVE
+Sent_30
+  GOLD   : [also one big line]_SUBJ [on mumbai-kota-dilli laina of pashcima relave] [from nagada steshana to ujjaina] [has gone]_ACTIVE
+  from HI: [also one big line]_SUBJ [on mumbai-kota-dilli laina of pashcima relave] [from nagada steshana to ujjaina] [has gone]_ACTIVE
+  from TE: [also one big line]_SUBJ [on mumbai-kota-dilli laina of pashcima relave] [from nagada steshana to ujjaina] [has gone]_ACTIVE
+Sent_31
+  GOLD   : [one line]_SUBJ [also from mahu steshana of mentioned line] [to ujjaina] [has gone]_ACTIVE
+  from HI: [one line]_SUBJ [also from mahu steshana of mentioned line] [to ujjaina] [has gone]_ACTIVE
+  from TE: [one line]_SUBJ [also from mahu steshana of mentioned line] [to ujjaina] [has gone]_ACTIVE
+Sent_32
+  GOLD   : [dvaraka]_SUBJ [also a dhama among cara dhamas] [is]_ACTIVE
+  from HI: [dvaraka]_SUBJ [also a dhama among cara dhamas] [is]_ACTIVE
+  from TE: [dvaraka]_SUBJ [also a dhama among cara dhamas] [is]_ACTIVE
+Sent_33
+  GOLD   : [lord krshna]_SUBJ [it] [amidst sea] [specially] [had settled]_ACTIVE
+  from HI: [lord krshna]_SUBJ [it] [amidst sea] [specially] [had settled]_ACTIVE
+  from TE: [lord krshna]_SUBJ [it] [amidst sea] [specially] [had built]_ACTIVE   <-- differs
+Sent_34
+  GOLD   : [this city situated on surendranagara okha porta laina of pashcima relave]_SUBJ [station of ocean bank] [is]_ACTIVE
+  from HI: [this city situated on surendranagara okha porta laina of pashcima relave]_SUBJ [station of ocean bank] [is]_ACTIVE
+  from TE: [this city situated on surendranagara okha porta laina of pashcima relave]_SUBJ [station of ocean bank] [is]_ACTIVE
+Sent_35
+  GOLD   : [this holy city of incarnation land of lord shrikrshna]_SUBJ [on bank of yamuna] [mathura] [is]_ACTIVE
+  from HI: [this holy city of incarnation land of lord shrikrshna]_SUBJ [on bank of yamuna] [mathura] [is]_ACTIVE
+  from TE: [this holy city of incarnation area of lord shrikrshna]_SUBJ [on bank of yamuna] [mathura] [is]_ACTIVE   <-- differs
+Sent_36
+  GOLD   : [mathura steshana]_SUBJ [on line of purvottara relave going from agara phorta to gorakhapura and mumbai-kota-dilli laina of pashcima relave] [is]_ACTIVE
+  from HI: [mathura steshana]_SUBJ [on line of purvottara relave going from agara phorta to gorakhapura and mumbai-kota-dilli laina of pashcima relave] [is]_ACTIVE
+  from TE: [mathura steshana]_SUBJ [on line of purvottara relave going from agara phorta to gorakhapura and mumbai-kota-dilli laina of pashcima relave] [is]_ACTIVE
+Sent_37
+  GOLD   : [gadha mukteshvara]_SUBJ [sacred pilgrimage of Hindus] [is]_ACTIVE
+  from HI: [gadha mukteshvara]_SUBJ [sacred pilgrimage of Hindus] [is]_ACTIVE
+  from TE: [gadha mukteshvara]_SUBJ [sacred pilgrimage of Hindus] [is]_ACTIVE
+Sent_38
+  GOLD   : [to ganga mela of gaDha mukteshvara] [let us go]_ACTIVE
+  from HI: [to ganga mela of gadha mukteshvara] [go]_ACTIVE
+  from TE: [to ganga mela of gadha mukteshvara] [go]_ACTIVE
+Sent_39
+  GOLD   : [history of famous and ancient religious fair of uttara bharata held in gadha mukteshvara of gajiyabada jila on bank of sin-cleansing of fallen ganga every year on occasion of kartika purnima]_SUBJ [almost 5000 years old] [is]_ACTIVE
+  from HI: [history of famous and ancient religious fair of uttara bharata held in gadha mukteshvara of gajiyabada jila on bank of sin-cleansing of fallen ganga every year on occasion of kartika purnima]_SUBJ [almost 5000 years old] [is]_ACTIVE
+  from TE: [history of famous and ancient religious fair of uttara bharata held in gadha mukteshvara of gajiyabada jila on bank of holy ganga every year on occasion of kartika purnima]_SUBJ [almost 5000 years old] [is]_ACTIVE   <-- differs
+Sent_40a
+  GOLD   : [full fervour of fair]_SUBJ [also at this time] [in gadha mukteshvara] [is]_ACTIVE
+  from HI: [full fervour of fair]_SUBJ [also at this time] [in gadha mukteshvara] [is]_ACTIVE
+  from TE: [full fervour of fair]_SUBJ [also at this time] [in gadha mukteshvara] [is]_ACTIVE
+Sent_40b
+  GOLD   : [and] [huge crowd of devotees]_SUBJ [for holy dip] [is gathering]_ACTIVE
+  from HI: [and] [huge crowd of devotees]_SUBJ [for holy dip] [is gathering]_ACTIVE
+  from TE: [and] [huge crowd of devotees]_SUBJ [for holy dip] [is gathering]_ACTIVE
+Sent_41
+  GOLD   : [holy dip]_SUBJ [on 13th november] [is]_ACTIVE
+  from HI: [holy dip]_SUBJ [on 13th november] [is]_ACTIVE
+  from TE: [holy dip]_SUBJ [on 13th november] [is]_ACTIVE
+Sent_42a
+  GOLD   : [this]_SUBJ [about gadha mukteshvara] [is said]_PASSIVE
+  from HI: [this]_SUBJ [about gadha mukteshvara] [is said]_PASSIVE
+  from TE: [this]_SUBJ [about gadha mukteshvara] [is said]_PASSIVE
+Sent_42b
+  GOLD   : [after destructive war of mahabharata] [in mind of yogiraja shrikrshna, dharmaraja yudhishthira and arjuna] [on seeing horror of war and genocide] [hugely] [regret occurred]_ACTIVE
+  from HI: [by seeing horror and genocide of war after destructive war of mahabharata in mind of yogiraja shrikrshna, dharmaraja yudhishthira and arjuna] [hugely] [felt]_ACTIVE
+  from TE: [by seeing horror and genocide of war after destructive war of mahabharata in mind of yogiraja shrikrshna, dharmaraja yudhishthira and arjuna] [hugely] [felt]_ACTIVE
+43a
+  GOLD   : [they]_SUBJ [in this thinking] [fell]_ACTIVE
+  from HI: [they]_SUBJ [in this thinking] [fell]_ACTIVE
+  from TE: [they]_SUBJ [in this thinking] [fell]_ACTIVE
+43b
+  GOLD   : [what]_SUBJ [for peace of soul of innumerable relatives, kinsmen and innocent people killed in war] [solution or rite] [should be done]_ACTIVE
+  from HI: [what]_SUBJ [for peace of soul of innumerable relatives, kinsmen and innocent people killed in war] [solution or rite] [should be done]_ACTIVE
+  from TE: [what]_SUBJ [for peace of soul of innumerable relatives, kinsmen and innocent people killed in war] [solution or rite] [should be done]_ACTIVE
+44
+  GOLD   : [all]_SUBJ [with one opinion] [had decided]_ACTIVE
+  from HI: [all]_SUBJ [with one opinion] [had decided]_ACTIVE
+  from TE: [all]_SUBJ [with one opinion] [had decided]_ACTIVE
+45a
+  GOLD   : [all sanskars]_SUBJ [at place called shiva ballabhapura established by lord parashurama in khandavi vana] [by performing worship of mukteshvara mahadeva and yajna and bath in sin-cleansing of fallen ganga] [will be completed]_ACTIVE
+  from HI: [all sanskars]_SUBJ [in place of called established in khandavi vana lord parashurama, shiva ballabhapura] [by doing worship of mukteshvara mahadeva, yajna and bath in sin-cleansing of fallen ganga] [will be completed]_ACTIVE
+  from TE: [all sanskars]_SUBJ [in place of called established in khandavi vana lord parashurama, shiva ballabhapura] [by doing worship of mukteshvara mahadeva, yajna and bath in holy ganga] [will be completed]_ACTIVE   <-- differs
+45b
+  GOLD   : [and] [all sanskar]_SUBJ [there] [by offering pindadana] [will be completed]_ACTIVE
+  from HI: [and] [all sanskars]_SUBJ [there] [by offering pindadana] [may be completed]_ACTIVE
+  from TE: [and] [all sanskars]_SUBJ [there] [by offering pindadana] [may be completed]_ACTIVE
+46a
+  GOLD   : [let it be known]_ACTIVE
+  from HI: [let it be known]_ACTIVE
+  from TE: [let it be known]_ACTIVE
+46b
+  GOLD   : [shiva ballabhapura only]_SUBJ [now] [by name of gadha mukteshvara] [is known]_ACTIVE
+  from HI: [shiva ballabhapura only]_SUBJ [now] [by name of gadha mukteshvara] [is known]_ACTIVE
+  from TE: [shiva ballabhapura only]_SUBJ [now] [by name of gadha mukteshvara] [is known]_ACTIVE
+47
+  GOLD   : [maharaja shivi, ancestor of lord rama]_SUBJ [his vanaprastha] [in gadha mukteshvara only] [had spent]_ACTIVE
+  from HI: [maharaja shivi, ancestor of lord rama]_SUBJ [his vanaprastha] [in gadha mukteshvara only] [had spent]_ACTIVE
+  from TE: [maharaja shivi, ancestor of lord rama]_SUBJ [his vanaprastha] [in gadha mukteshvara only] [had spent]_ACTIVE
+48
+  GOLD   : [maharaja shiva]_SUBJ [by lord parashurama] [here] [shiva mandira] [had got established]_ACTIVE
+  from HI: [maharaja shiva]_SUBJ [by lord parashurama] [here] [shiva mandira] [had got established]_ACTIVE
+  from TE: [maharaja shiva]_SUBJ [by lord parashurama] [here] [shiva mandira] [had got established]_ACTIVE
+49
+  GOLD   : [gadha mukteshvara]_SUBJ [at that time] [main centre of ballabha sampradaya] [was]_ACTIVE
+  from HI: [gadha mukteshvara]_SUBJ [at that time] [main centre of ballabha sampradaya] [was]_ACTIVE
+  from TE: [gadha mukteshvara]_SUBJ [at that time] [main centre of ballabha sampradaya] [was]_ACTIVE
+50
+  GOLD   : [name of gadha mukteshvara]_SUBJ [shiva ballabhapura] [became]_ACTIVE
+  from HI: [name of gadha mukteshvara]_SUBJ [shiva ballabhapura] [became]_ACTIVE
+  from TE: [name of gadha mukteshvara]_SUBJ [shiva ballabhapura] [became]_ACTIVE
+51
+  GOLD   : [description of gadha mukteshvara]_SUBJ [in shiva purana] [is found]_ACTIVE
+  from HI: [description of gadha mukteshvara]_SUBJ [in shiva purana] [is found]_ACTIVE
+  from TE: [description of gadha mukteshvara]_SUBJ [in shiva purana] [is found]_ACTIVE
+52
+  GOLD   : [yajna]_SUBJ [from ekadashi to caturdashi] [in gadha mukteshvara] [for peace of soul of all people killed in mahabharata yuddha] [was conducted]_PASSIVE
+  from HI: [yajna]_SUBJ [from ekadashi to caturdashi] [in gadha mukteshvara] [for peace of soul of all people killed in mahabharata yuddha] [was conducted]_PASSIVE
+  from TE: [yajna]_SUBJ [from ekadashi to caturdashi] [in gadha mukteshvara] [for peace of soul of all people killed in mahabharata yuddha] [was conducted]_PASSIVE
+53
+  GOLD   : [tribute]_SUBJ [on evening of caturdashi] [at end of yajna] [to those souls] [by offering earthen lamp in ganga] [was offered]_PASSIVE
+  from HI: [tribute]_SUBJ [on evening of caturdashi] [at end of yajna] [to those souls] [by offering earthen lamp in ganga] [was offered]_PASSIVE
+  from TE: [tribute]_SUBJ [on evening of caturdashi] [at end of yajna] [to those souls] [by offering earthen lamp in ganga] [was offered]_PASSIVE
+54
+  GOLD   : [all]_SUBJ [on next day morning] [on purnamasi] [by bathing in ganga] [worship, prayer, religious-story etc] [offered]_ACTIVE
+  from HI: [all]_SUBJ [next day, morning purnamasi] [having bathed in ganga] [worship, prayer, religious-story etc] [offered]_ACTIVE
+  from TE: [all]_SUBJ [next day, morning purnamasi] [having bathed in ganga] [worship, prayer, religious-story etc] [offered]_ACTIVE
+55a
+  GOLD   : [devotees]_SUBJ [each year] [in lac numbers] [to gadha mukteshvara] [on kartika purnima] [for bathing in blemish destroyer and sin purgator ganga] [come]_ACTIVE
+  from HI: [devotees]_SUBJ [each year] [in lac numbers] [to gadha mukteshvara] [on kartika purnima] [for bathing in blemish destroyer and sin purgator ganga] [come]_ACTIVE
+  from TE: [devotees]_SUBJ [each year] [in lac numbers] [to gadha mukteshvara] [on kartika purnima] [for bathing in blemish destroyer and sin purgator ganga] [come]_ACTIVE
+55b
+  GOLD   : [and] [they]_SUBJ [for peace of soul of their relatives] [here] [for offering earthen lamp] [come]_ACTIVE
+  from HI: [and] [they]_SUBJ [for peace of soul of their relatives] [here] [for offering earthen lamp] [come]_ACTIVE
+  from TE: [and] [they]_SUBJ [for peace of soul of their relatives] [here] [for offering earthen lamp] [come]_ACTIVE
+56
+  GOLD   : [innumerable people]_SUBJ [on evening of caturdashi] [for paying tribute to their relatives] [in ganga] [earthen lamp] [offer]_ACTIVE
+  from HI: [innumerable people]_SUBJ [on evening of caturdashi] [for paying tribute to their relatives] [in ganga] [earthen lamp] [offer]_ACTIVE
+  from TE: [innumerable people]_SUBJ [on evening of caturdashi] [for paying tribute to their relatives] [in ganga] [earthen lamp] [offer]_ACTIVE
+57
+  GOLD   : [scene of lamps flowing with stream of ganga]_SUBJ [at that time] [very peacegiving and charming] [seems]_ACTIVE
+  from HI: [scene of lamps flowing with stream of ganga]_SUBJ [at that time] [very peacegiving and charming] [seems]_ACTIVE
+  from TE: [scene of lamps flowing with stream of ganga]_SUBJ [at that time] [very peacegiving and charming] [seems]_ACTIVE
+58
+  GOLD   : [several places of religious importance like nahusha-kupa, nakkakuan and temple of mukteshvara mahadeva]_SUBJ [in gadha mukteshvara] [are]_ACTIVE
+  from HI: [several places of religious importance like nahusha-kupa, nakkakuan and temple of mukteshvara mahadeva]_SUBJ [in gadha mukteshvara] [are]_ACTIVE
+  from TE: [several places of religious importance like nahusha-kupa, nakkakuan and temple of mukteshvara mahadeva]_SUBJ [in gadha mukteshvara] [are]_ACTIVE
+59a
+  GOLD   : [custom]_SUBJ [is]_ACTIVE
+  from HI: [custom]_SUBJ [is]_ACTIVE
+  from TE: [custom]_SUBJ [is]_ACTIVE
+59b
+  GOLD   : [badrinatha mandira]_SUBJ [at time of prayer only] [is opened]_PASSIVE
+  from HI: [badrinatha mandira]_SUBJ [at time of prayer only] [is opened]_PASSIVE
+  from TE: [badrinatha mandira]_SUBJ [at time of prayer only] [is opened]_PASSIVE
+60
+  GOLD   : [this temple]_SUBJ [only once a year] [on akshaya trtiya, parashurama jayanti] [for whole day] [for visitors] [is opened]_PASSIVE
+  from HI: [this temple]_SUBJ [only once a year] [on akshaya trtiya, parashurama jayanti] [for whole day] [for visitors] [is opened]_PASSIVE
+  from TE: [this temple]_SUBJ [only once a year] [on akshaya trtiya, parashurama jayanti] [for whole day] [for visitors] [is opened]_PASSIVE
+61a
+  GOLD   : [huge sandy field]_SUBJ [in front of mukteshvara mahadeva mandira] [is]_ACTIVE
+  from HI: [huge sandy field]_SUBJ [in front of mukteshvara mahadeva mandira] [is]_ACTIVE
+  from TE: [huge sandy field]_SUBJ [in front of mukteshvara mahadeva mandira] [is]_ACTIVE
+61b
+  GOLD   : [it]_SUBJ [by name of mirabai ki reti] [is known]_ACTIVE
+  from HI: [it]_SUBJ [by name of mirabai ki reti] [is known]_ACTIVE
+  from TE: [it]_SUBJ [by name of mirabai ki reti] [is known]_ACTIVE
+62a
+  GOLD   : [this belief]_SUBJ [is]_ACTIVE
+  from HI: [this belief]_SUBJ [is]_ACTIVE
+  from TE: [this belief]_SUBJ [is]_ACTIVE
+62b
+  GOLD   : [mirabai]_SUBJ [here] [for ganga bath] [once] [had come]_ACTIVE
+  from HI: [mirabai]_SUBJ [here] [for ganga bath] [once] [had come]_ACTIVE
+  from TE: [mirabai]_SUBJ [here] [for ganga bath] [once] [had come]_ACTIVE
+63a
+  GOLD   : [it is said]_ACTIVE
+  from HI: [it is said]_ACTIVE
+  from TE: [it is said]_ACTIVE
+63b
+  GOLD   : [parvati ji]_SUBJ [to shankara ji] [once] [asked question]_ACTIVE
+  from HI: [parvati ji]_SUBJ [to shankara ji] [once] [asked question]_ACTIVE
+  from TE: [parvati ji]_SUBJ [to shankara ji] [once] [asked question]_ACTIVE
+64a
+  GOLD   : [oh lord] [any such solution and place] [advise]_ACTIVE
+  from HI: [oh lord] [any such solution and place] [advise]_ACTIVE
+  from TE: [oh lord] [any such solution and place] [advise]_ACTIVE
+64b
+  GOLD   : [by which] [frightened living being]_SUBJ [from several ills and sins] [liberation] [in world] [may get]_ACTIVE
+  from HI: [by which] [frightened living being]_SUBJ [from several ills and sins] [liberation] [in world] [may get]_ACTIVE
+  from TE: [by which] [frightened living being]_SUBJ [from several ills and sins] [liberation] [in world] [may get]_ACTIVE
+65a
+  GOLD   : [they]_SUBJ [what such work] [should do]_ACTIVE
+  from HI: [they]_SUBJ [what such work] [should do]_ACTIVE
+  from TE: [they]_SUBJ [what such work] [should do]_ACTIVE
+65b
+  GOLD   : [by which] [they]_SUBJ [your affection] [may get]_ACTIVE
+  from HI: [by which] [they]_SUBJ [your affection] [may get]_ACTIVE
+  from TE: [by which] [they]_SUBJ [your affection] [may get]_ACTIVE
+66a
+  GOLD   : [shankara ji]_SUBJ [here] [it] [said]_ACTIVE
+  from HI: [shankara ji]_SUBJ [here] [it] [said]_ACTIVE
+  from TE: [shankara ji]_SUBJ [here] [it] [said]_ACTIVE
+66b
+  GOLD   : [oh devi] [all pilgrimages]_SUBJ [in satayuga] [fruit of meritorious action] [give]_ACTIVE
+  from HI: [oh devi] [all pilgrimages]_SUBJ [in satayuga] [fruit of meritorious action] [give]_ACTIVE
+  from TE: [oh devi] [all pilgrimages]_SUBJ [in satayuga] [fruit of meritorious action] [give]_ACTIVE
+66c
+  GOLD   : [and] [pushkara tirtha]_SUBJ [fruit of meritorious action] [in treta] [gives]_ACTIVE
+  from HI: [and] [pushkara tirtha]_SUBJ [fruit of meritorious action] [in treta] [gives]_ACTIVE
+  from TE: [and] [pushkara tirtha]_SUBJ [fruit of meritorious action] [in treta] [gives]_ACTIVE
+66d
+  GOLD   : [and] [kurukshetra tirtha]_SUBJ [in dvapara] [fruit of meritorious action] [gives]_ACTIVE
+  from HI: [and] [kurukshetra tirtha]_SUBJ [in dvapara] [fruit of meritorious action] [gives]_ACTIVE
+  from TE: [and] [kurukshetra tirtha]_SUBJ [in dvapara] [fruit of meritorious action] [gives]_ACTIVE
+66e
+  GOLD   : [and] [meritorious action fruit]_SUBJ [in kalikala] [only by ganga snana] [is attained]_ACTIVE
+  from HI: [and] [meritorious action fruit]_SUBJ [in kalikala] [only with ganga snana] [is attained]_ACTIVE
+  from TE: [and] [meritorious action fruit]_SUBJ [in kalikala] [only with ganga snana] [is attained]_ACTIVE
+67
+  GOLD   : [a place called shiva ballabhapura]_SUBJ [on bank of ganga] [is]_ACTIVE
+  from HI: [a place called shiva ballabhapura]_SUBJ [on bank of ganga] [is]_ACTIVE
+  from TE: [a place called shiva ballabhapura]_SUBJ [on bank of ganga] [is]_ACTIVE
+68
+  GOLD   : [shiva]_SUBJ [in place called shiva ballabhapura] [resides]_ACTIVE
+  from HI: [shiva]_SUBJ [in place called shiva ballabhapura] [resides]_ACTIVE
+  from TE: [shiva]_SUBJ [in place called shiva ballabhapura] [resides]_ACTIVE
+69
+  GOLD   : [shiva ballabhapura]_SUBJ [to shiva ji] [very favourite] [is]_ACTIVE
+  from HI: [shiva ballabhapura]_SUBJ [to shiva ji] [very favourite] [is]_ACTIVE
+  from TE: [shiva ballabhapura]_SUBJ [to shiva ji] [very favourite] [is]_ACTIVE
+70
+  GOLD   : [shiva ballabhapura]_SUBJ [in aryavarta desha of jambudvipa] [in east direction of hastinapura] [located] [is]_ACTIVE
+  from HI: [shiva ballabhapura]_SUBJ [in aryavarta desha of jambudvipa] [in east direction of hastinapura] [located] [is]_ACTIVE
+  from TE: [shiva ballabhapura]_SUBJ [in aryavarta desha of jambudvipa] [in east direction of hastinapura] [located] [is]_ACTIVE
+71
+  GOLD   : [shiva ballabhapura settled on bank of ganga]_SUBJ [satisfaction] [to deities and sages and ancestor] [gives]_ACTIVE
+  from HI: [shiva ballabhapura settlinged on ganga bank]_SUBJ [to deities, sages and ancestors] [satisfaction] [gives]_ACTIVE
+  from TE: [shiva ballabhapura settlinged on ganga bank]_SUBJ [to deities, sages and ancestors] [satisfaction] [gives]_ACTIVE
+72
+  GOLD   : [shiva ballabhapura kshetra]_SUBJ [to me] [like kashi] [favourite] [is]_ACTIVE
+  from HI: [shiva ballabhapura kshetra]_SUBJ [to me] [like kashi] [favourite] [is]_ACTIVE
+  from TE: [shiva ballabhapura kshetra]_SUBJ [to me] [like kashi] [favourite] [is]_ACTIVE
+73
+  GOLD   : [ganga mandira situated in gadha mukteshvara]_SUBJ [at quite height] [is built]_ACTIVE
+  from HI: [ganga mandira situated in gadha mukteshvara]_SUBJ [at quite height] [is built]_ACTIVE
+  from TE: [ganga mandira situated in gadha mukteshvara]_SUBJ [at quite height] [is built]_ACTIVE
+74
+  GOLD   : [also statue of brahma ji besides ganga maiya]_SUBJ [in ganga mandira of gadha mukteshvara] [is installed]_ACTIVE
+  from HI: [also statue of brahma ji besides ganga maiya]_SUBJ [in ganga mandira of gadha mukteshvara] [is installed]_ACTIVE
+  from TE: [also statue of brahma ji besides ganga maiya]_SUBJ [in ganga mandira of gadha mukteshvara] [is installed]_ACTIVE
+75a
+  GOLD   : [also such a stone]_SUBJ [in ganga mandira of gadha mukteshvara] [is]_ACTIVE
+  from HI: [also such a stone]_SUBJ [in ganga mandira of gadha mukteshvara] [is]_ACTIVE
+  from TE: [also such a stone]_SUBJ [in ganga mandira of gadha mukteshvara] [is]_ACTIVE
+75b
+  GOLD   : [on looking closely at which] [on it] [inkling of shape of bhagavana shiva] [occurs]_ACTIVE
+  from HI: [shape of bhagavana shiva]_SUBJ [because of looking which closely] [there] [feels inkling]_ACTIVE
+  from TE: [shape of bhagavana shiva]_SUBJ [because of looking which closely] [there] [feels inkling]_ACTIVE
+76
+  GOLD   : [101 steps]_SUBJ [for reaching ganga mandira of gadha mukteshvara] [at one time] [had been]_ACTIVE
+  from HI: [101 steps]_SUBJ [for reaching ganga mandira of gadha mukteshvara] [at one time] [had been]_ACTIVE
+  from TE: [101 steps]_SUBJ [for reaching ganga mandira of gadha mukteshvara] [at one time] [had been]_ACTIVE
+77
+  GOLD   : [but] [86 steps only]_SUBJ [in ganga mandira of gadha mukteshvara] [now] [are left]_ACTIVE
+  from HI: [but] [86 steps only]_SUBJ [in ganga mandira of gadha mukteshvara] [now] [are left]_ACTIVE
+  from TE: [but] [86 steps only]_SUBJ [in ganga mandira of gadha mukteshvara] [now] [are left]_ACTIVE
+78a
+  GOLD   : [it is said]_ACTIVE
+  from HI: [it is said]_ACTIVE
+  from TE: [it is said]_ACTIVE
+78b
+  GOLD   : [ganga ji]_SUBJ [till 1937] [touching steps of ganga mandira of gadha mukteshvara] [used to flow]_ACTIVE
+  from HI: [ganga ji]_SUBJ [till 1937] [touching steps of ganga mandira of gadha mukteshvara] [used to flow]_ACTIVE
+  from TE: [ganga ji]_SUBJ [till 1937] [touching steps of ganga mandira of gadha mukteshvara] [used to flow]_ACTIVE
+79
+  GOLD   : [but] [ganga ji]_SUBJ [place] [slowly] [left]_ACTIVE
+  from HI: [but] [ganga ji]_SUBJ [place] [slowly] [left]_ACTIVE
+  from TE: [but] [ganga ji]_SUBJ [place] [slowly] [left]_ACTIVE
+80
+  GOLD   : [bank of ganga]_SUBJ [now] [almost 10 kilometres away from this temple] [is]_ACTIVE
+  from HI: [bank of ganga]_SUBJ [now] [almost 10 kilometres away from this temple] [is]_ACTIVE
+  from TE: [bank of ganga]_SUBJ [now] [almost 10 kilometres away from this temple] [is]_ACTIVE
+81
+  GOLD   : [fair]_SUBJ [in sandy field of ganga bank] [is organized]_ACTIVE
+  from HI: [fair]_SUBJ [in sandy field of ganga bank] [is organized]_ACTIVE
+  from TE: [fair]_SUBJ [in sandy field of ganga bank] [is organized]_ACTIVE
+82
+  GOLD   : [one whole city of tents]_SUBJ [during fair] [on bank] [gets settled]_ACTIVE
+  from HI: [one whole city of tents]_SUBJ [during fair] [on bank] [gets settled]_ACTIVE
+  from TE: [one whole city of tents]_SUBJ [during fair] [on bank] [gets settled]_ACTIVE
+83
+  GOLD   : [fair venue]_SUBJ [from dilli] [almost 90 kilometres] [lies]_ACTIVE
+  from HI: [fair venue]_SUBJ [from dilli] [almost 90 kilometres] [lies]_ACTIVE
+  from TE: [fair venue]_SUBJ [from dilli] [almost 90 kilometres] [lies]_ACTIVE
+84
+  GOLD   : [fair ground]_SUBJ [by car etc] [easily] [can be reached]_PASSIVE
+  from HI: [fair ground]_SUBJ [by car etc] [easily] [can be reached]_PASSIVE
+  from TE: [fair ground]_SUBJ [by car etc] [easily] [can be reached]_PASSIVE
+85
+  GOLD   : [people]_SUBJ [in gaDha mukteshvara] [before] [to venue of fair] [walking on foot only] [had to go]_ACTIVE
+  from HI: [people]_SUBJ [in gadha mukteshvara] [before] [venue of fair] [going by walking only] [had to go]_ACTIVE
+  from TE: [people]_SUBJ [in gadha mukteshvara] [before] [venue of fair] [going by walking only] [had to go]_ACTIVE
+86
+  GOLD   : [but] [several ways of travel]_SUBJ [now] [available] [are]_ACTIVE
+  from HI: [but] [several ways of travel]_SUBJ [now] [available] [are]_ACTIVE
+  from TE: [but] [several ways of travel]_SUBJ [now] [available] [are]_ACTIVE
+87
+  GOLD   : [many people]_SUBJ [by bhaimsa buggi, tractor, trollies, car and other means] [fair venue] [reach]_ACTIVE
+  from HI: [many people]_SUBJ [by bhaimsa buggi, tractor, trollies, car and other means] [fair venue] [reach]_ACTIVE
+  from TE: [many people]_SUBJ [by bhaimsa buggi, tractor, trollies, car and other means] [fair venue] [reach]_ACTIVE
+88a
+  GOLD   : [estimate]_SUBJ [is]_ACTIVE
+  from HI: [estimate]_SUBJ [is]_ACTIVE
+  from TE: [estimate]_SUBJ [is]_ACTIVE
+88b
+  GOLD   : [about 20 lacs people]_SUBJ [every year] [during fairs of gadha mukteshvara] [for ganga bath] [come]_ACTIVE
+  from HI: [about 20 lacs people]_SUBJ [every year] [during fairs of gadha mukteshvara] [for ganga bath] [come]_ACTIVE
+  from TE: [about 20 lacs people]_SUBJ [every year] [during fairs of gadha mukteshvara] [for ganga bath] [come]_ACTIVE
+89
+  GOLD   : [most devotees having come to fairs for participating]_SUBJ [in installed tents only] [stay]_ACTIVE
+  from HI: [most devotees having come to fairs for participating]_SUBJ [in installed tents only] [stay]_ACTIVE
+  from TE: [most devotees having come to fairs for participating]_SUBJ [in installed tents only] [stay]_ACTIVE
+90
+  GOLD   : [people coming besides fair and on general days]_SUBJ [in dharamshalas built around braja ghata] [stay]_ACTIVE
+  from HI: [coming people]_SUBJ [in general days besides fair] [in dharamshalas built around braja ghata] [stay]_ACTIVE
+  from TE: [coming people]_SUBJ [in general days besides fair] [in dharamshalas built around braja ghata] [stay]_ACTIVE
+91
+  GOLD   : [things of food and drink]_SUBJ [here] [in many shops] [thus] [are found]_PASSIVE
+  from HI: [things of food and drink]_SUBJ [here] [in many shops] [thus] [are found]_PASSIVE
+  from TE: [things of food and drink]_SUBJ [here] [in many shops] [thus] [are found]_PASSIVE
+92
+  GOLD   : [but] [coming devotees themselves only]_SUBJ [as group] [in fair] [arrangement of their food etc] [manage]_ACTIVE
+  from HI: [but] [coming devotees themselves only]_SUBJ [as group] [in fair] [arrangement of their food etc] [manage]_ACTIVE
+  from TE: [but] [coming devotees themselves only]_SUBJ [as group] [in fair] [arrangement of their food etc] [manage]_ACTIVE
+93
+  GOLD   : [fair organized on eve of kartika purnima in gadha mukteshvara on ganga bank]_SUBJ [one among largest fairs] [is]_ACTIVE
+  from HI: [fair organize on eve of kartika purnima in gadha mukteshvara on ganga bank]_SUBJ [one among largest fairs] [is]_ACTIVE
+  from TE: [fair organize on eve of kartika purnima in gadha mukteshvara on ganga bank]_SUBJ [one among largest fairs] [is]_ACTIVE
+94
+  GOLD   : [fair]_SUBJ [on banks of ganga] [in area of almost 11 kilometres] [is held]_ACTIVE
+  from HI: [fair]_SUBJ [on banks of ganga] [in area of almost 11 kilometres] [is held]_ACTIVE
+  from TE: [fair]_SUBJ [on banks of ganga] [in area of almost 11 kilometres] [is held]_ACTIVE
+95
+  GOLD   : [organisation of fairs]_SUBJ [in this year] [by dividing fair venue in 20 sectors] [is being done]_PASSIVE
+  from HI: [organisation of fairs]_SUBJ [in this year] [by dividing fair venue in 20 sectors] [is being done]_PASSIVE
+  from TE: [organisation of fairs]_SUBJ [in this year] [by dividing fair venue in 20 sectors] [is being done]_PASSIVE
+96
+  GOLD   : [more police force]_SUBJ [from point of view of security] [in gadha mukteshvara] [than before] [has been deployed]_PASSIVE
+  from HI: [more police force]_SUBJ [from point of view of security] [in gadha mukteshvara] [than before] [has been deployed]_PASSIVE
+  from TE: [more police force]_SUBJ [from point of view of security] [in gadha mukteshvara] [than before] [has been deployed]_PASSIVE
+97
+  GOLD   : [also kloja sarkita tivi kaimara]_SUBJ [in main places] [has been installed]_PASSIVE
+  from HI: [also kloja sarkita tivi kaimara]_SUBJ [in main places] [has been installed]_PASSIVE
+  from TE: [also kloja sarkita tivi kaimara]_SUBJ [in main places] [has been installed]_PASSIVE
+98
+  GOLD   : [also several ghats]_SUBJ [for ganga bath] [have been built]_PASSIVE
+  from HI: [also several ghats]_SUBJ [for ganga bath] [have been built]_PASSIVE
+  from TE: [also several ghats]_SUBJ [for ganga bath] [have been built]_PASSIVE
+99
+  GOLD   : [historical importance of hastinapura]_SUBJ [is]_ACTIVE
+  from HI: [historical importance of hastinapura]_SUBJ [is]_ACTIVE
+  from TE: [historical importance of hastinapura]_SUBJ [is]_ACTIVE
+100
+  GOLD   : [special importance]_SUBJ [because of jaina jagata] [for all castes of uttara bharata varsha] [is]_ACTIVE
+  from HI: [special importance]_SUBJ [because of jaina jagata] [for all castes of uttara bharata varsha] [is]_ACTIVE
+  from TE: [special importance]_SUBJ [because of jaina jagata] [for all castes of uttara bharata varsha] [is]_ACTIVE
+101
+  GOLD   : [we]_SUBJ [for going to hastinapura] [in dilli] [going from kashmiri geta basa adda] [as convenient] [considered]_ACTIVE
+  from HI: [we]_SUBJ [for going to hastinapura] [in dilli] [going from kashmiri geta basa adda] [as convenient] [considered]_ACTIVE
+  from TE: [we]_SUBJ [for going to hastinapura] [in dilli] [going from kashmiri geta basa adda] [as convenient] [considered]_ACTIVE
+102
+  GOLD   : [buses from kashmiri geta to meratha]_SUBJ [continuously] [go]_ACTIVE
+  from HI: [buses from kashmiri geta to meratha]_SUBJ [continuously] [go]_ACTIVE
+  from TE: [buses from kashmiri geta to meratha]_SUBJ [continuously] [go]_ACTIVE
+103
+  GOLD   : [buses of hastinapura]_SUBJ [from meratha] [then] [are found]_PASSIVE
+  from HI: [buses of hastinapura]_SUBJ [from meratha] [then] [are found]_PASSIVE
+  from TE: [buses of hastinapura]_SUBJ [from meratha] [then] [are found]_PASSIVE
+104
+  GOLD   : [distance of hastinapura]_SUBJ [from dilli] [about 105 kilometres] [is]_ACTIVE
+  from HI: [distance of hastinapura]_SUBJ [from dilli] [about 105 kilometres] [is]_ACTIVE
+  from TE: [distance of hastinapura]_SUBJ [from dilli] [about 105 kilometres] [is]_ACTIVE
+105
+  GOLD   : [hastinapura]_SUBJ [also by several other names like gajapura, nagapura, asandhivata and brahmasthala] [in scriptures] [is known]_ACTIVE
+  from HI: [hastinapura]_SUBJ [also by several other names like gajapura, nagapura, asandhivata and brahmasthala] [in scriptures] [is known]_ACTIVE
+  from TE: [hastinapura]_SUBJ [also by several other names like gajapura, nagapura, asandhivata and brahmasthala] [in scriptures] [is known]_ACTIVE
+106
+  GOLD   : [first of all tirthankara among 24 tirthankaras of jaina dharma shri adinatha prabhu]_SUBJ [in hastinapura] [after fast of his 400 days] [from hands of shreyamshakumara] [having accepted juice of sugarcanes] [his fast] [had concluded]_ACTIVE
+  from HI: [all first tirthankara among 24 tirthankaras of jaina dharma shri adinatha prabhu]_SUBJ [in hastinapura] [after fast of his 400 days] [from hands of shreyamshakumara] [having accepted juice of sugarcanes] [his fast] [had concluded]_ACTIVE
+  from TE: [all first tirthankara among 24 tirthankaras of jaina dharma shri adinatha prabhu]_SUBJ [in hastinapura] [after fast of his 400 days] [from hands of shreyamshakumara] [having accepted juice of sugarcanes] [his fast] [had concluded]_ACTIVE
+107
+  GOLD   : [12 kalyanakas of shri shantinatha prabhu, kunthanatha prabhu and shri arahanatha prabhu]_SUBJ [in hastinapura only] [occurred]_ACTIVE
+  from HI: [12 kalyanakas of shri shantinatha prabhu, kunthanatha prabhu and shri arahanatha prabhu]_SUBJ [in hastinapura only] [occurred]_ACTIVE
+  from TE: [12 kalyanakas of shri shantinatha prabhu, kunthanatha prabhu and shri arahanatha prabhu]_SUBJ [in hastinapura only] [occurred]_ACTIVE
+108
+  GOLD   : [also samosaran of bhagavana mallinatha]_SUBJ [in hastinapura only] [happened]_ACTIVE
+  from HI: [also samosaran of bhagavana mallinatha]_SUBJ [in hastinapura only] [happened]_ACTIVE
+  from TE: [also samosaran of bhagavana mallinatha]_SUBJ [in hastinapura only] [happened]_ACTIVE
+109
+  GOLD   : [muni suvrata natha svami, bhagavana parshvanatha and bhagavana mahavira svami]_SUBJ [in hastinapura only] [in their divine voice] [preached]_ACTIVE
+  from HI: [muni suvrata natha svami, bhagavana parshvanatha and bhagavana mahavira svami]_SUBJ [in hastinapura only] [in their divine voice] [preached]_ACTIVE
+  from TE: [muni suvrata natha svami, bhagavana parshvanatha and bhagavana mahavira svami]_SUBJ [in hastinapura only] [in their divine voice] [preached]_ACTIVE
+110
+  GOLD   : [time of ablution and prayer]_SUBJ [in hastinapura] [from morning 8 to evening 5] [is]_ACTIVE
+  from HI: [time of ablution and prayer]_SUBJ [in hastinapura] [from morning 8 to evening 5] [is]_ACTIVE
+  from TE: [time of ablution and prayer]_SUBJ [in hastinapura] [from morning 8 to evening 5] [is]_ACTIVE
+111
+  GOLD   : [and] [time of worshipping in digambara jaina mandira]_SUBJ [at 7 o'clock in morning] [starts]_ACTIVE
+  from HI: [and] [time of worshipping in digambara jaina mandira]_SUBJ [at 7 o'clock in morning] [starts]_ACTIVE
+  from TE: [and] [time of worshipping in digambara jaina mandira]_SUBJ [at 7 o'clock in morning] [starts]_ACTIVE
+112
+  GOLD   : [adinatha bhagavana]_SUBJ [in hastinapura] [400 days after taking initiation] [on day of vaishakha shukla trtiya] [came]_ACTIVE
+  from HI: [adinatha bhagavana]_SUBJ [in hastinapura] [400 days after taking initiation] [on day of vaishakha shukla trtiya] [came]_ACTIVE
+  from TE: [adinatha bhagavana]_SUBJ [in hastinapura] [400 days after taking initiation] [on day of vaishakha shukla trtiya] [came]_ACTIVE
+113
+  GOLD   : [people]_SUBJ [from afar] [for his visit] [used to go]_ACTIVE
+  from HI: [people]_SUBJ [from afar] [for his visit] [used to go]_ACTIVE
+  from TE: [people]_SUBJ [from afar] [for his visit] [used to go]_ACTIVE
+114a
+  GOLD   : [when] [to rajakumara shreyamshakumara] [knowledge of this thing] [came]_ACTIVE
+  from HI: [therefore] [when] [to rajakumara shreyamshakumara] [know of this thing] [came]_ACTIVE
+  from TE: [therefore] [when] [to rajakumara shreyamshakumara] [know of this thing] [came]_ACTIVE
+114b
+  GOLD   : [they]_SUBJ [tradition of abandoning food and water of their ancestors] [remembered]_ACTIVE
+  from HI: [they]_SUBJ [tradition of abandoning food and water of their ancestors] [remembered]_ACTIVE
+  from TE: [they]_SUBJ [tradition of abandoning food and water of their ancestors] [remembered]_ACTIVE
+115a
+  GOLD   : [rajakumara shreyamshakumara]_SUBJ [adinatha prabhu] [for ending of fast] [for accepting juice of sugarcane] [prayed]_ACTIVE
+  from HI: [rajakumara shreyamshakumara]_SUBJ [adinatha prabhu] [for ending of fast] [for accepting juice of sugarcane] [prayed]_ACTIVE
+  from TE: [rajakumara shreyamshakumara]_SUBJ [adinatha prabhu] [for ending of fast] [for accepting juice of sugarcane] [prayed]_ACTIVE
+115b
+  GOLD   : [which] [he]_SUBJ [had accepted]_ACTIVE
+  from HI: [which] [he]_SUBJ [had accepted]_ACTIVE
+  from TE: [which] [he]_SUBJ [had accepted]_ACTIVE
+116
+  GOLD   : [then] [this day]_SUBJ [as akshaya trtiya] [began to be called]_PASSIVE
+  from HI: [then] [this day]_SUBJ [as akshaya trtiya] [began to be called]_PASSIVE
+  from TE: [then] [this day]_SUBJ [as akshaya trtiya] [began to be called]_PASSIVE
+117
+  GOLD   : [God]_SUBJ [in hastinapura] [with his preachings] [6 big kings] [follower of jaina dharma] [made]_ACTIVE
+  from HI: [God]_SUBJ [in hastinapura] [with his preachings] [6 big kings] [follower of jaina dharma] [made]_ACTIVE
+  from TE: [God]_SUBJ [in hastinapura] [with his preachings] [6 big kings] [follower of jaina dharma] [made]_ACTIVE
+118
+  GOLD   : [20th tirthankara shri muni suvrata svami, 23rd tirthankara parshvanatha bhagavana and also last tirthankara shri mahavira svami among 24 tirthankaras]_SUBJ [this place] [with their feet] [had made holy]_ACTIVE
+  from HI: [20th tirthankara shri muni suvrata svami, 23rd tirthankara parshvanatha bhagavana and also last tirthankara shri mahavira svami among 24 tirthankaras]_SUBJ [this place] [with their feet] [had made holy]_ACTIVE
+  from TE: [20th tirthankara shri muni suvrata svami, 23rd tirthankara parshvanatha bhagavana and also last tirthankara shri mahavira svami among 24 tirthankaras]_SUBJ [this place] [with their feet] [had made holy]_ACTIVE
+119
+  GOLD   : [total 12 universal Emperors]_SUBJ [in bharata] [were]_ACTIVE
+  from HI: [total 12 universal Emperors]_SUBJ [in bharata] [were]_ACTIVE
+  from TE: [total 12 universal Emperors]_SUBJ [in bharata] [were]_ACTIVE
+120
+  GOLD   : [birth place of 6 among total 12 universal emperors of bharata]_SUBJ [hastinapura] [is]_ACTIVE
+  from HI: [birth place of 6 among total 12 universal Emperors of bharata]_SUBJ [hastinapura] [is]_ACTIVE
+  from TE: [birth place of 6 among total 12 universal Emperors of bharata]_SUBJ [hastinapura] [is]_ACTIVE
+121
+  GOLD   : [also parashurama of ramayana age]_SUBJ [in hastinapura] [was born]_ACTIVE
+  from HI: [also parashurama of ramayana age]_SUBJ [in hastinapura] [was born]_ACTIVE
+  from TE: [also parashurama of ramayana age]_SUBJ [in hastinapura] [was born]_ACTIVE
+122
+  GOLD   : [hastinapura]_SUBJ [capital of kaurava and pandava] [has remained]_ACTIVE
+  from HI: [hastinapura]_SUBJ [capital of kaurava and pandava] [has remained]_ACTIVE
+  from TE: [hastinapura]_SUBJ [capital of kaurava and pandava] [has remained]_ACTIVE
+123
+  GOLD   : [function]_SUBJ [on kartika purnima and vaishakha shukla trtiya] [in shvetambara jaina mandira] [between kartika shukla and purnima] [in digambara jaina mandira] [is organized]_PASSIVE
+  from HI: [function]_SUBJ [on kartika purnima and vaishakha shukla trtiya] [in shvetambara jaina mandira and digambara jaina mandira] [between kartika shukla and purnima] [is organized]_PASSIVE
+  from TE: [function]_SUBJ [on kartika purnima and vaishakha shukla trtiya] [in shvetambara jaina mandira and digambara jaina mandira] [between kartika shukla and purnima] [is organized]_PASSIVE
+124
+  GOLD   : [bhagavana adinatha]_SUBJ [podanapura and hastinapura state] [to his son bahubali] [had entrusted]_ACTIVE
+  from HI: [bhagavana adinatha]_SUBJ [podanapura and hastinapura state] [to his son bahubali] [had entrusted]_ACTIVE
+  from TE: [bhagavana adinatha]_SUBJ [podanapura and hastinapura state] [to his son bahubali] [had entrusted]_ACTIVE
+125
+  GOLD   : [bahubali]_SUBJ [over podanapura] [ruled]_ACTIVE
+  from HI: [bahubali]_SUBJ [over podanapura] [ruled]_ACTIVE
+  from TE: [bahubali]_SUBJ [over podanapura] [ruled]_ACTIVE
+126
+  GOLD   : [whereas] [his son somayasha]_SUBJ [over hastinapura] [ruled]_ACTIVE
+  from HI: [whereas] [his son somayasha]_SUBJ [over hastinapura] [ruled]_ACTIVE
+  from TE: [whereas] [his son somayasha]_SUBJ [over hastinapura] [ruled]_ACTIVE
+127
+  GOLD   : [younger brother of bahubali, shreyamshakumara]_SUBJ [feet worship of adinatha bhagavana] [had performed]_ACTIVE
+  from HI: [shreyamshakumara, younger brother of bahubali]_SUBJ [feet_worship of adinatha bhagavana] [had performed]_ACTIVE
+  from TE: [shreyamshakumara, younger brother of bahubali]_SUBJ [feet_worship of adinatha bhagavana] [had performed]_ACTIVE
+128
+  GOLD   : [ratna stambha]_SUBJ [in memory of shreyamshakumara] [had been built]_PASSIVE
+  from HI: [ratna stambha]_SUBJ [in memory of shreyamshakumara] [had been built]_PASSIVE
+  from TE: [ratna stambha]_SUBJ [in memory of shreyamshakumara] [had been built]_PASSIVE
+129
+  GOLD   : [there] [also caranapaduka of adinatha bhagavana] [had installed]_ACTIVE
+  from HI: [there] [also caranapaduka of adinatha bhagavana] [had installed]_ACTIVE
+  from TE: [there] [also caranapaduka of adinatha bhagavana] [had installed]_ACTIVE
+130
+  GOLD   : [3 pillars]_SUBJ [also in memory of four kalyanakas of shri shantinatha bhagavana, shri kunthanatha bhagavana and arahanatha bhagavana] [here] [had been built]_PASSIVE
+  from HI: [3 pillars]_SUBJ [also in memory of four kalyanakas of shri shantinatha bhagavana, shri kunthanatha bhagavana and arahanatha bhagavana] [here] [had been built]_PASSIVE
+  from TE: [3 pillars]_SUBJ [also in memory of four kalyanakas of shri shantinatha bhagavana, shri kunthanatha bhagavana and arahanatha bhagavana] [here] [had been built]_PASSIVE
+131a
+  GOLD   : [king shivaraja]_SUBJ [listening to preaching of mahavira svami] [jaina dharma] [adopted]_ACTIVE
+  from HI: [king shivaraja]_SUBJ [listening to preaching of mahavira svami] [jaina dharma] [adopted]_ACTIVE
+  from TE: [king shivaraja]_SUBJ [listening to preaching of mahavira svami] [jaina dharma] [adopted]_ACTIVE
+131b
+  GOLD   : [king shivaraja]_SUBJ [in memory of mahavira svami] [in hastinapura] [a pillar] [built]_ACTIVE
+  from HI: [king shivaraja]_SUBJ [in memory of mahavira svami] [in hastinapura] [a pillar] [built]_ACTIVE
+  from TE: [king shivaraja]_SUBJ [in memory of mahavira svami] [in hastinapura] [a pillar] [built]_ACTIVE
+132
+  GOLD   : [also a descendant of emperor ashoka]_SUBJ [during his regime time] [many jain temples] [made]_ACTIVE
+  from HI: [also a descendant of Emperor ashoka]_SUBJ [during his regime time] [many Jain temples] [made]_ACTIVE
+  from TE: [also a descendant of Emperor ashoka]_SUBJ [during his regime time] [many Jain temples] [made]_ACTIVE
+133
+  GOLD   : [but] [those ancient pillars and temples]_SUBJ [with time] [slowly] [vanished]_ACTIVE
+  from HI: [but] [those ancient pillars and temples]_SUBJ [with time] [slowly] [vanished]_ACTIVE
+  from TE: [but] [those ancient pillars and temples]_SUBJ [with time] [slowly] [vanished]_ACTIVE
+134
+  GOLD   : [this hastinapura nagara]_SUBJ [on banks of holy ganga] [present] [is]_ACTIVE
+  from HI: [this hastinapura nagara]_SUBJ [on banks of holy ganga] [present] [is]_ACTIVE
+  from TE: [this hastinapura nagara]_SUBJ [on banks of holy ganga] [present] [is]_ACTIVE
+135
+  GOLD   : [also management of dharamshala]_SUBJ [for stay of people having reached hastinapura] [is found]_ACTIVE
+  from HI: [also management of dharamshala]_SUBJ [for stay of people having reached hastinapura] [is found]_ACTIVE
+  from TE: [also management of dharamshala]_SUBJ [for stay of people having reached hastinapura] [is found]_ACTIVE
+136
+  GOLD   : [arrangement of breakfast of morning, lunch of midday, food of night and 400 rooms]_SUBJ [in shvetambara trasta dharmashala] [for stay] [is]_ACTIVE
+  from HI: [arrangement of breakfast of morning, lunch of midday, food of night and 400 rooms]_SUBJ [in shvetambara trasta dharmashala] [for stay] [is]_ACTIVE
+  from TE: [arrangement of breakfast of morning, lunch of midday, food of night and 400 rooms]_SUBJ [in shvetambara trasta dharmashala] [for stay] [is]_ACTIVE
+137
+  GOLD   : [several other dharamshalas]_SUBJ [in this fashion] [easily] [are found]_ACTIVE
+  from HI: [several other dharamshalas]_SUBJ [in this fashion] [easily] [are found]_ACTIVE
+  from TE: [several other dharamshalas]_SUBJ [in this fashion] [easily] [are found]_ACTIVE
+138
+  GOLD   : [more than desire]_SUBJ [in atishaya kshetra tijara] [here] [gets]_ACTIVE
+  from HI: [more than desire]_SUBJ [in atishaya kshetra tijara] [here] [gets]_ACTIVE
+  from TE: [more than desire]_SUBJ [in atishaya kshetra tijara] [here] [gets]_ACTIVE
+139
+  GOLD   : [candra prabhu digambara jaina atishaya kshetra dehara-tijara]_SUBJ [in alavara jila of rajasthana] [situated] [is]_ACTIVE
+  from HI: [candra prabhu digambara jaina atishaya kshetra dehara-tijara]_SUBJ [in alavara jila of rajasthana] [situated] [is]_ACTIVE
+  from TE: [candra prabhu digambara jaina atishaya kshetra dehara-tijara]_SUBJ [in alavara jila of rajasthana] [situated] [is]_ACTIVE
+140
+  GOLD   : [this]_SUBJ [as atishaya kshetra] [is called]_PASSIVE
+  from HI: [this]_SUBJ [as atishaya kshetra] [is called]_PASSIVE
+  from TE: [this]_SUBJ [as atishaya kshetra] [is called]_PASSIVE
+141
+  GOLD   : [meaning of atishaya]_SUBJ [much more than common] [is]_ACTIVE
+  from HI: [meaning of atishaya]_SUBJ [commonly much more] [is]_ACTIVE
+  from TE: [meaning of atishaya]_SUBJ [commonly much more] [is]_ACTIVE
+142a
+  GOLD   : [this area]_SUBJ [where] [something extraordinary] [may occur]_ACTIVE
+  from HI: [this area]_SUBJ [where] [something extraordinary] [may occur]_ACTIVE
+  from TE: [this area]_SUBJ [where] [something extraordinary] [may occur]_ACTIVE
+142b
+  GOLD   : [some extraordinary miracle]_SUBJ [in this area] [where] [may happen]_ACTIVE
+  from HI: [some extraordinary miracle]_SUBJ [in this area] [where] [may happen]_ACTIVE
+  from TE: [some extraordinary miracle]_SUBJ [in this area] [where] [may happen]_ACTIVE
+143a
+  GOLD   : [whatever]_SUBJ [in general way] [may be demanded]_PASSIVE
+  from HI: [whatever]_SUBJ [in general way] [may be demanded]_PASSIVE
+  from TE: [whatever]_SUBJ [in general way] [may be demanded]_PASSIVE
+143b
+  GOLD   : [much more than that]_SUBJ [may get]_ACTIVE
+  from HI: [much more than that]_SUBJ [may get]_ACTIVE
+  from TE: [much more than that]_SUBJ [may get]_ACTIVE
+144a
+  GOLD   : [that much]_SUBJ [may get]_ACTIVE
+  from HI: [that much]_SUBJ [may get]_ACTIVE
+  from TE: [that much]_SUBJ [may get]_ACTIVE
+144b
+  GOLD   : [you]_SUBJ [may become soaked]_ACTIVE
+  from HI: [you]_SUBJ [may become soaked]_ACTIVE
+  from TE: [you]_SUBJ [may become soaked]_ACTIVE
+145
+  GOLD   : [belief of tijara kshetra]_SUBJ [this only] [is]_ACTIVE
+  from HI: [belief of tijara kshetra]_SUBJ [this only] [is]_ACTIVE
+  from TE: [belief of tijara kshetra]_SUBJ [this only] [is]_ACTIVE
+146a
+  GOLD   : [this atishaya area of tijara] [say]_ACTIVE
+  from HI: [this atishaya area of tijara] [say]_ACTIVE
+  from TE: [this atishaya area of tijara] [say]_ACTIVE
+146b
+  GOLD   : [temple]_SUBJ [at distance of 52 kilometres from alavara jila and 117 kilometres from dilli] [situated] [is]_ACTIVE
+  from HI: [temple]_SUBJ [at distance of 52 kilometres from alavara jila and 117 kilometres from dilli] [situated] [is]_ACTIVE
+  from TE: [temple]_SUBJ [at distance of 52 kilometres from alavara jila and 117 kilometres from dilli] [situated] [is]_ACTIVE
+147
+  GOLD   : [shri candra prabhu bhagavana, 8th tirthankara]_SUBJ [in tijara atishaya kshetra] [among 24 tirthankaras] [is worshipped]_PASSIVE
+  from HI: [shri candra prabhu bhagavana, 8th tirthankara]_SUBJ [in tijara atishaya kshetra] [among 24 tirthankaras] [is worshipped]_PASSIVE
+  from TE: [shri candra prabhu bhagavana, 8th tirthankara]_SUBJ [in tijara atishaya kshetra] [among 24 tirthankaras] [is worshipped]_PASSIVE
+148
+  GOLD   : [extremely beautiful statue of marble of white colour of candra prabhu bhagavana]_SUBJ [in tijara atishaya kshetra] [installed] [is]_ACTIVE
+  from HI: [extremely beautiful statue of marble of white colour of candra prabhu bhagavana]_SUBJ [in tijara atishaya kshetra] [installed] [is]_ACTIVE
+  from TE: [extremely beautiful statue of marble of white colour of candra prabhu bhagavana]_SUBJ [in tijara atishaya kshetra] [installed] [is]_ACTIVE
+149
+  GOLD   : [this marble statue]_SUBJ [during excavation conducted in this area] [on 16th august 1956] [had come out]_ACTIVE
+  from HI: [this marble statue]_SUBJ [during excavation conducted in this area] [on 16th August 1956] [had come out]_ACTIVE
+  from TE: [this marble statue]_SUBJ [during excavation conducted in this area] [on 16th August 1956] [had come out]_ACTIVE
+150a
+  GOLD   : [it is said]_PASSIVE
+  from HI: [it is said]_PASSIVE
+  from TE: [it is said]_PASSIVE
+150b
+  GOLD   : [sarasvati devi, wife of a famous vaidya bihari lala of tijara kshetra]_SUBJ [fast of three days] [kept]_ACTIVE
+  from HI: [sarasvati devi, wife of a famous vaidya bihari lala of tijara kshetra]_SUBJ [fast of three days] [kept]_ACTIVE
+  from TE: [sarasvati devi, wife of a famous vaidya bihari lala of tijara kshetra]_SUBJ [fast of three days] [kept]_ACTIVE
+151
+  GOLD   : [sarasvati devi]_SUBJ [on third day] [at night of fast] [in dream] [about a place situated near her house] [something unprecedented] [had seen]_ACTIVE
+  from HI: [sarasvati devi]_SUBJ [on third day] [at night of fast] [in dream] [about a place situated near her house] [something unprecedented] [had seen]_ACTIVE
+  from TE: [sarasvati devi]_SUBJ [on third day] [at night of fast] [in dream] [about a place situated near her house] [something unprecedented] [had seen]_ACTIVE
+152a
+  GOLD   : [when] [that place]_SUBJ [next morning] [was dug]_PASSIVE
+  from HI: [when] [that place]_SUBJ [next morning] [was dug]_PASSIVE
+  from TE: [when] [that place]_SUBJ [next morning] [was dug]_PASSIVE
+152b
+  GOLD   : [grand statue of candra prabhu bhagavana]_SUBJ [there] [was obtained]_ACTIVE
+  from HI: [grand statue of candra prabhu bhagavana]_SUBJ [there] [was obtained]_ACTIVE
+  from TE: [grand statue of candra prabhu bhagavana]_SUBJ [there] [was obtained]_ACTIVE
+153
+  GOLD   : [devotee people]_SUBJ [at time when statue was extracted after excavation] [its meaning] [this] [drew]_ACTIVE
+  from HI: [devotee extracting statue after excavating in which time people]_SUBJ [its meaning] [as this] [drew]_ACTIVE
+  from TE: [devotee extracting statue after excavating in which time people]_SUBJ [its meaning] [as this] [drew]_ACTIVE
+154
+  GOLD   : [different fun of going to gova only]_SUBJ [while taking full bliss of nature in train] [is]_ACTIVE
+  from HI: [different fun of going to gova only]_SUBJ [enjoying nature in train] [full] [is]_ACTIVE
+  from TE: [different fun of going to gova only]_SUBJ [enjoying nature in train] [full] [is]_ACTIVE
+155
+  GOLD   : [nature only]_SUBJ [doing jalabhisheka of statue] [it] [made holy]_ACTIVE
+  from HI: [nature only]_SUBJ [doing jalabhisheka of statue] [it] [made holy]_ACTIVE
+  from TE: [nature only]_SUBJ [doing jalabhisheka of statue] [it] [made holy]_ACTIVE
+156
+  GOLD   : [another statue of black colour of candra prabhu bhagavana]_SUBJ [several years after this incident] [from that place only] [on 29th march 1972] [in padmasana posture] [was obtained]_ACTIVE
+  from HI: [another statue of black colour of candra prabhu bhagavana]_SUBJ [several years after this incident] [from that place only] [on 29th March 1972] [in padmasana posture] [was obtained]_ACTIVE
+  from TE: [another statue of black colour of candra prabhu bhagavana]_SUBJ [several years after this incident] [from that place only] [on 29th March 1972] [in padmasana posture] [was obtained]_ACTIVE
+157
+  GOLD   : [this statue of candra prabhu bhagavana]_SUBJ [during excavation of southern gate of temple] [had come out]_ACTIVE
+  from HI: [this statue of candra prabhu bhagavana]_SUBJ [during excavation of southern gate of temple] [had come out]_ACTIVE
+  from TE: [this statue of candra prabhu bhagavana]_SUBJ [during excavation of southern gate of temple] [had come out]_ACTIVE
+158
+  GOLD   : [outer shape of this temple installed in atishaya kshetra]_SUBJ [extremely grand] [is]_ACTIVE
+  from HI: [outer shape of this temple installed in atishaya kshetra]_SUBJ [extremely grand] [is]_ACTIVE
+  from TE: [outer shape of this temple installed in atishaya kshetra]_SUBJ [extremely grand] [is]_ACTIVE
+159
+  GOLD   : [internal decoration of this temple installed in atishaya kshetra]_SUBJ [very alluring] [is]_ACTIVE
+  from HI: [internal decoration of this temple installed in atishaya kshetra]_SUBJ [very alluring] [is]_ACTIVE
+  from TE: [internal decoration of this temple installed in atishaya kshetra]_SUBJ [very alluring] [is]_ACTIVE
+160a
+  GOLD   : [that much space]_SUBJ [in courtyard of temple] [is]_ACTIVE
+  from HI: [that much space]_SUBJ [in courtyard of temple] [is]_ACTIVE
+  from TE: [that much space]_SUBJ [in courtyard of temple] [is]_ACTIVE
+160b
+  GOLD   : [2000 people]_SUBJ [at a time only] [here] [easily] [can remain present]_ACTIVE
+  from HI: [2000 people]_SUBJ [at a time only] [here] [easily] [can remain present]_ACTIVE
+  from TE: [2000 people]_SUBJ [at a time only] [here] [easily] [can remain present]_ACTIVE
+161
+  GOLD   : [train route of going to gova]_SUBJ [with small hills and valleys] [is full]_ACTIVE
+  from HI: [train route of going to gova]_SUBJ [with small hills and valleys] [is full]_ACTIVE
+  from TE: [train route of going to gova]_SUBJ [with small hills and valleys] [is full]_ACTIVE
+162
+  GOLD   : [a big hall]_SUBJ [in tijara] [is]_ACTIVE
+  from HI: [a big hall]_SUBJ [in tijara] [is]_ACTIVE
+  from TE: [a big hall]_SUBJ [in tijara] [is]_ACTIVE
+163
+  GOLD   : [work of glass]_SUBJ [on walls of both sides of hall of tijara] [has been done]_PASSIVE
+  from HI: [work of glass]_SUBJ [on walls of both sides of hall of tijara] [has been done]_PASSIVE
+  from TE: [work of glass]_SUBJ [on walls of both sides of hall of tijara] [has been done]_PASSIVE
+164
+  GOLD   : [ancient story]_SUBJ [on walls of hall of tijara] [with pictures] [has been depicted]_PASSIVE
+  from HI: [ancient story]_SUBJ [on walls of hall of tijara] [with pictures] [has been depicted]_PASSIVE
+  from TE: [ancient story]_SUBJ [on walls of hall of tijara] [with pictures] [has been depicted]_PASSIVE
+165
+  GOLD   : [person]_SUBJ [in temple of atishaya kshetra] [before this statue] [with true heart] [prays]_ACTIVE
+  from HI: [person]_SUBJ [in temple of atishaya kshetra] [before this statue] [with true heart] [prays]_ACTIVE
+  from TE: [person]_SUBJ [in temple of atishaya kshetra] [before this statue] [with true heart] [prays]_ACTIVE
+166a
+  GOLD   : [belief]_SUBJ [is]_ACTIVE
+  from HI: [belief]_SUBJ [is]_ACTIVE
+  from TE: [belief]_SUBJ [is]_ACTIVE
+166b
+  GOLD   : [all desires of person]_SUBJ [are completed]_ACTIVE
+  from HI: [all desires of person]_SUBJ [are completed]_ACTIVE
+  from TE: [all desires of person]_SUBJ [are completed]_ACTIVE
+167
+  GOLD   : [also people affected by witchcraft]_SUBJ [for riddance of their problems] [to tijara] [come]_ACTIVE
+  from HI: [also people affected by witchcraft]_SUBJ [for riddance of their problems] [to tijara] [come]_ACTIVE
+  from TE: [also people affected by witchcraft]_SUBJ [for riddance of their problems] [to tijara] [come]_ACTIVE
+168
+  GOLD   : [an extremely attractive pillar]_SUBJ [in front of temple] [installed] [is]_ACTIVE
+  from HI: [an extremely attractive pillar]_SUBJ [in front] [installed] [temple] [is]_ACTIVE
+  from TE: [an extremely attractive pillar]_SUBJ [in front] [installed] [temple] [is]_ACTIVE
+169
+  GOLD   : [this]_SUBJ [as mana-stambha] [is called]_PASSIVE
+  from HI: [by calling this as mana-stambha] [it is called]_PASSIVE
+  from TE: [by calling this as mana-stambha] [it is called]_PASSIVE
+170
+  GOLD   : [statues of deity]_SUBJ [on top of pillar] [have been installed]_PASSIVE
+  from HI: [statues of deity]_SUBJ [on top of pillar] [have been installed]_PASSIVE
+  from TE: [statues of deity]_SUBJ [on top of pillar] [have been installed]_PASSIVE
+171
+  GOLD   : [statues of deity]_SUBJ [from afar only] [are visible]_ACTIVE
+  from HI: [statues of deity]_SUBJ [from afar only] [are visible]_ACTIVE
+  from TE: [statues of deity]_SUBJ [from afar only] [are visible]_ACTIVE
+172
+  GOLD   : [this]_SUBJ [as mana-stambha] [is called]_PASSIVE
+  from HI: [this]_SUBJ [as mana-stambha] [is called]_PASSIVE
+  from TE: [this]_SUBJ [as mana-stambha] [is called]_PASSIVE
+173
+  GOLD   : [pride of person]_SUBJ [only by mere view of mana-stambha] [less] [becomes]_ACTIVE
+  from HI: [pride of person]_SUBJ [only from view of mana-stambha only] [less] [becomes]_ACTIVE
+  from TE: [pride of person]_SUBJ [only from view of mana-stambha only] [less] [becomes]_ACTIVE
+174a
+  GOLD   : [general custom]_SUBJ [this] [is]_ACTIVE
+  from HI: [general custom]_SUBJ [this] [is]_ACTIVE
+  from TE: [general custom]_SUBJ [this] [is]_ACTIVE
+174b
+  GOLD   : [four statues of tirthankara bhagavana]_SUBJ [on top of mana-stambha] [are installed]_PASSIVE
+  from HI: [four statues of tirthankara bhagavana]_SUBJ [on top of mana-stambha] [are installed]_PASSIVE
+  from TE: [four statues of tirthankara bhagavana]_SUBJ [on top of mana-stambha] [are installed]_PASSIVE
+175
+  GOLD   : [special programmes]_SUBJ [in tijara] [twice a year] [are organized]_PASSIVE
+  from HI: [special programmes]_SUBJ [in tijara] [twice a year] [are organized]_PASSIVE
+  from TE: [special programmes]_SUBJ [in tijara] [twice a year] [are organized]_PASSIVE
+176
+  GOLD   : [once] [on phalguna saptami] [second time] [on shravana shukla dashami] [is organized]_PASSIVE
+  from HI: [on phalguna saptami] [second time] [on shravana shukla dashami] [once] [is organized]_PASSIVE
+  from TE: [on phalguna saptami] [second time] [on shravana shukla dashami] [once] [is organized]_PASSIVE
+177
+  GOLD   : [dharamshala of 300 rooms]_SUBJ [in atishaya kshetra of tijara] [for stay of devotees] [has been built]_PASSIVE
+  from HI: [dharamshala of 300 rooms]_SUBJ [in atishaya kshetra of tijara] [for stay of devotees] [has been built]_PASSIVE
+  from TE: [dharamshala of 300 rooms]_SUBJ [in atishaya kshetra of tijara] [for stay of devotees] [has been built]_PASSIVE
+178
+  GOLD   : [tijara atishaya kshetra]_SUBJ [in ancient time] [by name dehara] [famous] [was]_ACTIVE
+  from HI: [tijara atishaya kshetra]_SUBJ [in ancient time] [by name dehara] [famous] [was]_ACTIVE
+  from TE: [tijara atishaya kshetra]_SUBJ [in ancient time] [by name dehara] [famous] [was]_ACTIVE
+179
+  GOLD   : [this place]_SUBJ [later] [dehara-tijara and now only tijara also] [is known]_ACTIVE
+  from HI: [this place]_SUBJ [later] [dehara-tijara and only also tijara] [now] [is known]_ACTIVE
+  from TE: [this place]_SUBJ [later] [dehara-tijara and only also tijara] [now] [is known]_ACTIVE
+180
+  GOLD   : [kankera ghati rashtriya udyana]_SUBJ [at distance of 35 kilometres from headquarters of district of bastara jagadalapura] [in south] [situated] [is]_ACTIVE
+  from HI: [kankera ghati rashtriya udyana]_SUBJ [at distance of 35 kilometres from headquarters of district of bastara jagadalapura] [in south] [situated] [is]_ACTIVE
+  from TE: [kankera ghati rashtriya udyana]_SUBJ [at distance of 35 kilometres from headquarters of district of bastara jagadalapura] [in south] [situated] [is]_ACTIVE
+181
+  GOLD   : [kankera ghati rashtriya udyana]_SUBJ [for its waterfalls, caves and biological diversity] [famous] [is]_ACTIVE
+  from HI: [kankera ghati rashtriya udyana]_SUBJ [for its waterfalls, caves and biological diversity] [famous] [is]_ACTIVE
+  from TE: [kankera ghati rashtriya udyana]_SUBJ [for its waterfalls, caves and biological diversity] [famous] [is]_ACTIVE
+182
+  GOLD   : [main places of tourist of kankera ghati]_SUBJ [as follows] [are]_ACTIVE
+  from HI: [main places of tourist of kankera ghati]_SUBJ [as follows] [are]_ACTIVE
+  from TE: [main places of tourist of kankera ghati]_SUBJ [as follows] [are]_ACTIVE
+183
+  GOLD   : [hypnotic waterfall of tirathagadha located at distance of 35 kilometres from jagadalapura]_SUBJ [mind of tourists] [hypnotises]_ACTIVE
+  from HI: [hypnotic waterfall of tirathagadha located at distance of 35 kilometres from jagadalapura]_SUBJ [mind of tourists] [hypnotises]_ACTIVE
+  from TE: [hypnotic waterfall of tirathagadha located at distance of 35 kilometres from jagadalapura]_SUBJ [mind of tourists] [hypnotises]_ACTIVE
+184
+  GOLD   : [tourists]_SUBJ [in its charming beauty] [get lost]_ACTIVE
+  from HI: [tourists]_SUBJ [in its charming beauty] [get lost]_ACTIVE
+  from TE: [tourists]_SUBJ [in its charming beauty] [get lost]_ACTIVE
+185
+  GOLD   : [going back from tirathagaDha]_SUBJ [is not desired at all]_ACTIVE
+  from HI: [going back from tirathagadha]_SUBJ [did not want]_ACTIVE
+  from TE: [going back from tirathagadha]_SUBJ [did not want]_ACTIVE
+186
+  GOLD   : [this waterfall situated on munagabahara nadi]_SUBJ [from hill formed in moon-shape form] [300 feet low] [on step-like natural structures] [falls]_ACTIVE
+  from HI: [this waterfall situated on munagabahara nadi]_SUBJ [from hill formed in moon-shape form] [300 feet low] [on step-like natural structures] [falls]_ACTIVE
+  from TE: [this waterfall situated on munagabahara nadi]_SUBJ [from hill formed in moon-shape form] [300 feet low] [on step-like natural structures] [falls]_ACTIVE
+187
+  GOLD   : [milky foam formed by falling of water and natural fountain of drops of water]_SUBJ [tourists] [slowly] [wet]_ACTIVE
+  from HI: [milky foam formed by falling of water and natural fountain of drops of water]_SUBJ [tourists] [slowly] [wet]_ACTIVE
+  from TE: [milky foam formed by falling of water and natural fountain of drops of water]_SUBJ [tourists] [slowly] [wet]_ACTIVE
+188
+  GOLD   : [i]_SUBJ [because of being ema.teka. in geology] [to know its geological genesis] [tried]_ACTIVE
+  from HI: [i]_SUBJ [because of being ema.teka. in geology] [to know its geological genesis] [tried]_ACTIVE
+  from TE: [i]_SUBJ [because of being ema.teka. in geology] [to know its geological genesis] [tried]_ACTIVE
+189
+  GOLD   : [i]_SUBJ [it] [found]_ACTIVE
+  from HI: [i]_SUBJ [it] [found]_ACTIVE
+  from TE: [i]_SUBJ [it] [found]_ACTIVE
+190
+  GOLD   : [rocks of down side of river]_SUBJ [crore years before] [from moon fault formed by some earthquake] [low] [had sunk]_ACTIVE
+  from HI: [rocks of down side of river]_SUBJ [from moon formed from some earthquake in crore years before ruin] [in low] [had sunk]_ACTIVE
+  from TE: [rocks of down side of river]_SUBJ [from moon formed from some earthquake in crore years before ruin] [in low] [had sunk]_ACTIVE
+191
+  GOLD   : [and] [ladder-like valley formed by this]_SUBJ [this charming waterfall] [may have created]_ACTIVE
+  from HI: [and] [formed valley]_SUBJ [because of this] [like ladder] [this charming waterfall] [may have created]_ACTIVE
+  from TE: [and] [formed valley]_SUBJ [because of this] [like ladder] [this charming waterfall] [may have created]_ACTIVE
+192
+  GOLD   : [temple of archaeological importance]_SUBJ [at distance of 20 kilometres from tirathagaDha jalaprapata] [in cingitarai] [located] [is]_ACTIVE
+  from HI: [temple of archaeological importance]_SUBJ [at distance of 20 kilometres from tirathagadha jalaprapata] [in cingitarai] [located] [is]_ACTIVE
+  from TE: [temple of archaeological importance]_SUBJ [at distance of 20 kilometres from tirathagadha jalaprapata] [in cingitarai] [located] [is]_ACTIVE
+193
+  GOLD   : [cingitarai and candragiri]_SUBJ [along with tirathagadha] [historical importance] [keep]_ACTIVE
+  from HI: [cingitarai and candragiri]_SUBJ [along with tirathagadha] [historical importance] [keep]_ACTIVE
+  from TE: [cingitarai and candragiri]_SUBJ [along with tirathagadha] [historical importance] [keep]_ACTIVE
+194
+  GOLD   : [this]_SUBJ [is said]_PASSIVE
+  from HI: [this]_SUBJ [is said]_PASSIVE
+  from TE: [this]_SUBJ [is said]_PASSIVE
+195
+  GOLD   : [two sons of a king of tirathagadha riyasata]_SUBJ [were]_ACTIVE
+  from HI: [two sons of a king of tirathagadha riyasata]_SUBJ [were]_ACTIVE
+  from TE: [two sons of a king of tirathagadha riyasata]_SUBJ [were]_ACTIVE
+196
+  GOLD   : [one prince candradeva and other tirathadeva]_SUBJ [were]_ACTIVE
+  from HI: [one prince candradeva and other tirathadeva]_SUBJ [were]_ACTIVE
+  from TE: [one prince candradeva and other tirathadeva]_SUBJ [were]_ACTIVE
+197
+  GOLD   : [prince candradeva]_SUBJ [in inheritance] [area of candragiri] [got]_ACTIVE
+  from HI: [prince candradeva]_SUBJ [in inheritance] [area of candragiri] [got]_ACTIVE
+  from TE: [prince candradeva]_SUBJ [in inheritance] [area of candragiri] [got]_ACTIVE
+198
+  GOLD   : [name of this city]_SUBJ [after name of candradeva only] [candragiri] [had become]_ACTIVE
+  from HI: [name of this city]_SUBJ [in name of candradeva only] [candragiri] [had come]_ACTIVE
+  from TE: [name of this city]_SUBJ [in name of candradeva only] [candragiri] [had come]_ACTIVE
+199
+  GOLD   : [and] [his brother]_SUBJ [estate of tirathagadha] [got]_ACTIVE
+  from HI: [and] [his brother]_SUBJ [estate of tirathagadha] [got]_ACTIVE
+  from TE: [and] [his brother]_SUBJ [estate of tirathagadha] [got]_ACTIVE
+200
+  GOLD   : [whose name]_SUBJ [after his name] [tirathagadha] [came to be]_ACTIVE
+  from HI: [whose name]_SUBJ [in his name] [tirathagadha] [came]_ACTIVE
+  from TE: [whose name]_SUBJ [in his name] [tirathagadha] [came]_ACTIVE
+201
+  GOLD   : [ruins of archaeological importance]_SUBJ [in candragiri and cingitarai] [are obtained]_ACTIVE
+  from HI: [ruins of archaeological importance]_SUBJ [in candragiri and cingitarai] [are obtained]_ACTIVE
+  from TE: [ruins of archaeological importance]_SUBJ [in candragiri and cingitarai] [are obtained]_ACTIVE
+202
+  GOLD   : [world acclaimed natural caves of kotamasara]_SUBJ [at distance of 30 kilometres from jagadalapura] [located] [are]_ACTIVE
+  from HI: [world acclaimed natural caves of kotamasara]_SUBJ [at distance of 30 kilometres from jagadalapura] [located] [are]_ACTIVE
+  from TE: [world acclaimed natural caves of kotamasara]_SUBJ [at distance of 30 kilometres from jagadalapura] [located] [are]_ACTIVE
+203
+  GOLD   : [length of this longest cave of world]_SUBJ [4500 metres] [is]_ACTIVE
+  from HI: [length of this longest cave of world]_SUBJ [4500 metres] [is]_ACTIVE
+  from TE: [length of this longest cave of world]_SUBJ [4500 metres] [is]_ACTIVE
+204
+  GOLD   : [these caves formed by dissolution of lime stone]_SUBJ [because of structures made by condensation of lime stone] [famous] [are]_ACTIVE
+  from HI: [these caves formed by dissolution of lime stone]_SUBJ [because of structures made by condensation of lime stone] [famous] [are]_ACTIVE
+  from TE: [these caves formed by dissolution of lime stone]_SUBJ [because of structures made by condensation of lime stone] [famous] [are]_ACTIVE
+205
+  GOLD   : [structures like stalegataita, stalegamaita and drapistona]_SUBJ [because of condensation of lime stone] [get formed]_ACTIVE
+  from HI: [structures like stalegataita, stalegamaita and drapistona]_SUBJ [because of condensation of lime stone] [get formed]_ACTIVE
+  from TE: [structures like stalegataita, stalegamaita and drapistona]_SUBJ [because of condensation of lime stone] [get formed]_ACTIVE
+206a
+  GOLD   : [chandeliers hanging on roof]_SUBJ [as stalegataita] [are termed]_PASSIVE
+  from HI: [chandeliers hanging on roof]_SUBJ [as stalegataita] [are termed]_PASSIVE
+  from TE: [chandeliers hanging on roof]_SUBJ [as stalegataita] [are termed]_PASSIVE
+206b
+  GOLD   : [pillars going up from ground and big pillars joined with roof and ground]_SUBJ [as stalegamaita and drapistona] [are termed]_PASSIVE
+  from HI: [pillars going up from ground and big pillars joined with roof and ground]_SUBJ [as stalegamaita and drapistona] [are termed]_PASSIVE
+  from TE: [pillars going up from ground and big pillars joined with roof and ground]_SUBJ [as stalegamaita and drapistona] [are termed]_PASSIVE
+207
+  GOLD   : [dr. shankara tivari]_SUBJ [for first time] [this cave] [had described]_ACTIVE
+  from HI: [dr. shankara tivari]_SUBJ [for first time] [this cave] [had described]_ACTIVE
+  from TE: [dr. shankara tivari]_SUBJ [for first time] [this cave] [had described]_ACTIVE
+208
+  GOLD   : [small ponds]_SUBJ [in this cave] [located] [are]_ACTIVE
+  from HI: [small ponds]_SUBJ [in this cave] [located] [are]_ACTIVE
+  from TE: [small ponds]_SUBJ [in this cave] [located] [are]_ACTIVE
+209
+  GOLD   : [eyes of small fish available in caves]_SUBJ [are not found]_PASSIVE
+  from HI: [eyes of small fish available in caves]_SUBJ [are not found]_PASSIVE
+  from TE: [eyes of small fish living in caves]_SUBJ [are not found]_PASSIVE   <-- differs
+210
+  GOLD   : [utility of their eyes]_SUBJ [because of staying for centuries in darkness] [ended]_ACTIVE
+  from HI: [utility of their eyes]_SUBJ [because of staying for centuries in darkness] [ended]_ACTIVE
+  from TE: [utility of their eyes]_SUBJ [because of staying for centuries in darkness] [ended]_ACTIVE
+211
+  GOLD   : [these fish]_SUBJ [now] [from birth only] [blind] [are born]_ACTIVE
+  from HI: [these fish]_SUBJ [now] [from birth only] [blind] [are born]_ACTIVE
+  from TE: [these fish]_SUBJ [now] [from birth only] [blind] [are born]_ACTIVE
+212
+  GOLD   : [this]_SUBJ [principle of darvina] [confirms]_ACTIVE
+  from HI: [this]_SUBJ [principle of darvina] [confirms]_ACTIVE
+  from TE: [this]_SUBJ [principle of darvina] [confirms]_ACTIVE
+
+Telugu USR output = Hindi USR output: 240/250 | exact match with gold: Hindi 219/250, Telugu 211/250

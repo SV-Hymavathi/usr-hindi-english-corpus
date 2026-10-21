@@ -1,0 +1,182 @@
+# Batch 3 (16 Oct 2026): Telugu concepts aligned with the user-confirmed gold Telugu of sentences 158-212.
+# Hindi concept	Telugu concept (WX; only used for function words / light verbs)	Telugu (citation form)	gold sentence
+sWApiwa_8	-x	నెలకొను	158, 159
+maMxira_1	-x	ఆలయం	158, 159, 165, 168
+bAharI_10	-x	బాహ్య	158
+svarUpa_1	-x	స్వరూపం	158
+awyaMwa_11	-x	అత్యంత	158, 168
+Bavya_1	-x	భవ్యమైన	158
+AMwarika_1	-x	అంతర్గత	159
+sajAvata_1	-x	అలంకరణ	159
+bahuwa_7	-x	ఎంతో	159
+luBAvanA_3	-x	ఆకర్షణీయమైన	159
+prAMgaNa_1	-x	ప్రాంగణం	160a
+iwanA_1	-x	ఎంత	160a
+jagaha_2	-x	స్థలం	160a
+bAra_15	-x	సారి	160b
+loga_2	-x	మంది	160b
+AsAnI_5	-x	సులభంగా	160b
+mOjUxa_1	-x	ఉండు	160b
+raha_3	-x	ఉండు	160b
+trena_1	-x	రైలు	161
+rUta_1	-x	మార్గం	161
+CotI_1	-x	చిన్న	161
+pahAdZI_3	-x	కొండ	161
+GAtI_1	-x	లోయ	161, 180
+Bara_26	-x	నిండు	161
+hOYla_1	-x	హాలు	162, 163, 164
+xono_1	-x	రెండు	163
+ora_1	-x	వైపు	163
+xIvAra_1	-x	గోడ	163, 164
+kAzca_1	-x	అద్దం	163
+kAma_1	-x	పని	163
+kara_17	ceyu_17	చేయు	163 (light verb)
+ciwra_1	-x	చిత్రం	164
+pOrANika_2	-x	పౌరాణిక	164
+kaWA_1	-x	గాథ	164
+ukera_5	-x	చెక్కు	164
+vyakwi_2	-x	వ్యక్తి	165, 166b
+mUrwi_2	-x	విగ్రహం	165, 170, 171, 174b
+saccA_1	-x	నిండు	165
+mana_2	-x	మనసు	165
+prArWanA_1	-x	ప్రార్థన	165
+kara_3	ceyu_3	చేయు	165 (light verb)
+mAnyawA_4	-x	నమ్మకం	166a
+saBI_1	-x	అన్నీ	166b
+icCA_1	-x	కోరిక	166b
+pUrA_1	-x	నెరవేరు	166b
+jAxU_1+tonA_1	-x	చేతబడి	167
+praBAviwa_3	-x	ప్రభావితమైన	167
+samasyA_1	-x	సమస్య	167
+nivAraNa_19	-x	పరిష్కారం	167
+A_1	-x	వచ్చు	167
+sAmanA_15	-x	ముందు	168
+AkarRaka_1	-x	ఆకర్షణీయమైన	168
+swaMBa_2	-x	స్తంభం	168, 170
+kaha_1	-x	అను	169
+pukAra_1	-x	పిలుచు	169
+Upara_2	-x	పైన	170
+BagavAna_5	-x	భగవంతుడు	170, 171
+lagA_9	-x	అమర్చు	170
+xUra_17	-x	దూరం	171
+xarSana_24	-x	దర్శనం	171
+GamaMda_3	-x	గర్వం	173
+kama_4	-x	తగ్గు	173
+sAmAnya_1	-x	సాధారణ	174a
+rIwi_4	-x	పద్ధతి	174a
+cotI_4	-x	శిఖరం	174b
+cAra_1	-x	నాలుగు	174b
+sWApiwa_1	-x	ప్రతిష్ఠ	174b
+kara_5	ceyu_5	చేయు	174b (light verb)
+varRa_1	-x	సంవత్సరం	175, 190
+xo+bAra_1	-x	రెండుసార్లు	175
+kAryakrama_1	-x	కార్యక్రమం	175
+Ayojana_1	-x	నిర్వహణ	175
+kara_2	ceyu_22	చేయు	175 (light verb)
+eka+bAra_1	-x	ఒకసారి	176
+xUsarA_1	-x	మరోసారి	176
+TaharAva_9	-x	బస	177
+kamarA_1	-x	గది	177
+XarmaSAlA_1	-x	ధర్మశాల	177
+bana_19	-x	నిర్మించు	177
+kAla_1	-x	కాలం	178
+kAlAMwara_1	-x	కాలక్రమం	179
+aba_1	-x	ఇప్పుడు	179, 211
+kahalA_3	-x	పిలుచు	179
+jilA_3	-x	జిల్లా	180
+muKyAlaya_1	-x	కేంద్రం	180
+xakRiNa_2	-x	దక్షిణం	180
+kilomItara_1	-x	కిలోమీటరు	180, 192
+jalaprapAwa_1	-x	జలపాతం	181, 191, 192
+guPA_1	-x	గుహ	181, 202, 203, 204
+jEva_1	-x	జీవ	181
+viviXawA_2	-x	వైవిధ్యం	181
+paryatana_4	-x	పర్యాటక	182
+sWala_2	-x	స్థలం	182
+nimnAnusAra_1	-x	ఈ క్రింది విధంగా	182
+paryataka_1	-x	పర్యాటకుడు	184
+mohaka_1	-x	మనోహరమైన	184
+CatA_4	-x	సౌందర్యం	184
+Ko_1	-x	మైమరచు	184
+vApisa_1	-x	తిరిగి	185
+mana_1	-x	అనిపించు	185
+BUvijFAna_1	-x	భూవిజ్ఞానశాస్త్రం	188
+BUvEjFAnika_1	-x	భూవైజ్ఞానిక	188
+uwpawwi_6	-x	పుట్టుక	188
+jAna_10	-x	తెలుసుకొను	188
+prayAsa_1	-x	ప్రయత్నం	188
+pA_13	-x	కనుగొను	189
+karodZa_8	-x	కోటి	190
+pahalA_9	-x	క్రితం	190
+kisI_2	-x	ఏదో	190
+BUkaMpa_1	-x	భూకంపం	190
+banA_7	-x	ఏర్పడు	190
+canxra_1	-x	చంద్రాకార	190
+BraMsa_3	-x	భ్రంశం	190
+^dAuna_1	-x	దిగువ	190
+^sAida_1	-x	వైపు	190
+cattAnA_1	-x	రాయి	190
+nIcA_4	-x	కిందకు	190
+Xasaka_4	-x	కుంగు	190
+bana_21	-x	ఏర్పడు	191
+sIDZI_4	-x	మెట్లు	191
+manorama_3	-x	మనోహరమైన	191
+sqjana_1	-x	సృష్టి	191
+purAwAwvika_1	-x	పురాతత్వ	192, 201
+sWiwa_2	-x	ఉండు	192, 202
+EwihAsika_2	-x	చారిత్రక	193
+raKa_3	-x	కలిగి ఉండు	193
+kaha_5	-x	చెప్పు	194
+koi_1	-x	ఒక	195
+rAjA_1	-x	రాజు	195
+xo_1	-x	ఇద్దరు	195
+puwra_1	-x	కుమారుడు	195
+rAjakumAra_1	-x	రాజకుమారుడు	196, 197
+xUsarA_8	-x	మరొకడు	196
+virAsawa_2	-x	వారసత్వం	197
+milA_26	-x	లభించు	197, 199
+Sahara_1	-x	నగరం	198
+padZa_1	-x	వచ్చు	198
+BAI_1	-x	సోదరుడు	199
+jAgIra_5	-x	జాగీరు	199
+avaSeRa_7	-x	అవశేషం	201
+prApwa_2	-x	లభించు	201
+ho_3	avu_3	అవు	201 (light verb)
+viSva_6	-x	ప్రపంచం	202, 203
+prasixXa_9	-x	ప్రసిద్ధి	202
+prAkqwika_1	-x	సహజ	202
+lambI_1	-x	పొడవైన	203
+laMbAI_1	-x	పొడవు	203
+mItara_2	-x	మీటరు	203
+cUnA_1	-x	సున్నం	204, 205
+pawWara_1	-x	రాయి	204, 205
+Gula_8	-x	కరగు	204
+jama_21	-x	పేరుకుపోవు	204
+bana_15	-x	ఏర్పడు	204, 205
+saMracanA_1	-x	నిర్మాణం	204, 205
+jamAva_9	-x	పేరుకుపోవు	205
+Cawa_1	-x	పైకప్పు	206a, 206b
+lataka_4	-x	వేలాడు	206a
+JUmara_1	-x	షాండ్లియర్	206a
+kahalA_1	-x	అను	206a, 206b
+jamIna_2	-x	నేల	206b
+Upara_90	-x	పైకి	206b
+milA_11	-x	కలియు	206b
+praWama_3	-x	మొట్టమొదటి	207
+varNana_1	-x	వర్ణన	207
+Cote_1	-x	చిన్న	208
+poKara_2	-x	నీటి గుంట	208
+pA_14	-x	నివసించు	209
+maCalI_1	-x	చేప	209, 211
+AzKa_1	-x	కన్ను	209, 210
+saxI_1	-x	శతాబ్దం	210
+aMXerA_2	-x	చీకటి	210
+raha_2	-x	ఉండు	210
+upayogiwA_2	-x	ఉపయోగం	210
+Kawma_1	-x	పోవు	210
+janma_1	-x	పుట్టుక	211
+aMXA_1	-x	గుడ్డి	211
+pExA_1	-x	పుట్టు	211
+ho_4	avu_4	అవు	211 (light verb)
+sixXAMwa_1	-x	సిద్ధాంతం	212
+puRti_1	-x	ధృవీకరణ	212

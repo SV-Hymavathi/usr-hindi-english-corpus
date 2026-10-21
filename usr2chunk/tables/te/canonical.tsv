@@ -1,0 +1,26 @@
+# Telugu function concept / TAM / marker  ->  generator's function inventory (Telugu rule layer for the chunker)
+# kind	Telugu	canonical
+concept	uMdu_1	hE_1
+concept	uMdu_2	hE_2
+concept	ceyu_7	kara_7
+concept	avu_8	ho_8
+tam	wuMxi_1	wA_hE_1
+tam	badiMxi_1	yA_gayA_hE_2
+tam	pres	pres
+marker	kUdA_1	BI_1
+marker	e_1	hI_1
+concept	rUpaM_1	rUpa_1
+concept	ceyu_1	kara_1
+concept	ko_1	kara_8
+concept	ceyu_30	kara_30
+concept	avu_1	ho_1
+concept	lexu_1	nahIM_1
+tam	vaccu_1	0_sakawA_hE_1
+tam	AdZu_1	yA_WA_1
+tam	iMxi_1	yA_hE_1
+concept	ceyu_17	kara_17
+concept	ceyu_3	kara_3
+concept	ceyu_5	kara_5
+concept	ceyu_22	kara_2
+concept	avu_3	ho_3
+concept	avu_4	ho_4

@@ -1,0 +1,76 @@
+# Batch 2 (15 Oct 2026): Telugu concepts aligned with the user-confirmed gold Telugu of Sent_8b .. Sent_34.
+# Hindi concept	Telugu concept (WX)	Telugu	gold sentence ("-" = the Telugu gold has no word for it; row dropped from the Telugu USR)
+Age_1	muMxu_1	ముందు	Sent_8b
+eka_1	oka_1	ఒక	Sent_10a, 17, 21, 29, 30, 31
+eka_2	oka_2	ఒక	Sent_9, 32
+sIXA_6	nerugA_1	నేరుగా	Sent_9
+ho_12	mIxugA_1	మీదుగా	Sent_9, 11
+xUsarA_3	maroVkati_1	మరొకటి	Sent_10b
+rAswA_3	mArgaM_1	మార్గం	Sent_11
+pawiwa_13	pawiwa_1	పతిత	fallen (dropped inside the phrase patita pAvanI, see te_name_fusions.tsv)
+pAvanI_2	paviwra_3	పవిత్ర	Sent_12, 27
+parvawIya_2	parvawa_1	పర్వత	Sent_12
+kRewra_5	prAMwaM_1	ప్రాంతం	Sent_12
+CodZa_8	vidicipeVttu_1	విడిచిపెట్టు	Sent_12
+samawala_1	mExAna_1	మైదాన	Sent_12
+BUmi_1	prAMwaM_2	ప్రాంతం	Sent_12
+praveSa_1	praveSaM_1	ప్రవేశం	Sent_12
+kara_1	ceyu_1	చేయు	Sent_12 (light verb)
+kaha_10	anu_1	అను	Sent_13
+kaha_12	anu_2	అను	Sent_28a
+prawixina_1	prawiroju_1	ప్రతిరోజు	Sent_14
+SAma_1	sAyaMwraM_1	సాయంత్రం	Sent_14
+ho_7	jarugu_1	జరుగు	Sent_14
+mA_3	amma_1	అమ్మ	Sent_14, 18
+ArawI_1	hArawi_1	హారతి	Sent_14
+samaya_1	samayaM_1	సమయం	Sent_14
+SraxXAlu_2	Bakwudu_1	భక్తుడు	Sent_14
+BIdZa_1	guMpu_1	గుంపు	Sent_14
+umadZa_3	poVteVwwu_1	పోటెత్తు	Sent_14
+wEra_2	wElu_1	తేలు	Sent_15
+xIpamAlA_2	xIpAla_varusa_1	దీపాల వరుస	Sent_15
+xqSya_1	xqSyaM_1	దృశ్యం	Sent_15
+xeKa_1	cUdamuccata_1	చూడముచ్చట	Sent_15
+bana_16	uMdu_3	ఉండు	Sent_15
+jA_18	veVlYlYu_2	వెళ్ళు	Sent_16
+prAcIna_1	pUrva_1	పూర్వ	Sent_18
+kAla_16	kAlaM_1	కాలం	Sent_18
+BagavawI_1	ammavAru_1	అమ్మవారు	Sent_18
+xarSana_9	xarSanaM_3	దర్శనం	Sent_18
+xuRkara_1	Gora_1	ఘోర	Sent_18
+wapasyA_1	wapassu_1	తపస్సు	Sent_18
+kiyA_2	ceyu_2	చేయు	Sent_18
+hAWa_1	ceyyi_1	చెయ్యి	Sent_19
+kamala_1	kamalaM_1	కమలం	Sent_19
+XAraNa_1	pattu_1	పట్టు	Sent_19 (పట్టుకుని)
+kara_8	ko_1	కొను	Sent_19 (light verb of పట్టుకొను)
+sAmane_1	muMxu_2	ముందు	Sent_19
+prakata_1	prawyakRaM_1	ప్రత్యక్షం	Sent_19
+ho_1	avu_1	అవు	Sent_19 (light verb)
+xUrI_1	xUraM_1	దూరం	Sent_20, 26
+jarUra_1	nijame_1	నిజమే	Sent_23a
+nagara_1	nagaraM_2	నగరం	Sent_23b (gold ఊరు), 34
+BagavAna_21	BagavaMwudu_2	భగవంతుడు	(fused with SrI rAma by te_name_fusions.tsv)
+avawAra_1	avawAraM_1	అవతారం	Sent_24
+paviwra_1	paviwra_1	పవిత్ర	Sent_24
+BUmi_13	BUmi_1	భూమి	Sent_24
+paviwra_2	paviwramEna_1	పవిత్రమైన	Sent_25
+wata_1	wIraM_1	తీరం	Sent_25, 27
+sWiwa_1	uMdu_4	ఉండు	Sent_25, 34
+naxI_1	naxi_1	నది	Sent_27
+basa_15	velayu_1	వెలయు	Sent_27
+pawiwa_1	pawiwa_1	పతిత	fallen (dropped inside the phrase patita pAvanI, see te_name_fusions.tsv)
+namaskAra_1	namaskAraM_1	నమస్కారం	Sent_28b
+kara_30	ceyu_30	చేయు	Sent_28b (light verb)
+Pira_1	ika_1	ఇక	Sent_28b
+mqwyu_1	maraNaM_1	మరణం	Sent_28b
+ciMwA_3	ciMwa_1	చింత	Sent_28b
+nahIM_1	lexu_1	లేదు	Sent_28b (negation)
+raha_4	uMdu_5	ఉండు	Sent_28b
+badZA_1	peVxxa_1	పెద్ద	Sent_30
+ukwa_3	pE_1	పై	Sent_31
+samuxra_2	samuxraM_1	సముద్రం	Sent_33
+bIca_21	maXya_1	మధ్య	Sent_33
+viSeRa_1	prawyeka_1	ప్రత్యేక	Sent_33
+basA_7	nirmiMcu_1	నిర్మించు	Sent_33
+samuxra_1	samuxraM_2	సముద్రం	Sent_34

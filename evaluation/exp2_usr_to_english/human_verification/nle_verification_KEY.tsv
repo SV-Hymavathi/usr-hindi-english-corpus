@@ -1,0 +1,360 @@
+item	domain	system	condition	id	layer	sub_type	overlap
+V1	geography	Mistral E2c USR+guide+gloss	E2c	G133	L3 Semantic relations	voice (passive -> active)	False
+V2	geography	Groq E2b USR+guide	E2b	G350	L3 Semantic relations	negation added	False
+V3	tourism	Gemma3 E2c USR+guide+gloss	E2c	Sent_5b	L1b Cultural concepts	cultural concept missing	False
+V4	tourism	Gemma3 E2b USR+guide	E2b	875	L1a Lexical & NE	NE dropped / translated	False
+V5	tourism	Groq E2c USR+guide+gloss	E2c	804	L2 Morphology	tense	False
+V6	geography	Gemma3 E2c USR+guide+gloss	E2c	G345	L5 Speaker's view	deixis proximal lost	False
+V7	tourism	Gemma3 E2c USR+guide+gloss	E2c	110	L1b Cultural concepts	cultural concept missing	False
+V8	tourism	Mistral E2a raw USR	E2a	Sent_3a	L1b Cultural concepts	cultural concept missing	False
+V9	tourism	Mistral E2a raw USR	E2a	170	L1b Cultural concepts	cultural concept missing	False
+V10	tourism	Gemma3 E2b USR+guide	E2b	Sent_13	L4 Discourse	connective missing (pariNAma)	False
+V11	geography	Gemma3 E2a raw USR	E2a	G220b	L6 Sentence type	question -> statement	False
+V12	geography	Groq E2b USR+guide	E2b	G244	L1a Lexical & NE	number missing / changed	True
+V13	geography	Mistral E2a raw USR	E2a	G146b	L4 Discourse	connective missing (samuccaya)	False
+V14	tourism	Groq E2b USR+guide	E2b	402	L1a Lexical & NE	number missing / changed	False
+V15	tourism	Groq E2c USR+guide+gloss	E2c	178	L1a Lexical & NE	NE replaced	True
+V16	geography	Mistral E2a raw USR	E2a	G379b	L4 Discourse	connective missing (samuccaya)	False
+V17	health	Mistral E2c USR+guide+gloss	E2c	H291b	L4 Discourse	connective missing (samuccaya)	False
+V18	health	Groq E2a raw USR	E2a	H291	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V19	tourism	Mistral E2c USR+guide+gloss	E2c	900	L1a Lexical & NE	NE dropped / translated	True
+V20	geography	Gemma3 E2a raw USR	E2a	G116	L6 Sentence type	question -> statement	False
+V21	geography	Gemma3 E2a raw USR	E2a	G221	L1a Lexical & NE	number missing / changed	False
+V22	tourism	Groq E2a raw USR	E2a	336	L1a Lexical & NE	NE replaced	False
+V23	geography	Mistral E2a raw USR	E2a	G058	L5 Speaker's view	particle lagaBaga lost	False
+V24	tourism	Gemma3 E2c USR+guide+gloss	E2c	227a	L5 Speaker's view	particle hI lost	False
+V25	tourism	Gemma3 E2a raw USR	E2a	324	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V26	tourism	Gemma3 E2a raw USR	E2a	313	L1a Lexical & NE	NE dropped / translated	False
+V27	geography	Groq E2c USR+guide+gloss	E2c	G085	L1a Lexical & NE	number missing / changed	False
+V28	health	Mistral E2c USR+guide+gloss	E2c	H076b	L4 Discourse	connective missing (samuccaya)	True
+V29	geography	Groq E2a raw USR	E2a	G146b	L6 Sentence type	statement -> question	False
+V30	geography	Groq E2a raw USR	E2a	G162b	L4 Discourse	connective missing (samuccaya)	False
+V31	tourism	Gemma3 E2a raw USR	E2a	127	L1a Lexical & NE	NE replaced	False
+V32	tourism	Mistral E2a raw USR	E2a	820	L1a Lexical & NE	number missing / changed	False
+V33	geography	Mistral E2a raw USR	E2a	G282b	L3 Semantic relations	voice (active -> passive)	False
+V34	geography	Groq E2a raw USR	E2a	G074	L5 Speaker's view	particle kevala lost	True
+V35	tourism	Groq E2b USR+guide	E2b	112	L1a Lexical & NE	NE replaced	False
+V36	tourism	Groq E2c USR+guide+gloss	E2c	Sent_27	L3 Semantic relations	voice (active -> passive)	False
+V37	geography	Gemma3 E2b USR+guide	E2b	G208	L2 Morphology	modality (ability lost)	False
+V38	tourism	Gemma3 E2c USR+guide+gloss	E2c	445	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V39	tourism	Gemma3 E2b USR+guide	E2b	485	L1a Lexical & NE	NE replaced	False
+V40	tourism	Groq E2c USR+guide+gloss	E2c	127	L1b Cultural concepts	cultural concept missing	True
+V41	tourism	Gemma3 E2b USR+guide	E2b	947	L1a Lexical & NE	NE dropped / translated	False
+V42	geography	Gemma3 E2a raw USR	E2a	G372	L6 Sentence type	question -> statement	False
+V43	geography	Gemma3 E2a raw USR	E2a	G176	L4 Discourse	connective missing (pariNAma)	False
+V44	health	Groq E2c USR+guide+gloss	E2c	H128	L5 Speaker's view	particle BI lost	False
+V45	tourism	Gemma3 E2a raw USR	E2a	400	L3 Semantic relations	relation rh not expressed	False
+V46	geography	Mistral E2c USR+guide+gloss	E2c	G036	L5 Speaker's view	particle BI lost	False
+V47	tourism	Mistral E2b USR+guide	E2b	678b	L3 Semantic relations	relation rt not expressed	True
+V48	health	Groq E2c USR+guide+gloss	E2c	H029b	L4 Discourse	connective missing (viroXI)	False
+V49	tourism	Gemma3 E2c USR+guide+gloss	E2c	580a	L4 Discourse	connective missing (AvaSyakawApariNAma)	False
+V50	health	Gemma3 E2b USR+guide	E2b	H141	L6 Sentence type	question -> statement	False
+V51	tourism	Gemma3 E2a raw USR	E2a	410	L3 Semantic relations	voice (passive -> active)	False
+V52	geography	Groq E2b USR+guide	E2b	G205	L1a Lexical & NE	number missing / changed	False
+V53	health	Gemma3 E2a raw USR	E2a	H294b	L1a Lexical & NE	number missing / changed	False
+V54	tourism	Mistral E2a raw USR	E2a	903b	L5 Speaker's view	deixis proximal lost	False
+V55	geography	Mistral E2a raw USR	E2a	G205b	L2 Morphology	tense	True
+V56	health	Mistral E2b USR+guide	E2b	H080c	L4 Discourse	connective missing (samuccaya)	False
+V57	health	Mistral E2c USR+guide+gloss	E2c	H166	L3 Semantic relations	voice (passive -> active)	False
+V58	health	Mistral E2c USR+guide+gloss	E2c	H298	L6 Sentence type	statement -> question	False
+V59	tourism	Groq E2b USR+guide	E2b	471	L5 Speaker's view	deixis proximal lost	False
+V60	tourism	Gemma3 E2b USR+guide	E2b	57	L1b Cultural concepts	cultural concept missing	False
+V61	tourism	Mistral E2a raw USR	E2a	683	L2 Morphology	tense	False
+V62	tourism	Groq E2a raw USR	E2a	783b	L4 Discourse	connective missing (samuccaya)	False
+V63	tourism	Groq E2b USR+guide	E2b	393	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V64	tourism	Groq E2a raw USR	E2a	721	L1a Lexical & NE	NE dropped / translated	False
+V65	tourism	Gemma3 E2c USR+guide+gloss	E2c	970	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	True
+V66	tourism	Gemma3 E2c USR+guide+gloss	E2c	57	L5 Speaker's view	particle hI lost	False
+V67	tourism	Gemma3 E2b USR+guide	E2b	245	L2 Morphology	aspect (perfect lost)	False
+V68	tourism	Groq E2a raw USR	E2a	831	L2 Morphology	modality (ability lost)	False
+V69	geography	Gemma3 E2c USR+guide+gloss	E2c	G372	L6 Sentence type	question -> statement	True
+V70	tourism	Groq E2b USR+guide	E2b	590	L1a Lexical & NE	number missing / changed	True
+V71	tourism	Groq E2b USR+guide	E2b	618	L3 Semantic relations	relation rt not expressed	False
+V72	health	Mistral E2c USR+guide+gloss	E2c	H178	L5 Speaker's view	particle hI lost	False
+V73	tourism	Groq E2b USR+guide	E2b	Sent_5b	L1b Cultural concepts	cultural concept missing	False
+V74	geography	Gemma3 E2c USR+guide+gloss	E2c	G228	L6 Sentence type	question -> statement	False
+V75	geography	Gemma3 E2c USR+guide+gloss	E2c	G229	L6 Sentence type	question -> statement	False
+V76	health	Gemma3 E2c USR+guide+gloss	E2c	H210	L2 Morphology	number (plural lost)	False
+V77	geography	Gemma3 E2c USR+guide+gloss	E2c	G346	L3 Semantic relations	voice (passive -> active)	False
+V78	tourism	Groq E2a raw USR	E2a	743	L1b Cultural concepts	cultural concept missing	True
+V79	tourism	Mistral E2b USR+guide	E2b	91	L5 Speaker's view	deixis proximal lost	False
+V80	geography	Gemma3 E2a raw USR	E2a	G228	L6 Sentence type	question -> statement	False
+V81	health	Gemma3 E2a raw USR	E2a	H141	L6 Sentence type	question -> statement	False
+V82	tourism	Mistral E2a raw USR	E2a	763	L1a Lexical & NE	number missing / changed	False
+V83	geography	Gemma3 E2b USR+guide	E2b	G170b	L4 Discourse	connective missing (vAkyakarma)	False
+V84	geography	Mistral E2b USR+guide	E2b	G065	L1a Lexical & NE	number missing / changed	False
+V85	tourism	Gemma3 E2a raw USR	E2a	352	L6 Sentence type	question -> statement	False
+V86	health	Gemma3 E2b USR+guide	E2b	H119b	L5 Speaker's view	deixis proximal lost	False
+V87	tourism	Groq E2a raw USR	E2a	Sent_5b	L1b Cultural concepts	cultural concept missing	False
+V88	tourism	Gemma3 E2c USR+guide+gloss	E2c	307b	L1b Cultural concepts	cultural concept missing	False
+V89	geography	Gemma3 E2c USR+guide+gloss	E2c	G179	L1a Lexical & NE	number missing / changed	False
+V90	geography	Gemma3 E2c USR+guide+gloss	E2c	G273	L2 Morphology	number (plural lost)	True
+V91	health	Mistral E2b USR+guide	E2b	H047	L6 Sentence type	command -> statement	False
+V92	tourism	Gemma3 E2b USR+guide	E2b	535a	L2 Morphology	tense	False
+V93	tourism	Groq E2b USR+guide	E2b	106	L1b Cultural concepts	cultural concept missing	True
+V94	tourism	Groq E2b USR+guide	E2b	102	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V95	geography	Gemma3 E2c USR+guide+gloss	E2c	G281	L1a Lexical & NE	number missing / changed	False
+V96	tourism	Gemma3 E2b USR+guide	E2b	747b	L4 Discourse	connective missing (samuccaya)	False
+V97	tourism	Groq E2c USR+guide+gloss	E2c	424	L1a Lexical & NE	NE replaced	True
+V98	tourism	Mistral E2c USR+guide+gloss	E2c	98	L1b Cultural concepts	cultural concept missing	False
+V99	tourism	Groq E2c USR+guide+gloss	E2c	98	L1b Cultural concepts	literal / generic rendering	False
+V100	health	Mistral E2b USR+guide	E2b	H054	L3 Semantic relations	negation added	False
+V101	tourism	Gemma3 E2b USR+guide	E2b	Sent_9	L1a Lexical & NE	NE dropped / translated	False
+V102	geography	Groq E2a raw USR	E2a	G233b	L1a Lexical & NE	number missing / changed	True
+V103	geography	Mistral E2c USR+guide+gloss	E2c	G171b	L6 Sentence type	question -> statement	False
+V104	tourism	Mistral E2b USR+guide	E2b	986	L2 Morphology	tense	False
+V105	tourism	Groq E2b USR+guide	E2b	96	L2 Morphology	tense	False
+V106	tourism	Mistral E2b USR+guide	E2b	273a	L2 Morphology	tense	False
+V107	tourism	Groq E2b USR+guide	E2b	240	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V108	geography	Mistral E2c USR+guide+gloss	E2c	G237b	L1a Lexical & NE	number missing / changed	True
+V109	tourism	Mistral E2a raw USR	E2a	299	L5 Speaker's view	deixis proximal lost	True
+V110	tourism	Gemma3 E2b USR+guide	E2b	177	L1a Lexical & NE	number missing / changed	True
+V111	geography	Mistral E2b USR+guide	E2b	G349b	L4 Discourse	connective missing (samuccaya)	False
+V112	health	Gemma3 E2a raw USR	E2a	H147	L2 Morphology	tense	True
+V113	health	Gemma3 E2c USR+guide+gloss	E2c	H071	L6 Sentence type	question -> statement	False
+V114	geography	Gemma3 E2a raw USR	E2a	G356	L3 Semantic relations	relation rt not expressed	False
+V115	geography	Gemma3 E2c USR+guide+gloss	E2c	G162b	L4 Discourse	connective missing (samuccaya)	False
+V116	tourism	Gemma3 E2c USR+guide+gloss	E2c	Sent_24	L1b Cultural concepts	cultural concept missing	False
+V117	tourism	Gemma3 E2a raw USR	E2a	76	L1a Lexical & NE	number missing / changed	False
+V118	tourism	Mistral E2a raw USR	E2a	501b	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V119	geography	Groq E2c USR+guide+gloss	E2c	G272	L4 Discourse	connective missing (kAryakAraNa)	False
+V120	tourism	Gemma3 E2c USR+guide+gloss	E2c	648	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V121	geography	Gemma3 E2b USR+guide	E2b	G158b	L4 Discourse	connective missing (samuccaya)	False
+V122	tourism	Gemma3 E2c USR+guide+gloss	E2c	48	L1b Cultural concepts	cultural concept missing	False
+V123	tourism	Mistral E2b USR+guide	E2b	248	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V124	health	Gemma3 E2b USR+guide	E2b	H058	L6 Sentence type	question -> statement	True
+V125	health	Gemma3 E2a raw USR	E2a	H029b	L5 Speaker's view	particle BI lost	False
+V126	geography	Gemma3 E2b USR+guide	E2b	G252	L1a Lexical & NE	number missing / changed	False
+V127	health	Groq E2c USR+guide+gloss	E2c	H191b	L6 Sentence type	statement -> question	False
+V128	health	Gemma3 E2a raw USR	E2a	H266	L1a Lexical & NE	number missing / changed	False
+V129	health	Gemma3 E2c USR+guide+gloss	E2c	H258	L2 Morphology	number (plural lost)	True
+V130	tourism	Groq E2c USR+guide+gloss	E2c	567	L5 Speaker's view	particle BI lost	True
+V131	tourism	Gemma3 E2b USR+guide	E2b	764b	L1b Cultural concepts	cultural concept missing	True
+V132	tourism	Mistral E2c USR+guide+gloss	E2c	Sent_40b	L4 Discourse	connective missing (samuccaya)	True
+V133	tourism	Gemma3 E2a raw USR	E2a	Sent_41	L1b Cultural concepts	cultural concept missing	False
+V134	tourism	Mistral E2a raw USR	E2a	Sent_5b	L1b Cultural concepts	cultural concept missing	False
+V135	tourism	Gemma3 E2a raw USR	E2a	920	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V136	tourism	Gemma3 E2c USR+guide+gloss	E2c	540	L1b Cultural concepts	culturally wrong gloss	False
+V137	tourism	Gemma3 E2c USR+guide+gloss	E2c	662	L5 Speaker's view	deixis proximal lost	False
+V138	geography	Gemma3 E2a raw USR	E2a	G202b	L4 Discourse	connective missing (arWAw)	False
+V139	health	Gemma3 E2b USR+guide	E2b	H170	L6 Sentence type	command -> statement	True
+V140	tourism	Groq E2c USR+guide+gloss	E2c	995	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V141	tourism	Gemma3 E2b USR+guide	E2b	914	L3 Semantic relations	voice (active -> passive)	True
+V142	tourism	Groq E2a raw USR	E2a	905	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V143	tourism	Mistral E2b USR+guide	E2b	467	L1a Lexical & NE	NE replaced	False
+V144	tourism	Mistral E2b USR+guide	E2b	399	L1a Lexical & NE	NE replaced	False
+V145	health	Mistral E2b USR+guide	E2b	H239	L3 Semantic relations	voice (active -> passive)	False
+V146	tourism	Groq E2a raw USR	E2a	57	L1b Cultural concepts	cultural concept missing	False
+V147	geography	Gemma3 E2b USR+guide	E2b	G037	L5 Speaker's view	particle hI lost	False
+V148	geography	Mistral E2c USR+guide+gloss	E2c	G184	L2 Morphology	tense	False
+V149	geography	Gemma3 E2c USR+guide+gloss	E2c	G213b	L2 Morphology	modality (obligation lost)	False
+V150	tourism	Gemma3 E2b USR+guide	E2b	482	L3 Semantic relations	voice (passive -> active)	False
+V151	geography	Groq E2b USR+guide	E2b	G100	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V152	tourism	Mistral E2c USR+guide+gloss	E2c	163	L2 Morphology	tense	False
+V153	tourism	Mistral E2a raw USR	E2a	445	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	True
+V154	tourism	Mistral E2a raw USR	E2a	93	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V155	tourism	Gemma3 E2a raw USR	E2a	Sent_2	L1b Cultural concepts	cultural concept missing	False
+V156	tourism	Gemma3 E2c USR+guide+gloss	E2c	327	L1a Lexical & NE	NE dropped / translated	True
+V157	health	Mistral E2a raw USR	E2a	H132	L2 Morphology	tense	False
+V158	geography	Groq E2a raw USR	E2a	G278b	L4 Discourse	connective missing (pariNAma)	False
+V159	geography	Gemma3 E2c USR+guide+gloss	E2c	G080	L3 Semantic relations	voice (passive -> active)	False
+V160	tourism	Gemma3 E2b USR+guide	E2b	474a	L1a Lexical & NE	NE replaced	False
+V161	tourism	Groq E2b USR+guide	E2b	878b	L4 Discourse	connective missing (samuccaya)	False
+V162	health	Gemma3 E2a raw USR	E2a	H111	L5 Speaker's view	particle BI lost	False
+V163	health	Mistral E2b USR+guide	E2b	H044	L6 Sentence type	command -> statement	True
+V164	tourism	Gemma3 E2c USR+guide+gloss	E2c	280	L1a Lexical & NE	NE dropped / translated	False
+V165	tourism	Gemma3 E2c USR+guide+gloss	E2c	124	L1a Lexical & NE	NE dropped / translated	False
+V166	geography	Gemma3 E2b USR+guide	E2b	G281	L1a Lexical & NE	number missing / changed	False
+V167	health	Mistral E2c USR+guide+gloss	E2c	H088	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	True
+V168	tourism	Gemma3 E2c USR+guide+gloss	E2c	995	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	True
+V169	tourism	Gemma3 E2c USR+guide+gloss	E2c	921	L1a Lexical & NE	NE dropped / translated	False
+V170	geography	Mistral E2a raw USR	E2a	G246	L5 Speaker's view	deixis proximal lost	False
+V171	health	Mistral E2a raw USR	E2a	H295c	L4 Discourse	connective missing (samuccaya)	False
+V172	geography	Gemma3 E2c USR+guide+gloss	E2c	G133b	L4 Discourse	connective missing (samAnakAla)	False
+V173	tourism	Groq E2b USR+guide	E2b	Sent_33	L1b Cultural concepts	cultural concept missing	False
+V174	tourism	Groq E2b USR+guide	E2b	687	L1a Lexical & NE	NE replaced	True
+V175	tourism	Groq E2a raw USR	E2a	355b	L4 Discourse	connective missing (samuccaya)	False
+V176	tourism	Gemma3 E2a raw USR	E2a	332a	L1a Lexical & NE	NE dropped / translated	False
+V177	tourism	Mistral E2c USR+guide+gloss	E2c	928	L3 Semantic relations	voice (active -> passive)	False
+V178	geography	Gemma3 E2a raw USR	E2a	G170	L2 Morphology	modality (ability lost)	False
+V179	tourism	Groq E2a raw USR	E2a	963	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V180	tourism	Gemma3 E2a raw USR	E2a	545	L5 Speaker's view	deixis proximal lost	False
+V181	health	Gemma3 E2c USR+guide+gloss	E2c	H286	L2 Morphology	number (plural lost)	False
+V182	geography	Groq E2c USR+guide+gloss	E2c	G348	L3 Semantic relations	relation rt not expressed	False
+V183	tourism	Gemma3 E2c USR+guide+gloss	E2c	660	L1a Lexical & NE	NE dropped / translated	False
+V184	geography	Gemma3 E2c USR+guide+gloss	E2c	G002b	L4 Discourse	connective missing (viroXI)	False
+V185	tourism	Gemma3 E2a raw USR	E2a	127	L1b Cultural concepts	cultural concept missing	True
+V186	tourism	Gemma3 E2b USR+guide	E2b	632	L5 Speaker's view	particle hI lost	False
+V187	geography	Gemma3 E2a raw USR	E2a	G218	L1a Lexical & NE	NE replaced	True
+V188	tourism	Gemma3 E2c USR+guide+gloss	E2c	101	L3 Semantic relations	relation rt not expressed	True
+V189	geography	Gemma3 E2c USR+guide+gloss	E2c	G016b	L4 Discourse	connective missing (vAkyakarma)	True
+V190	health	Groq E2a raw USR	E2a	H208	L1a Lexical & NE	number missing / changed	False
+V191	tourism	Gemma3 E2c USR+guide+gloss	E2c	378	L3 Semantic relations	voice (passive -> active)	False
+V192	health	Mistral E2a raw USR	E2a	H185b	L3 Semantic relations	voice (active -> passive)	False
+V193	tourism	Mistral E2c USR+guide+gloss	E2c	Sent_5b	L1b Cultural concepts	cultural concept missing	False
+V194	tourism	Gemma3 E2c USR+guide+gloss	E2c	781	L5 Speaker's view	deixis proximal lost	False
+V195	tourism	Groq E2a raw USR	E2a	352	L2 Morphology	tense	False
+V196	tourism	Gemma3 E2c USR+guide+gloss	E2c	756	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V197	geography	Gemma3 E2b USR+guide	E2b	G128b	L4 Discourse	connective missing (vAkyakarma)	True
+V198	tourism	Groq E2b USR+guide	E2b	98	L5 Speaker's view	particle BI lost	False
+V199	geography	Gemma3 E2c USR+guide+gloss	E2c	G268	L4 Discourse	connective missing (kAryakAraNa)	False
+V200	tourism	Groq E2a raw USR	E2a	292	L3 Semantic relations	voice (active -> passive)	False
+V201	geography	Groq E2b USR+guide	E2b	G320	L3 Semantic relations	negation added	True
+V202	tourism	Gemma3 E2c USR+guide+gloss	E2c	806	L1a Lexical & NE	NE dropped / translated	False
+V203	health	Mistral E2a raw USR	E2a	H127	L5 Speaker's view	particle BI lost	False
+V204	geography	Mistral E2c USR+guide+gloss	E2c	G269	L1a Lexical & NE	number missing / changed	False
+V205	geography	Mistral E2b USR+guide	E2b	G310b	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	True
+V206	health	Gemma3 E2b USR+guide	E2b	H108b	L5 Speaker's view	deixis proximal lost	False
+V207	geography	Groq E2c USR+guide+gloss	E2c	G277	L1a Lexical & NE	number missing / changed	False
+V208	tourism	Gemma3 E2a raw USR	E2a	861	L1a Lexical & NE	number missing / changed	False
+V209	tourism	Groq E2a raw USR	E2a	285	L1a Lexical & NE	number missing / changed	False
+V210	health	Mistral E2a raw USR	E2a	H150	L3 Semantic relations	relation rasneg not expressed	False
+V211	tourism	Groq E2c USR+guide+gloss	E2c	497	L3 Semantic relations	relation rh not expressed	True
+V212	tourism	Mistral E2c USR+guide+gloss	E2c	649	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V213	tourism	Groq E2c USR+guide+gloss	E2c	249	L2 Morphology	tense	False
+V214	tourism	Groq E2b USR+guide	E2b	822b	L6 Sentence type	statement -> question	False
+V215	geography	Gemma3 E2c USR+guide+gloss	E2c	G280	L1a Lexical & NE	number missing / changed	False
+V216	geography	Mistral E2c USR+guide+gloss	E2c	G263	L1a Lexical & NE	number missing / changed	False
+V217	tourism	Mistral E2b USR+guide	E2b	217	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V218	tourism	Groq E2a raw USR	E2a	55b	L1b Cultural concepts	cultural concept missing	False
+V219	tourism	Gemma3 E2b USR+guide	E2b	106	L1b Cultural concepts	cultural concept missing	False
+V220	health	Groq E2b USR+guide	E2b	H102	L4 Discourse	connective missing (vAkyakarma)	True
+V221	tourism	Gemma3 E2c USR+guide+gloss	E2c	Sent_21	L1a Lexical & NE	NE dropped / translated	False
+V222	geography	Mistral E2b USR+guide	E2b	G005b	L4 Discourse	connective missing (vAkyakarma)	False
+V223	tourism	Groq E2c USR+guide+gloss	E2c	105	L1a Lexical & NE	NE dropped / translated	False
+V224	tourism	Mistral E2b USR+guide	E2b	253	L5 Speaker's view	deixis proximal lost	False
+V225	geography	Groq E2a raw USR	E2a	G263b	L1a Lexical & NE	number missing / changed	False
+V226	health	Gemma3 E2c USR+guide+gloss	E2c	H093b	L6 Sentence type	statement -> question	False
+V227	tourism	Gemma3 E2a raw USR	E2a	888a	L2 Morphology	tense	False
+V228	tourism	Mistral E2a raw USR	E2a	88b	L3 Semantic relations	relation rt not expressed	False
+V229	tourism	Groq E2a raw USR	E2a	115a	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V230	tourism	Mistral E2b USR+guide	E2b	963	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V231	tourism	Groq E2b USR+guide	E2b	64b	L1b Cultural concepts	cultural concept missing	False
+V232	tourism	Gemma3 E2b USR+guide	E2b	306	L1b Cultural concepts	cultural concept missing	False
+V233	tourism	Mistral E2b USR+guide	E2b	255	L5 Speaker's view	deixis proximal lost	False
+V234	health	Groq E2c USR+guide+gloss	E2c	H088	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V235	geography	Gemma3 E2b USR+guide	E2b	G169	L5 Speaker's view	particle BI lost	False
+V236	geography	Gemma3 E2c USR+guide+gloss	E2c	G101	L6 Sentence type	question -> statement	False
+V237	tourism	Groq E2b USR+guide	E2b	483	L2 Morphology	number (plural lost)	False
+V238	health	Groq E2c USR+guide+gloss	E2c	H168	L3 Semantic relations	relation rsm not expressed	True
+V239	health	Gemma3 E2a raw USR	E2a	H182	L6 Sentence type	command -> statement	True
+V240	health	Gemma3 E2b USR+guide	E2b	H069	L1a Lexical & NE	number missing / changed	False
+V241	health	Mistral E2b USR+guide	E2b	H024	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V242	tourism	Groq E2a raw USR	E2a	428	L1a Lexical & NE	NE replaced	False
+V243	geography	Groq E2c USR+guide+gloss	E2c	G313	L3 Semantic relations	relation rt not expressed	False
+V244	tourism	Groq E2b USR+guide	E2b	445	L1a Lexical & NE	NE dropped / translated	False
+V245	geography	Mistral E2c USR+guide+gloss	E2c	G322	L2 Morphology	number (plural lost)	False
+V246	geography	Gemma3 E2c USR+guide+gloss	E2c	G140	L5 Speaker's view	deixis proximal lost	True
+V247	tourism	Groq E2c USR+guide+gloss	E2c	547	L1a Lexical & NE	NE dropped / translated	True
+V248	geography	Gemma3 E2c USR+guide+gloss	E2c	G252	L1a Lexical & NE	number missing / changed	True
+V249	tourism	Mistral E2c USR+guide+gloss	E2c	678b	L2 Morphology	aspect (perfect lost)	False
+V250	geography	Mistral E2b USR+guide	E2b	G192b	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V251	tourism	Gemma3 E2b USR+guide	E2b	52	L1b Cultural concepts	cultural concept missing	True
+V252	tourism	Mistral E2c USR+guide+gloss	E2c	783a	L1a Lexical & NE	number missing / changed	False
+V253	tourism	Mistral E2b USR+guide	E2b	446	L1a Lexical & NE	NE replaced	False
+V254	geography	Groq E2a raw USR	E2a	G170b	L1a Lexical & NE	number missing / changed	False
+V255	geography	Gemma3 E2b USR+guide	E2b	G350	L6 Sentence type	question -> statement	False
+V256	health	Groq E2a raw USR	E2a	H126	L5 Speaker's view	deixis proximal lost	False
+V257	health	Mistral E2a raw USR	E2a	H251	L3 Semantic relations	voice (active -> passive)	False
+V258	health	Gemma3 E2a raw USR	E2a	H176	L6 Sentence type	question -> statement	False
+V259	tourism	Groq E2a raw USR	E2a	112	L1a Lexical & NE	NE replaced	False
+V260	health	Gemma3 E2a raw USR	E2a	H078b	L4 Discourse	connective missing (samuccaya)	False
+V261	tourism	Gemma3 E2c USR+guide+gloss	E2c	267	L1a Lexical & NE	number missing / changed	True
+V262	geography	Mistral E2a raw USR	E2a	G317	L3 Semantic relations	relation rsm not expressed	False
+V263	tourism	Groq E2a raw USR	E2a	Sent_35	L1b Cultural concepts	cultural concept missing	True
+V264	tourism	Groq E2b USR+guide	E2b	66c	L1b Cultural concepts	cultural concept missing	True
+V265	tourism	Mistral E2a raw USR	E2a	81	L2 Morphology	tense	False
+V266	geography	Gemma3 E2a raw USR	E2a	G193b	L4 Discourse	connective missing (vAkyakarma)	False
+V267	tourism	Gemma3 E2c USR+guide+gloss	E2c	717	L3 Semantic relations	relation rh not expressed	True
+V268	geography	Groq E2c USR+guide+gloss	E2c	G098	L3 Semantic relations	relation rh not expressed	True
+V269	geography	Mistral E2b USR+guide	E2b	G078	L2 Morphology	degree (superlative lost)	False
+V270	geography	Groq E2c USR+guide+gloss	E2c	G138c	L6 Sentence type	statement -> question	True
+V271	tourism	Mistral E2b USR+guide	E2b	Sent_5b	L1b Cultural concepts	cultural concept missing	True
+V272	health	Gemma3 E2b USR+guide	E2b	H091b	L6 Sentence type	question -> statement	False
+V273	geography	Gemma3 E2b USR+guide	E2b	G258b	L6 Sentence type	question -> statement	True
+V274	tourism	Groq E2c USR+guide+gloss	E2c	540	L1b Cultural concepts	culturally wrong gloss	False
+V275	tourism	Gemma3 E2b USR+guide	E2b	Sent_5a	L2 Morphology	aspect (perfect lost)	False
+V276	geography	Mistral E2a raw USR	E2a	G282b	L3 Semantic relations	relation rh not expressed	False
+V277	tourism	Gemma3 E2c USR+guide+gloss	E2c	539	L1a Lexical & NE	number missing / changed	True
+V278	geography	Gemma3 E2b USR+guide	E2b	G249b	L4 Discourse	connective missing (samuccaya)	False
+V279	tourism	Gemma3 E2c USR+guide+gloss	E2c	66c	L1b Cultural concepts	cultural concept missing	False
+V280	health	Mistral E2c USR+guide+gloss	E2c	H103	L6 Sentence type	command -> statement	False
+V281	tourism	Mistral E2a raw USR	E2a	45b	L4 Discourse	connective missing (samuccaya)	False
+V282	tourism	Gemma3 E2a raw USR	E2a	649	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V283	tourism	Groq E2a raw USR	E2a	Sent_35	L1a Lexical & NE	NE replaced	True
+V284	geography	Mistral E2b USR+guide	E2b	G192	L6 Sentence type	command -> statement	False
+V285	health	Mistral E2a raw USR	E2a	H222b	L2 Morphology	tense	False
+V286	geography	Gemma3 E2c USR+guide+gloss	E2c	G293	L4 Discourse	connective missing (samAnakAla)	False
+V287	tourism	Groq E2b USR+guide	E2b	645	L2 Morphology	tense	True
+V288	health	Gemma3 E2b USR+guide	E2b	H235	L5 Speaker's view	deixis proximal lost	True
+V289	geography	Gemma3 E2b USR+guide	E2b	G159b	L4 Discourse	connective missing (vAkyakarma)	False
+V290	health	Gemma3 E2a raw USR	E2a	H072	L6 Sentence type	command -> statement	False
+V291	health	Mistral E2a raw USR	E2a	H147	L5 Speaker's view	particle BI lost	False
+V292	tourism	Mistral E2a raw USR	E2a	Sent_7	L1b Cultural concepts	cultural concept missing	False
+V293	tourism	Gemma3 E2a raw USR	E2a	277	L1a Lexical & NE	number missing / changed	False
+V294	tourism	Mistral E2c USR+guide+gloss	E2c	848	L1a Lexical & NE	number missing / changed	False
+V295	geography	Gemma3 E2a raw USR	E2a	G136b	L2 Morphology	modality (ability lost)	False
+V296	tourism	Mistral E2b USR+guide	E2b	847	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V297	health	Gemma3 E2b USR+guide	E2b	H205b	L6 Sentence type	question -> statement	False
+V298	health	Groq E2a raw USR	E2a	H241b	L4 Discourse	connective missing (samuccaya)	True
+V299	tourism	Gemma3 E2c USR+guide+gloss	E2c	312	L5 Speaker's view	deixis proximal lost	False
+V300	health	Mistral E2b USR+guide	E2b	H133	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V301	tourism	Groq E2a raw USR	E2a	490a	L1a Lexical & NE	NE dropped / translated	False
+V302	tourism	Gemma3 E2a raw USR	E2a	242	L1a Lexical & NE	NE replaced	False
+V303	tourism	Gemma3 E2c USR+guide+gloss	E2c	98	L1b Cultural concepts	cultural concept missing	False
+V304	tourism	Gemma3 E2c USR+guide+gloss	E2c	149	L1a Lexical & NE	number missing / changed	False
+V305	tourism	Groq E2a raw USR	E2a	49	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V306	tourism	Mistral E2a raw USR	E2a	688	L3 Semantic relations	voice (active -> passive)	True
+V307	tourism	Gemma3 E2a raw USR	E2a	987a	L5 Speaker's view	particle BI lost	False
+V308	tourism	Gemma3 E2c USR+guide+gloss	E2c	146a	L5 Speaker's view	deixis proximal lost	False
+V309	geography	Gemma3 E2a raw USR	E2a	G101	L6 Sentence type	question -> statement	False
+V310	geography	Mistral E2b USR+guide	E2b	G357	L6 Sentence type	command -> statement	False
+V311	tourism	Mistral E2b USR+guide	E2b	Sent_1	L1b Cultural concepts	cultural concept missing	True
+V312	health	Gemma3 E2a raw USR	E2a	H205b	L6 Sentence type	question -> statement	True
+V313	tourism	Gemma3 E2c USR+guide+gloss	E2c	57	L1b Cultural concepts	cultural concept missing	False
+V314	geography	Mistral E2b USR+guide	E2b	G002b	L3 Semantic relations	negation added	False
+V315	health	Mistral E2a raw USR	E2a	H076	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V316	health	Gemma3 E2c USR+guide+gloss	E2c	H207	L2 Morphology	number (plural lost)	True
+V317	geography	Groq E2c USR+guide+gloss	E2c	G300b	L2 Morphology	number (plural lost)	False
+V318	health	Gemma3 E2b USR+guide	E2b	H257b	L3 Semantic relations	negation lost	False
+V319	tourism	Groq E2c USR+guide+gloss	E2c	Sent_1	L6 Sentence type	exclamation lost	False
+V320	geography	Groq E2a raw USR	E2a	G154	L6 Sentence type	statement -> question	False
+V321	tourism	Gemma3 E2b USR+guide	E2b	931	L5 Speaker's view	particle BI lost	False
+V322	tourism	Gemma3 E2b USR+guide	E2b	461	L3 Semantic relations	relation rt not expressed	False
+V323	geography	Mistral E2b USR+guide	E2b	G212	L1a Lexical & NE	NE dropped / translated	True
+V324	health	Groq E2c USR+guide+gloss	E2c	H224	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V325	tourism	Gemma3 E2c USR+guide+gloss	E2c	314	L5 Speaker's view	particle BI lost	False
+V326	tourism	Gemma3 E2b USR+guide	E2b	567	L2 Morphology	modality (ability lost)	False
+V327	tourism	Groq E2c USR+guide+gloss	E2c	297	L4 Discourse	connective missing (samuccaya)	False
+V328	tourism	Mistral E2b USR+guide	E2b	461	L1a Lexical & NE	number missing / changed	False
+V329	tourism	Groq E2b USR+guide	E2b	45b	L1a Lexical & NE	NE replaced	False
+V330	geography	Gemma3 E2b USR+guide	E2b	G204	L1a Lexical & NE	number missing / changed	True
+V331	geography	Mistral E2b USR+guide	E2b	G257b	L6 Sentence type	statement -> question	True
+V332	health	Mistral E2c USR+guide+gloss	E2c	H111	L5 Speaker's view	particle BI lost	False
+V333	tourism	Groq E2a raw USR	E2a	306	L1b Cultural concepts	cultural concept missing	False
+V334	geography	Mistral E2b USR+guide	E2b	G085	L1a Lexical & NE	number missing / changed	True
+V335	tourism	Gemma3 E2c USR+guide+gloss	E2c	341	L1a Lexical & NE	NE dropped / translated	False
+V336	tourism	Groq E2a raw USR	E2a	475	L5 Speaker's view	particle hI lost	False
+V337	tourism	Mistral E2b USR+guide	E2b	Sent_37	L1b Cultural concepts	cultural concept missing	False
+V338	tourism	Mistral E2b USR+guide	E2b	586	L2 Morphology	tense	False
+V339	health	Mistral E2c USR+guide+gloss	E2c	H113	L4 Discourse	connective missing (AvaSyakawApariNAma)	True
+V340	tourism	Mistral E2a raw USR	E2a	364	L1a Lexical & NE	NE replaced	False
+V341	tourism	Groq E2b USR+guide	E2b	919	L5 Speaker's view	particle BI lost	False
+V342	geography	Groq E2a raw USR	E2a	G258b	L2 Morphology	tense	False
+V343	tourism	Gemma3 E2b USR+guide	E2b	60	L3 Semantic relations	voice (passive -> active)	False
+V344	health	Gemma3 E2c USR+guide+gloss	E2c	H088	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V345	geography	Gemma3 E2b USR+guide	E2b	G185	L1a Lexical & NE	number missing / changed	False
+V346	tourism	Gemma3 E2c USR+guide+gloss	E2c	Sent_39	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V347	tourism	Gemma3 E2a raw USR	E2a	282b	L2 Morphology	modality (obligation lost)	False
+V348	tourism	Groq E2b USR+guide	E2b	45b	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	True
+V349	tourism	Groq E2a raw USR	E2a	938	L1a Lexical & NE	NE dropped / translated	False
+V350	geography	Mistral E2b USR+guide	E2b	G148	L3 Semantic relations	voice (active -> passive)	True
+V351	tourism	Gemma3 E2c USR+guide+gloss	E2c	747b	L1a Lexical & NE	NE dropped / translated	False
+V352	tourism	Groq E2b USR+guide	E2b	570	L2 Morphology	tense	False
+V353	tourism	Gemma3 E2c USR+guide+gloss	E2c	914	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V354	geography	Gemma3 E2a raw USR	E2a	G251	L3 Semantic relations	voice (passive -> active)	False
+V355	tourism	Gemma3 E2a raw USR	E2a	501b	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False
+V356	geography	Groq E2c USR+guide+gloss	E2c	G032b	L6 Sentence type	statement -> question	False
+V357	health	Mistral E2b USR+guide	E2b	H205b	L4 Discourse	connective missing (samAnakAla)	False
+V358	health	Gemma3 E2c USR+guide+gloss	E2c	H120b	L2 Morphology	number (plural lost)	False
+V359	geography	Gemma3 E2c USR+guide+gloss	E2c	G128	L6 Sentence type	question -> statement	False

@@ -1,0 +1,381 @@
+{
+ "n_annotator1": 359,
+ "n_annotator2": 72,
+ "overall": {
+  "yes": 328,
+  "no": 31,
+  "unsure": 0,
+  "precision": 0.914
+ },
+ "by_condition": {
+  "E2a": {
+   "yes": 106,
+   "no": 11,
+   "unsure": 0,
+   "precision": 0.906
+  },
+  "E2b": {
+   "yes": 112,
+   "no": 5,
+   "unsure": 0,
+   "precision": 0.957
+  },
+  "E2c": {
+   "yes": 110,
+   "no": 15,
+   "unsure": 0,
+   "precision": 0.88
+  }
+ },
+ "by_system": {
+  "Gemma3 E2a raw USR": {
+   "yes": 42,
+   "no": 4,
+   "unsure": 0,
+   "precision": 0.913
+  },
+  "Gemma3 E2b USR+guide": {
+   "yes": 46,
+   "no": 1,
+   "unsure": 0,
+   "precision": 0.979
+  },
+  "Gemma3 E2c USR+guide+gloss": {
+   "yes": 65,
+   "no": 3,
+   "unsure": 0,
+   "precision": 0.956
+  },
+  "Groq E2a raw USR": {
+   "yes": 32,
+   "no": 5,
+   "unsure": 0,
+   "precision": 0.865
+  },
+  "Groq E2b USR+guide": {
+   "yes": 29,
+   "no": 2,
+   "unsure": 0,
+   "precision": 0.935
+  },
+  "Groq E2c USR+guide+gloss": {
+   "yes": 25,
+   "no": 5,
+   "unsure": 0,
+   "precision": 0.833
+  },
+  "Mistral E2a raw USR": {
+   "yes": 32,
+   "no": 2,
+   "unsure": 0,
+   "precision": 0.941
+  },
+  "Mistral E2b USR+guide": {
+   "yes": 37,
+   "no": 2,
+   "unsure": 0,
+   "precision": 0.949
+  },
+  "Mistral E2c USR+guide+gloss": {
+   "yes": 20,
+   "no": 7,
+   "unsure": 0,
+   "precision": 0.741
+  }
+ },
+ "by_layer": {
+  "L1a Lexical & NE": {
+   "yes": 63,
+   "no": 17,
+   "unsure": 0,
+   "precision": 0.787
+  },
+  "L1b Cultural concepts": {
+   "yes": 35,
+   "no": 5,
+   "unsure": 0,
+   "precision": 0.875
+  },
+  "L1d Other sense used": {
+   "yes": 31,
+   "no": 8,
+   "unsure": 0,
+   "precision": 0.795
+  },
+  "L2 Morphology": {
+   "yes": 40,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "L3 Semantic relations": {
+   "yes": 40,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "L4 Discourse": {
+   "yes": 40,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "L5 Speaker's view": {
+   "yes": 40,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "L6 Sentence type": {
+   "yes": 39,
+   "no": 1,
+   "unsure": 0,
+   "precision": 0.975
+  }
+ },
+ "by_sub_type": {
+  "NE dropped / translated": {
+   "yes": 20,
+   "no": 2,
+   "unsure": 0,
+   "precision": 0.909
+  },
+  "NE replaced": {
+   "yes": 11,
+   "no": 7,
+   "unsure": 0,
+   "precision": 0.611
+  },
+  "aspect (perfect lost)": {
+   "yes": 3,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "command -> statement": {
+   "yes": 8,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (AvaSyakawApariNAma)": {
+   "yes": 2,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (arWAw)": {
+   "yes": 1,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (kAryakAraNa)": {
+   "yes": 2,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (pariNAma)": {
+   "yes": 3,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (samAnakAla)": {
+   "yes": 3,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (samuccaya)": {
+   "yes": 20,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (vAkyakarma)": {
+   "yes": 7,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (viroXI)": {
+   "yes": 2,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "cultural concept missing": {
+   "yes": 35,
+   "no": 2,
+   "unsure": 0,
+   "precision": 0.946
+  },
+  "culturally wrong gloss": {
+   "yes": 0,
+   "no": 2,
+   "unsure": 0,
+   "precision": 0.0
+  },
+  "degree (superlative lost)": {
+   "yes": 1,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "deixis proximal lost": {
+   "yes": 18,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "exclamation lost": {
+   "yes": 1,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "literal / generic rendering": {
+   "yes": 0,
+   "no": 1,
+   "unsure": 0,
+   "precision": 0.0
+  },
+  "modality (ability lost)": {
+   "yes": 5,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "modality (obligation lost)": {
+   "yes": 2,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "negation added": {
+   "yes": 4,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "negation lost": {
+   "yes": 1,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "number (plural lost)": {
+   "yes": 9,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "number missing / changed": {
+   "yes": 32,
+   "no": 8,
+   "unsure": 0,
+   "precision": 0.8
+  },
+  "other sense of the Hindi word (polysemy or near-synonym: check)": {
+   "yes": 31,
+   "no": 8,
+   "unsure": 0,
+   "precision": 0.795
+  },
+  "particle BI lost": {
+   "yes": 14,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "particle hI lost": {
+   "yes": 6,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "particle kevala lost": {
+   "yes": 1,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "particle lagaBaga lost": {
+   "yes": 1,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "question -> statement": {
+   "yes": 21,
+   "no": 1,
+   "unsure": 0,
+   "precision": 0.955
+  },
+  "relation rasneg not expressed": {
+   "yes": 1,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "relation rh not expressed": {
+   "yes": 5,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "relation rsm not expressed": {
+   "yes": 2,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "relation rt not expressed": {
+   "yes": 8,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "statement -> question": {
+   "yes": 9,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "tense": {
+   "yes": 20,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "voice (active -> passive)": {
+   "yes": 10,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "voice (passive -> active)": {
+   "yes": 9,
+   "no": 0,
+   "unsure": 0,
+   "precision": 1.0
+  }
+ },
+ "agreement": {
+  "items": 72,
+  "agree": 62,
+  "observed": 0.861,
+  "cohen_kappa": 0.375,
+  "confusion": {
+   "yes/yes": 58,
+   "yes/no": 8,
+   "no/no": 4,
+   "no/yes": 2
+  },
+  "annotator2_yes": 60
+ },
+ "annotator1_distinct_notes": 44,
+ "annotator2_distinct_notes": 49
+}

@@ -1,0 +1,101 @@
+{
+  "_comment": "Experiment 2: USR -> English sentence. Two conditions per model: _raw (USR only) and _guide (USR + usr_guidelines.md). Keys are read from ../exp1/keys.json.",
+  "prompt_system": "You generate English sentences from semantic representations. You express exactly the meaning in the representation: you do not add, remove, replace or explain any information.",
+  "prompt_user": "Below is a USR (Universal Semantic Representation) of one sentence. Write the ONE English sentence it represents.\nRules: express every concept and relation; do not add information that is not in the USR; do not drop any concept; keep names (words without a sense number) as names written in Roman letters, do not translate or replace them; keep numbers, negation, tense and voice; no notes, no markdown, no alternatives.\nOutput ONLY the English sentence.\n\nUSR:\n{usr}",
+  "_prompt_guide": "used by the *_guide systems (USR + guidelines)",
+  "systems": {
+    "groq_gpt-oss-120b_raw": {
+      "enabled": true,
+      "type": "openai",
+      "provider": "groq",
+      "url": "https://api.groq.com/openai/v1/chat/completions",
+      "model": "openai/gpt-oss-120b",
+      "min_interval_sec": 2.5,
+      "extra": {
+        "reasoning_effort": "low",
+        "max_tokens": 1500
+      }
+    },
+    "groq_gpt-oss-120b_guide": {
+      "enabled": true,
+      "type": "openai",
+      "provider": "groq",
+      "url": "https://api.groq.com/openai/v1/chat/completions",
+      "model": "openai/gpt-oss-120b",
+      "min_interval_sec": 2.5,
+      "extra": {
+        "reasoning_effort": "low",
+        "max_tokens": 1500
+      },
+      "prompt_user": "Read the USR guide, then write the ONE English sentence that the USR below represents.\nRules: express every concept and relation and the tense, aspect, modality, voice, negation and sentence type given; do not add information that is not in the USR; do not drop any concept; keep names (words without a sense number) as names written in Roman letters, do not translate or replace them; keep numbers; no notes, no markdown, no alternatives.\nOutput ONLY the English sentence.\n\nUSR GUIDE:\n{guidelines}\n\nUSR:\n{usr}"
+    },
+    "mistral_ministral-14b_raw": {
+      "enabled": true,
+      "type": "openai",
+      "provider": "mistral",
+      "url": "https://api.mistral.ai/v1/chat/completions",
+      "model": "ministral-14b-latest",
+      "min_interval_sec": 1.5
+    },
+    "mistral_ministral-14b_guide": {
+      "enabled": true,
+      "type": "openai",
+      "provider": "mistral",
+      "url": "https://api.mistral.ai/v1/chat/completions",
+      "model": "ministral-14b-latest",
+      "min_interval_sec": 1.5,
+      "prompt_user": "Read the USR guide, then write the ONE English sentence that the USR below represents.\nRules: express every concept and relation and the tense, aspect, modality, voice, negation and sentence type given; do not add information that is not in the USR; do not drop any concept; keep names (words without a sense number) as names written in Roman letters, do not translate or replace them; keep numbers; no notes, no markdown, no alternatives.\nOutput ONLY the English sentence.\n\nUSR GUIDE:\n{guidelines}\n\nUSR:\n{usr}"
+    },
+    "ollama_gemma3-4b_raw": {
+      "enabled": true,
+      "type": "openai",
+      "provider": "ollama",
+      "url": "http://localhost:11434/v1/chat/completions",
+      "model": "gemma3:4b",
+      "min_interval_sec": 0
+    },
+    "ollama_gemma3-4b_guide": {
+      "enabled": true,
+      "type": "openai",
+      "provider": "ollama",
+      "url": "http://localhost:11434/v1/chat/completions",
+      "model": "gemma3:4b",
+      "min_interval_sec": 0,
+      "prompt_user": "Read the USR guide, then write the ONE English sentence that the USR below represents.\nRules: express every concept and relation and the tense, aspect, modality, voice, negation and sentence type given; do not add information that is not in the USR; do not drop any concept; keep names (words without a sense number) as names written in Roman letters, do not translate or replace them; keep numbers; no notes, no markdown, no alternatives.\nOutput ONLY the English sentence.\n\nUSR GUIDE:\n{guidelines}\n\nUSR:\n{usr}"
+    },
+    "groq_gpt-oss-120b_gloss": {
+      "enabled": true,
+      "type": "openai",
+      "provider": "groq",
+      "url": "https://api.groq.com/openai/v1/chat/completions",
+      "model": "openai/gpt-oss-120b",
+      "min_interval_sec": 2.5,
+      "extra": {
+        "reasoning_effort": "low",
+        "max_tokens": 1500
+      },
+      "prompt_user": "Read the USR guide, then write the ONE English sentence that the USR below represents.\nIn this USR every concept is followed by '=' and the English word of its dictionary sense (e.g. xarSana_23=visit, mila_22=get-wA_hE_1 means the verb 'get' with the TAM wA_hE_1).\nRules: express every concept and relation and the tense, aspect, modality, voice, negation and sentence type given; use the English glosses; do not add information that is not in the USR; do not drop any concept; keep names (words without a sense number) as names written in Roman letters, do not translate or replace them; keep numbers; no notes, no markdown, no alternatives.\nOutput ONLY the English sentence.\n\nUSR GUIDE:\n{guidelines}\n\nUSR:\n{usr}",
+      "input": "exp2_input_gloss.tsv"
+    },
+    "mistral_ministral-14b_gloss": {
+      "enabled": true,
+      "type": "openai",
+      "provider": "mistral",
+      "url": "https://api.mistral.ai/v1/chat/completions",
+      "model": "ministral-14b-latest",
+      "min_interval_sec": 1.5,
+      "prompt_user": "Read the USR guide, then write the ONE English sentence that the USR below represents.\nIn this USR every concept is followed by '=' and the English word of its dictionary sense (e.g. xarSana_23=visit, mila_22=get-wA_hE_1 means the verb 'get' with the TAM wA_hE_1).\nRules: express every concept and relation and the tense, aspect, modality, voice, negation and sentence type given; use the English glosses; do not add information that is not in the USR; do not drop any concept; keep names (words without a sense number) as names written in Roman letters, do not translate or replace them; keep numbers; no notes, no markdown, no alternatives.\nOutput ONLY the English sentence.\n\nUSR GUIDE:\n{guidelines}\n\nUSR:\n{usr}",
+      "input": "exp2_input_gloss.tsv"
+    },
+    "ollama_gemma3-4b_gloss": {
+      "enabled": true,
+      "type": "openai",
+      "provider": "ollama",
+      "url": "http://localhost:11434/v1/chat/completions",
+      "model": "gemma3:4b",
+      "min_interval_sec": 0,
+      "prompt_user": "Read the USR guide, then write the ONE English sentence that the USR below represents.\nIn this USR every concept is followed by '=' and the English word of its dictionary sense (e.g. xarSana_23=visit, mila_22=get-wA_hE_1 means the verb 'get' with the TAM wA_hE_1).\nRules: express every concept and relation and the tense, aspect, modality, voice, negation and sentence type given; use the English glosses; do not add information that is not in the USR; do not drop any concept; keep names (words without a sense number) as names written in Roman letters, do not translate or replace them; keep numbers; no notes, no markdown, no alternatives.\nOutput ONLY the English sentence.\n\nUSR GUIDE:\n{guidelines}\n\nUSR:\n{usr}",
+      "input": "exp2_input_gloss.tsv"
+    }
+  }
+}

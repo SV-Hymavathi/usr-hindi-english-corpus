@@ -1,6 +1,6 @@
 # A Multi-Domain Hindi Corpus of Universal Semantic Representations (USR) with English References and Gold Chunks, and the usr2chunk Generator
 
-This repository accompanies the paper *A Multi-Domain Hindi Corpus of Universal Semantic Representations with English References and Gold Chunks, and a Table-Driven Generator from USR to English* (Veera Hymavathi Sirisipalli, Satyaprakash Jha, Sukhada and Soma Paul).
+This repository accompanies the paper *Faithful Generation from Universal Semantic Representation: A Multi-Domain Hindi Corpus and a Transparent Generator for English* (Veera Hymavathi Sirisipalli, Sukhada, Soma Paul and Satyaprakash Jha).
 
 ## Contents
 

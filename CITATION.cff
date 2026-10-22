@@ -7,8 +7,10 @@ authors:
     given-names: Veera Hymavathi
     affiliation: "Indian Institute of Technology (Banaras Hindu University)"
     email: sirisipallivhymavathi.rs.hss24@itbhu.ac.in
+    orcid: "https://orcid.org/0009-0008-2493-2538"
   - name: Sukhada
     affiliation: "Indian Institute of Technology (Banaras Hindu University)"
+    orcid: "https://orcid.org/0000-0003-2224-0323"
 repository-code: "https://github.com/SV-Hymavathi/usr-hindi-english-corpus"
 license: CC-BY-NC-SA-4.0
 date-released: 2026-10-22

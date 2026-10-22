@@ -251,7 +251,7 @@ def analyse(it, hin, ref, out):
         if not en or en == '-' or len(en) < 3:
             continue
         if has_word(ref, en) and not has_word(out, en):
-            others = [e for e in SENSES.get(n['root'], ()) if e != en and has_word(out, e) and not has_word(ref, e)]
+            others = [e for e in sorted(SENSES.get(n['root'], ())) if e != en and has_word(out, e) and not has_word(ref, e)]
             if others:
                 o = others[0]
                 if o[:4] == en[:4]:

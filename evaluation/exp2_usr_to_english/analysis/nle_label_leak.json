@@ -11,7 +11,7 @@
   },
   "groq_gpt-oss-120b_gloss": {
    "begin": 330,
-   "labels": 1
+   "labels": 0
   },
   "mistral_ministral-14b_raw": {
    "begin": 498,
@@ -22,8 +22,8 @@
    "labels": 15
   },
   "mistral_ministral-14b_gloss": {
-   "begin": 368,
-   "labels": 13
+   "begin": 367,
+   "labels": 12
   },
   "ollama_gemma3-4b_raw": {
    "begin": 271,
@@ -34,8 +34,8 @@
    "labels": 456
   },
   "ollama_gemma3-4b_gloss": {
-   "begin": 152,
-   "labels": 105
+   "begin": 151,
+   "labels": 104
   }
  }
 }

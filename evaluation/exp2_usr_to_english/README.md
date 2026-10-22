@@ -6,7 +6,7 @@ A Layer-by-Layer Study on Hindi USR* (Sirisipalli, Sukhada, Paul and Jha).
 | File | Content |
 |---|---|
 | `exp2_input.tsv` | the 2,071 USRs given to the models (domain, id, USR; line breaks written as `\n`) |
-| `exp2_input_gloss.tsv` | the same USRs with the English gloss of every concept (`xarSana_23=visit`), condition E2c |
+| `exp2_input_gloss.tsv` | the same USRs with the English gloss of every concept (`xarSana_23=visit`), condition E2c; the light verb of a complex predicate carries the English of the whole predicate (`build_gloss.py`) |
 | `usr_guidelines.md` | the guide given in conditions E2b and E2c |
 | `config.json` | models, settings and the prompts of the three conditions |
 | `outputs/` | the 18,639 outputs: 3 models x 3 conditions (`_raw` = E2a, `_guide` = E2b, `_gloss` = E2c) |

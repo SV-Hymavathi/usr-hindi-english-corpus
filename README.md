@@ -62,13 +62,13 @@ For commercial licensing or other permissions, contact Veera Hymavathi Sirisipal
 
 Until the accompanying paper is published, please cite the resource as:
 
-> Veera Hymavathi Sirisipalli and Sukhada. 2026. *USR Hindi-English Corpus: Universal
+> Veera Hymavathi Sirisipalli, Sukhada and Soma Paul. 2026. *USR Hindi-English Corpus: Universal
 > Semantic Representations with English references and gold chunks, and the usr2chunk generator.* Zenodo.
 > https://doi.org/10.5281/zenodo.23559461
 
 ```bibtex
 @misc{sirisipalli2026usrcorpus,
-  author       = {Sirisipalli, Veera Hymavathi and Sukhada},
+  author       = {Sirisipalli, Veera Hymavathi and Sukhada and Paul, Soma},
   title        = {{USR Hindi-English Corpus: Universal Semantic Representations with English references and gold chunks, and the usr2chunk generator}},
   year         = {2026},
   publisher    = {Zenodo},
@@ -80,3 +80,8 @@ Until the accompanying paper is published, please cite the resource as:
 
 The citation of the paper will be added here on publication. GitHub's "Cite this repository" button (from
 `CITATION.cff`) gives the same citation.
+
+## Contributors
+
+Satyaprakash Jha (Indian Institute of Technology (Banaras Hindu University), ORCID 0009-0008-2865-5320) contributed
+to the data collection.

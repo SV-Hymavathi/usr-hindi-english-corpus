@@ -1,0 +1,18 @@
+{
+  "title": "USR Hindi-English Corpus: Universal Semantic Representations with English references and gold chunks, and the usr2chunk generator",
+  "upload_type": "dataset",
+  "description": "<p>Gold corpus of 2,071 Hindi Universal Semantic Representations (tourism, health, geography) with English references and gold chunks, Telugu data and agreement data, together with the usr2chunk rule-based generator and all evaluation scripts. Data: CC BY-NC-SA 4.0 (research use only, citation required). Code: MIT.</p>",
+  "creators": [
+    {"name": "Sirisipalli, Veera Hymavathi", "affiliation": "Indian Institute of Technology (Banaras Hindu University)", "orcid": "0009-0008-2493-2538"},
+    {"name": "Sukhada", "affiliation": "Indian Institute of Technology (Banaras Hindu University)", "orcid": "0000-0003-2224-0323"},
+    {"name": "Paul, Soma", "affiliation": "International Institute of Information Technology, Hyderabad", "orcid": "0000-0002-2504-4419"}
+  ],
+  "contributors": [
+    {"name": "Jha, Satyaprakash", "affiliation": "Indian Institute of Technology (Banaras Hindu University)", "orcid": "0009-0008-2865-5320", "type": "DataCollector"}
+  ],
+  "license": "cc-by-nc-sa-4.0",
+  "keywords": ["Universal Semantic Representation", "Hindi", "corpus", "natural language generation", "meaning representation", "Telugu"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/SV-Hymavathi/usr-hindi-english-corpus", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

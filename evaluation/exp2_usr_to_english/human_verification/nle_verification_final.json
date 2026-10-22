@@ -1,0 +1,348 @@
+{
+ "overall": {
+  "checked": 359,
+  "confirmed": 328,
+  "unsure": 0,
+  "precision": 0.91
+ },
+ "by_group": {
+  "Connectives": {
+   "checked": 40,
+   "confirmed": 40,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "Cultural concepts": {
+   "checked": 40,
+   "confirmed": 36,
+   "unsure": 0,
+   "precision": 0.9
+  },
+  "Names": {
+   "checked": 40,
+   "confirmed": 31,
+   "unsure": 0,
+   "precision": 0.78
+  },
+  "Numbers": {
+   "checked": 40,
+   "confirmed": 32,
+   "unsure": 0,
+   "precision": 0.8
+  },
+  "Particles and deixis": {
+   "checked": 40,
+   "confirmed": 40,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "Relations, voice, negation": {
+   "checked": 40,
+   "confirmed": 40,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "Sentence type": {
+   "checked": 40,
+   "confirmed": 39,
+   "unsure": 0,
+   "precision": 0.97
+  },
+  "TAM and number": {
+   "checked": 40,
+   "confirmed": 40,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "Word senses": {
+   "checked": 39,
+   "confirmed": 30,
+   "unsure": 0,
+   "precision": 0.77
+  }
+ },
+ "by_condition": {
+  "E2a": {
+   "checked": 117,
+   "confirmed": 106,
+   "unsure": 0,
+   "precision": 0.91
+  },
+  "E2b": {
+   "checked": 117,
+   "confirmed": 112,
+   "unsure": 0,
+   "precision": 0.96
+  },
+  "E2c": {
+   "checked": 125,
+   "confirmed": 110,
+   "unsure": 0,
+   "precision": 0.88
+  }
+ },
+ "by_model": {
+  "Gemma3": {
+   "checked": 161,
+   "confirmed": 152,
+   "unsure": 0,
+   "precision": 0.94
+  },
+  "Groq": {
+   "checked": 98,
+   "confirmed": 86,
+   "unsure": 0,
+   "precision": 0.88
+  },
+  "Mistral": {
+   "checked": 100,
+   "confirmed": 90,
+   "unsure": 0,
+   "precision": 0.9
+  }
+ },
+ "by_sub_type": {
+  "NE dropped / translated": {
+   "checked": 22,
+   "confirmed": 20,
+   "unsure": 0,
+   "precision": 0.91
+  },
+  "NE replaced": {
+   "checked": 18,
+   "confirmed": 11,
+   "unsure": 0,
+   "precision": 0.61
+  },
+  "aspect (perfect lost)": {
+   "checked": 3,
+   "confirmed": 3,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "command -> statement": {
+   "checked": 8,
+   "confirmed": 8,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (AvaSyakawApariNAma)": {
+   "checked": 2,
+   "confirmed": 2,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (arWAw)": {
+   "checked": 1,
+   "confirmed": 1,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (kAryakAraNa)": {
+   "checked": 2,
+   "confirmed": 2,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (pariNAma)": {
+   "checked": 3,
+   "confirmed": 3,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (samAnakAla)": {
+   "checked": 3,
+   "confirmed": 3,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (samuccaya)": {
+   "checked": 20,
+   "confirmed": 20,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (vAkyakarma)": {
+   "checked": 7,
+   "confirmed": 7,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "connective missing (viroXI)": {
+   "checked": 2,
+   "confirmed": 2,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "cultural concept missing": {
+   "checked": 36,
+   "confirmed": 35,
+   "unsure": 0,
+   "precision": 0.97
+  },
+  "culturally wrong gloss": {
+   "checked": 2,
+   "confirmed": 0,
+   "unsure": 0,
+   "precision": 0.0
+  },
+  "degree (superlative lost)": {
+   "checked": 1,
+   "confirmed": 1,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "deixis proximal lost": {
+   "checked": 19,
+   "confirmed": 19,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "exclamation lost": {
+   "checked": 1,
+   "confirmed": 1,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "literal / generic rendering": {
+   "checked": 2,
+   "confirmed": 1,
+   "unsure": 0,
+   "precision": 0.5
+  },
+  "modality (ability lost)": {
+   "checked": 5,
+   "confirmed": 5,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "modality (obligation lost)": {
+   "checked": 2,
+   "confirmed": 2,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "negation added": {
+   "checked": 4,
+   "confirmed": 4,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "negation lost": {
+   "checked": 1,
+   "confirmed": 1,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "number (plural lost)": {
+   "checked": 9,
+   "confirmed": 9,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "number missing / changed": {
+   "checked": 40,
+   "confirmed": 32,
+   "unsure": 0,
+   "precision": 0.8
+  },
+  "other sense of the Hindi word (polysemy or near-synonym: check)": {
+   "checked": 39,
+   "confirmed": 30,
+   "unsure": 0,
+   "precision": 0.77
+  },
+  "particle BI lost": {
+   "checked": 14,
+   "confirmed": 14,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "particle hI lost": {
+   "checked": 5,
+   "confirmed": 5,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "particle kevala lost": {
+   "checked": 1,
+   "confirmed": 1,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "particle lagaBaga lost": {
+   "checked": 1,
+   "confirmed": 1,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "question -> statement": {
+   "checked": 23,
+   "confirmed": 22,
+   "unsure": 0,
+   "precision": 0.96
+  },
+  "relation rasneg not expressed": {
+   "checked": 1,
+   "confirmed": 1,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "relation rh not expressed": {
+   "checked": 5,
+   "confirmed": 5,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "relation rsm not expressed": {
+   "checked": 2,
+   "confirmed": 2,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "relation rt not expressed": {
+   "checked": 8,
+   "confirmed": 8,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "statement -> question": {
+   "checked": 8,
+   "confirmed": 8,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "tense": {
+   "checked": 20,
+   "confirmed": 20,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "voice (active -> passive)": {
+   "checked": 10,
+   "confirmed": 10,
+   "unsure": 0,
+   "precision": 1.0
+  },
+  "voice (passive -> active)": {
+   "checked": 9,
+   "confirmed": 9,
+   "unsure": 0,
+   "precision": 1.0
+  }
+ },
+ "agreement": {
+  "items": 72,
+  "agree": 62,
+  "observed": 0.861,
+  "cohen_kappa": 0.375,
+  "gwet_ac1": 0.822,
+  "confusion": {
+   "yes/yes": 58,
+   "no/no": 4,
+   "yes/no": 8,
+   "no/yes": 2
+  },
+  "share_yes": 0.875
+ }
+}

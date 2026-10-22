@@ -1,0 +1,25 @@
+item	domain	system	condition	id	layer	sub_type	overlap	replaces	how
+V3r	tourism	Gemma3 E2c USR+guide+gloss	E2c	Sent_5b	L1b Cultural concepts	cultural concept missing	False	V3	same sentence, new output
+V17r	health	Mistral E2c USR+guide+gloss	E2c	H291b	L4 Discourse	connective missing (samuccaya)	False	V17	same sentence, new output
+V27r	geography	Groq E2c USR+guide+gloss	E2c	G085	L1a Lexical & NE	number missing / changed	False	V27	same sentence, new output
+V44r	health	Groq E2c USR+guide+gloss	E2c	H128	L5 Speaker's view	particle BI lost	False	V44	same sentence, new output
+V58r	health	Mistral E2c USR+guide+gloss	E2c	H298	L6 Sentence type	statement -> question	False	V58	same sentence, new output
+V65r	tourism	Gemma3 E2c USR+guide+gloss	E2c	970	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	True	V65	same sentence, new output
+V66r	geography	Gemma3 E2c USR+guide+gloss	E2c	G174	L5 Speaker's view	deixis proximal lost	False	V66	replacement (flag no longer raised)
+V76r	health	Gemma3 E2c USR+guide+gloss	E2c	H210	L2 Morphology	number (plural lost)	False	V76	same sentence, new output
+V88r	tourism	Gemma3 E2c USR+guide+gloss	E2c	307b	L1b Cultural concepts	cultural concept missing	False	V88	same sentence, new output
+V122r	tourism	Gemma3 E2c USR+guide+gloss	E2c	48	L1b Cultural concepts	cultural concept missing	False	V122	same sentence, new output
+V130r	tourism	Groq E2c USR+guide+gloss	E2c	567	L5 Speaker's view	particle BI lost	True	V130	same sentence, new output
+V182r	geography	Groq E2c USR+guide+gloss	E2c	G348	L3 Semantic relations	relation rt not expressed	False	V182	same sentence, new output
+V193r	tourism	Mistral E2c USR+guide+gloss	E2c	62b	L1b Cultural concepts	literal / generic rendering	False	V193	replacement (flag no longer raised)
+V196r	tourism	Gemma3 E2c USR+guide+gloss	E2c	109	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	False	V196	replacement (flag no longer raised)
+V199r	geography	Gemma3 E2c USR+guide+gloss	E2c	G268	L4 Discourse	connective missing (kAryakAraNa)	False	V199	same sentence, new output
+V226r	geography	Gemma3 E2c USR+guide+gloss	E2c	G171b	L6 Sentence type	question -> statement	False	V226	replacement (flag no longer raised)
+V238r	health	Groq E2c USR+guide+gloss	E2c	H168	L3 Semantic relations	relation rsm not expressed	True	V238	same sentence, new output
+V245r	tourism	Mistral E2c USR+guide+gloss	E2c	618	L2 Morphology	number (plural lost)	False	V245	replacement (flag no longer raised)
+V248r	geography	Gemma3 E2c USR+guide+gloss	E2c	G252	L1a Lexical & NE	number missing / changed	True	V248	same sentence, new output
+V252r	tourism	Mistral E2c USR+guide+gloss	E2c	837	L1a Lexical & NE	number missing / changed	False	V252	replacement (flag no longer raised)
+V313r	tourism	Gemma3 E2c USR+guide+gloss	E2c	57	L1b Cultural concepts	cultural concept missing	False	V313	same sentence, new output
+V327r	tourism	Groq E2c USR+guide+gloss	E2c	297	L4 Discourse	connective missing (samuccaya)	False	V327	same sentence, new output
+V358r	health	Gemma3 E2c USR+guide+gloss	E2c	H120b	L2 Morphology	number (plural lost)	False	V358	same sentence, new output
+V359r	geography	Gemma3 E2c USR+guide+gloss	E2c	G128	L6 Sentence type	question -> statement	False	V359	same sentence, new output

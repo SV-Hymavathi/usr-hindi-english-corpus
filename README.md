@@ -1,5 +1,7 @@
 # A Multi-Domain Hindi Corpus of Universal Semantic Representations (USR) with English References and Gold Chunks, and the usr2chunk Generator
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23559461.svg)](https://doi.org/10.5281/zenodo.23559461)
+
 This repository accompanies the paper *Faithful Generation from Universal Semantic Representation: A Multi-Domain Hindi Corpus and a Transparent Generator for English* (Veera Hymavathi Sirisipalli, Sukhada and Satyaprakash Jha).
 
 ## Contents
@@ -61,15 +63,17 @@ For commercial licensing or other permissions, contact Veera Hymavathi Sirisipal
 Until the accompanying paper is published, please cite the resource as:
 
 > Veera Hymavathi Sirisipalli and Sukhada. 2026. *USR Hindi-English Corpus: Universal
-> Semantic Representations with English references and gold chunks, and the usr2chunk generator.*
-> https://github.com/SV-Hymavathi/usr-hindi-english-corpus
+> Semantic Representations with English references and gold chunks, and the usr2chunk generator.* Zenodo.
+> https://doi.org/10.5281/zenodo.23559461
 
 ```bibtex
 @misc{sirisipalli2026usrcorpus,
   author       = {Sirisipalli, Veera Hymavathi and Sukhada},
   title        = {{USR Hindi-English Corpus: Universal Semantic Representations with English references and gold chunks, and the usr2chunk generator}},
   year         = {2026},
-  howpublished = {\url{https://github.com/SV-Hymavathi/usr-hindi-english-corpus}},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.23559461},
+  url          = {https://doi.org/10.5281/zenodo.23559461},
   note         = {Licensed under CC BY-NC-SA 4.0}
 }
 ```

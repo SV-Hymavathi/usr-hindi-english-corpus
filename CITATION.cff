@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below. The data may be used for research and teaching only (CC BY-NC-SA 4.0); commercial use requires written permission from the authors."
+title: "USR Hindi-English Corpus: Universal Semantic Representations with English references and gold chunks, and the usr2chunk generator"
+type: dataset
+authors:
+  - family-names: Sirisipalli
+    given-names: Veera Hymavathi
+    affiliation: "Indian Institute of Technology (Banaras Hindu University)"
+    email: sirisipallivhymavathi.rs.hss24@itbhu.ac.in
+  - name: Sukhada
+    affiliation: "Indian Institute of Technology (Banaras Hindu University)"
+repository-code: "https://github.com/SV-Hymavathi/usr-hindi-english-corpus"
+license: CC-BY-NC-SA-4.0
+date-released: 2026-10-22
+keywords:
+  - Universal Semantic Representation
+  - Hindi
+  - natural language generation
+  - meaning representation
+  - Telugu

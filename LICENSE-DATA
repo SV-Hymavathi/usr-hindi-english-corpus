@@ -1,4 +1,14 @@
-The annotations in this repository (USRs, English reference translations, gold chunks, dictionary additions and
-agreement data) are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-licence (CC BY-NC-SA 4.0): https://creativecommons.org/licenses/by-nc-sa/4.0/
+Copyright (c) 2026 Veera Hymavathi Sirisipalli and Sukhada
+
+The data in this repository (USRs, English reference translations, gold chunks, dictionary additions, agreement data
+and evaluation data) is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+licence (CC BY-NC-SA 4.0): https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+In short: you may use, share and adapt the data for non-commercial research and teaching, provided that you
+- give appropriate credit: cite the resource as given in README.md (section "How to cite") and acknowledge the authors;
+- do not use the data for commercial purposes (including training or improving commercial products or services)
+  without written permission from the authors;
+- release data derived from it under the same licence.
+
 The Hindi source texts belong to their providers (ILCI; NCERT) and are subject to their terms.
+For other permissions contact: sirisipallivhymavathi.rs.hss24@itbhu.ac.in

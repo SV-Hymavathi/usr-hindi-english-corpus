@@ -1,6 +1,6 @@
 # A Multi-Domain Hindi Corpus of Universal Semantic Representations (USR) with English References and Gold Chunks, and the usr2chunk Generator
 
-This repository accompanies the paper *Faithful Generation from Universal Semantic Representation: A Multi-Domain Hindi Corpus and a Transparent Generator for English* (Veera Hymavathi Sirisipalli, Sukhada, Soma Paul and Satyaprakash Jha).
+This repository accompanies the paper *Faithful Generation from Universal Semantic Representation: A Multi-Domain Hindi Corpus and a Transparent Generator for English* (Veera Hymavathi Sirisipalli, Sukhada and Satyaprakash Jha).
 
 ## Contents
 
@@ -36,11 +36,43 @@ transliteration with dictionary sense numbers (e.g. `xarSana_23`). See the paper
 Tourism and health sentences come from the ILCI Hindi–English parallel corpora (Jha 2010; Choudhary and Jha 2014),
 geography sentences from the NCERT Class 6 Social Science (Geography) textbook. The source texts belong to their providers.
 
-## Licence
+## Licence and terms of use
 
-Annotations (USRs, references, gold chunks, dictionary additions, agreement data): CC BY-NC-SA 4.0 (`LICENSE-DATA`).
-Code (`usr2chunk`, scripts): MIT (`LICENSE-CODE`).
+**Data** (USRs, English references, gold chunks, dictionary additions, agreement data, evaluation data):
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (`LICENSE-DATA`). This means:
 
-## Citation
+- **Research and teaching use only.** Commercial use of the data, including training or improving commercial
+  products or services, is not permitted without written permission from the authors.
+- **Attribution is required.** Every publication, thesis, report, software or dataset that uses this data, in full or
+  in part, must cite it as given below and acknowledge the authors.
+- **Share alike.** Data derived from this resource (e.g. extended or converted USRs) must be released under the same
+  licence.
 
-Please cite the paper if you use this resource (citation to be added on publication).
+**Code** (`usr2chunk`, scripts): MIT (`LICENSE-CODE`).
+
+The Hindi source sentences come from the ILCI corpora and the NCERT Class 6 geography textbook; they remain the property
+of their providers and are subject to their terms.
+
+For commercial licensing or other permissions, contact Veera Hymavathi Sirisipalli
+(sirisipallivhymavathi.rs.hss24@itbhu.ac.in).
+
+## How to cite
+
+Until the accompanying paper is published, please cite the resource as:
+
+> Veera Hymavathi Sirisipalli and Sukhada. 2026. *USR Hindi-English Corpus: Universal
+> Semantic Representations with English references and gold chunks, and the usr2chunk generator.*
+> https://github.com/SV-Hymavathi/usr-hindi-english-corpus
+
+```bibtex
+@misc{sirisipalli2026usrcorpus,
+  author       = {Sirisipalli, Veera Hymavathi and Sukhada},
+  title        = {{USR Hindi-English Corpus: Universal Semantic Representations with English references and gold chunks, and the usr2chunk generator}},
+  year         = {2026},
+  howpublished = {\url{https://github.com/SV-Hymavathi/usr-hindi-english-corpus}},
+  note         = {Licensed under CC BY-NC-SA 4.0}
+}
+```
+
+The citation of the paper will be added here on publication. GitHub's "Cite this repository" button (from
+`CITATION.cff`) gives the same citation.

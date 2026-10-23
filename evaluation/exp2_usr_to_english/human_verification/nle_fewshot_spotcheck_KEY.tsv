@@ -1,0 +1,45 @@
+item	model	domain	id	layer	sub_type	group
+F1	Ministral 14B	tourism	830	L1a Lexical & NE	number missing / changed	Number missing or changed
+F2	Ministral 14B	tourism	790b	L5 Speaker's view	particle kevala lost	Particle or this/that lost
+F3	gpt-oss-120b	tourism	813	L1a Lexical & NE	NE dropped / translated	Name dropped, translated or replaced
+F4	gpt-oss-120b	tourism	822c	L1a Lexical & NE	number missing / changed	Number missing or changed
+F5	gpt-oss-120b	geography	G248b	L3 Semantic relations	relation rh not expressed	Relation, voice or negation
+F6	gpt-oss-120b	health	H022	L3 Semantic relations	voice (active -> passive)	Relation, voice or negation
+F7	Ministral 14B	tourism	723	L2 Morphology	number (plural lost)	Tense / number / modality / aspect
+F8	Ministral 14B	geography	G170b	L1a Lexical & NE	number missing / changed	Number missing or changed
+F9	gpt-oss-120b	geography	G378b	L5 Speaker's view	deixis distal reversed	Particle or this/that lost
+F10	Ministral 14B	tourism	474a	L1a Lexical & NE	NE replaced	Name dropped, translated or replaced
+F11	gpt-oss-120b	geography	G289	L4 Discourse	connective missing (viroXI)	Connective missing
+F12	Ministral 14B	tourism	618	L1a Lexical & NE	number missing / changed	Number missing or changed
+F13	Ministral 14B	tourism	98	L1b Cultural concepts	cultural concept missing	Cultural concept missing
+F14	Ministral 14B	tourism	88b	L1b Cultural concepts	cultural concept missing	Cultural concept missing
+F15	gpt-oss-120b	tourism	830	L1a Lexical & NE	NE dropped / translated	Name dropped, translated or replaced
+F16	gpt-oss-120b	tourism	879b	L4 Discourse	connective missing (samuccaya)	Connective missing
+F17	Ministral 14B	geography	G067	L5 Speaker's view	particle BI lost	Particle or this/that lost
+F18	Ministral 14B	tourism	374	L1d Other sense used	other sense of the Hindi word (polysemy or near-synonym: check)	Wrong sense of a word
+F19	gpt-oss-120b	health	H220b	L4 Discourse	connective missing (uxxeSya)	Connective missing
+F20	Ministral 14B	tourism	Sent_1	L6 Sentence type	exclamation lost	Sentence type changed
+F21	gpt-oss-120b	health	H194	L2 Morphology	number (plural lost)	Tense / number / modality / aspect
+F22	Ministral 14B	health	H076b	L4 Discourse	connective missing (samuccaya)	Connective missing
+F23	gpt-oss-120b	tourism	905	L2 Morphology	number (plural lost)	Tense / number / modality / aspect
+F24	gpt-oss-120b	geography	G298	L3 Semantic relations	relation rsm not expressed	Relation, voice or negation
+F25	Ministral 14B	geography	G158b	L1a Lexical & NE	NE replaced	Name dropped, translated or replaced
+F26	Ministral 14B	geography	G202c	L1a Lexical & NE	number missing / changed	Number missing or changed
+F27	gpt-oss-120b	geography	G170b	L1a Lexical & NE	NE replaced	Name dropped, translated or replaced
+F28	gpt-oss-120b	tourism	98	L1b Cultural concepts	literal / generic rendering	Cultural concept missing
+F29	gpt-oss-120b	geography	G202c	L1a Lexical & NE	number missing / changed	Number missing or changed
+F30	gpt-oss-120b	tourism	723	L2 Morphology	number (plural lost)	Tense / number / modality / aspect
+F31	gpt-oss-120b	tourism	353a	L1a Lexical & NE	NE dropped / translated	Name dropped, translated or replaced
+F32	gpt-oss-120b	tourism	Sent_1	L6 Sentence type	exclamation lost	Sentence type changed
+F33	Ministral 14B	health	H202b	L3 Semantic relations	voice (active -> passive)	Relation, voice or negation
+F34	gpt-oss-120b	tourism	566	L2 Morphology	tense	Tense / number / modality / aspect
+F35	gpt-oss-120b	tourism	88b	L1b Cultural concepts	literal / generic rendering	Cultural concept missing
+F36	gpt-oss-120b	tourism	723	L3 Semantic relations	relation rt not expressed	Relation, voice or negation
+F37	gpt-oss-120b	geography	G043b	L6 Sentence type	statement -> question	Sentence type changed
+F38	Ministral 14B	tourism	860	L5 Speaker's view	particle BI lost	Particle or this/that lost
+F39	Ministral 14B	geography	G306b	L4 Discourse	connective missing (samuccaya)	Connective missing
+F40	Ministral 14B	tourism	47	L5 Speaker's view	particle hI lost	Particle or this/that lost
+F41	gpt-oss-120b	geography	G310	L3 Semantic relations	voice (active -> passive)	Relation, voice or negation
+F42	gpt-oss-120b	tourism	253	L2 Morphology	number (plural lost)	Tense / number / modality / aspect
+F43	gpt-oss-120b	tourism	860	L5 Speaker's view	particle BI lost	Particle or this/that lost
+F44	gpt-oss-120b	geography	G079b	L4 Discourse	connective missing (kAryakAraNa)	Connective missing

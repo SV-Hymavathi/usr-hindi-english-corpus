@@ -1,0 +1,201 @@
+{
+ "n": 250,
+ "missing": {
+  "gpt-oss-120b|E2c": 0,
+  "gpt-oss-120b|E2d": 0,
+  "Ministral 14B|E2c": 0,
+  "Ministral 14B|E2d": 0
+ },
+ "models": {
+  "gpt-oss-120b": {
+   "chrf_E2c": 40.2,
+   "chrf_E2d": 42.9,
+   "chrf_diff": 2.7,
+   "chrf_p": 0.0,
+   "flagged_E2c": 63.6,
+   "flagged_E2d": 64.4,
+   "fixed": 23,
+   "new": 25,
+   "mcnemar_p": 0.89,
+   "layers": {
+    "gpt-oss-120b|E2c": {
+     "Lexical": 69,
+     "L2 Morphology": 39,
+     "L3 Semantic relations": 31,
+     "L4 Discourse": 35,
+     "L5 Speaker's view": 19,
+     "L6 Sentence type": 3,
+     "L7 Adequacy": 59,
+     "L8 Output form": 27
+    },
+    "gpt-oss-120b|E2d": {
+     "Lexical": 67,
+     "L2 Morphology": 36,
+     "L3 Semantic relations": 38,
+     "L4 Discourse": 33,
+     "L5 Speaker's view": 17,
+     "L6 Sentence type": 2,
+     "L7 Adequacy": 53,
+     "L8 Output form": 18
+    }
+   },
+   "phenomena": {
+    "Names": {
+     "n": 111,
+     "E2c": 44.1,
+     "E2d": 43.2
+    },
+    "Numbers": {
+     "n": 35,
+     "E2c": 31.4,
+     "E2d": 25.7
+    },
+    "Modality": {
+     "n": 8,
+     "E2c": 12.5,
+     "E2d": 62.5
+    },
+    "Perfect aspect": {
+     "n": 1,
+     "E2c": 100.0,
+     "E2d": 100.0
+    },
+    "Passive voice": {
+     "n": 13,
+     "E2c": 15.4,
+     "E2d": 23.1
+    },
+    "Negation": {
+     "n": 5,
+     "E2c": 0.0,
+     "E2d": 0.0
+    },
+    "Purpose (rt)": {
+     "n": 23,
+     "E2c": 69.6,
+     "E2d": 60.9
+    },
+    "Cause (rh)": {
+     "n": 4,
+     "E2c": 75.0,
+     "E2d": 75.0
+    },
+    "Connectives": {
+     "n": 38,
+     "E2c": 92.1,
+     "E2d": 86.8
+    },
+    "Particles": {
+     "n": 20,
+     "E2c": 75.0,
+     "E2d": 75.0
+    },
+    "Deixis": {
+     "n": 38,
+     "E2c": 13.2,
+     "E2d": 5.3
+    },
+    "Questions": {
+     "n": 9,
+     "E2c": 0.0,
+     "E2d": 0.0
+    }
+   }
+  },
+  "Ministral 14B": {
+   "chrf_E2c": 42.2,
+   "chrf_E2d": 46.1,
+   "chrf_diff": 3.9,
+   "chrf_p": 0.0,
+   "flagged_E2c": 67.2,
+   "flagged_E2d": 59.6,
+   "fixed": 35,
+   "new": 16,
+   "mcnemar_p": 0.011,
+   "layers": {
+    "Ministral 14B|E2c": {
+     "Lexical": 83,
+     "L2 Morphology": 48,
+     "L3 Semantic relations": 28,
+     "L4 Discourse": 20,
+     "L5 Speaker's view": 25,
+     "L6 Sentence type": 2,
+     "L7 Adequacy": 61,
+     "L8 Output form": 18
+    },
+    "Ministral 14B|E2d": {
+     "Lexical": 81,
+     "L2 Morphology": 13,
+     "L3 Semantic relations": 39,
+     "L4 Discourse": 18,
+     "L5 Speaker's view": 18,
+     "L6 Sentence type": 1,
+     "L7 Adequacy": 52,
+     "L8 Output form": 10
+    }
+   },
+   "phenomena": {
+    "Names": {
+     "n": 111,
+     "E2c": 39.6,
+     "E2d": 39.6
+    },
+    "Numbers": {
+     "n": 35,
+     "E2c": 57.1,
+     "E2d": 51.4
+    },
+    "Modality": {
+     "n": 8,
+     "E2c": 37.5,
+     "E2d": 0.0
+    },
+    "Perfect aspect": {
+     "n": 1,
+     "E2c": 0.0,
+     "E2d": 0.0
+    },
+    "Passive voice": {
+     "n": 13,
+     "E2c": 0.0,
+     "E2d": 7.7
+    },
+    "Negation": {
+     "n": 5,
+     "E2c": 0.0,
+     "E2d": 0.0
+    },
+    "Purpose (rt)": {
+     "n": 23,
+     "E2c": 30.4,
+     "E2d": 30.4
+    },
+    "Cause (rh)": {
+     "n": 4,
+     "E2c": 25.0,
+     "E2d": 25.0
+    },
+    "Connectives": {
+     "n": 38,
+     "E2c": 52.6,
+     "E2d": 47.4
+    },
+    "Particles": {
+     "n": 20,
+     "E2c": 90.0,
+     "E2d": 65.0
+    },
+    "Deixis": {
+     "n": 38,
+     "E2c": 18.4,
+     "E2d": 13.2
+    },
+    "Questions": {
+     "n": 9,
+     "E2c": 0.0,
+     "E2d": 0.0
+    }
+   }
+  }
+ }
+}

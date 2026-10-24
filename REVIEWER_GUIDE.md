@@ -31,7 +31,7 @@ If `run.sh` reports `\r`, run `sed -i 's/\r$//' run.sh` once.)
 Checks the English morphology and a regression lock of 441 sentences. The last line should read
 `regression: 441/441 locked sentences still exact`.
 
-## 4. Reproduce Table 9 of the paper
+## 4. Reproduce the evaluation of the generator
 
 ```bash
 ./run.sh eval
@@ -95,8 +95,8 @@ The released USRs pass all checks.
 - `tables/en/*.tsv`: the nine English tables (prepositions per relation, TAM, connectives, particles, word lists).
   Editing a table row changes the output without changing any code.
 
-## 9. Other numbers in the paper
+## 9. Other results
 
-- Inter-annotator agreement (Tables 5 and 5b): `../agreement/` (annotations, results, scripts).
+- Inter-annotator agreement: `../agreement/` (annotations, results, scripts).
 - Reference quality, chunks written without a draft, the language-model use case and the corpus statistics:
   `../evaluation/` (each folder has its data and script).

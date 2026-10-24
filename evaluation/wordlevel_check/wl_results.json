@@ -1,0 +1,275 @@
+{
+ "funnel": {
+  "NE dropped / translated": 18,
+  "NE replaced": 17,
+  "lexical choice differs": 2741,
+  "number missing / changed": 50,
+  "synonym accepted by the check": 847,
+  "other sense of the Hindi word (polysemy or near-synonym: check)": 207
+ },
+ "types": {
+  "Name dropped or translated": {
+   "candidates": 18,
+   "confirmed": 18,
+   "precision": 1.0,
+   "ci": [
+    0.8241154494176252,
+    1.0000000000000002
+   ]
+  },
+  "Name replaced": {
+   "candidates": 17,
+   "confirmed": 17,
+   "precision": 1.0,
+   "ci": [
+    0.8156763396284354,
+    1.0
+   ]
+  },
+  "Number missing or changed": {
+   "candidates": 50,
+   "confirmed": 5,
+   "precision": 0.1,
+   "ci": [
+    0.0434751239915711,
+    0.21360490334788393
+   ]
+  },
+  "Wrong word sense": {
+   "candidates": 207,
+   "confirmed": 59,
+   "precision": 0.28502415458937197,
+   "ci": [
+    0.22788065367203042,
+    0.35000150999965485
+   ]
+  }
+ },
+ "systems": {
+  "Google Translate": {
+   "Name dropped or translated": [
+    1,
+    1
+   ],
+   "Name replaced": [
+    0,
+    0
+   ],
+   "Number missing or changed": [
+    0,
+    0
+   ],
+   "Wrong word sense": [
+    29,
+    10
+   ],
+   "sentences_with_confirmed_error": 11
+  },
+  "IndicTrans2": {
+   "Name dropped or translated": [
+    3,
+    3
+   ],
+   "Name replaced": [
+    1,
+    1
+   ],
+   "Number missing or changed": [
+    11,
+    4
+   ],
+   "Wrong word sense": [
+    45,
+    14
+   ],
+   "sentences_with_confirmed_error": 21
+  },
+  "gpt-oss-120b": {
+   "Name dropped or translated": [
+    4,
+    4
+   ],
+   "Name replaced": [
+    2,
+    2
+   ],
+   "Number missing or changed": [
+    15,
+    0
+   ],
+   "Wrong word sense": [
+    43,
+    10
+   ],
+   "sentences_with_confirmed_error": 16
+  },
+  "Ministral 14B": {
+   "Name dropped or translated": [
+    3,
+    3
+   ],
+   "Name replaced": [
+    9,
+    9
+   ],
+   "Number missing or changed": [
+    16,
+    0
+   ],
+   "Wrong word sense": [
+    53,
+    16
+   ],
+   "sentences_with_confirmed_error": 24
+  },
+  "Gemma 3 4B": {
+   "Name dropped or translated": [
+    7,
+    7
+   ],
+   "Name replaced": [
+    5,
+    5
+   ],
+   "Number missing or changed": [
+    8,
+    1
+   ],
+   "Wrong word sense": [
+    37,
+    9
+   ],
+   "sentences_with_confirmed_error": 22
+  }
+ },
+ "domains": {
+  "health": {
+   "Name dropped or translated": 8,
+   "Name replaced": 8,
+   "Number missing or changed": 1,
+   "Wrong word sense": 33
+  },
+  "geography": {
+   "Name dropped or translated": 10,
+   "Name replaced": 9,
+   "Number missing or changed": 4,
+   "Wrong word sense": 26
+  }
+ },
+ "sentences": {
+  "health": 402,
+  "geography": 558
+ },
+ "shared_by_systems": {
+  "4": 2,
+  "1": 48,
+  "2": 12,
+  "5": 2,
+  "3": 3
+ },
+ "dictionary_check": {
+  "chunks": {
+   "Name dropped or translated": [
+    18,
+    18
+   ],
+   "Name replaced": [
+    17,
+    17
+   ],
+   "Number missing or changed": [
+    5,
+    5
+   ],
+   "Wrong word sense": [
+    59,
+    59
+   ]
+  },
+  "gpt-oss-120b": {
+   "Name dropped or translated": [
+    18,
+    18
+   ],
+   "Name replaced": [
+    17,
+    17
+   ],
+   "Number missing or changed": [
+    5,
+    5
+   ],
+   "Wrong word sense": [
+    59,
+    59
+   ]
+  },
+  "Ministral 14B": {
+   "Name dropped or translated": [
+    18,
+    18
+   ],
+   "Name replaced": [
+    17,
+    17
+   ],
+   "Number missing or changed": [
+    5,
+    5
+   ],
+   "Wrong word sense": [
+    57,
+    59
+   ]
+  },
+  "Gemma 3 4B": {
+   "Name dropped or translated": [
+    16,
+    18
+   ],
+   "Name replaced": [
+    17,
+    17
+   ],
+   "Number missing or changed": [
+    5,
+    5
+   ],
+   "Wrong word sense": [
+    59,
+    59
+   ]
+  }
+ },
+ "sense_categories": {
+  "near-synonym": {
+   "Ministral 14B": 9,
+   "all": 26,
+   "geography": 5,
+   "Gemma 3 4B": 3,
+   "health": 21,
+   "IndicTrans2": 5,
+   "gpt-oss-120b": 3,
+   "Google Translate": 6
+  },
+  "domain-term": {
+   "Ministral 14B": 4,
+   "all": 14,
+   "geography": 14,
+   "gpt-oss-120b": 3,
+   "Google Translate": 2,
+   "IndicTrans2": 4,
+   "Gemma 3 4B": 1
+  },
+  "wrong-sense": {
+   "Ministral 14B": 3,
+   "all": 19,
+   "health": 12,
+   "gpt-oss-120b": 4,
+   "geography": 7,
+   "Google Translate": 2,
+   "IndicTrans2": 5,
+   "Gemma 3 4B": 5
+  }
+ }
+}

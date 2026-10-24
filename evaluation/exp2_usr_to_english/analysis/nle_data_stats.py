@@ -1,4 +1,4 @@
-"""Per-domain statistics of the Experiment 2 inputs for the NLE paper (USR rows, reference length, layers present)."""
+"""Experiment 2 analysis: per-domain statistics of the inputs (USR rows, reference length, layers present)."""
 import json, os, re
 HERE = os.path.dirname(os.path.abspath(__file__))
 tot = {}

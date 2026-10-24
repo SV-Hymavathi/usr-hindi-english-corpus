@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extended analysis for the NLE (TALLIP) paper. No LLM is used; only the released outputs are read.
+"""Experiment 2 analysis: extended analysis. No LLM is used; only the released outputs are read.
 
   python nle_extended_analysis.py   ->  nle_extended_results.json, nle_examples.txt
 

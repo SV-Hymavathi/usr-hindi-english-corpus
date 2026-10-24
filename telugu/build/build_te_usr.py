@@ -1,6 +1,6 @@
 """Build Telugu USRs from the Hindi USRs (same structure; concept, TAM and particle layers in Telugu) and the
 Telugu -> English concept dictionary. Rules and tables only, no model calls.
-  in : ../../experiments/inputs/tourism.jsonl, ../../papers/telugu/te2en/te250_gold.tsv,
+  in : ../../experiments/inputs/tourism.jsonl, ../../telugu/data/te2en/te250_gold.tsv,
        data/te/hi2te_verified.tsv, tables/te/tam_hi2te.tsv, tables/te/marker_hi2te.tsv
   out: data/te/te_usr_<n>.txt  (Telugu USRs, '#' line = gold Telugu sentence)
        data/te/concept-te-en.dat (Telugu concept -> English sense + MRS predicate, in the shared dictionary format)
@@ -84,12 +84,12 @@ def fuse_names(lines):
     return out
 TAM = {r[0]: r[1] for r in tsv(os.path.join(HERE, 'tables', 'te', 'tam_hi2te.tsv'))}
 MK = {r[0]: r[1] for r in tsv(os.path.join(HERE, 'tables', 'te', 'marker_hi2te.tsv'))}
-GOLD = {r[0]: r[4] for r in tsv(os.path.join(HERE, '..', '..', 'papers', 'telugu', 'te2en', 'te250_gold.tsv'))[1:]}
+GOLD = {r[0]: r[4] for r in tsv(os.path.join(HERE, '..', '..', 'telugu', 'data', 'te2en', 'te250_gold.tsv'))[1:]}
 xs = [json.loads(l) for l in open(os.path.join(HERE, '..', '..', 'experiments', 'inputs', 'tourism.jsonl'), encoding='utf-8')]
 from corrected_usrs import corrected_usrs
 _CU = corrected_usrs()
 for _x in xs: _x['usr'] = _CU.get(_x['id'], _x['usr'])   # use the corrected USRs
-CHECKED = {r[0] for r in tsv(os.path.join(HERE, '..', '..', 'papers', 'telugu', 'te2en', 'te250_gold.tsv'))[1:] if len(r) > 6 and r[6] == 'checked'}
+CHECKED = {r[0] for r in tsv(os.path.join(HERE, '..', '..', 'telugu', 'data', 'te2en', 'te250_gold.tsv'))[1:] if len(r) > 6 and r[6] == 'checked'}
 xs = [x for x in xs if x['id'] in CHECKED] if N == 'checked' else xs[:int(N)]
 missing, used, VERBALIZER = set(), {}, {}
 CPKRI = set()                       # Hindi kriyAmUla concepts that occur in these USRs (only their cp entries are copied)

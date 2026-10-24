@@ -1,6 +1,6 @@
 # Analysis of Experiment 2 (LLMs generating English from the USR)
 
-Scripts and results behind the tables of the paper on LLMs and USR (layer-by-layer study). No LLM is used in any of them.
+Scripts and results of the Experiment 2 analysis (layer-by-layer study of LLMs reading the USR). No LLM is used in any of them.
 
 | File | What it computes |
 |---|---|

@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23559461.svg)](https://doi.org/10.5281/zenodo.23559461)
 
-This repository accompanies the paper *Faithful Generation from Universal Semantic Representation: A Multi-Domain Hindi Corpus and a Transparent Generator for English* (Veera Hymavathi Sirisipalli, Sukhada and Satyaprakash Jha).
+This repository contains 2,071 Hindi sentences from three domains (tourism, health and school geography) with gold Universal Semantic Representations (USRs), expert English references and gold English chunks, together with usr2chunk, a rule-based generator from USR to English, and the data and scripts of its evaluation.
 
 ## Contents
 
@@ -12,15 +12,15 @@ This repository accompanies the paper *Faithful Generation from Universal Semant
 | `dictionary/` | `concept_dictionary_full.dat`: the complete Hindi concept dictionary used by the generator (concept, sense, English, MRS predicate). `dictionary_additions.dat`: concept senses and complex-predicate entries added during annotation (sense numbers 90–99), in the format of the shared Hindi concept dictionary (`cl hl sl el mrsc`). |
 | `agreement/` | `tourism_250/`: the two independent annotations of the first 250 tourism sentences and the agreement results. `health_geography_100/`: the independent second annotation of 100 health and geography sentences and its agreement with the corpus USRs. `scripts/`: the agreement scripts. |
 | `usr2chunk/` | The rule-based generator from USR to English chunks: code, the nine English knowledge tables (`tables/en/`), Apertium transducers, examples, regression tests and the evaluation data. |
-| `telugu/` | Telugu translations of the first 250 tourism units (checked by a native speaker), the 250 Telugu USRs, the Telugu–English concept dictionary (586 concepts) and the English generated from Telugu and Hindi USRs (paper, Sections 3.5 and 4.6). The Telugu rule layer of the generator is `usr2chunk/generate_te2en.py` with `usr2chunk/tables/te/`. |
-| `evaluation/` | `reference_quality/`: expert ratings of 150 English references. `chunks_without_draft/`: 100 chunk sequences written without any draft (draft-bias check). `use_case_llm_rewrite/`: language-model rewrites of the generator chunks (paper, Section 4.7). `exp2_usr_to_english/`: inputs, outputs, layer-by-layer flags and human verification of LLMs generating English from the USR (separate paper on LLMs and USR). `statistics/`: scripts for corpus statistics, COMET/BERTScore and significance tests. |
+| `telugu/` | Telugu translations of the first 250 tourism units (checked by a native speaker), the 250 Telugu USRs, the Telugu–English concept dictionary (586 concepts) and the English generated from Telugu and Hindi USRs. The Telugu rule layer of the generator is `usr2chunk/generate_te2en.py` with `usr2chunk/tables/te/`. |
+| `evaluation/` | `reference_quality/`: expert ratings of 150 English references. `chunks_without_draft/`: 100 chunk sequences written without any draft (draft-bias check). `use_case_llm_rewrite/`: language-model rewrites of the generator chunks. `exp2_usr_to_english/`: inputs, outputs, layer-by-layer flags and human verification of LLMs generating English from the USR (Experiment 2). `wordlevel_check/`: expert verification of every automatically detected name, number and word-sense error of five MT systems and LLMs in the health and geography sentences, with the dictionary check and a value-based number check. `statistics/`: scripts for corpus statistics, COMET/BERTScore and significance tests. |
 
 ## Quick start
 
 ```bash
 cd usr2chunk
 ./run.sh test     # morphology and regression tests
-./run.sh eval     # reproduces Table 9 (exact match and chunk F1 for all data sets)
+./run.sh eval     # reproduces the evaluation (exact match and chunk F1 for all data sets)
 ./run.sh examples/health_402.txt    # generate chunks for any USR file
 ```
 
@@ -31,7 +31,7 @@ which is used with the bundled English transducers in `usr2chunk/data/apertium_e
 
 Each USR row has nine columns: concept, index, semantic category, morpho-semantics (GNP), head:relation,
 discourse relation, speaker's view, scope, construction. The last line gives the sentence type. Concepts are in WX
-transliteration with dictionary sense numbers (e.g. `xarSana_23`). See the paper, Section 3, for details.
+transliteration with dictionary sense numbers (e.g. `xarSana_23`).
 
 ## Sources
 
@@ -60,7 +60,7 @@ For commercial licensing or other permissions, contact Veera Hymavathi Sirisipal
 
 ## How to cite
 
-Until the accompanying paper is published, please cite the resource as:
+Please cite the resource as:
 
 > Veera Hymavathi Sirisipalli, Sukhada and Soma Paul. 2026. *USR Hindi-English Corpus: Universal
 > Semantic Representations with English references and gold chunks, and the usr2chunk generator.* Zenodo.
@@ -78,7 +78,7 @@ Until the accompanying paper is published, please cite the resource as:
 }
 ```
 
-The citation of the paper will be added here on publication. GitHub's "Cite this repository" button (from
+GitHub's "Cite this repository" button (from
 `CITATION.cff`) gives the same citation.
 
 ## Contributors

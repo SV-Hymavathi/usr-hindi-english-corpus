@@ -1,4 +1,4 @@
-"""Loss rate per phenomenon for the NLE paper: for each phenomenon that the USR records and the reference expresses,
+"""Experiment 2 analysis: loss rate per phenomenon: for each phenomenon that the USR records and the reference expresses,
 the share of outputs that lose it. The opportunities of a sentence are the flags that the checks raise for an output
 that expresses nothing (a dummy output); a run loses the phenomenon when the same flag is raised for its output.
 Output: nle_phenomena.json and a printed table. Reuses the objects of nle_extended_analysis.py."""

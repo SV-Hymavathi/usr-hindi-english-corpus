@@ -1,0 +1,45 @@
+# Category of each confirmed wrong-sense error, by Hindi concept (WX) and output word (authors' classification).
+# wrong-sense: the output word belongs to another sense of the Hindi word or to an unrelated meaning
+# domain-term: the output replaces a technical term of the domain by a related but different term
+# near-synonym: the output keeps the meaning area but changes its degree, register or specificity
+# concept	output	category
+yOgika	compound	wrong-sense
+Sukra	friday	wrong-sense
+xAla	lentils	wrong-sense
+kukura	dog	wrong-sense
+kakRA	class	wrong-sense
+pUrva	formerly	wrong-sense
+sIXA	task	wrong-sense
+kRuxra	small	wrong-sense
+nikAla	develop	wrong-sense
+Axi	primary	wrong-sense
+paMjA	claw	wrong-sense
+jutA	gather	wrong-sense
+rAjakIya	state	wrong-sense
+BAga	side	near-synonym
+wArAmaMdala	constellation	domain-term
+gadDA	crater	domain-term
+AreKa	diagram	domain-term
+reKAciwra	line-drawing	domain-term
+reKAciwra	diagrammatic	domain-term
+sWala	location	domain-term
+pramuKa	principal	domain-term
+pramuKa	major	domain-term
+kaccA	raw	domain-term
+kama	reduced	near-synonym
+vyApaka	extensive	near-synonym
+pracAra	publicity	near-synonym
+GAwaka	fatal	near-synonym
+saMkRipwa	brief	near-synonym
+yogya	qualified	near-synonym
+gaMxA	stinking	near-synonym
+xurgaMXa	foul	near-synonym
+roezxAra	hairy	near-synonym
+parivarwiwa	transformed	near-synonym
+xuruswa	correct	near-synonym
+bacAva	safety	near-synonym
+manoraMjaka	recreational	near-synonym
+badZA	expansive	near-synonym
+niSciwa	certain	near-synonym
+raKa	maintain	near-synonym
+kamasekama	least	near-synonym

@@ -1,4 +1,4 @@
-# Telugu USRs (paper section "Generation from Telugu USRs")
+# Telugu USRs
 
 The first 250 USR units of the tourism corpus were translated into Telugu; every translation was checked and, where
 needed, corrected by a native speaker. A Telugu USR was built for each unit: it keeps the structure of the Hindi USR

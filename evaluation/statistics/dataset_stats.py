@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Corpus statistics of the gold USR dataset (tables of the LRE paper).
+"""Corpus statistics of the gold USR dataset.
     python dataset_stats.py            -> dataset_stats.xlsx, dataset_stats.tsv
 Reads ../../corpus/<domain>.jsonl (gold USR, Hindi, reference) and ../../usr2chunk/data/concept-to-mrs-rels.dat."""
 import collections, json, os, re

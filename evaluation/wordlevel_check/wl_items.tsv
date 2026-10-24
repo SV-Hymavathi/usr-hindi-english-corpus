@@ -1,0 +1,100 @@
+item	domain	id	system	type	detail	target	chunks	gpt-oss-120b	Ministral 14B	Gemma 3 4B
+W1	geography	G012	IndicTrans2	Name dropped or translated	purnima	purnima	kept	kept	kept	kept
+W2	geography	G160	IndicTrans2	Number missing or changed	Hindi ['2.2'], output ['2']	2.2	kept	kept	kept	kept
+W3	geography	G233	IndicTrans2	Number missing or changed	Hindi ['30', '5'], output ['1', '30']	30|5	kept	kept	kept	kept
+W4	geography	G106	IndicTrans2	Name replaced	akashaganga -> Milky	akashaganga	kept	kept	kept	kept
+W5	health	H287	Gemma 3 4B	Name dropped or translated	bharata varsha	bharata varsha	kept	kept	kept	kept
+W6	geography	G222b	IndicTrans2	Number missing or changed	Hindi ['30', '7'], output ['1', '30']	30|7	kept	kept	kept	kept
+W7	geography	G031	gpt-oss-120b	Name replaced	saptarishi -> Seven	saptarishi	kept	kept	kept	kept
+W8	health	H287	Ministral 14B	Name dropped or translated	bharata varsha	bharata varsha	kept	kept	kept	kept
+W11	geography	G363	Gemma 3 4B	Name dropped or translated	skula bhuvana	skula bhuvana	kept	kept	kept	lost
+W12	health	H053	Gemma 3 4B	Name dropped or translated	kurakure	kurakure	kept	kept	kept	kept
+W21	geography	G012	gpt-oss-120b	Name dropped or translated	purnima	purnima	kept	kept	kept	kept
+W30	health	H053	Google Translate	Name dropped or translated	kurakure	kurakure	kept	kept	kept	kept
+W32	geography	G106	Ministral 14B	Name replaced	akashaganga -> Milky	akashaganga	kept	kept	kept	kept
+W35	geography	G031	Ministral 14B	Name replaced	saptarishi -> Big	saptarishi	kept	kept	kept	kept
+W38	health	H142b	Ministral 14B	Name replaced	ardhamatsyendrasana -> English	ardhamatsyendrasana	kept	kept	kept	kept
+W40	health	H142b	Ministral 14B	Name replaced	janushirasana -> English	janushirasana	kept	kept	kept	kept
+W41	geography	G219	IndicTrans2	Number missing or changed	Hindi ['30', '7'], output ['1', '30']	30|7	kept	kept	kept	kept
+W42	geography	G012	Ministral 14B	Name dropped or translated	purnima	purnima	kept	kept	kept	kept
+W43	geography	G039b	Gemma 3 4B	Name replaced	saptarishi mandala -> Rishis'	saptarishi mandala	kept	kept	kept	kept
+W45	health	H101	Ministral 14B	Name replaced	iyana griyarasana -> Greer	iyana griyarasana	kept	kept	kept	kept
+W46	geography	G352	Gemma 3 4B	Name replaced	sundarapura -> Supur	sundarapura	kept	kept	kept	kept
+W48	health	H101	Gemma 3 4B	Name dropped or translated	livarapula yunivarsiti	livarapula yunivarsiti	kept	kept	kept	lost
+W49	health	H142b	Ministral 14B	Name replaced	uttanapadasana -> English	uttanapadasana	kept	kept	kept	kept
+W51	health	H053	IndicTrans2	Name dropped or translated	kurakure	kurakure	kept	kept	kept	kept
+W53	geography	G106	Gemma 3 4B	Name replaced	akashaganga -> Galaxy	akashaganga	kept	kept	kept	kept
+W55	health	H142b	Gemma 3 4B	Name replaced	suptavajrasana -> Shavasana	suptavajrasana	kept	kept	kept	kept
+W58	health	H142b	Ministral 14B	Name replaced	gomukhasana -> English	gomukhasana	kept	kept	kept	kept
+W59	geography	G221	gpt-oss-120b	Name dropped or translated	grinicha	grinicha	kept	kept	kept	kept
+W60	health	H143	Ministral 14B	Name replaced	janushirasana -> English	janushirasana	kept	kept	kept	kept
+W62	health	H142b	Ministral 14B	Name replaced	suptavajrasana -> English	suptavajrasana	kept	kept	kept	kept
+W65	health	H053	Ministral 14B	Name dropped or translated	kurakure	kurakure	kept	kept	kept	kept
+W67	geography	G014	gpt-oss-120b	Name dropped or translated	amavasya	amavasya	kept	kept	kept	kept
+W69	geography	G014	IndicTrans2	Name dropped or translated	amavasya	amavasya	kept	kept	kept	kept
+W70	geography	G012	Gemma 3 4B	Name dropped or translated	purnima	purnima	kept	kept	kept	kept
+W71	health	H053	gpt-oss-120b	Name dropped or translated	kurakure	kurakure	kept	kept	kept	kept
+W72	geography	G106	gpt-oss-120b	Name replaced	akashaganga -> Milky	akashaganga	kept	kept	kept	kept
+W80	geography	G032b	Gemma 3 4B	Name replaced	arsa mejara -> Milky	arsa mejara	kept	kept	kept	kept
+W81	geography	G014	Gemma 3 4B	Name dropped or translated	amavasya	amavasya	kept	kept	kept	kept
+W84	health	H246	Gemma 3 4B	Number missing or changed	Hindi ['1986', '2002'], output ['2002', '45']	1986|2002	kept	kept	kept	kept
+W85	geography	G187	Gemma 3 4B	Name dropped or translated	dhubari	dhubari	kept	kept	kept	kept
+W96	geography	G116	Ministral 14B	Wrong word sense	BAga: intended "part", output "side"	part	kept	kept	kept	kept
+W97	geography	G329b	Ministral 14B	Wrong word sense	sWala: intended "ground", output "location"	ground	kept	kept	kept	kept
+W100	geography	G116	Gemma 3 4B	Wrong word sense	BAga: intended "part", output "side"	part	kept	kept	kept	kept
+W104	health	H137	Ministral 14B	Wrong word sense	yOgika: intended "yogic", output "compound"	yogic	kept	kept	kept	kept
+W123	health	H134	Gemma 3 4B	Wrong word sense	niSciwa: intended "surely", output "certain"	surely	kept	kept	kept	kept
+W127	geography	G359	gpt-oss-120b	Wrong word sense	AreKa: intended "drawing", output "diagram"	drawing	kept	kept	kept	kept
+W129	geography	G110	gpt-oss-120b	Wrong word sense	jutA: intended "engaged", output "gather"	engaged	kept	kept	kept	kept
+W135	health	H106b	Gemma 3 4B	Wrong word sense	raKa: intended "keep", output "maintain"	keep	kept	kept	kept	kept
+W138	geography	G100b	Ministral 14B	Wrong word sense	gadDA: intended "pit", output "crater"	pit	kept	kept	kept	kept
+W139	health	H131	IndicTrans2	Wrong word sense	kama: intended "less", output "reduced"	less	kept	kept	kept	kept
+W143	health	H137	Google Translate	Wrong word sense	yOgika: intended "yogic", output "compound"	yogic	kept	kept	kept	kept
+W144	geography	G359	Google Translate	Wrong word sense	AreKa: intended "drawing", output "diagram"	drawing	kept	kept	kept	kept
+W151	geography	G124	gpt-oss-120b	Wrong word sense	wArAmaMdala: intended "planetarium", output "constellation"	planetarium	kept	kept	kept	kept
+W155	health	H081b	gpt-oss-120b	Wrong word sense	kamasekama: intended "at minimum", output "least"	at minimum	kept	kept	kept	kept
+W160	geography	G192b	IndicTrans2	Wrong word sense	pUrva: intended "east", output "formerly"	east	kept	kept	kept	kept
+W163	health	H145	IndicTrans2	Wrong word sense	paMjA: intended "toes", output "claw"	toes	kept	kept	kept	kept
+W164	health	H133	Ministral 14B	Wrong word sense	Axi: intended "etc", output "primary"	etc	kept	kept	lost	kept
+W165	health	H137	Gemma 3 4B	Wrong word sense	yOgika: intended "yogic", output "compound"	yogic	kept	kept	kept	kept
+W167	geography	G380b	Google Translate	Wrong word sense	manoraMjaka: intended "entertaining", output "recreational"	entertaining	kept	kept	kept	kept
+W169	geography	G178	IndicTrans2	Wrong word sense	pramuKa: intended "prime", output "principal"	prime	kept	kept	kept	kept
+W172	health	H168	Gemma 3 4B	Wrong word sense	sIXA: intended "right", output "task"	right	kept	kept	kept	kept
+W174	geography	G090	Ministral 14B	Wrong word sense	gadDA: intended "pit", output "crater"	pit	kept	kept	kept	kept
+W177	geography	G178	gpt-oss-120b	Wrong word sense	pramuKa: intended "prime", output "major"	prime	kept	kept	kept	kept
+W180	health	H131	Google Translate	Wrong word sense	kama: intended "less", output "reduced"	less	kept	kept	kept	kept
+W182	health	H154b	Gemma 3 4B	Wrong word sense	xAla: intended "pulse", output "lentils"	pulse	kept	kept	kept	kept
+W183	health	H243b	IndicTrans2	Wrong word sense	kama: intended "less", output "reduced"	less	kept	kept	kept	kept
+W185	health	H243b	Google Translate	Wrong word sense	kama: intended "less", output "reduced"	less	kept	kept	kept	kept
+W188	health	H133	Gemma 3 4B	Wrong word sense	Axi: intended "etc", output "primary"	etc	kept	kept	lost	kept
+W190	health	H029b	gpt-oss-120b	Wrong word sense	xurgaMXa: intended "stink", output "foul"	stink	kept	kept	kept	kept
+W195	geography	G358	IndicTrans2	Wrong word sense	kaccA: intended "rough", output "raw"	rough	kept	kept	kept	kept
+W197	geography	G177c	IndicTrans2	Wrong word sense	rAjakIya: intended "royal", output "state"	royal	kept	kept	kept	kept
+W198	health	H072	Ministral 14B	Wrong word sense	bacAva: intended "prevention", output "safety"	prevention	kept	kept	kept	kept
+W202	geography	G359b	IndicTrans2	Wrong word sense	reKAciwra: intended "sketch", output "diagrammatic"	sketch	kept	kept	kept	kept
+W203	geography	G066	gpt-oss-120b	Wrong word sense	Sukra: intended "venus", output "friday"	venus	kept	kept	kept	kept
+W204	geography	G307b	Gemma 3 4B	Wrong word sense	reKAciwra: intended "sketch", output "line-drawing"	sketch	kept	kept	kept	kept
+W212	health	H137	gpt-oss-120b	Wrong word sense	yOgika: intended "yogic", output "compound"	yogic	kept	kept	kept	kept
+W213	geography	G359	IndicTrans2	Wrong word sense	AreKa: intended "drawing", output "diagram"	drawing	kept	kept	kept	kept
+W216	health	H299	IndicTrans2	Wrong word sense	pracAra: intended "propagation", output "publicity"	propagation	kept	kept	kept	kept
+W217	health	H137	IndicTrans2	Wrong word sense	yOgika: intended "yogic", output "compound"	yogic	kept	kept	kept	kept
+W220	health	H183	Ministral 14B	Wrong word sense	saMkRipwa: intended "short", output "brief"	short	kept	kept	kept	kept
+W223	health	H223	Ministral 14B	Wrong word sense	nikAla: intended "remove", output "develop"	remove	kept	kept	kept	kept
+W227	health	H150	Google Translate	Wrong word sense	yogya: intended "eligible", output "qualified"	eligible	kept	kept	kept	kept
+W232	health	H004	Ministral 14B	Wrong word sense	gaMxA: intended "dirty", output "stinking"	dirty	kept	kept	kept	kept
+W233	health	H091	IndicTrans2	Wrong word sense	kukura: intended "whooping", output "dog"	whooping	kept	kept	kept	kept
+W241	geography	G238b	gpt-oss-120b	Wrong word sense	kakRA: intended "orbit", output "class"	orbit	kept	kept	kept	kept
+W242	geography	G307b	Ministral 14B	Wrong word sense	reKAciwra: intended "sketch", output "line-drawing"	sketch	kept	kept	kept	kept
+W245	health	H290b	Ministral 14B	Wrong word sense	parivarwiwa: intended "converted", output "transformed"	converted	kept	kept	kept	kept
+W247	health	H299	gpt-oss-120b	Wrong word sense	vyApaka: intended "comprehensive", output "extensive"	comprehensive	kept	kept	kept	kept
+W248	geography	G241b	Ministral 14B	Wrong word sense	BAga: intended "part", output "side"	part	kept	kept	kept	kept
+W255	geography	G292	Ministral 14B	Wrong word sense	badZA: intended "big", output "expansive"	big	kept	kept	kept	kept
+W256	geography	G192b	Google Translate	Wrong word sense	pUrva: intended "east", output "formerly"	east	kept	kept	kept	kept
+W257	geography	G090	Google Translate	Wrong word sense	gadDA: intended "pit", output "crater"	pit	kept	kept	kept	kept
+W261	health	H299	Google Translate	Wrong word sense	pracAra: intended "propagation", output "publicity"	propagation	kept	kept	kept	kept
+W263	health	H158	Google Translate	Wrong word sense	roezxAra: intended "furry", output "hairy"	furry	kept	kept	kept	kept
+W265	health	H226	Ministral 14B	Wrong word sense	xuruswa: intended "repaired", output "correct"	repaired	kept	kept	kept	kept
+W269	geography	G122	Gemma 3 4B	Wrong word sense	kRuxra: intended "asteroid", output "small"	asteroid	kept	kept	kept	kept
+W271	health	H131	Ministral 14B	Wrong word sense	kama: intended "less", output "reduced"	less	kept	kept	kept	kept
+W274	health	H163	IndicTrans2	Wrong word sense	GAwaka: intended "lethal", output "fatal"	lethal	kept	kept	kept	kept
+W291	health	H299	IndicTrans2	Wrong word sense	vyApaka: intended "comprehensive", output "extensive"	comprehensive	kept	kept	kept	kept

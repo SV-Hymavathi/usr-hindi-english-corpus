@@ -10,3 +10,5 @@ Expert verification of every automatically detected word-level candidate (names,
 | wl_results.json | precision per rule, errors per system and domain, shared errors, dictionary check |
 | number_check.py, number_check.json | value-based number check on the 50 number candidates |
 | stats.py | Wilson intervals and Fisher exact tests |
+| second_check_partA_agreement.tsv | a second annotator's verdicts on 100 of the 292 candidates, next to the expert's (agreement) |
+| second_check_partB_unflagged.tsv | the second annotator's verdicts on 150 random cases that the rules did not flag (meaning lost or changed?); five rows also served as guideline examples |

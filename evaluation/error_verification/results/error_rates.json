@@ -1,0 +1,1023 @@
+{
+ "opp": {
+  "no_negation": 1990,
+  "tam": 1645,
+  "active": 1859,
+  "plural": 838,
+  "discourse": 346,
+  "deixis": 538,
+  "passive": 212,
+  "particle": 267,
+  "relation": 236,
+  "honorific": 88,
+  "negation": 81,
+  "question": 70
+ },
+ "opp_dom": {
+  "tourism|no_negation": 1091,
+  "tourism|tam": 883,
+  "tourism|active": 1027,
+  "tourism|plural": 427,
+  "tourism|discourse": 93,
+  "tourism|deixis": 251,
+  "tourism|passive": 84,
+  "tourism|particle": 167,
+  "tourism|relation": 126,
+  "tourism|honorific": 28,
+  "tourism|negation": 20,
+  "tourism|question": 5,
+  "health|plural": 172,
+  "health|no_negation": 373,
+  "health|tam": 300,
+  "health|active": 362,
+  "health|honorific": 19,
+  "health|particle": 48,
+  "health|deixis": 96,
+  "health|discourse": 95,
+  "health|relation": 56,
+  "health|negation": 29,
+  "health|passive": 40,
+  "health|question": 23,
+  "geography|no_negation": 526,
+  "geography|tam": 462,
+  "geography|active": 470,
+  "geography|plural": 239,
+  "geography|particle": 52,
+  "geography|deixis": 191,
+  "geography|discourse": 158,
+  "geography|negation": 32,
+  "geography|honorific": 41,
+  "geography|passive": 88,
+  "geography|relation": 54,
+  "geography|question": 42
+ },
+ "table": [
+  {
+   "label": "Tense",
+   "opp": 1645,
+   "cells": {
+    "google_translate": {
+     "k": 10,
+     "rate": 0.60790273556231,
+     "lo": 0.33053186138351465,
+     "hi": 1.1154287451416967
+    },
+    "indictrans2_local": {
+     "k": 10,
+     "rate": 0.60790273556231,
+     "lo": 0.33053186138351465,
+     "hi": 1.1154287451416967
+    },
+    "groq_gpt-oss-120b": {
+     "k": 11,
+     "rate": 0.668693009118541,
+     "lo": 0.37379265180066673,
+     "hi": 1.1934652339780525
+    },
+    "ollama_gemma3-4b": {
+     "k": 36,
+     "rate": 2.188449848024316,
+     "lo": 1.5849096244934537,
+     "hi": 3.0147802426229506
+    },
+    "mistral_ministral-14b": {
+     "k": 24,
+     "rate": 1.458966565349544,
+     "lo": 0.9823558228946961,
+     "hi": 2.1617666931796196
+    }
+   }
+  },
+  {
+   "label": "Aspect",
+   "opp": 1645,
+   "cells": {
+    "google_translate": {
+     "k": 2,
+     "rate": 0.12158054711246201,
+     "lo": 0.033347407466705455,
+     "hi": 0.44223496503044657
+    },
+    "indictrans2_local": {
+     "k": 6,
+     "rate": 0.364741641337386,
+     "lo": 0.16726602709103205,
+     "hi": 0.7935054624201495
+    },
+    "groq_gpt-oss-120b": {
+     "k": 4,
+     "rate": 0.24316109422492402,
+     "lo": 0.09459845102693751,
+     "hi": 0.6235784799772294
+    },
+    "ollama_gemma3-4b": {
+     "k": 8,
+     "rate": 0.48632218844984804,
+     "lo": 0.24662777734680658,
+     "hi": 0.9567382706713901
+    },
+    "mistral_ministral-14b": {
+     "k": 11,
+     "rate": 0.668693009118541,
+     "lo": 0.37379265180066673,
+     "hi": 1.1934652339780525
+    }
+   }
+  },
+  {
+   "label": "Modality",
+   "opp": 1645,
+   "cells": {
+    "google_translate": {
+     "k": 2,
+     "rate": 0.12158054711246201,
+     "lo": 0.033347407466705455,
+     "hi": 0.44223496503044657
+    },
+    "indictrans2_local": {
+     "k": 7,
+     "rate": 0.425531914893617,
+     "lo": 0.20627673653613823,
+     "hi": 0.8757920322285507
+    },
+    "groq_gpt-oss-120b": {
+     "k": 3,
+     "rate": 0.182370820668693,
+     "lo": 0.0620403691818245,
+     "hi": 0.5348392825688347
+    },
+    "ollama_gemma3-4b": {
+     "k": 7,
+     "rate": 0.425531914893617,
+     "lo": 0.20627673653613823,
+     "hi": 0.8757920322285507
+    },
+    "mistral_ministral-14b": {
+     "k": 7,
+     "rate": 0.425531914893617,
+     "lo": 0.20627673653613823,
+     "hi": 0.8757920322285507
+    }
+   }
+  },
+  {
+   "label": "Plural lost",
+   "opp": 838,
+   "cells": {
+    "google_translate": {
+     "k": 8,
+     "rate": 0.954653937947494,
+     "lo": 0.48451004615863347,
+     "hi": 1.8724179079838086
+    },
+    "indictrans2_local": {
+     "k": 15,
+     "rate": 1.7899761336515514,
+     "lo": 1.0876928085834723,
+     "hi": 2.932255837337566
+    },
+    "groq_gpt-oss-120b": {
+     "k": 14,
+     "rate": 1.6706443914081146,
+     "lo": 0.9977261232738082,
+     "hi": 2.7846481381074306
+    },
+    "ollama_gemma3-4b": {
+     "k": 17,
+     "rate": 2.028639618138425,
+     "lo": 1.2703709762958633,
+     "hi": 3.2247264387047734
+    },
+    "mistral_ministral-14b": {
+     "k": 19,
+     "rate": 2.2673031026252985,
+     "lo": 1.456224671172976,
+     "hi": 3.5140215129072603
+    }
+   }
+  },
+  {
+   "label": "Negation lost",
+   "opp": 81,
+   "cells": {
+    "google_translate": {
+     "k": 0,
+     "rate": 0.0,
+     "lo": -3.312351524585141e-16,
+     "hi": 4.527967412212876
+    },
+    "indictrans2_local": {
+     "k": 1,
+     "rate": 1.2345679012345678,
+     "lo": 0.21825938606520107,
+     "hi": 6.667042164117728
+    },
+    "groq_gpt-oss-120b": {
+     "k": 1,
+     "rate": 1.2345679012345678,
+     "lo": 0.21825938606520107,
+     "hi": 6.667042164117728
+    },
+    "ollama_gemma3-4b": {
+     "k": 0,
+     "rate": 0.0,
+     "lo": -3.312351524585141e-16,
+     "hi": 4.527967412212876
+    },
+    "mistral_ministral-14b": {
+     "k": 1,
+     "rate": 1.2345679012345678,
+     "lo": 0.21825938606520107,
+     "hi": 6.667042164117728
+    }
+   }
+  },
+  {
+   "label": "Negation added",
+   "opp": 1990,
+   "cells": {
+    "google_translate": {
+     "k": 0,
+     "rate": 0.0,
+     "lo": -1.0821132046026894e-17,
+     "hi": 0.1926732795624286
+    },
+    "indictrans2_local": {
+     "k": 0,
+     "rate": 0.0,
+     "lo": -1.0821132046026894e-17,
+     "hi": 0.1926732795624286
+    },
+    "groq_gpt-oss-120b": {
+     "k": 0,
+     "rate": 0.0,
+     "lo": -1.0821132046026894e-17,
+     "hi": 0.1926732795624286
+    },
+    "ollama_gemma3-4b": {
+     "k": 1,
+     "rate": 0.05025125628140704,
+     "lo": 0.008870903271969167,
+     "hi": 0.284111247366276
+    },
+    "mistral_ministral-14b": {
+     "k": 4,
+     "rate": 0.20100502512562815,
+     "lo": 0.07819256934371291,
+     "hi": 0.5157161945219823
+    }
+   }
+  },
+  {
+   "label": "Cause/purpose/without/like lost",
+   "opp": 236,
+   "cells": {
+    "google_translate": {
+     "k": 1,
+     "rate": 0.423728813559322,
+     "lo": 0.07483581567834151,
+     "hi": 2.3607716852722853
+    },
+    "indictrans2_local": {
+     "k": 10,
+     "rate": 4.237288135593221,
+     "lo": 2.3176101009280767,
+     "hi": 7.6229506691801925
+    },
+    "groq_gpt-oss-120b": {
+     "k": 7,
+     "rate": 2.9661016949152543,
+     "lo": 1.444042603244934,
+     "hi": 5.994867077144123
+    },
+    "ollama_gemma3-4b": {
+     "k": 15,
+     "rate": 6.3559322033898304,
+     "lo": 3.889224817967787,
+     "hi": 10.22075443500584
+    },
+    "mistral_ministral-14b": {
+     "k": 14,
+     "rate": 5.932203389830509,
+     "lo": 3.5661909350314005,
+     "hi": 9.709904621369157
+    }
+   }
+  },
+  {
+   "label": "Connective missing",
+   "opp": 346,
+   "cells": {
+    "google_translate": {
+     "k": 8,
+     "rate": 2.3121387283236996,
+     "lo": 1.1761389490150311,
+     "hi": 4.49545642443398
+    },
+    "indictrans2_local": {
+     "k": 12,
+     "rate": 3.468208092485549,
+     "lo": 1.9948767048595073,
+     "hi": 5.963467871657406
+    },
+    "groq_gpt-oss-120b": {
+     "k": 40,
+     "rate": 11.560693641618498,
+     "lo": 8.605616809599944,
+     "hi": 15.359972188392288
+    },
+    "ollama_gemma3-4b": {
+     "k": 61,
+     "rate": 17.63005780346821,
+     "lo": 13.976425630346677,
+     "hi": 21.994596683752047
+    },
+    "mistral_ministral-14b": {
+     "k": 112,
+     "rate": 32.369942196531795,
+     "lo": 27.656724723346443,
+     "hi": 37.47034992986803
+    }
+   }
+  },
+  {
+   "label": "Focus particle lost",
+   "opp": 267,
+   "cells": {
+    "google_translate": {
+     "k": 19,
+     "rate": 7.116104868913857,
+     "lo": 4.602643201075326,
+     "hi": 10.846091409855934
+    },
+    "indictrans2_local": {
+     "k": 22,
+     "rate": 8.239700374531836,
+     "lo": 5.504113134335749,
+     "hi": 12.159938473689014
+    },
+    "groq_gpt-oss-120b": {
+     "k": 24,
+     "rate": 8.98876404494382,
+     "lo": 6.114752219539619,
+     "hi": 13.02617738654748
+    },
+    "ollama_gemma3-4b": {
+     "k": 43,
+     "rate": 16.10486891385768,
+     "lo": 12.18162149114798,
+     "hi": 20.989649096531313
+    },
+    "mistral_ministral-14b": {
+     "k": 32,
+     "rate": 11.985018726591761,
+     "lo": 8.618734540458519,
+     "hi": 16.429707057877927
+    }
+   }
+  },
+  {
+   "label": "Deixis lost or reversed",
+   "opp": 538,
+   "cells": {
+    "google_translate": {
+     "k": 12,
+     "rate": 2.2304832713754648,
+     "lo": 1.2804355662617308,
+     "hi": 3.8578926831750047
+    },
+    "indictrans2_local": {
+     "k": 78,
+     "rate": 14.49814126394052,
+     "lo": 11.774595022855454,
+     "hi": 17.725096399877682
+    },
+    "groq_gpt-oss-120b": {
+     "k": 43,
+     "rate": 7.992565055762082,
+     "lo": 5.987691449381905,
+     "hi": 10.593095260239503
+    },
+    "ollama_gemma3-4b": {
+     "k": 47,
+     "rate": 8.736059479553903,
+     "lo": 6.633147394056202,
+     "hi": 11.424085568492263
+    },
+    "mistral_ministral-14b": {
+     "k": 53,
+     "rate": 9.851301115241636,
+     "lo": 7.610593068508302,
+     "hi": 12.661309273430744
+    }
+   }
+  },
+  {
+   "label": "Honorific dropped",
+   "opp": 88,
+   "cells": {
+    "google_translate": {
+     "k": 0,
+     "rate": 0.0,
+     "lo": 3.324325052829198e-16,
+     "hi": 4.182853957248131
+    },
+    "indictrans2_local": {
+     "k": 2,
+     "rate": 2.272727272727273,
+     "lo": 0.6254797144137928,
+     "hi": 7.912699062959424
+    },
+    "groq_gpt-oss-120b": {
+     "k": 1,
+     "rate": 1.1363636363636365,
+     "lo": 0.20087336004305215,
+     "hi": 6.159643007267622
+    },
+    "ollama_gemma3-4b": {
+     "k": 2,
+     "rate": 2.272727272727273,
+     "lo": 0.6254797144137928,
+     "hi": 7.912699062959424
+    },
+    "mistral_ministral-14b": {
+     "k": 0,
+     "rate": 0.0,
+     "lo": 3.324325052829198e-16,
+     "hi": 4.182853957248131
+    }
+   }
+  },
+  {
+   "label": "Question rendered as statement",
+   "opp": 70,
+   "cells": {
+    "google_translate": {
+     "k": 0,
+     "rate": 0.0,
+     "lo": 0.0,
+     "hi": 5.202487486728348
+    },
+    "indictrans2_local": {
+     "k": 1,
+     "rate": 1.4285714285714286,
+     "lo": 0.25261814032348656,
+     "hi": 7.658369703926907
+    },
+    "groq_gpt-oss-120b": {
+     "k": 1,
+     "rate": 1.4285714285714286,
+     "lo": 0.25261814032348656,
+     "hi": 7.658369703926907
+    },
+    "ollama_gemma3-4b": {
+     "k": 2,
+     "rate": 2.857142857142857,
+     "lo": 0.7870446893806289,
+     "hi": 9.832443512391814
+    },
+    "mistral_ministral-14b": {
+     "k": 11,
+     "rate": 15.714285714285714,
+     "lo": 9.007528275988681,
+     "hi": 25.98846314348218
+    }
+   }
+  }
+ ],
+ "tests": [
+  {
+   "label": "Tense",
+   "worst": "ollama_gemma3-4b",
+   "other": "google_translate",
+   "b": 30,
+   "c": 4,
+   "p": 6.16488978266716e-06
+  },
+  {
+   "label": "Tense",
+   "worst": "ollama_gemma3-4b",
+   "other": "indictrans2_local",
+   "b": 34,
+   "c": 8,
+   "p": 6.877111491121468e-05
+  },
+  {
+   "label": "Tense",
+   "worst": "ollama_gemma3-4b",
+   "other": "groq_gpt-oss-120b",
+   "b": 32,
+   "c": 7,
+   "p": 7.025478407740593e-05
+  },
+  {
+   "label": "Tense",
+   "worst": "ollama_gemma3-4b",
+   "other": "mistral_ministral-14b",
+   "b": 28,
+   "c": 16,
+   "p": 0.09614175442061423
+  },
+  {
+   "label": "Aspect",
+   "worst": "mistral_ministral-14b",
+   "other": "google_translate",
+   "b": 10,
+   "c": 1,
+   "p": 0.01171875
+  },
+  {
+   "label": "Aspect",
+   "worst": "mistral_ministral-14b",
+   "other": "indictrans2_local",
+   "b": 10,
+   "c": 5,
+   "p": 0.3017578125
+  },
+  {
+   "label": "Aspect",
+   "worst": "mistral_ministral-14b",
+   "other": "groq_gpt-oss-120b",
+   "b": 7,
+   "c": 0,
+   "p": 0.015625
+  },
+  {
+   "label": "Aspect",
+   "worst": "mistral_ministral-14b",
+   "other": "ollama_gemma3-4b",
+   "b": 7,
+   "c": 4,
+   "p": 0.548828125
+  },
+  {
+   "label": "Modality",
+   "worst": "indictrans2_local",
+   "other": "google_translate",
+   "b": 5,
+   "c": 0,
+   "p": 0.0625
+  },
+  {
+   "label": "Modality",
+   "worst": "indictrans2_local",
+   "other": "groq_gpt-oss-120b",
+   "b": 6,
+   "c": 2,
+   "p": 0.2890625
+  },
+  {
+   "label": "Modality",
+   "worst": "indictrans2_local",
+   "other": "ollama_gemma3-4b",
+   "b": 4,
+   "c": 4,
+   "p": 1.0
+  },
+  {
+   "label": "Modality",
+   "worst": "indictrans2_local",
+   "other": "mistral_ministral-14b",
+   "b": 5,
+   "c": 5,
+   "p": 1.0
+  },
+  {
+   "label": "Plural lost",
+   "worst": "mistral_ministral-14b",
+   "other": "google_translate",
+   "b": 17,
+   "c": 6,
+   "p": 0.03468966484069824
+  },
+  {
+   "label": "Plural lost",
+   "worst": "mistral_ministral-14b",
+   "other": "indictrans2_local",
+   "b": 18,
+   "c": 14,
+   "p": 0.5966148958541453
+  },
+  {
+   "label": "Plural lost",
+   "worst": "mistral_ministral-14b",
+   "other": "groq_gpt-oss-120b",
+   "b": 13,
+   "c": 8,
+   "p": 0.38331031799316406
+  },
+  {
+   "label": "Plural lost",
+   "worst": "mistral_ministral-14b",
+   "other": "ollama_gemma3-4b",
+   "b": 14,
+   "c": 12,
+   "p": 0.8450189828872681
+  },
+  {
+   "label": "Negation lost",
+   "worst": "indictrans2_local",
+   "other": "google_translate",
+   "b": 1,
+   "c": 0,
+   "p": 1.0
+  },
+  {
+   "label": "Negation lost",
+   "worst": "indictrans2_local",
+   "other": "groq_gpt-oss-120b",
+   "b": 1,
+   "c": 1,
+   "p": 1.0
+  },
+  {
+   "label": "Negation lost",
+   "worst": "indictrans2_local",
+   "other": "ollama_gemma3-4b",
+   "b": 1,
+   "c": 0,
+   "p": 1.0
+  },
+  {
+   "label": "Negation lost",
+   "worst": "indictrans2_local",
+   "other": "mistral_ministral-14b",
+   "b": 1,
+   "c": 1,
+   "p": 1.0
+  },
+  {
+   "label": "Negation added",
+   "worst": "mistral_ministral-14b",
+   "other": "google_translate",
+   "b": 4,
+   "c": 0,
+   "p": 0.125
+  },
+  {
+   "label": "Negation added",
+   "worst": "mistral_ministral-14b",
+   "other": "indictrans2_local",
+   "b": 4,
+   "c": 0,
+   "p": 0.125
+  },
+  {
+   "label": "Negation added",
+   "worst": "mistral_ministral-14b",
+   "other": "groq_gpt-oss-120b",
+   "b": 4,
+   "c": 0,
+   "p": 0.125
+  },
+  {
+   "label": "Negation added",
+   "worst": "mistral_ministral-14b",
+   "other": "ollama_gemma3-4b",
+   "b": 4,
+   "c": 1,
+   "p": 0.375
+  },
+  {
+   "label": "Cause/purpose/without/like lost",
+   "worst": "ollama_gemma3-4b",
+   "other": "google_translate",
+   "b": 15,
+   "c": 1,
+   "p": 0.000518798828125
+  },
+  {
+   "label": "Cause/purpose/without/like lost",
+   "worst": "ollama_gemma3-4b",
+   "other": "indictrans2_local",
+   "b": 13,
+   "c": 8,
+   "p": 0.38331031799316406
+  },
+  {
+   "label": "Cause/purpose/without/like lost",
+   "worst": "ollama_gemma3-4b",
+   "other": "groq_gpt-oss-120b",
+   "b": 12,
+   "c": 4,
+   "p": 0.076812744140625
+  },
+  {
+   "label": "Cause/purpose/without/like lost",
+   "worst": "ollama_gemma3-4b",
+   "other": "mistral_ministral-14b",
+   "b": 12,
+   "c": 11,
+   "p": 1.0
+  },
+  {
+   "label": "Connective missing",
+   "worst": "mistral_ministral-14b",
+   "other": "google_translate",
+   "b": 108,
+   "c": 4,
+   "p": 2.4825502761483796e-27
+  },
+  {
+   "label": "Connective missing",
+   "worst": "mistral_ministral-14b",
+   "other": "indictrans2_local",
+   "b": 104,
+   "c": 4,
+   "p": 3.4322462843599494e-26
+  },
+  {
+   "label": "Connective missing",
+   "worst": "mistral_ministral-14b",
+   "other": "groq_gpt-oss-120b",
+   "b": 82,
+   "c": 10,
+   "p": 3.3046946373720168e-15
+  },
+  {
+   "label": "Connective missing",
+   "worst": "mistral_ministral-14b",
+   "other": "ollama_gemma3-4b",
+   "b": 70,
+   "c": 19,
+   "p": 4.957489567762136e-08
+  },
+  {
+   "label": "Focus particle lost",
+   "worst": "ollama_gemma3-4b",
+   "other": "google_translate",
+   "b": 27,
+   "c": 3,
+   "p": 8.430331945419312e-06
+  },
+  {
+   "label": "Focus particle lost",
+   "worst": "ollama_gemma3-4b",
+   "other": "indictrans2_local",
+   "b": 28,
+   "c": 7,
+   "p": 0.0005082604475319386
+  },
+  {
+   "label": "Focus particle lost",
+   "worst": "ollama_gemma3-4b",
+   "other": "groq_gpt-oss-120b",
+   "b": 29,
+   "c": 10,
+   "p": 0.0033778479119064286
+  },
+  {
+   "label": "Focus particle lost",
+   "worst": "ollama_gemma3-4b",
+   "other": "mistral_ministral-14b",
+   "b": 24,
+   "c": 13,
+   "p": 0.09887174959294498
+  },
+  {
+   "label": "Deixis lost or reversed",
+   "worst": "indictrans2_local",
+   "other": "google_translate",
+   "b": 69,
+   "c": 3,
+   "p": 2.6371947296289014e-17
+  },
+  {
+   "label": "Deixis lost or reversed",
+   "worst": "indictrans2_local",
+   "other": "groq_gpt-oss-120b",
+   "b": 56,
+   "c": 21,
+   "p": 8.215921903007379e-05
+  },
+  {
+   "label": "Deixis lost or reversed",
+   "worst": "indictrans2_local",
+   "other": "ollama_gemma3-4b",
+   "b": 65,
+   "c": 34,
+   "p": 0.0023946293575060097
+  },
+  {
+   "label": "Deixis lost or reversed",
+   "worst": "indictrans2_local",
+   "other": "mistral_ministral-14b",
+   "b": 62,
+   "c": 37,
+   "p": 0.015432364507309008
+  },
+  {
+   "label": "Honorific dropped",
+   "worst": "indictrans2_local",
+   "other": "google_translate",
+   "b": 2,
+   "c": 0,
+   "p": 0.5
+  },
+  {
+   "label": "Honorific dropped",
+   "worst": "indictrans2_local",
+   "other": "groq_gpt-oss-120b",
+   "b": 2,
+   "c": 1,
+   "p": 1.0
+  },
+  {
+   "label": "Honorific dropped",
+   "worst": "indictrans2_local",
+   "other": "ollama_gemma3-4b",
+   "b": 2,
+   "c": 2,
+   "p": 1.0
+  },
+  {
+   "label": "Honorific dropped",
+   "worst": "indictrans2_local",
+   "other": "mistral_ministral-14b",
+   "b": 2,
+   "c": 0,
+   "p": 0.5
+  },
+  {
+   "label": "Question rendered as statement",
+   "worst": "mistral_ministral-14b",
+   "other": "google_translate",
+   "b": 11,
+   "c": 0,
+   "p": 0.0009765625
+  },
+  {
+   "label": "Question rendered as statement",
+   "worst": "mistral_ministral-14b",
+   "other": "indictrans2_local",
+   "b": 11,
+   "c": 1,
+   "p": 0.00634765625
+  },
+  {
+   "label": "Question rendered as statement",
+   "worst": "mistral_ministral-14b",
+   "other": "groq_gpt-oss-120b",
+   "b": 10,
+   "c": 0,
+   "p": 0.001953125
+  },
+  {
+   "label": "Question rendered as statement",
+   "worst": "mistral_ministral-14b",
+   "other": "ollama_gemma3-4b",
+   "b": 9,
+   "c": 0,
+   "p": 0.00390625
+  }
+ ],
+ "hide": {
+  "google_translate": {
+   "flagged": 62,
+   "above_median": 18,
+   "share": 29.032258064516128,
+   "median": 69.0526981898706,
+   "mean_chrf_flagged": 58.2697200151369,
+   "mean_chrf_clean": 68.44295926590145
+  },
+  "indictrans2_local": {
+   "flagged": 156,
+   "above_median": 53,
+   "share": 33.97435897435897,
+   "median": 64.7772248786736,
+   "mean_chrf_flagged": 58.0998014947401,
+   "mean_chrf_clean": 65.05534906350594
+  },
+  "groq_gpt-oss-120b": {
+   "flagged": 144,
+   "above_median": 47,
+   "share": 32.638888888888886,
+   "median": 61.026823705563416,
+   "mean_chrf_flagged": 53.669295157184045,
+   "mean_chrf_clean": 61.88271554748612
+  },
+  "ollama_gemma3-4b": {
+   "flagged": 225,
+   "above_median": 83,
+   "share": 36.888888888888886,
+   "median": 54.433175904846806,
+   "mean_chrf_flagged": 48.64496865996217,
+   "mean_chrf_clean": 55.35419362722697
+  },
+  "mistral_ministral-14b": {
+   "flagged": 273,
+   "above_median": 92,
+   "share": 33.6996336996337,
+   "median": 49.257616515121235,
+   "mean_chrf_flagged": 43.4774048784777,
+   "mean_chrf_clean": 51.11591004052526
+  }
+ },
+ "dom": {
+  "tourism|L2": [
+   11,
+   16,
+   13,
+   40,
+   30
+  ],
+  "tourism|L3": [
+   1,
+   9,
+   5,
+   8,
+   7
+  ],
+  "tourism|L4": [
+   1,
+   2,
+   8,
+   7,
+   23
+  ],
+  "tourism|L5": [
+   21,
+   79,
+   45,
+   64,
+   51
+  ],
+  "tourism|L6": [
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "health|L2": [
+   2,
+   9,
+   7,
+   11,
+   10
+  ],
+  "health|L3": [
+   0,
+   1,
+   3,
+   7,
+   6
+  ],
+  "health|L4": [
+   6,
+   8,
+   13,
+   19,
+   38
+  ],
+  "health|L5": [
+   6,
+   13,
+   15,
+   16,
+   16
+  ],
+  "health|L6": [
+   0,
+   1,
+   1,
+   1,
+   2
+  ],
+  "geography|L2": [
+   9,
+   10,
+   11,
+   16,
+   20
+  ],
+  "geography|L3": [
+   0,
+   1,
+   0,
+   1,
+   6
+  ],
+  "geography|L4": [
+   1,
+   2,
+   19,
+   35,
+   51
+  ],
+  "geography|L5": [
+   4,
+   9,
+   8,
+   12,
+   17
+  ],
+  "geography|L6": [
+   0,
+   0,
+   0,
+   1,
+   9
+  ]
+ }
+}

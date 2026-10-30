@@ -1,0 +1,1252 @@
+candidate	layer	system	first_judgement	second_judgement	final_label	label_source
+C1	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C2	L3	Ministral 14B	error	error	not an error	expert negation check (first-round overlap)
+C3	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C4	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C5	L3	Gemma 3 4B	error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C8	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C10	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C11	L5	gpt-oss-120b	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C12	L3	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C13	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C14	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C17	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C18	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C19	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C20	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C22	L2	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C24	L4	IndicTrans2	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C26	L2	IndicTrans2	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C27	L3	Gemma 3 4B	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C28	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C29	L5	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C30	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C31	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C33	L6	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C34	L2	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C35	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C37	L4	Gemma 3 4B	error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C38	L5	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C40	L2	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C41	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C42	L3	IndicTrans2	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C43	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C47	L4	gpt-oss-120b	error	not an error	error	first-round overlap (two judgements, expert decision on disagreement)
+C48	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C49	L5	gpt-oss-120b	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C50	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C52	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C53	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C54	L2	gpt-oss-120b	not an error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C55	L2	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C57	L3	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C60	L6	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C61	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C63	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C65	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C66	L6	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C68	L4	IndicTrans2	not an error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C69	L4	Ministral 14B	not an error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C70	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C71	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C72	L5	IndicTrans2	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C74	L3	Ministral 14B	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C75	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C76	L5	Ministral 14B	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C77	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C78	L5	Gemma 3 4B	unsure	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C79	L5	gpt-oss-120b	not an error	error	unsure	first-round overlap (two judgements, expert decision on disagreement)
+C80	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C81	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C82	L2	Google Translate	not an error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C84	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C85	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C86	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C87	L2	Gemma 3 4B	unsure	error	unsure	first-round overlap (two judgements, expert decision on disagreement)
+C88	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C90	L3	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C91	L5	gpt-oss-120b	not an error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C92	L3	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C93	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C94	L4	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C95	L4	Gemma 3 4B	not an error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C96	L4	IndicTrans2	not an error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C97	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C99	L3	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C100	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C101	L4	Gemma 3 4B	error	not an error	error	first-round overlap (two judgements, expert decision on disagreement)
+C102	L2	IndicTrans2	error	not an error	error	first-round overlap (two judgements, expert decision on disagreement)
+C103	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C104	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C105	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C107	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C108	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C109	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C110	L4	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C112	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C113	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C114	L2	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C115	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C116	L5	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C118	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C119	L5	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C121	L3	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C122	L2	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C123	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C124	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C125	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C126	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C127	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C128	L6	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C129	L3	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C130	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C131	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C132	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C133	L4	IndicTrans2	error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C134	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C135	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C138	L5	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C139	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C141	L3	IndicTrans2	error	error	not an error	expert negation check (first-round overlap)
+C142	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C143	L3	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C144	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C145	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C146	L4	Ministral 14B	error	not an error	error	first-round overlap (two judgements, expert decision on disagreement)
+C148	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C149	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C150	L3	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C152	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C154	L3	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C155	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C156	L4	Ministral 14B	error	not an error	error	first-round overlap (two judgements, expert decision on disagreement)
+C157	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C158	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C159	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C160	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C161	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C162	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C164	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C165	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C166	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C167	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C168	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C169	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C171	L4	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C172	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C173	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C174	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C175	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C176	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C177	L3	gpt-oss-120b	error	error	not an error	expert negation check (first-round overlap)
+C178	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C180	L3	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C181	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C182	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C183	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C185	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C187	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C190	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C191	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C192	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C195	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C196	L6	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C198	L2	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C199	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C200	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C201	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C202	L3	Ministral 14B	error	error	not an error	expert negation check (first-round overlap)
+C203	L3	gpt-oss-120b	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C204	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C205	L3	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C206	L3	Ministral 14B	not an error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C207	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C208	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C209	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C210	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C212	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C213	L2	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C214	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C215	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C216	L5	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C219	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C220	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C221	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C222	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C224	L2	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C225	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C226	L4	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C227	L2	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C228	L2	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C229	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C230	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C231	L4	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C232	L3	IndicTrans2	error	error	error	expert negation check (first-round overlap)
+C233	L2	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C234	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C235	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C236	L4	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C238	L5	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C239	L4	gpt-oss-120b	error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C240	L4	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C243	L5	gpt-oss-120b	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C244	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C245	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C247	L3	gpt-oss-120b	not an error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C248	L5	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C249	L4	gpt-oss-120b	error	not an error	error	first-round overlap (two judgements, expert decision on disagreement)
+C251	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C252	L2	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C253	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C256	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C257	L3	Ministral 14B	not an error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C258	L2	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C259	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C260	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C261	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C262	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C264	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C267	L3	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C268	L2	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C270	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C271	L2	gpt-oss-120b	error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C272	L2	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C274	L3	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C275	L3	Ministral 14B	not an error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C276	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C277	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C279	L3	Ministral 14B	error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C282	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C283	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C284	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C285	L3	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C286	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C287	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C288	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C292	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C293	L6	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C294	L2	Ministral 14B	not an error	not an error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C295	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C296	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C297	L6	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C298	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C302	L4	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C305	L3	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C307	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C308	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C310	L5	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C316	L5	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C317	L3	Ministral 14B	error	error	not an error	expert negation check (first-round overlap)
+C318	L4	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C319	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C321	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C322	L4	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C324	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C326	L2	Ministral 14B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C327	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C328	L5	IndicTrans2	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C329	L3	gpt-oss-120b	error	error	error	expert negation check (first-round overlap)
+C331	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C332	L5	gpt-oss-120b	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C333	L2	gpt-oss-120b	not an error	error	not an error	first-round overlap (two judgements, expert decision on disagreement)
+C334	L4	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C335	L4	Gemma 3 4B	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C337	L4	Google Translate	error	error	error	first-round overlap (two judgements, expert decision on disagreement)
+C338	L5	Google Translate	error	not an error	not an error	joint adjudication
+C340	L2	gpt-oss-120b	error	unsure	error	joint adjudication
+C341	L2	Gemma 3 4B	error	not an error	error	joint adjudication
+C343	L4	IndicTrans2	error	error	error	agreement of the two judgements
+C344	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C346	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C347	L2	Google Translate	error	not an error	not an error	joint adjudication
+C349	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C352	L5	gpt-oss-120b	error	not an error	error	joint adjudication
+C354	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C355	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C356	L3	Google Translate	error	not an error	not an error	joint adjudication
+C358	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C360	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C361	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C362	L4	Google Translate	error	not an error	not an error	joint adjudication
+C365	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C369	L4	IndicTrans2	error	not an error	not an error	joint adjudication
+C370	L3	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C374	L5	Google Translate	error	not an error	not an error	joint adjudication
+C375	L5	IndicTrans2	error	not an error	error	joint adjudication
+C376	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C378	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C379	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C380	L4	gpt-oss-120b	error	not an error	error	joint adjudication
+C381	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C383	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C384	L5	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C385	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C387	L5	Ministral 14B	error	not an error	error	joint adjudication
+C388	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C389	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C390	L5	Google Translate	error	error	error	agreement of the two judgements
+C391	L5	IndicTrans2	error	not an error	error	joint adjudication
+C392	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C393	L5	Google Translate	error	error	error	agreement of the two judgements
+C394	L2	Google Translate	error	not an error	not an error	joint adjudication
+C395	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C396	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C398	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C399	L2	gpt-oss-120b	error	not an error	error	joint adjudication
+C401	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C404	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C407	L2	Google Translate	error	not an error	not an error	joint adjudication
+C408	L3	Ministral 14B	error	not an error	error	expert negation check
+C409	L5	IndicTrans2	error	not an error	error	joint adjudication
+C411	L5	Google Translate	error	not an error	error	joint adjudication
+C412	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C413	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C414	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C415	L3	Ministral 14B	error	not an error	not an error	expert negation check
+C416	L5	Ministral 14B	error	not an error	error	joint adjudication
+C417	L5	IndicTrans2	error	not an error	error	joint adjudication
+C418	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C419	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C420	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C422	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C424	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C425	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C426	L4	Ministral 14B	error	not an error	not an error	joint adjudication
+C428	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C429	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C430	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C432	L5	Google Translate	error	not an error	not an error	joint adjudication
+C434	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C438	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C439	L3	Ministral 14B	error	error	error	expert negation check
+C440	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C441	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C443	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C445	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C448	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C449	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C452	L3	IndicTrans2	error	not an error	not an error	joint adjudication
+C453	L4	Gemma 3 4B	error	not an error	error	joint adjudication
+C454	L5	Ministral 14B	error	not an error	error	joint adjudication
+C455	L3	Ministral 14B	error	unsure	not an error	expert negation check
+C456	L4	Ministral 14B	not an error	error	error	joint adjudication
+C457	L3	Gemma 3 4B	error	error	error	agreement of the two judgements
+C458	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C459	L3	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C462	L5	gpt-oss-120b	not an error	not an error	not an error	agreement of the two judgements
+C463	L5	Gemma 3 4B	error	unsure	error	joint adjudication
+C464	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C466	L4	Google Translate	error	not an error	not an error	joint adjudication
+C467	L3	Google Translate	not an error	not an error	not an error	agreement of the two judgements
+C468	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C469	L5	gpt-oss-120b	error	not an error	error	joint adjudication
+C471	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C472	L5	IndicTrans2	error	not an error	error	joint adjudication
+C473	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C475	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C477	L3	Gemma 3 4B	error	not an error	not an error	expert negation check
+C479	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C480	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C482	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C484	L5	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C485	L6	Ministral 14B	error	unsure	error	joint adjudication
+C486	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C487	L5	IndicTrans2	error	not an error	error	joint adjudication
+C488	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C489	L5	Google Translate	error	not an error	not an error	joint adjudication
+C491	L5	IndicTrans2	error	unsure	error	joint adjudication
+C492	L2	Google Translate	error	not an error	not an error	joint adjudication
+C493	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C494	L5	Google Translate	error	error	error	agreement of the two judgements
+C497	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C500	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C501	L2	gpt-oss-120b	not an error	not an error	not an error	agreement of the two judgements
+C502	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C503	L2	Google Translate	error	not an error	not an error	joint adjudication
+C504	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C505	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C506	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C507	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C508	L3	Gemma 3 4B	error	error	error	agreement of the two judgements
+C510	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C511	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C512	L2	Gemma 3 4B	error	not an error	error	joint adjudication
+C513	L3	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C514	L3	Ministral 14B	error	not an error	not an error	expert negation check
+C517	L6	Google Translate	error	not an error	not an error	joint adjudication
+C519	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C520	L4	Ministral 14B	error	not an error	not an error	joint adjudication
+C521	L3	Ministral 14B	error	not an error	not an error	expert negation check
+C522	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C523	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C524	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C525	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C526	L5	gpt-oss-120b	error	not an error	error	joint adjudication
+C527	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C528	L5	IndicTrans2	error	not an error	error	joint adjudication
+C529	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C530	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C532	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C534	L3	Gemma 3 4B	error	not an error	not an error	expert negation check
+C536	L4	Ministral 14B	error	not an error	error	joint adjudication
+C540	L5	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C541	L5	Google Translate	error	error	error	agreement of the two judgements
+C542	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C546	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C547	L4	gpt-oss-120b	not an error	error	error	joint adjudication
+C551	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C553	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C554	L2	Ministral 14B	error	unsure	not an error	joint adjudication
+C556	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C557	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C558	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C559	L5	Gemma 3 4B	not an error	not an error	not an error	agreement of the two judgements
+C560	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C562	L2	Google Translate	error	not an error	not an error	joint adjudication
+C563	L5	Ministral 14B	error	not an error	error	joint adjudication
+C564	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C565	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C567	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C569	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C571	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C573	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C574	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C575	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C576	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C577	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C579	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C581	L2	Google Translate	error	not an error	not an error	joint adjudication
+C583	L4	Ministral 14B	error	not an error	error	joint adjudication
+C584	L3	Ministral 14B	error	error	error	expert negation check
+C586	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C589	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C590	L2	Google Translate	error	not an error	not an error	joint adjudication
+C591	L4	Google Translate	error	not an error	not an error	joint adjudication
+C592	L3	IndicTrans2	error	not an error	not an error	joint adjudication
+C593	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C594	L4	IndicTrans2	error	not an error	not an error	joint adjudication
+C597	L5	IndicTrans2	error	not an error	error	joint adjudication
+C598	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C599	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C600	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C601	L3	Ministral 14B	error	unsure	not an error	expert negation check
+C602	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C603	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C604	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C605	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C606	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C607	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C608	L5	Google Translate	error	not an error	error	joint adjudication
+C609	L2	Gemma 3 4B	not an error	not an error	not an error	agreement of the two judgements
+C610	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C612	L2	Google Translate	error	not an error	not an error	joint adjudication
+C613	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C614	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C615	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C620	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C621	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C622	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C625	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C626	L3	Google Translate	error	not an error	not an error	expert negation check
+C627	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C628	L5	gpt-oss-120b	error	not an error	error	joint adjudication
+C629	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C630	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C631	L4	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C632	L3	IndicTrans2	error	error	error	agreement of the two judgements
+C633	L5	IndicTrans2	error	not an error	error	joint adjudication
+C634	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C635	L5	Ministral 14B	error	not an error	error	joint adjudication
+C636	L4	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C637	L2	Ministral 14B	error	not an error	error	joint adjudication
+C638	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C639	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C640	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C641	L3	Ministral 14B	error	not an error	not an error	expert negation check
+C642	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C645	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C646	L5	Ministral 14B	error	unsure	error	joint adjudication
+C647	L5	Google Translate	error	not an error	not an error	joint adjudication
+C648	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C650	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C651	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C652	L4	Google Translate	error	not an error	not an error	joint adjudication
+C653	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C655	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C656	L5	Google Translate	error	error	error	agreement of the two judgements
+C660	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C661	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C663	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C665	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C666	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C667	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C668	L3	gpt-oss-120b	error	not an error	not an error	expert negation check
+C670	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C671	L4	Ministral 14B	error	not an error	error	joint adjudication
+C672	L3	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C673	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C674	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C675	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C676	L5	Google Translate	error	not an error	error	joint adjudication
+C677	L3	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C679	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C680	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C681	L3	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C684	L3	Gemma 3 4B	error	unsure	error	expert negation check
+C685	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C686	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C687	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C688	L2	Google Translate	error	error	error	agreement of the two judgements
+C689	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C690	L3	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C691	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C692	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C693	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C694	L2	Ministral 14B	error	not an error	error	joint adjudication
+C695	L4	Google Translate	error	not an error	not an error	joint adjudication
+C696	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C697	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C698	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C699	L5	Ministral 14B	error	not an error	error	joint adjudication
+C700	L2	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C701	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C702	L2	Gemma 3 4B	error	not an error	error	joint adjudication
+C703	L4	Google Translate	error	error	error	agreement of the two judgements
+C704	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C705	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C708	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C709	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C710	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C711	L3	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C712	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C713	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C714	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C716	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C718	L5	IndicTrans2	error	not an error	error	joint adjudication
+C719	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C720	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C722	L4	Google Translate	not an error	not an error	not an error	agreement of the two judgements
+C723	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C724	L3	IndicTrans2	error	not an error	not an error	joint adjudication
+C725	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C726	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C730	L5	gpt-oss-120b	error	not an error	error	joint adjudication
+C732	L2	Google Translate	error	not an error	not an error	joint adjudication
+C733	L2	Ministral 14B	error	not an error	error	joint adjudication
+C735	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C736	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C737	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C740	L2	Google Translate	error	not an error	not an error	joint adjudication
+C741	L4	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C742	L5	Google Translate	error	not an error	error	joint adjudication
+C744	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C746	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C748	L3	Ministral 14B	error	not an error	error	expert negation check
+C749	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C750	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C752	L5	gpt-oss-120b	error	not an error	error	joint adjudication
+C753	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C759	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C760	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C761	L3	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C763	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C764	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C765	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C766	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C767	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C768	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C769	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C771	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C772	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C773	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C774	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C775	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C776	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C777	L5	Ministral 14B	error	not an error	error	joint adjudication
+C778	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C779	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C780	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C781	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C782	L4	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C784	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C785	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C786	L3	IndicTrans2	error	not an error	error	joint adjudication
+C789	L2	Ministral 14B	error	not an error	error	joint adjudication
+C790	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C792	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C794	L3	Ministral 14B	error	not an error	not an error	expert negation check
+C795	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C797	L2	IndicTrans2	not an error	not an error	not an error	agreement of the two judgements
+C798	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C799	L3	gpt-oss-120b	error	not an error	not an error	expert negation check
+C800	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C801	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C802	L4	Ministral 14B	error	not an error	not an error	joint adjudication
+C803	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C804	L3	IndicTrans2	error	not an error	not an error	expert negation check
+C805	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C808	L3	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C809	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C810	L6	Google Translate	error	not an error	not an error	joint adjudication
+C811	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C812	L2	Google Translate	error	not an error	not an error	joint adjudication
+C813	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C816	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C817	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C819	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C820	L5	Gemma 3 4B	not an error	error	error	joint adjudication
+C821	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C824	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C825	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C827	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C828	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C830	L3	IndicTrans2	error	not an error	error	joint adjudication
+C832	L5	IndicTrans2	error	not an error	error	joint adjudication
+C833	L6	gpt-oss-120b	error	unsure	error	joint adjudication
+C834	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C835	L5	IndicTrans2	error	not an error	error	joint adjudication
+C836	L4	Google Translate	error	error	error	agreement of the two judgements
+C837	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C839	L2	Google Translate	error	unsure	error	joint adjudication
+C842	L5	Ministral 14B	error	not an error	error	joint adjudication
+C843	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C844	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C845	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C846	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C847	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C848	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C850	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C851	L4	Gemma 3 4B	error	not an error	error	joint adjudication
+C853	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C854	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C855	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C857	L2	gpt-oss-120b	error	not an error	error	joint adjudication
+C858	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C859	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C860	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C861	L3	IndicTrans2	error	not an error	not an error	joint adjudication
+C862	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C864	L4	IndicTrans2	error	not an error	not an error	joint adjudication
+C865	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C869	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C870	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C871	L2	Google Translate	error	not an error	not an error	joint adjudication
+C872	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C873	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C877	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C879	L2	gpt-oss-120b	error	not an error	error	joint adjudication
+C880	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C881	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C882	L2	Google Translate	error	not an error	not an error	joint adjudication
+C883	L3	Google Translate	not an error	not an error	not an error	agreement of the two judgements
+C885	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C886	L5	IndicTrans2	error	not an error	error	joint adjudication
+C887	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C888	L4	IndicTrans2	error	error	error	agreement of the two judgements
+C889	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C890	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C891	L2	Google Translate	error	not an error	not an error	joint adjudication
+C892	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C893	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C894	L5	IndicTrans2	error	not an error	error	joint adjudication
+C896	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C897	L4	IndicTrans2	error	error	error	agreement of the two judgements
+C898	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C899	L5	IndicTrans2	error	not an error	error	joint adjudication
+C900	L4	IndicTrans2	error	error	error	agreement of the two judgements
+C902	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C903	L4	Google Translate	error	not an error	not an error	joint adjudication
+C904	L5	Gemma 3 4B	error	unsure	error	joint adjudication
+C905	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C906	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C907	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C908	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C909	L5	IndicTrans2	error	not an error	error	joint adjudication
+C910	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C911	L3	IndicTrans2	error	not an error	not an error	joint adjudication
+C912	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C913	L5	Google Translate	not an error	not an error	not an error	agreement of the two judgements
+C914	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C915	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C916	L2	Google Translate	error	unsure	error	joint adjudication
+C917	L3	Ministral 14B	error	not an error	error	expert negation check
+C919	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C920	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C922	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C923	L4	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C924	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C925	L5	Gemma 3 4B	not an error	not an error	not an error	agreement of the two judgements
+C926	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C927	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C928	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C929	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C931	L3	Ministral 14B	error	not an error	not an error	expert negation check
+C932	L3	Gemma 3 4B	not an error	not an error	not an error	agreement of the two judgements
+C933	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C934	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C936	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C937	L5	Ministral 14B	error	not an error	error	joint adjudication
+C939	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C940	L4	IndicTrans2	error	not an error	not an error	joint adjudication
+C941	L4	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C942	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C943	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C944	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C945	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C947	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C950	L2	Google Translate	error	not an error	not an error	joint adjudication
+C951	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C952	L3	Ministral 14B	error	not an error	not an error	expert negation check
+C953	L4	Google Translate	error	not an error	not an error	joint adjudication
+C954	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C955	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C957	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C958	L3	Gemma 3 4B	error	error	error	agreement of the two judgements
+C962	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C963	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C964	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C966	L5	Google Translate	error	error	error	agreement of the two judgements
+C967	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C968	L6	Ministral 14B	error	not an error	not an error	joint adjudication
+C970	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C971	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C973	L3	Ministral 14B	error	error	error	agreement of the two judgements
+C974	L5	gpt-oss-120b	error	not an error	error	joint adjudication
+C975	L2	Google Translate	error	not an error	not an error	joint adjudication
+C976	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C977	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C978	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C979	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C980	L5	Google Translate	error	not an error	error	joint adjudication
+C981	L5	IndicTrans2	error	not an error	error	joint adjudication
+C982	L3	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C983	L2	Google Translate	error	not an error	not an error	joint adjudication
+C984	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C985	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C986	L5	Gemma 3 4B	not an error	not an error	not an error	agreement of the two judgements
+C987	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C988	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C990	L3	Ministral 14B	error	not an error	not an error	expert negation check
+C992	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C993	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C994	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C996	L5	IndicTrans2	error	not an error	error	joint adjudication
+C997	L3	Gemma 3 4B	error	not an error	not an error	expert negation check
+C999	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C1000	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1001	L3	Ministral 14B	error	error	not an error	expert negation check
+C1002	L5	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C1003	L5	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C1004	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C1005	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1006	L3	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C1008	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1010	L3	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C1011	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1012	L5	IndicTrans2	error	not an error	error	joint adjudication
+C1014	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1015	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1016	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1017	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1018	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1019	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1020	L4	IndicTrans2	not an error	not an error	not an error	agreement of the two judgements
+C1021	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1024	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1025	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1026	L5	IndicTrans2	not an error	error	not an error	joint adjudication
+C1027	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1028	L2	Gemma 3 4B	not an error	not an error	not an error	agreement of the two judgements
+C1030	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1031	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1032	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1033	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1034	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1035	L6	gpt-oss-120b	not an error	error	not an error	joint adjudication
+C1036	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1037	L3	Ministral 14B	error	error	not an error	expert negation check
+C1038	L5	gpt-oss-120b	error	not an error	error	joint adjudication
+C1039	L2	IndicTrans2	error	not an error	error	joint adjudication
+C1040	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1041	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1042	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1043	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1045	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C1047	L3	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C1048	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1049	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1051	L3	gpt-oss-120b	error	error	not an error	expert negation check
+C1052	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1053	L4	IndicTrans2	error	not an error	error	joint adjudication
+C1054	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1055	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1057	L4	IndicTrans2	error	not an error	not an error	joint adjudication
+C1059	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1060	L4	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C1061	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1062	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1064	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1065	L3	Gemma 3 4B	not an error	error	not an error	joint adjudication
+C1067	L2	Gemma 3 4B	error	not an error	error	joint adjudication
+C1068	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1070	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1071	L2	Google Translate	error	error	error	agreement of the two judgements
+C1072	L5	Ministral 14B	error	not an error	error	joint adjudication
+C1073	L3	Ministral 14B	not an error	error	not an error	joint adjudication
+C1074	L2	Google Translate	error	error	error	agreement of the two judgements
+C1075	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1076	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1077	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1078	L5	Google Translate	error	error	error	agreement of the two judgements
+C1080	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1081	L4	Ministral 14B	error	not an error	not an error	joint adjudication
+C1082	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1083	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C1084	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1085	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1086	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1087	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1088	L3	gpt-oss-120b	not an error	error	not an error	joint adjudication
+C1090	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1091	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1092	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1093	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1094	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1095	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1098	L3	IndicTrans2	error	error	error	agreement of the two judgements
+C1099	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1100	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1103	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1104	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1105	L3	Ministral 14B	error	error	error	agreement of the two judgements
+C1106	L4	Google Translate	error	error	error	agreement of the two judgements
+C1107	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1109	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1110	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1111	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1112	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1113	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C1114	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1115	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1116	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1118	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1120	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1122	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1126	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1127	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1128	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1129	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1130	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1131	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1133	L5	Google Translate	error	error	error	agreement of the two judgements
+C1134	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1135	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1136	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1138	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1139	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1140	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1141	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1142	L3	gpt-oss-120b	not an error	error	not an error	joint adjudication
+C1143	L4	Google Translate	error	not an error	not an error	joint adjudication
+C1146	L5	Ministral 14B	error	not an error	not an error	joint adjudication
+C1148	L4	IndicTrans2	error	error	error	agreement of the two judgements
+C1149	L5	gpt-oss-120b	error	not an error	error	joint adjudication
+C1150	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1151	L3	Ministral 14B	error	error	not an error	expert negation check
+C1153	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1154	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1156	L5	IndicTrans2	error	not an error	error	joint adjudication
+C1157	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1158	L2	IndicTrans2	not an error	error	error	joint adjudication
+C1159	L3	IndicTrans2	error	not an error	not an error	expert negation check
+C1160	L5	Google Translate	error	error	error	agreement of the two judgements
+C1162	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1163	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1164	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1165	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1166	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1167	L2	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C1169	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1171	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1173	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1176	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C1177	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1178	L3	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1179	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1180	L5	Google Translate	error	error	error	agreement of the two judgements
+C1181	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1182	L2	Google Translate	error	error	error	agreement of the two judgements
+C1183	L4	Google Translate	error	error	error	agreement of the two judgements
+C1184	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1185	L5	Ministral 14B	not an error	not an error	not an error	agreement of the two judgements
+C1186	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1187	L5	IndicTrans2	error	not an error	error	joint adjudication
+C1188	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1189	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1190	L2	Gemma 3 4B	not an error	error	not an error	joint adjudication
+C1191	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1192	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1194	L4	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1195	L3	Ministral 14B	error	not an error	not an error	joint adjudication
+C1196	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1197	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C1199	L4	Google Translate	error	not an error	not an error	joint adjudication
+C1200	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1204	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1205	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1208	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1209	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C1210	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1213	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1214	L5	IndicTrans2	error	not an error	error	joint adjudication
+C1215	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1216	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1217	L4	Ministral 14B	error	not an error	error	joint adjudication
+C1218	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1219	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1220	L5	Google Translate	error	error	error	agreement of the two judgements
+C1221	L2	Google Translate	error	error	error	agreement of the two judgements
+C1222	L2	Gemma 3 4B	not an error	not an error	not an error	agreement of the two judgements
+C1223	L5	gpt-oss-120b	error	not an error	error	joint adjudication
+C1224	L3	IndicTrans2	error	error	not an error	expert negation check
+C1225	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1226	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1227	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1228	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C1229	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1231	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1232	L3	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1234	L2	Google Translate	error	error	error	agreement of the two judgements
+C1235	L2	IndicTrans2	not an error	error	not an error	joint adjudication
+C1238	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1239	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1241	L2	Google Translate	error	error	error	agreement of the two judgements
+C1242	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1243	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1244	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1245	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1248	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1249	L3	Gemma 3 4B	not an error	error	not an error	joint adjudication
+C1251	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1252	L4	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C1253	L5	Google Translate	error	error	error	agreement of the two judgements
+C1255	L3	IndicTrans2	error	error	error	agreement of the two judgements
+C1256	L4	Google Translate	error	not an error	not an error	joint adjudication
+C1257	L5	Google Translate	error	not an error	error	joint adjudication
+C1258	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1260	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1262	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1264	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1265	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1266	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1267	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1269	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1270	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1271	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1272	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1273	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1275	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1276	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1277	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1278	L5	Google Translate	error	error	error	agreement of the two judgements
+C1279	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1280	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1282	L2	Google Translate	error	not an error	not an error	joint adjudication
+C1283	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1284	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1286	L5	IndicTrans2	error	not an error	error	joint adjudication
+C1288	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1289	L6	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1290	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1291	L6	Gemma 3 4B	not an error	error	error	joint adjudication
+C1293	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1294	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1295	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1297	L3	gpt-oss-120b	not an error	error	not an error	joint adjudication
+C1299	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1300	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1301	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1302	L4	IndicTrans2	error	error	error	agreement of the two judgements
+C1304	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1306	L5	Google Translate	error	not an error	error	joint adjudication
+C1307	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1308	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1309	L3	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1310	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1311	L3	Gemma 3 4B	error	error	not an error	expert negation check
+C1312	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1314	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1315	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1317	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1318	L2	gpt-oss-120b	error	not an error	error	joint adjudication
+C1320	L6	Ministral 14B	not an error	error	error	joint adjudication
+C1324	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1325	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1326	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1327	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1328	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1330	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1331	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1332	L5	Ministral 14B	error	not an error	error	joint adjudication
+C1333	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1336	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1337	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1339	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1340	L3	Ministral 14B	error	error	error	agreement of the two judgements
+C1342	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C1343	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1344	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C1346	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1347	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1348	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1349	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1351	L5	Gemma 3 4B	not an error	not an error	not an error	agreement of the two judgements
+C1352	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1353	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1354	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1358	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1359	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1360	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1362	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1363	L3	IndicTrans2	not an error	error	not an error	joint adjudication
+C1364	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1365	L5	Ministral 14B	error	not an error	error	joint adjudication
+C1366	L2	Gemma 3 4B	not an error	error	not an error	joint adjudication
+C1368	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1369	L3	IndicTrans2	error	error	error	agreement of the two judgements
+C1372	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1373	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1374	L4	IndicTrans2	error	not an error	not an error	joint adjudication
+C1375	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1376	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1377	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1379	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1381	L2	IndicTrans2	error	not an error	not an error	joint adjudication
+C1382	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1383	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1384	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1385	L3	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1386	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1387	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1388	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1390	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1391	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1392	L4	Google Translate	error	error	error	agreement of the two judgements
+C1393	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1394	L3	IndicTrans2	error	error	error	agreement of the two judgements
+C1395	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1396	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1399	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1400	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1401	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1402	L6	Gemma 3 4B	not an error	error	error	joint adjudication
+C1403	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1404	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1405	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1406	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1410	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1411	L5	IndicTrans2	error	not an error	error	joint adjudication
+C1412	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1413	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1414	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1415	L3	Ministral 14B	error	error	error	agreement of the two judgements
+C1416	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1419	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1420	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1422	L2	gpt-oss-120b	not an error	error	not an error	joint adjudication
+C1423	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1424	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1425	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1426	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1427	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1429	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1431	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1433	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1435	L4	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C1436	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1438	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1439	L5	Google Translate	error	error	error	agreement of the two judgements
+C1440	L3	IndicTrans2	not an error	error	not an error	joint adjudication
+C1441	L5	Gemma 3 4B	error	not an error	error	joint adjudication
+C1442	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1444	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1445	L4	IndicTrans2	error	error	error	agreement of the two judgements
+C1446	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1447	L2	Ministral 14B	not an error	error	not an error	joint adjudication
+C1449	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C1450	L3	Ministral 14B	error	error	not an error	expert negation check
+C1451	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1452	L3	Ministral 14B	error	error	not an error	expert negation check
+C1453	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1455	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1458	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1459	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1460	L5	Google Translate	error	error	error	agreement of the two judgements
+C1461	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1462	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1463	L2	Ministral 14B	not an error	error	not an error	joint adjudication
+C1464	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1467	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1468	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1469	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1470	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1471	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1472	L3	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1473	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1474	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1475	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1476	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1477	L3	Ministral 14B	error	not an error	error	joint adjudication
+C1478	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1479	L4	IndicTrans2	error	error	error	agreement of the two judgements
+C1480	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1481	L3	IndicTrans2	error	error	error	agreement of the two judgements
+C1484	L3	Ministral 14B	error	not an error	not an error	expert negation check
+C1487	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1489	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1490	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1492	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1493	L4	Ministral 14B	error	not an error	error	joint adjudication
+C1494	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1496	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1497	L2	gpt-oss-120b	error	not an error	error	joint adjudication
+C1499	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1500	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1501	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1503	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1504	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1505	L2	Gemma 3 4B	error	not an error	error	joint adjudication
+C1506	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1507	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1509	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1512	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1514	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1515	L2	IndicTrans2	error	not an error	error	joint adjudication
+C1516	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1517	L6	gpt-oss-120b	error	not an error	error	joint adjudication
+C1519	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1520	L3	Gemma 3 4B	error	error	not an error	expert negation check
+C1522	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1523	L3	Gemma 3 4B	error	error	not an error	expert negation check
+C1524	L5	Gemma 3 4B	not an error	error	not an error	joint adjudication
+C1526	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1527	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1531	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1532	L6	Ministral 14B	not an error	error	error	joint adjudication
+C1533	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1535	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1536	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1537	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1538	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1539	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1540	L2	Google Translate	error	error	error	agreement of the two judgements
+C1541	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1542	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1543	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1545	L2	Ministral 14B	error	not an error	not an error	joint adjudication
+C1546	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1547	L3	Gemma 3 4B	error	error	not an error	expert negation check
+C1548	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1549	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1550	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1552	L2	Google Translate	error	error	error	agreement of the two judgements
+C1553	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1555	L2	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C1556	L2	Google Translate	error	error	error	agreement of the two judgements
+C1558	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1560	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1561	L4	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1563	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1564	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1565	L3	Ministral 14B	error	error	error	agreement of the two judgements
+C1567	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1568	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1569	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1570	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1571	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1572	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1573	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1574	L3	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1575	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1576	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1577	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1578	L3	IndicTrans2	error	error	error	agreement of the two judgements
+C1579	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1580	L2	Google Translate	error	error	error	agreement of the two judgements
+C1582	L2	Google Translate	error	error	error	agreement of the two judgements
+C1583	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1584	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1585	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1586	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1587	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1588	L4	Google Translate	error	not an error	not an error	joint adjudication
+C1590	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1591	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1593	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1594	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1595	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C1596	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1597	L5	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1598	L5	Google Translate	error	error	error	agreement of the two judgements
+C1601	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1603	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1607	L4	Gemma 3 4B	error	not an error	not an error	joint adjudication
+C1608	L3	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1609	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1610	L4	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1612	L6	Ministral 14B	error	error	error	agreement of the two judgements
+C1613	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1615	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1616	L5	IndicTrans2	error	not an error	not an error	joint adjudication
+C1619	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1620	L3	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1621	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1622	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1623	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1624	L3	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1626	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1627	L4	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1628	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1629	L3	Ministral 14B	error	error	not an error	expert negation check
+C1630	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1631	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1632	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1633	L3	IndicTrans2	error	error	error	agreement of the two judgements
+C1634	L3	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1635	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1636	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1637	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1638	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1639	L4	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1640	L2	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1642	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1643	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1644	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1647	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1648	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1650	L3	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1651	L2	gpt-oss-120b	error	not an error	not an error	joint adjudication
+C1652	L5	IndicTrans2	error	error	error	agreement of the two judgements
+C1657	L3	Ministral 14B	error	error	not an error	expert negation check
+C1658	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1661	L2	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1662	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1664	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1665	L5	IndicTrans2	error	not an error	error	joint adjudication
+C1666	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1667	L3	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1668	L4	Ministral 14B	error	not an error	error	joint adjudication
+C1669	L2	Ministral 14B	error	error	error	agreement of the two judgements
+C1670	L2	IndicTrans2	error	error	error	agreement of the two judgements
+C1671	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1672	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1673	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1674	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1677	L5	Gemma 3 4B	error	error	error	agreement of the two judgements
+C1678	L4	Google Translate	error	not an error	not an error	joint adjudication
+C1679	L2	Google Translate	error	error	error	agreement of the two judgements
+C1680	L4	Ministral 14B	error	error	error	agreement of the two judgements
+C1681	L5	Ministral 14B	error	error	error	agreement of the two judgements
+C1683	L5	gpt-oss-120b	error	error	error	agreement of the two judgements
+C1686	L4	Ministral 14B	error	not an error	not an error	joint adjudication
+C1687	L5	Gemma 3 4B	error	error	error	agreement of the two judgements

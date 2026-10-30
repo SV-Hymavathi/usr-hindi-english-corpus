@@ -1,0 +1,258 @@
+{
+ "sources": {
+  "shared (BHASHA)": 253,
+  "adjudicated": 359,
+  "agreed": 601,
+  "expert negation check": 38
+ },
+ "layers": {
+  "L2": {
+   "candidates": 343,
+   "confirmed": 221,
+   "precision": 0.6443148688046647,
+   "ci": [
+    0.5923094418789292,
+    0.6931234473708031
+   ]
+  },
+  "L3": {
+   "candidates": 144,
+   "confirmed": 55,
+   "precision": 0.3819444444444444,
+   "ci": [
+    0.30663220831107374,
+    0.4633919256268706
+   ]
+  },
+  "L4": {
+   "candidates": 278,
+   "confirmed": 233,
+   "precision": 0.8381294964028777,
+   "ci": [
+    0.7902719755709675,
+    0.8767693696385402
+   ]
+  },
+  "L5": {
+   "candidates": 454,
+   "confirmed": 378,
+   "precision": 0.8325991189427313,
+   "ci": [
+    0.7954971331617603,
+    0.8641196425964932
+   ]
+  },
+  "L6": {
+   "candidates": 30,
+   "confirmed": 26,
+   "precision": 0.8666666666666667,
+   "ci": [
+    0.7031831605558306,
+    0.9469043057578189
+   ]
+  },
+  "ALL": {
+   "candidates": 1249,
+   "confirmed": 913,
+   "precision": 0.7309847878302642,
+   "ci": [
+    0.7057107030496631,
+    0.7548423309492079
+   ]
+  }
+ },
+ "subtypes": {
+  "L2|aspect": [
+   31,
+   48
+  ],
+  "L2|degree": [
+   0,
+   1
+  ],
+  "L2|modality": [
+   26,
+   46
+  ],
+  "L2|number": [
+   73,
+   118
+  ],
+  "L2|tense": [
+   91,
+   130
+  ],
+  "L3|negation added": [
+   5,
+   23
+  ],
+  "L3|negation lost": [
+   3,
+   39
+  ],
+  "L3|relation rasneg not expressed": [
+   2,
+   3
+  ],
+  "L3|relation rh not expressed": [
+   12,
+   28
+  ],
+  "L3|relation rt not expressed": [
+   33,
+   51
+  ],
+  "L4|connective missing": [
+   233,
+   278
+  ],
+  "L5|deixis distal lost": [
+   24,
+   40
+  ],
+  "L5|deixis distal reversed": [
+   1,
+   2
+  ],
+  "L5|deixis proximal lost": [
+   168,
+   200
+  ],
+  "L5|deixis proximal reversed": [
+   40,
+   46
+  ],
+  "L5|honorific dropped": [
+   5,
+   7
+  ],
+  "L5|particle BI lost": [
+   43,
+   45
+  ],
+  "L5|particle hI lost": [
+   93,
+   105
+  ],
+  "L5|particle lagaBaga lost": [
+   2,
+   2
+  ],
+  "L5|particle mAwra lost": [
+   2,
+   4
+  ],
+  "L5|particle sirPa lost": [
+   0,
+   3
+  ],
+  "L6|command -> statement": [
+   2,
+   2
+  ],
+  "L6|exclamation lost": [
+   1,
+   1
+  ],
+  "L6|question -> statement": [
+   15,
+   16
+  ],
+  "L6|statement -> question": [
+   8,
+   11
+  ]
+ },
+ "systems": {
+  "google_translate": {
+   "candidates": 107,
+   "confirmed": 63,
+   "precision": 0.5887850467289719,
+   "ci": [
+    0.4940515755657606,
+    0.6773642105650782
+   ]
+  },
+  "groq_gpt-oss-120b": {
+   "candidates": 221,
+   "confirmed": 151,
+   "precision": 0.6832579185520362,
+   "ci": [
+    0.6192379365419712,
+    0.7410156820054863
+   ]
+  },
+  "indictrans2_local": {
+   "candidates": 226,
+   "confirmed": 164,
+   "precision": 0.7256637168141593,
+   "ci": [
+    0.66408533400823,
+    0.7796985588988852
+   ]
+  },
+  "mistral_ministral-14b": {
+   "candidates": 391,
+   "confirmed": 293,
+   "precision": 0.7493606138107417,
+   "ci": [
+    0.7041177818469709,
+    0.7897511519229258
+   ]
+  },
+  "ollama_gemma3-4b": {
+   "candidates": 304,
+   "confirmed": 242,
+   "precision": 0.7960526315789473,
+   "ci": [
+    0.7471953993196709,
+    0.837520896333678
+   ]
+  }
+ },
+ "agreement": {
+  "L2": {
+   "n": 269,
+   "agreement": 0.5315985130111525,
+   "kappa": 0.006972928630024566,
+   "ac1": 0.23835419428776897
+  },
+  "L3": {
+   "n": 108,
+   "agreement": 0.4537037037037037,
+   "kappa": -0.037109374999999986,
+   "ac1": 0.011249903018077554
+  },
+  "L4": {
+   "n": 226,
+   "agreement": 0.7876106194690266,
+   "kappa": 0.04574243490499679,
+   "ac1": 0.7333071098436424
+  },
+  "L5": {
+   "n": 361,
+   "agreement": 0.6481994459833795,
+   "kappa": 0.08322501949649072,
+   "ac1": 0.4768265198413831
+  },
+  "L6": {
+   "n": 21,
+   "agreement": 0.5714285714285714,
+   "kappa": -0.26845637583892623,
+   "ac1": 0.35384615384615375
+  },
+  "ALL": {
+   "n": 985,
+   "agreement": 0.6253807106598985,
+   "kappa": 0.03863295518566631,
+   "ac1": 0.4347659417962801
+  }
+ },
+ "change_vs_single": {
+  "items": 998,
+  "single_confirmed": 914,
+  "double_confirmed": 693,
+  "flipped_to_not_error": 229,
+  "flipped_to_error": 8
+ }
+}

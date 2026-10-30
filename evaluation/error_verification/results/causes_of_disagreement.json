@@ -1,0 +1,403 @@
+{
+ "total": {
+  "not_source|not an error": 37,
+  "lost|error": 70,
+  "other_form|not an error": 166,
+  "context|error": 3,
+  "other_form|error": 23,
+  "lost|not an error": 11,
+  "context|not an error": 3,
+  "no reason|not an error": 8,
+  "other|not an error": 21,
+  "other|error": 11,
+  "not_source|error": 2,
+  "no reason|error": 4
+ },
+ "by_layer": {
+  "Discourse connective": {
+   "not_source|not an error": 15,
+   "lost|error": 5,
+   "other_form|not an error": 19,
+   "context|error": 1,
+   "other_form|error": 6,
+   "lost|not an error": 1,
+   "context|not an error": 1
+  },
+  "Morphology (tense, aspect, modality, number)": {
+   "lost|error": 9,
+   "other_form|error": 8,
+   "not_source|not an error": 11,
+   "other_form|not an error": 80,
+   "lost|not an error": 8,
+   "no reason|not an error": 3,
+   "other|not an error": 7,
+   "context|not an error": 1,
+   "other|error": 1,
+   "context|error": 2
+  },
+  "Semantic relations (voice, negation, cause/purpose/without/like)": {
+   "other_form|not an error": 27,
+   "not_source|not an error": 7,
+   "lost|not an error": 1,
+   "other|error": 1,
+   "not_source|error": 1,
+   "other|not an error": 1,
+   "lost|error": 1
+  },
+  "Sentence type": {
+   "other_form|error": 2,
+   "not_source|not an error": 3,
+   "other_form|not an error": 1,
+   "other|error": 1,
+   "lost|error": 2,
+   "no reason|error": 2
+  },
+  "Speaker's view (particles hI/bhI, deixis, honorific)": {
+   "other_form|not an error": 39,
+   "no reason|error": 2,
+   "lost|error": 53,
+   "not_source|not an error": 1,
+   "other_form|error": 7,
+   "no reason|not an error": 5,
+   "other|not an error": 13,
+   "other|error": 8,
+   "lost|not an error": 1,
+   "not_source|error": 1,
+   "context|not an error": 1
+  }
+ },
+ "examples": {
+  "Discourse connective|not_source": [
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "No discourse connective is present in Input so output has no error",
+    "not an error"
+   ],
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "no discourse connective is presnt in Hindi which is not translated into output unme already transalted",
+    "not an error"
+   ],
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "No discourse connective is there in source",
+    "not an error"
+   ]
+  ],
+  "Discourse connective|lost": [
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "that is not translated so error",
+    "error"
+   ],
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "varan(but) not translated in output tehrefore error",
+    "error"
+   ],
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "and is not translated",
+    "error"
+   ]
+  ],
+  "Discourse connective|other_form": [
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "Input and output both have slightly different meaning, output is not the correct translation so not sure whether it should be an error or not. But if one lookmc",
+    "not an error"
+   ],
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "nor retains the meaning of discourse connective",
+    "not an error"
+   ],
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "sentence is not same as source and kar is not transalted",
+    "error"
+   ]
+  ],
+  "Discourse connective|context": [
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "Thus can be correct if context is available since in this case based on the Hindi sentence and is better than thus so real error",
+    "error"
+   ],
+   [
+    "The DISCOURSE CONNECTIVE linking this sentence to the previous one is missing (expected e.",
+    "no connective present in Hindi difefrent type of error. Hindi sentence is ambiguous thus is also correct but we need context for it",
+    "not an error"
+   ]
+  ],
+  "Morphology (tense, aspect, modality, number)|lost": [
+   [
+    "The PLURAL of \"tirthankara\" is lost (singular used).",
+    "output has omitted some parts in Hindi based on that there is error",
+    "error"
+   ],
+   [
+    "The TENSE is wrong (USR/reference past, output present).",
+    "tense is not wrong other type of error",
+    "not an error"
+   ],
+   [
+    "The TENSE is wrong (USR/reference present, output past).",
+    "Based on Hindi it is not clear if present or past if we consider present then it is an error",
+    "error"
+   ]
+  ],
+  "Morphology (tense, aspect, modality, number)|other_form": [
+   [
+    "The ASPECT is lost: perfect lost.",
+    "output gives meaning of tha .",
+    "error"
+   ],
+   [
+    "The TENSE is wrong (USR/reference present, output past).",
+    "both are same no explicitely past present difference",
+    "not an error"
+   ],
+   [
+    "The PLURAL of \"answer\" is lost (singular used).",
+    "answer is singular",
+    "not an error"
+   ]
+  ],
+  "Morphology (tense, aspect, modality, number)|not_source": [
+   [
+    "The PLURAL of \"desk\" is lost (singular used).",
+    "no pulral desk in hindi",
+    "not an error"
+   ],
+   [
+    "The PLURAL of \"sweet\" is lost (singular used).",
+    "sweet in Hindi does not mean sweets",
+    "not an error"
+   ],
+   [
+    "The PLURAL of \"answer\" is lost (singular used).",
+    "Hindi also has answer in singular",
+    "not an error"
+   ]
+  ],
+  "Morphology (tense, aspect, modality, number)|no reason": [],
+  "Morphology (tense, aspect, modality, number)|other": [
+   [
+    "The TENSE is wrong (USR/reference future, output past).",
+    "would be translated to hoga",
+    "not an error"
+   ],
+   [
+    "The TENSE is wrong (USR/reference future, output past).",
+    "would be translated to hoga",
+    "not an error"
+   ],
+   [
+    "The PLURAL of \"day\" is lost (singular used).",
+    "writing the construction as a cn removes the plural difefrence in four hundred-day",
+    "not an error"
+   ]
+  ],
+  "Morphology (tense, aspect, modality, number)|context": [
+   [
+    "The PLURAL of \"area\" is lost (singular used).",
+    "based on Hindi there is no error but Hindi is littel ambiguous in source kshetron should be there",
+    "not an error"
+   ],
+   [
+    "The PLURAL of \"globe\" is lost (singular used).",
+    "based on Hindi chhote comes with plural so real error plural is lost but source Hindi is also ambiguous this can represnt one globe as well so ideally not sure ",
+    "error"
+   ],
+   [
+    "The PLURAL of \"globe\" is lost (singular used).",
+    "based on Hindi chhote comes with plural so real error plural is lost but source Hindi is also ambiguous this can represnt one globe as well so ideally not sure ",
+    "error"
+   ]
+  ],
+  "Semantic relations (voice, negation, cause/purpose/without/like)|other_form": [
+   [
+    "The CAUSE (because / due to) relation of the source is not expressed.",
+    "derived gives cause relation",
+    "not an error"
+   ],
+   [
+    "The PURPOSE (for / to / in order to) relation of the source is not expressed.",
+    "keep your eyesight retains the purpose",
+    "not an error"
+   ],
+   [
+    "The CAUSE (because / due to) relation of the source is not expressed.",
+    "causes is explicitly present",
+    "not an error"
+   ]
+  ],
+  "Semantic relations (voice, negation, cause/purpose/without/like)|not_source": [
+   [
+    "The PURPOSE (for / to / in order to) relation of the source is not expressed.",
+    "tehre is no purpose all meaning retained in output",
+    "not an error"
+   ],
+   [
+    "The PURPOSE (for / to / in order to) relation of the source is not expressed.",
+    "no purpose is lost as life's favourable conditions are present",
+    "not an error"
+   ],
+   [
+    "The PURPOSE (for / to / in order to) relation of the source is not expressed.",
+    "no purpose all meaning retained in output",
+    "not an error"
+   ]
+  ],
+  "Semantic relations (voice, negation, cause/purpose/without/like)|lost": [
+   [
+    "The PURPOSE (for / to / in order to) relation of the source is not expressed.",
+    "not an error because purpose is lost though another error",
+    "not an error"
+   ],
+   [
+    "The PURPOSE (for / to / in order to) relation of the source is not expressed.",
+    "pittashay nikalne ke liye not transalted",
+    "error"
+   ]
+  ],
+  "Semantic relations (voice, negation, cause/purpose/without/like)|other": [
+   [
+    "The CAUSE (because / due to) relation of the source is not expressed.",
+    "since because is not present it does not give cause for naming",
+    "error"
+   ],
+   [
+    "The PURPOSE (for / to / in order to) relation of the source is not expressed.",
+    "as a defence reatins purpose",
+    "not an error"
+   ]
+  ],
+  "Sentence type|other_form": [
+   [
+    "The SENTENCE TYPE is changed: question -> statement.",
+    "question marks indicate interrogative but the sentence trasnaltion is statement",
+    "error"
+   ],
+   [
+    "The SENTENCE TYPE is changed: question -> statement.",
+    "question marks indicate interrogative but the sentence trasnaltion is statement",
+    "error"
+   ],
+   [
+    "The SENTENCE TYPE is changed: statement -> question.",
+    "Question mark present — sentence type preserved",
+    "not an error"
+   ]
+  ],
+  "Sentence type|not_source": [
+   [
+    "The SENTENCE TYPE is changed: statement -> question.",
+    "Hindi source is also question",
+    "not an error"
+   ],
+   [
+    "The SENTENCE TYPE is changed: question -> statement.",
+    "Hindi is also a question",
+    "not an error"
+   ],
+   [
+    "The SENTENCE TYPE is changed: statement -> question.",
+    "Hindi is also a question",
+    "not an error"
+   ]
+  ],
+  "Sentence type|other": [
+   [
+    "The SENTENCE TYPE is changed: statement -> question.",
+    "question mark is presnt but the input is not exactly a question",
+    "error"
+   ]
+  ],
+  "Sentence type|lost": [
+   [
+    "The SENTENCE TYPE is changed: statement -> question.",
+    "statement is changed into question",
+    "error"
+   ],
+   [
+    "exclamation lost",
+    "exclamation is lost",
+    "error"
+   ]
+  ],
+  "Sentence type|no reason": [],
+  "Speaker's view (particles hI/bhI, deixis, honorific)|other_form": [
+   [
+    "The PROXIMAL (this/these/here) DEMONSTRATIVE is lost (expected \"this\").",
+    "they refers to ye",
+    "not an error"
+   ],
+   [
+    "The DISTAL (that/those/there) DEMONSTRATIVE is lost (expected \"that\").",
+    "they refers to ve log",
+    "not an error"
+   ],
+   [
+    "The PROXIMAL (this/these/here) DEMONSTRATIVE is lost (expected \"this\").",
+    "the same purpose is used as proximal",
+    "not an error"
+   ]
+  ],
+  "Speaker's view (particles hI/bhI, deixis, honorific)|no reason": [],
+  "Speaker's view (particles hI/bhI, deixis, honorific)|lost": [
+   [
+    "The PROXIMAL (this/these/here) DEMONSTRATIVE is lost (expected \"this\").",
+    "is not transalted",
+    "error"
+   ],
+   [
+    "The PROXIMAL (this/these/here) DEMONSTRATIVE is reversed (expected \"this\").",
+    "this hill transalted into the hill",
+    "error"
+   ],
+   [
+    "The PROXIMAL (this/these/here) DEMONSTRATIVE is lost (expected \"this\").",
+    "this not translated",
+    "error"
+   ]
+  ],
+  "Speaker's view (particles hI/bhI, deixis, honorific)|not_source": [
+   [
+    "The DISTAL (that/those/there) DEMONSTRATIVE is lost (expected \"that\").",
+    "source is also not has any proximal",
+    "not an error"
+   ],
+   [
+    "The PROXIMAL (this/these/here) DEMONSTRATIVE is lost (expected \"this\").",
+    "not sure since hindi is also incorrect",
+    "error"
+   ]
+  ],
+  "Speaker's view (particles hI/bhI, deixis, honorific)|other": [
+   [
+    "The DISTAL (that/those/there) DEMONSTRATIVE is lost (expected \"that\").",
+    "which was is used for that meaning",
+    "not an error"
+   ],
+   [
+    "The PROXIMAL (this/these/here) DEMONSTRATIVE is reversed (expected \"this\").",
+    "this is expected",
+    "error"
+   ],
+   [
+    "The PROXIMAL (this/these/here) DEMONSTRATIVE is lost (expected \"this\").",
+    "this island shoulb be",
+    "error"
+   ]
+  ],
+  "Speaker's view (particles hI/bhI, deixis, honorific)|context": [
+   [
+    "The PROXIMAL (this/these/here) DEMONSTRATIVE is lost (expected \"this\").",
+    "it and this same in this context",
+    "not an error"
+   ]
+  ]
+ }
+}

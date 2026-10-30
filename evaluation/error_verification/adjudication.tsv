@@ -1,0 +1,360 @@
+candidate	decision	reason
+C362	not an error	No discourse connective is present in Input so output has no error
+C369	not an error	no discourse connective is presnt in Hindi which is not translated into output unme already transalted
+C380	error	that is not translated so error
+C426	not an error	Input and output both have slightly different meaning, output is not the correct translation so not sure whether it should be an error or not. But if one lookmclosely no if is required for hindi as well that is why not an error
+C453	error	varan(but) not translated in output tehrefore error
+C456	error	Thus can be correct if context is available since in this case based on the Hindi sentence and is better than thus so real error
+C466	not an error	No discourse connective is there in source
+C520	not an error	nor retains the meaning of discourse connective
+C536	error	sentence is not same as source and kar is not transalted
+C547	error	not only captures additive connectives but initial ki is not translated in the output that is why discourse connective error is there
+C583	error	to is not translated in output though when and comma sign together give the meaning of when and to. so It should not be an error but I am unsure that is why real error based on literal translation of Hindi
+C591	not an error	rather is discourse connective
+C594	not an error	instead retains the meaning of balki
+C631	not an error	By retains the meaning
+C636	not an error	moreover retains the connective meaning
+C652	not an error	no discourse connective is present in input and is represented by comma
+C671	error	as if gives more apt menaing than seems to be
+C695	not an error	apart from this retains the connective meaning
+C741	not an error	unsure both are correct so for me no error
+C782	not an error	Hindi does not have any connective
+C802	not an error	along with that retains the connective meaning error is of difefrent type
+C851	error	and is not translated
+C864	not an error	like retains the meaning of jaise
+C903	not an error	infact is working as connective
+C923	not an error	Error is of different category not discourse connectives
+C940	not an error	in addition and at the same time both can work as connective so no error
+C941	not an error	moreover retains the connective meaning
+C953	not an error	no connective is present in Hindi
+C1053	error	kar is not translated in output
+C1057	not an error	Hindi does not have any connective
+C1060	not an error	no connective is present in Hindi
+C1081	not an error	no connective is present in Hindi other type of error is present
+C1143	not an error	no connective present in Hindi difefrent type of error
+C1194	not an error	no connective present in Hindi difefrent type of error
+C1199	not an error	in fact works as connective retains the meaning of varan
+C1217	error	and should be there
+C1252	not an error	no connective present in Hindi difefrent type of error. Hindi sentence is ambiguous thus is also correct but we need context for it
+C1256	not an error	in fact works as connective retains the meaning of balki
+C1374	not an error	no connective present in Hindi difefrent type of error
+C1435	not an error	like retains the meaning of jaise
+C1493	error	tatha is not there thus is not correct in this sentence
+C1561	not an error	along with that retains the connective meaning
+C1588	not an error	in fact
+C1607	not an error	additionally retains the meaning
+C1639	not an error	no overtly connective is there in Hindi
+C1668	error	connective should be thus/so/threfore. because of this also gives meaning but not a good connective
+C1678	not an error	no connective is present in Hindi
+C1686	not an error	no and is presnt in hindi
+C340	error	output has omitted some parts in Hindi based on that there is error
+C341	error	output gives meaning of tha .
+C347	not an error	no pulral desk in hindi
+C365	not an error	both are same no explicitely past present difference
+C379	not an error	answer is singular
+C381	not an error	no modality lost rises means abilty to cpme over
+C385	not an error	modality is retained other type of error
+C392	not an error	bone deformation means many bones deformation not a single
+C394	not an error	may contain makes ability meaning retained
+C398	not an error	tense is not wrong other type of error
+C399	error	rah chuki hai not equivalent to was
+C407	not an error	is built expresses same meaning as has been built in this case
+C418	not an error	acceptable both
+C420	not an error	here 300 room dharmashala refers to pularlity of rooms
+C422	not an error	here were not refers to past teens
+C424	not an error	eye health means both eye health
+C428	not an error	could be not refers to past tense here
+C429	not an error	sweet in Hindi does not mean sweets
+C438	not an error	would be correct than will be
+C440	not an error	both are acceptable
+C449	not an error	
+C468	not an error	
+C471	not an error	meaning is equivalent
+C473	not an error	same meaning
+C480	not an error	would also tells possibity in future
+C492	not an error	this is also correct no spect lost
+C503	not an error	no apsect is lost hindi and output both are same
+C506	not an error	form is retained though visarga spelling is incorrect or untranslated
+C512	error	Based on Hindi it is not clear if present or past if we consider present then it is an error
+C524	not an error	may be retains possibility
+C542	not an error	could be is there so no tense error
+C553	not an error	tense is correct so no error
+C554	not an error	would be translated to hoga
+C558	not an error	no aspect lost are carved shows perfective aspect
+C560	not an error	no ability lost may contains retain the possibility
+C562	not an error	based on Hindi there is no error but Hindi is littel ambiguous in source kshetron should be there
+C564	not an error	lies refers to present though the construction is incporrect but not tense error
+C567	not an error	terms is plural
+C569	not an error	answer is singular in hindi
+C571	not an error	appears refers to present same as hindi no tense lost
+C577	not an error	forest is singular in hindi
+C581	not an error	so that maintains the possibility so no error
+C590	not an error	no modality lost as not come over retains the ability meaning of the Hindi sentence
+C599	not an error	likely retains the aspect
+C600	not an error	as lines of latitude presents plural
+C612	not an error	maximum is superlative
+C622	not an error	sentence structure is changed but not the meaning so no tense is lost
+C627	not an error	desk is singular in Hindi
+C634	not an error	would is there so no tense error though different error is tehre due to connectives
+C637	error	famously known refers to present though reference and Hindi is written past
+C639	not an error	is divided reetains the aspect
+C663	not an error	shall be and should be both refers obligation so no error
+C667	not an error	no apsect is lost hindi and output both are same
+C679	not an error	tense is same
+C680	not an error	shiva and sun god both together retains the meaning of gods
+C693	not an error	Hindi is in past simple as well as output
+C694	error	ho jaaye not translated so modality lost
+C698	not an error	kshetra is singular in hindi
+C702	error	hindi is in presnt but output in past so error
+C705	not an error	sentence structure is changed but not the meaning so no tense is lost
+C725	not an error	no tense lost was constructed retains the meaning banaya gaya hai
+C732	not an error	no apsect lost is divided represents [erfective aspect
+C733	error	based on Hindi chhote comes with plural so real error plural is lost
+C736	not an error	would be translated to hoga
+C740	not an error	have been used marks progressive
+C759	not an error	output is in present as source Hindi so no error
+C760	not an error	tourist attraction makes no difefrence in singular plural so no error
+C764	not an error	could be refers to past too
+C771	not an error	sites represents plural
+C774	not an error	when nerve is used as a part of CN nerve damage no singular pulral difference is needs
+C775	not an error	Could be presents possibility of hona that is why no error
+C779	not an error	instead of disease illness is used which is in plural form so no error
+C789	error	wall space preserves the emaning of many walls thoiugh spaces should be there that is why error.
+C790	not an error	tourist attraction makes no difefrence in singular plural so no error
+C798	not an error	here have is present so output is in present not past had represents the experience of having fever not the aux verb which shows tense difference
+C800	not an error	300 room dharmashala retains the plural meaning
+C812	not an error	output tense is also in present" is "
+C816	not an error	writing the construction as a cn removes the plural difefrence in four hundred-day
+C821	not an error	Hindi also has answer in singular
+C839	error	not sure whether it is jaate hain aor jaate the in Hindi but based on reference it is an error
+C848	not an error	are installed retains the meaning of perfective aspect
+C853	not an error	tourist arrival amkes the meaning plural
+C857	error	sentence is not complete so no modality information overtly present
+C871	not an error	happens retain modality
+C879	error	based on Hindi chhote comes with plural so real error plural is lost but source Hindi is also ambiguous this can represnt one globe as well so ideally not sure but based on reference I am marking as error
+C882	not an error	Hindi also ahs singular answer
+C885	not an error	remain is main verb which is in present so no past tense
+C889	not an error	forest meaning gives plurality in output as well
+C891	not an error	Hindi is also singular
+C912	not an error	has had gives perfective no past presnt in Hindi source
+C915	not an error	Hindi also has answer in singular
+C916	error	Based on Hindi it is not clear if present or past if we consider present then it is an error
+C927	not an error	has retains the perfective aspect
+C933	not an error	here were not refers to past teens
+C934	not an error	
+C944	not an error	Hindi also has teacher in singular
+C950	not an error	so and get freedom gives meaning of mile so no possibility drop
+C964	not an error	300 room dharmashala retains the plural meaning
+C970	not an error	gave mean pada hai
+C975	not an error	tourist attractions retains the plurality of tourists
+C983	not an error	Hindi also has answer in singular
+C988	not an error	would be translated to hoga
+C1000	not an error	zones preserve the meaning of plurality
+C1004	not an error	have been gives sense of huye as well
+C1005	not an error	no tense wrong as could preserves possibility
+C1039	error	infection is singular in output but plural in input
+C1045	not an error	may occasionally retains the bility
+C1067	error	based on Hindi chhote comes with plural so real error plural is lost but source Hindi is also ambiguous this can represnt one globe as well so ideally not sure but based on reference I am marking as error
+C1120	not an error	no plural in Hindi
+C1158	error	had been bathed tense error
+C1190	not an error	here were not refers to past teens
+C1209	not an error	paintings is plural
+C1228	not an error	acceptable
+C1235	not an error	Ability/inability expressed lexically no error
+C1282	not an error	input also has only singular. only reference expressed it with plural marker.
+C1318	error	Output is not equivalent to Hindi tehrefore eroor but the meaning retained from Hindi is same only left part was in plural which was not included in output therefore erro
+C1344	not an error	place is in singular in hindi
+C1358	not an error	would be used presnt sense
+C1366	not an error	Hini also has singular
+C1381	not an error	would have been is present
+C1400	not an error	no apsect lost has once again retains the perfective emaning
+C1422	not an error	Ability/inability expressed lexically
+C1447	not an error	are actively participating retains progressive aspect
+C1463	not an error	witnessing preserves progressive
+C1497	error	infection is plural in Hindi
+C1505	error	output is in past and also Hindi source is not clear
+C1515	error	plural is lost here infection is in plural because of hain
+C1545	not an error	fragments retain plural meaning
+C1555	not an error	no plural in Hindi
+C1651	not an error	output is also in past
+C344	not an error	derived gives cause relation
+C356	not an error	tehre is no purpose all meaning retained in output
+C370	not an error	keep your eyesight retains the purpose
+C452	not an error	causes is explicitly present
+C459	not an error	derived preserves the meaning of cause relation
+C513	not an error	no purpose is lost as life's favourable conditions are present
+C565	not an error	no purpose all meaning retained in output
+C592	not an error	as shows the cause relation of the sentence
+C672	not an error	represents show purpoise relation
+C675	not an error	attracts show cause
+C677	not an error	no purpose lost all meaning retained in output
+C690	not an error	gave give the meaning of pada hai
+C714	not an error	not an error because purpose is lost though another error
+C724	not an error	cause is explicitly present
+C761	not an error	no purpose lost
+C786	error	since because is not present it does not give cause for naming
+C801	not an error	does not burn up retains the emaning of without burning
+C830	error	Hindi itself is wrong based on reference there is error
+C847	not an error	offer retains the purpose
+C861	not an error	there is no purpose in hindi though a different error is present
+C911	not an error	purpose is lexically marked
+C951	not an error	sentence is similar to source
+C982	not an error	sentence is similar to source
+C985	not an error	as a defence reatins purpose
+C993	not an error	keep your vision sharp retains the purpose
+C994	not an error	welcoming hills of kanker retain the meaning of purpose
+C1006	not an error	contributed to retain the meaning of cause
+C1047	not an error	output is correcttransaltion of hindi source so no purpose relation lost as suvidha ki drishti se also have been translated
+C1065	not an error	negation expressed lexically using impossible
+C1073	not an error	Idiomatic English expression, not semantic negation
+C1088	not an error	Negation expressed lexically
+C1142	not an error	Idiomatic English expression, not semantic negation
+C1195	not an error	causes is explicitily presents
+C1249	not an error	Idiomatic English expression, not semantic negation
+C1297	not an error	Purpose expressed by infinitive or preposition
+C1363	not an error	leads to express causal relation
+C1440	not an error	negation expressed lexically
+C1477	error	pittashay nikalne ke liye not transalted
+C1624	not an error	cause is explicitily present
+C485	error	question marks indicate interrogative but the sentence trasnaltion is statement
+C517	not an error	Hindi source is also question
+C810	not an error	Hindi is also a question
+C833	error	question marks indicate interrogative but the sentence trasnaltion is statement
+C968	not an error	Hindi is also a question
+C1035	not an error	Question mark present — sentence type preserved
+C1291	error	question mark is presnt but the input is not exactly a question
+C1320	error	statement is changed into question
+C1402	error	
+C1517	error	exclamation is lost
+C1532	error	
+C338	not an error	they refers to ye
+C352	error	
+C355	not an error	they refers to ve log
+C358	error	is not transalted
+C374	not an error	the same purpose is used as proximal
+C375	error	this hill transalted into the hill
+C387	error	this not translated
+C391	error	this town should be here
+C396	not an error	source is also not has any proximal
+C409	error	this not translated
+C411	error	in it also refers usme
+C414	not an error	
+C416	error	particle hi is absent
+C417	error	here is omitted in output
+C432	not an error	which was is used for that meaning
+C454	error	particle hi is absent
+C458	not an error	thus means is tarah
+C463	error	whole sentence is changed
+C469	error	this is expected
+C472	error	this game should be there
+C475	error	isi not translated
+C486	not an error	such is used to refer this type of therefore no error
+C487	error	this island shoulb be
+C489	not an error	as follows preserves the meaning
+C491	error	particle hi is absent but source sentence is also wrong not clear
+C510	not an error	much like retains the meaning of bhi
+C525	not an error	they retains the meaning
+C526	error	yah duuri
+C528	error	this region
+C563	error	yah not translated
+C576	not an error	
+C593	not an error	equivalent to source
+C597	error	here not translated
+C605	not an error	they retains the meaning
+C606	not an error	it contains retain the meaning
+C607	not an error	the statue is also specify proximal
+C608	error	bhi not translated
+C610	not an error	
+C628	error	particle hi is not translated
+C633	error	this is lost from the sentence
+C635	error	that part is not present
+C646	error	not sure since hindi is also incorrect
+C647	not an error	it refers the source meaning of isme
+C648	not an error	it is present
+C653	error	this not translated
+C655	not an error	proximility is lexicalized
+C676	error	isi not translated
+C685	not an error	it retains the meaning
+C699	error	this rate should be there
+C701	not an error	ther preserves the meaning of ye
+C704	not an error	shared retain the meaning
+C708	not an error	it is also correct
+C710	not an error	that line of thinking is correct
+C713	not an error	it is said also same as this is same
+C718	error	this place is more suitable
+C726	error	this not translated
+C730	error	hi is omitted
+C735	not an error	thus is there to show meaning
+C742	error	particle hi not translated
+C746	not an error	it and this same in this context
+C752	error	this is missing
+C753	not an error	where retains the meaning of jahan
+C765	not an error	them is also correct
+C767	error	this should be correct
+C777	error	particle hi is not translated
+C778	not an error	no proximal
+C780	error	it should be this temple
+C803	not an error	it preserves isme
+C805	not an error	particle is expressed lexically
+C813	not an error	to it also refers usme
+C817	not an error	
+C820	error	
+C824	error	this should be there
+C825	error	that site should be there
+C832	error	very is missing
+C835	error	this pond both missing
+C842	error	us sthan should be that place
+C873	not an error	incredibly retains the meaning bahut hi
+C880	not an error	ideal contains the meaning bahut hi
+C881	not an error	it retains the proximity
+C886	error	proximity not retained
+C887	not an error	most beautiful means behad hi
+C894	error	it should be this place
+C899	error	this city should be
+C904	error	not translated
+C905	not an error	they retains the meaning
+C909	error	this town should be
+C919	not an error	remarkably preserves the meaning of hi
+C928	not an error	the region is also correct for specification
+C936	not an error	it
+C937	error	bhi not used
+C942	not an error	
+C945	not an error	also is in output
+C962	not an error	narayan pal's vishnu temple specifi vishnu temple
+C967	not an error	it is present to show proximal
+C974	error	isi not translated
+C977	not an error	as one always has retains the emaning of bhi
+C978	not an error	it is present to show the proximity
+C979	not an error	extremely preserves particle hi meaning
+C980	error	thsese is better
+C981	error	isi not translated
+C992	not an error	it also means isse
+C996	error	This missing
+C999	error	this should be there
+C1002	not an error	the following retains the meaning in
+C1012	error	ye not translated
+C1026	not an error	mAwra expressed by equivalent word
+C1038	error	usi ka not translted into it there should be same
+C1072	error	iske omitted only as a result is there
+C1083	error	after this not translated
+C1113	not an error	as early as is used since it is not a particle but according to me it is accepted.
+C1146	not an error	profoundly preserves the meaning of the paricle hi
+C1149	error	particle hi missing
+C1156	error	here is not translated
+C1176	error	particle hi missing
+C1187	error	here is not translated
+C1214	error	hi is omitted
+C1223	error	particle meaning is missing the emphasis
+C1257	error	particle meaning is missing the emphasis
+C1276	not an error	used "it"
+C1286	error	here is not translated
+C1301	not an error	it is tehre
+C1306	error	jahan not translated
+C1332	error	here meaning not overtly translated in Output though the sense is tehre but according to me that is not equivalent
+C1365	error	isi not translated into output
+C1411	error	yahan not translted there means the subject here
+C1441	error	vahi meaning not comes from output therefore particle error
+C1524	not an error	matra transkated into mere
+C1597	not an error	its retain the meaning us
+C1616	not an error	it and that both work as demonstrative usme
+C1665	error	particle is absent it does not give meaning of hi in yahi

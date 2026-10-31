@@ -1,0 +1,1201 @@
+item	domain	id	system	input	output	a1_comprehensibility	a1_adequacy	a1_fluency	a1_error_type	a2_comprehensibility	a2_adequacy	a2_fluency	a2_error_type
+1	geography	G191	gpt-oss-120b	Hindi	Express these small circles using the names A, B, S, D, and Dh.	5	5	5	none (correct)	5	4	4	fluency / grammar only
+2	health	H279	gpt-oss-120b	Hindi	Separating or refusing treatment to people living with HIV in hospitals is a crime.	5	5	5	none (correct)	5	5	5	none (correct)
+3	tourism	190	gpt-oss-120b	USR chunks	The rocks on the downstream side of the river, formed from the moon by some earthquake in crore years before the ruin, had sunk in low water.	3	2	3	mistranslation	3	3	3	mistranslation
+4	geography	G221	IndicTrans2	Hindi	India is located 82 ° 30'E east of Greenwich.	5	5	5	none (correct)	5	5	5	none (correct)
+5	tourism	836	Gemma 3 4B	Hindi	As a result, this temple was built.	5	5	5	none (correct)	5	5	5	none (correct)
+6	health	H230	IndicTrans2	Hindi	This method has several advantages over conventional surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+7	health	H067	IndicTrans2	Hindi	X-ray, TC-DC is normal.	5	4	4	fluency / grammar only	5	5	4	fluency / grammar only
+8	geography	G203b	Gemma 3 4B	USR chunks	Time in 15 degrees east of Grinica will be 60 minutes and 1 hour ahead.	5	3	5	omission	3	3	4	omission
+9	tourism	897	gpt-oss-120b	Hindi	The nearest bus stop and railway station are 9 km away from Padanna.	5	5	5	none (correct)	5	5	5	none (correct)
+10	tourism	942	gpt-oss-120b	Hindi	It is possible to reach Uttarkayam by walking 2 kilometers through dense forest from Komba.	5	5	5	none (correct)	5	5	5	none (correct)
+11	geography	G313d	Gemma 3 4B	Hindi	That map will represent 5 kilometers of the ground for every 1 centimeter on the map.	5	4	4	discourse / connective	3	3	4	tense / aspect / modality
+12	tourism	438b	Google Translate	Hindi	And has been popular as a Shaivapeeth.	5	5	5	none (correct)	5	5	5	none (correct)
+13	tourism	729	IndicTrans2	Hindi	Hiran, elephant, bison, wild boar, etc. roam normally in Aralam.	5	4	4	untranslated / format	5	4	3	omission
+14	health	H209	Google Translate	Hindi	After this H.I.V. Attacks other CD-4 cells,	4	4		fluency / grammar only	5	5	5	none (correct)
+15	tourism	620	gpt-oss-120b	Hindi	Another major object is a second‑century BC cremation urn that you can see.	5	5	5	none (correct)	5	5	5	none (correct)
+16	geography	G304b	IndicTrans2	Hindi	And draw a diagram on it.	5	4	5	mistranslation	5	5	5	none (correct)
+17	tourism	581	Ministral 14B	USR chunks	Kanjara is located between Munnara and Pallivasala.	5	4		addition / hallucination	5	5	5	none (correct)
+18	geography	G097b	Gemma 3 4B	USR chunks	Therefore, their tendency to fall is on earth.	2	2	2	fluency / grammar only	4	4	4	fluency / grammar only
+19	geography	G009	Ministral 14B	USR chunks	You also see the moon along with these bright objects almost daily.	5	5		none (correct)	5	5	5	none (correct)
+20	geography	G332	Google Translate	Hindi	Add up all the distances.	5	5	5	none (correct)	5	5	5	none (correct)
+21	geography	G058	Google Translate	Hindi	The Sun is about 15 crore kilometers away from the Earth.	5	5	5	none (correct)	5	5	5	none (correct)
+22	geography	G258	gpt-oss-120b	Hindi	Find out when the next leap year will be.	5	5	5	none (correct)	5	5	5	none (correct)
+23	geography	G203b	IndicTrans2	Hindi	Then 15 ° east of Greenwich would be 15 × 4 = 60 minutes i.e., 1 hour ahead of Greenwich time,	3	3	5	omission	4	4	3	tense / aspect / modality
+24	geography	G317	IndicTrans2	Hindi	When parts with large areas, such as continents or countries, have to be shown on paper,	5	5	5	none (correct)	5	5	5	none (correct)
+25	health	H122b	IndicTrans2	Hindi	Eating fresh fruits at meals is advised in all cases.	5	5	5	none (correct)	4	4	5	omission
+26	health	H294e	Ministral 14B	USR chunks	Others are also active at 15 percent.	1	1	2	mistranslation	4	3	4	addition / hallucination
+27	tourism	675	Ministral 14B	Hindi	Departing from **Munnar at 9:30 AM**, **Kottayam at 10:30 AM**, and **Ernakulam at 9:30 AM**, buses run daily to **Rameswaram (Rammakkalmedu)**.	3	4	3	untranslated / format	3	3	3	addition / hallucination
+28	tourism	138	Gemma 3 4B	USR chunks	More than desire gets in a shadowy and difficult place here.	1	2	1	fluency / grammar only	3	2	4	named entity
+29	geography	G162b	Gemma 3 4B	Hindi	And it is called a tropical region.	5	5	5	none (correct)	5	5	5	none (correct)
+30	geography	G004b	Google Translate	Hindi	some of which are shiny	5	5	5	none (correct)	5	5	5	none (correct)
+31	tourism	921	Gemma 3 4B	Hindi	Anchuteng is located 8 km away from the nearest railway station, Workla.	5	5	5	none (correct)	5	3	5	tense / aspect / modality
+32	geography	G317	gpt-oss-120b	Hindi	When large areas such as continents or countries need to be shown on paper,	5	5	5	none (correct)	5	5	5	none (correct)
+33	geography	G304b	Gemma 3 4B	Hindi	And draw a sketch on it.	5	5	5	none (correct)	5	5	5	none (correct)
+34	health	H048	Google Translate	Hindi	These maintain flexibility in the body.	5	5	5	none (correct)	5	5	5	none (correct)
+35	health	H259	Ministral 14B	USR chunks	Tuberculosis and pneumonia surround TB.	2	2	2	mistranslation	3	3	4	tense / aspect / modality
+36	tourism	770a	Ministral 14B	Hindi	This is the very reason.	5	5	5	none (correct)	5	5	4	addition / hallucination
+37	health	H048	Ministral 14B	Hindi	These help maintain flexibility in the body.	5	5	5	none (correct)	5	5	5	none (correct)
+38	geography	G097b	Ministral 14B	USR chunks	Their tendency on Earth therefore falls.	2	2		mistranslation	3	3	2	fluency / grammar only
+39	geography	G187	IndicTrans2	Hindi	This point will be the correct position of the Dhubri.	5	5	5	none (correct)	5	5	5	none (correct)
+40	tourism	174b	gpt-oss-120b	Hindi	Four statues of Lord Tirthankara are installed at the summit of the man‑stambh.	5	4	5	discourse / connective	4	4	4	discourse / connective
+41	health	H209	Ministral 14B	Hindi	After this, HIV attacks other CD4 cells.	5	5	5	none (correct)	5	5	5	none (correct)
+42	health	H294e	gpt-oss-120b	USR chunks	and others are 15 percent.	5	5	5	addition / hallucination	5	4	5	addition / hallucination
+43	geography	G118	IndicTrans2	Hindi	Which planet is known as the twin planet of Earth?	5	5	5	none (correct)	5	5	5	none (correct)
+44	geography	G118	gpt-oss-120b	USR chunks	Which planet is known by the name of Earth's twin planet?	5	5	5	none (correct)	5	5	5	none (correct)
+45	tourism	561	Ministral 14B	USR chunks	Gavi Sarovara is near Iko Lauja.	4	3	5	untranslated / format	4	4	3	named entity
+46	health	H082b	Ministral 14B	Hindi	Take an antihistamine tablet for ten days.	5	4	5	mistranslation	3	3	3	discourse / connective
+47	geography	G304b	Google Translate	Hindi	And make a sketch on it.	5	5	5	none (correct)	4	4	5	addition / hallucination
+48	geography	G357	Gemma 3 4B	Hindi	Let's assume you want to go to your friend's house.	5	5	5	none (correct)	5	4	4	discourse / connective
+49	geography	G313c	IndicTrans2	Hindi	This means that 1 cm of the map will represent 5 km of the site.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+50	tourism	138	gpt-oss-120b	Hindi	Atishay Kshetra Tijara: You get more than you desire here.	5	5	5	addition / hallucination	5	5	5	none (correct)
+51	geography	G342b	Ministral 14B	Hindi	You can’t ask anyone for directions either.	5	5	5	none (correct)	4	3	4	discourse / connective
+52	health	H220b	Ministral 14B	USR chunks	Members of the affected family can live one dignified and complete life so that.	4	3		discourse / connective	5	5	4	untranslated / format
+53	geography	G342b	Google Translate	Hindi	And you can't ask anyone for directions	5	5	5	none (correct)	5	5	5	none (correct)
+54	tourism	206b	Ministral 14B	USR chunks	The pillars rising from the ground and the large pillars joined with the roof and ground are termed as Stalegamaita and Drapistona.	3	3	3	fluency / grammar only	3	3	3	fluency / grammar only
+55	tourism	688	Ministral 14B	USR chunks	Leka Pailasa and Aranyanivasa, located on a small island off the shore of a lake, are there.	2	2	3	named entity	3	3	4	addition / hallucination
+56	tourism	138	gpt-oss-120b	USR chunks	More than desire gets here in atishaya kshetra tijara.	2	3	2	fluency / grammar only	5	5	5	none (correct)
+57	tourism	912	Gemma 3 4B	Hindi	Portuguese, Dutch, and British empires had ruled here.	5	5	5	none (correct)	5	5	5	none (correct)
+58	health	H242	Ministral 14B	Hindi	HIV is the name given to the virus that causes **acquired immunodeficiency syndrome (AIDS)**.	5	3	5	addition / hallucination	4	4	4	mistranslation
+59	geography	G323	gpt-oss-120b	USR chunks	Let us learn doing some.	4	4	3	fluency / grammar only	5	5	5	none (correct)
+60	tourism	523	gpt-oss-120b	Hindi	Since the eighth year AD, the people of Kerala have become acquainted with Islam.	5	3	5	fluency / grammar only	3	3	3	tense / aspect / modality
+61	tourism	382	IndicTrans2	Hindi	The Kalika Mata temple can be dated to the early 8th century on the basis of archival evidence.	5	5	5	none (correct)	5	5	5	none (correct)
+62	health	H250	Ministral 14B	Hindi	The use of unsterilized or previously used needles can spread HIV/AIDS.	5	4	5	voice	5	5	5	none (correct)
+63	health	H209	Gemma 3 4B	USR chunks	After this, HIV attacks on other CD-4 cells.	5	5	5	none (correct)	5	5	5	none (correct)
+64	tourism	130	Gemma 3 4B	USR chunks	Three pillars had been built also in memory of four kalyanakas of Shri Shantinatha Bhagavana, Shri Kunthanatha Bhagavana, and Arahanatha Bhagavana, here.	4	4	4	fluency / grammar only	5	5	5	tense / aspect / modality
+65	tourism	664	Google Translate	Hindi	Cobra, viper (Duboiya), shining snake, myna, bulbul, woodpecker, Ramchiriya etc. (are found).	5	5	4	none (correct)	5	5	5	none (correct)
+66	health	H271	Gemma 3 4B	USR chunks	A lump or swelling happens on the breast or anywhere else in the body.	5	4	5	addition / hallucination	4	4	4	omission
+67	health	H169b	Gemma 3 4B	USR chunks	When there should be paid attention.	1	2	3	fluency / grammar only	4	4	4	tense / aspect / modality
+68	health	H215	Ministral 14B	Hindi	People fall ill very easily.	5	1	5	mistranslation	3	2	3	tense / aspect / modality
+69	geography	G009	gpt-oss-120b	USR chunks	You also see the moon along with these bright objects almost daily.	5	5	5	none (correct)	5	5	5	none (correct)
+70	health	H143	gpt-oss-120b	USR chunks	Here is the method of practice of Janushirasana.	5	5	5	none (correct)	4	4	4	omission
+71	tourism	805	Ministral 14B	Hindi	The people of Talasheri are exceptionally skilled at making sweets and experimenting with innovative dessert recipes.	5	5	5	none (correct)	5	5	5	none (correct)
+72	geography	G346	Ministral 14B	USR chunks	Some conventional symbols in Figure 4.3 have been shown.	5	5		none (correct)	5	5	5	tense / aspect / modality
+73	health	H294e	IndicTrans2	Hindi	The other is 15 per cent.	5	4	5	number	4	4	4	addition / hallucination
+74	geography	G338	Gemma 3 4B	Hindi	It is not possible to represent various shapes, such as buildings, roads, bridges, trees, railway tracks, or wells, in their actual size and form on any map.	5	5	5	none (correct)	5	5	5	none (correct)
+75	tourism	897	Gemma 3 4B	USR chunks	The nearest bus stand and railway station are at a distance of 9 kilometres from Padanna.	5	5	5	none (correct)	5	5	5	none (correct)
+76	health	H220b	gpt-oss-120b	USR chunks	So that members of the affected family can live a dignified and complete life.	5	5	5	none (correct)	5	5	5	none (correct)
+77	geography	G313	Google Translate	Hindi	For example, the distance between your school and your home is 10 km. Is	5	5	5	none (correct)	5	5	4	fluency / grammar only
+78	health	H254	Ministral 14B	USR chunks	AIDS does not spread through living together or sitting together.	5	5	5	none (correct)	5	5	5	none (correct)
+79	tourism	460	gpt-oss-120b	USR chunks	The lack of decorative meanings of the base of the temple in this temple is.	1	2	1	mistranslation	4	3	3	addition / hallucination
+80	health	H143	Ministral 14B	Hindi	Here’s a fluent English translation:	5	1	5	untranslated / format	1	2	5	addition / hallucination
+81	tourism	190	Ministral 14B	Hindi	Millions of years ago, a massive landslide—triggered by an earthquake—caused the river’s downstream cliffs to collapse and sink.	5	2	5	mistranslation	4	4	4	addition / hallucination
+82	health	H159	Ministral 14B	USR chunks	Use warm water for bathing.	5	5	5	none (correct)	5	5	5	none (correct)
+83	geography	G297	Google Translate	Hindi	Some of which are described below.	5	5	5	none (correct)	5	5	5	none (correct)
+84	health	H201	Gemma 3 4B	Hindi	The immune system is a network of mechanisms within our body.	5	5	5	none (correct)	4	3	5	addition / hallucination
+85	geography	G313c	Gemma 3 4B	USR chunks	Its meaning is.	2	2	2	omission	1	1	1	omission
+86	geography	G146b	Google Translate	Hindi	And the southern half is called the Southern Hemisphere.	5	5	5	none (correct)	4	4	5	omission
+87	tourism	174b	Gemma 3 4B	USR chunks	Four statues of tirthankara bhagavana are installed on top of mana-stambha.	5	5	5	none (correct)	5	4	5	discourse / connective
+88	tourism	650	Google Translate	Hindi	Idukki is a forest region with dense forests and grassy areas.	5	5	5	none (correct)	5	5	5	none (correct)
+89	tourism	460	Google Translate	Hindi	The decorative motifs of the temple's pedestal are lacking in this temple.	5	5	5	none (correct)	3	4	4	addition / hallucination
+90	geography	G313	Gemma 3 4B	Hindi	For example, the distance between your school and your home is 10 km.	5	5	5	none (correct)	5	5	5	none (correct)
+91	tourism	898	Gemma 3 4B	USR chunks	The nearest airport, Mangalura and Karippura Antarrashtriya Havai Adda, is 120 kilometres and 180 kilometres away from Padanna.	5	4	5	untranslated / format	5	5	3	fluency / grammar only
+92	tourism	Sent_5a	IndicTrans2	Hindi	It has been said.	5	5	5	none (correct)	5	5	5	none (correct)
+93	tourism	675	gpt-oss-120b	Hindi	Buses to Ramakkalmedu depart at 9:30 a.m. from Munnar, at 10:30 a.m. from Kottayam, and at 9:30 a.m. from Ernakulam.	5	5	5	none (correct)	5	5	5	none (correct)
+94	health	H067	gpt-oss-120b	USR chunks	X-ray and TC-DC are normal.	5	5	5	none (correct)	5	5	5	none (correct)
+95	health	H198	gpt-oss-120b	USR chunks	The brain also becomes sharp because of eating fish, walnut and almond.	5	5	5	none (correct)	5	5	5	none (correct)
+96	health	H273	Google Translate	Hindi	there are many such diseases	5	5	5	none (correct)	5	5	5	none (correct)
+97	tourism	43a	Gemma 3 4B	Hindi	They got caught up in that thought.	5	5	5	none (correct)	4	4	4	omission
+98	geography	G313d	IndicTrans2	Hindi	That 1 cm of the map will represent 5 km of the site.	5	4	5	mistranslation	5	5	5	none (correct)
+99	health	H082	gpt-oss-120b	Hindi	If you don’t feel right because of this.	2	3	5	omission	4	3	5	tense / aspect / modality
+100	tourism	43a	gpt-oss-120b	USR chunks	They fell in this thinking.	5	5	5	none (correct)	4	4	5	tense / aspect / modality
+101	health	H182	gpt-oss-120b	USR chunks	Try remembering any information through words and pictures.	5	5	5	tense / aspect / modality	5	5	4	fluency / grammar only
+102	geography	G290	Gemma 3 4B	Hindi	Maps are necessary for our various needs.	5	5	5	none (correct)	5	5	5	none (correct)
+103	geography	G221	Gemma 3 4B	Hindi	India is located east of Greenwich at 82°30' E.	5	5	5	none (correct)	5	5	5	none (correct)
+104	geography	G347	gpt-oss-120b	Hindi	The use of various colors also serves this purpose.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+105	tourism	166a	Ministral 14B	Hindi	It is widely believed. / The general perception is.	5	4	5	addition / hallucination	3	3	4	addition / hallucination
+106	geography	G357	IndicTrans2	Hindi	Suppose you want to go to your friend's house,	5	5	5	none (correct)	5	4	4	discourse / connective
+107	health	H273	Ministral 14B	Hindi	There are many such diseases.	5	5	5	none (correct)	5	5	5	none (correct)
+108	geography	G351	gpt-oss-120b	USR chunks	The road of which type near Dumari village passes.	2	2	3	fluency / grammar only	5	5	3	fluency / grammar only
+109	tourism	772	IndicTrans2	Hindi	Musappilangadu Beach is 15 km from Kannur and 8 km from Thalassery.	5	5	5	none (correct)	5	5	5	none (correct)
+110	health	H060	Gemma 3 4B	USR chunks	Fever occurs every two to three months for two and a half to three years.	5	5	5	none (correct)	5	5	5	none (correct)
+111	tourism	929	Ministral 14B	Hindi	This institution, recognized by the Government of India and the Kerala Sports Council, is a training academy for **Kalaripayattu**, the ancient martial art.	5	5	5	none (correct)	5	5	5	none (correct)
+112	health	H118	IndicTrans2	Hindi	Nuts, etc., have been used in Indian cuisine for centuries.	5	5	5	none (correct)	5	5	5	tense / aspect / modality
+113	geography	G313c	Ministral 14B	USR chunks	Its meaning is active.	1	1	5	mistranslation	1	1	3	mistranslation
+114	geography	G332	Gemma 3 4B	USR chunks	All distances add.	2	4	3	fluency / grammar only	5	5	5	none (correct)
+115	geography	G097b	Google Translate	Hindi	That they have a tendency to fall on the earth.	5	5	5	none (correct)	5	5	5	none (correct)
+116	health	H254	Gemma 3 4B	Hindi	AIDS is not transmitted by sharing bodily fluids.	5	2	5	addition / hallucination	3	3	4	tense / aspect / modality
+117	geography	G136b	Google Translate	Hindi	How can the position of any place be told on this?	4	5	4	fluency / grammar only	4	4	4	discourse / connective
+118	geography	G359	gpt-oss-120b	USR chunks	A rough drawing is drawn in this way without the help of a scale.	5	4	5	discourse / connective	4	4	4	discourse / connective
+119	tourism	202	IndicTrans2	Hindi	At a distance of 30 kilometres from Jagdalpur are the natural caves of the world-famous Kotamsar.	5	5	5	none (correct)	4	4	4	omission
+120	health	H294e	Gemma 3 4B	USR chunks	Fifteen percent and others are.	2	2	4	mistranslation	4	3	3	tense / aspect / modality
+121	health	H215	gpt-oss-120b	USR chunks	Infections to a person start happening very easily.	4	4	4	voice	5	5	4	none (correct)
+122	tourism	151	Gemma 3 4B	Hindi	On the third day of the fast, in the night, Saraswati Devi appeared in a dream showing her some wonderful things about a place near her home.	4	2	5	mistranslation	4	4	4	fluency / grammar only
+123	geography	G186b	gpt-oss-120b	USR chunks	In which these both lines cut each other.	5	3	5	mistranslation	4	4	4	omission
+124	tourism	572a	Google Translate	Hindi	The area of ​​Ikko Point is surrounded by hills like Mankunnu, Kodiyatturmala, Tonippara etc.	5	5	5	none (correct)	5	5	5	none (correct)
+125	health	H279	Gemma 3 4B	Hindi	It is a crime to isolate or deny treatment to people living with HIV in hospitals.	5	5	5	none (correct)	5	5	5	none (correct)
+126	tourism	770a	IndicTrans2	Hindi	That's the reason.	5	5	5	none (correct)	5	5	5	none (correct)
+127	tourism	769	Gemma 3 4B	USR chunks	Many natural pools have formed because of these rocks.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+128	tourism	939	IndicTrans2	Hindi	Uttaram Kayam is a small tract of land with a variety of herbs and a variety of birds.	5	5	5	none (correct)	5	5	5	none (correct)
+129	geography	G307	Gemma 3 4B	USR chunks	He sees.	5	1	5	mistranslation	1	1	1	untranslated / format
+130	health	H060	IndicTrans2	Hindi	Fever occurs every two to three months for two and a half to three years.	5	4	5	tense / aspect / modality	5	5	5	none (correct)
+131	geography	G347	Gemma 3 4B	USR chunks	Also different colours are used for this purpose.	5	4	5	fluency / grammar only	4	4	4	omission
+132	geography	G359	Ministral 14B	Hindi	Drawn this way, the rough sketch is executed without the aid of a scale.	5	5	5	none (correct)	3	3	4	discourse / connective
+133	health	H060	Google Translate	Hindi	For the last two and a half to three years he gets fever every two to three months.	5	4	5	addition / hallucination	4	4	4	addition / hallucination
+134	tourism	152b	Ministral 14B	USR chunks	There was obtained a grand statue of Candra Prabhu Bhagavana.	5	5	5	none (correct)	5	5	5	none (correct)
+135	geography	G059	Ministral 14B	USR chunks	Eight planets in our solar system exist.	5	5	3	fluency / grammar only	4	4	4	addition / hallucination
+136	tourism	729	Gemma 3 4B	USR chunks	Deer, elephants, bison, and wild boar roam in aralama in common form.	4	4	4	fluency / grammar only	4	4	4	mistranslation
+137	tourism	152b	Google Translate	Hindi	A grand statue of Lord Chandra was found there.	5	2	5	named entity	5	5	5	none (correct)
+138	geography	G097b	IndicTrans2	Hindi	that they have a tendency to fall to the earth.	5	5	5	none (correct)	5	5	5	none (correct)
+139	geography	G347	Ministral 14B	Hindi	The use of different colors is also employed for the same purpose.	5	5	5	none (correct)	5	5	5	none (correct)
+140	health	H277	Gemma 3 4B	USR chunks	Pay attention to physical cleanliness.	5	5	5	none (correct)	5	5	5	none (correct)
+141	tourism	634b	Ministral 14B	Hindi	There are numerous waterfalls here.	5	5	5	none (correct)	5	5	5	none (correct)
+142	geography	G290	gpt-oss-120b	Hindi	Maps are essential for our various needs.	5	5	5	none (correct)	5	5	5	none (correct)
+143	geography	G001	Ministral 14B	Hindi	The sky looks so beautiful after sunset.	5	2	5	addition / hallucination	4	4	4	tense / aspect / modality
+144	tourism	964	Ministral 14B	USR chunks	The nearest railway station to Tiruvananantapuram is at a distance of 61 kilometres from Kallara.	5	2	5	addition / hallucination	3	3	4	addition / hallucination
+145	geography	G066b	Ministral 14B	USR chunks	Because its size and shape are almost similar to Earth’s,	5	5	5	none (correct)	5	5	4	none (correct)
+146	geography	G307	gpt-oss-120b	Hindi	See how the line drawing gets distorted.	5	5	5	none (correct)	3	3	4	mistranslation
+147	tourism	166a	Google Translate	Hindi	There is recognition.	5	2	5	cultural concept	3	3	4	mistranslation
+148	health	H273	Gemma 3 4B	Hindi	There are many diseases like that.	5	5	5	none (correct)	5	5	5	none (correct)
+149	geography	G328	Ministral 14B	Hindi	Now, the distance between the post office and Karim’s house is 12 centimeters.	5	5	5	none (correct)	5	5	5	none (correct)
+150	health	H194	Google Translate	Hindi	These destroy homocysteine ​​which damages the nerves.	5	5	5	none (correct)	5	5	5	none (correct)
+151	health	H241	gpt-oss-120b	Hindi	Hole surgery in the field of surgery is a revolutionary invention.	5	2	5	omission	5	5	5	none (correct)
+152	tourism	Sent_5a	Ministral 14B	Hindi	It has been said.	5	5	5	none (correct)	5	5	5	none (correct)
+153	health	H202	Gemma 3 4B	USR chunks	The immune system in the body identifies disease carriers or external invaders like virus, bacteria, etc., as security.	4	3	4	untranslated / format	4	4	4	tense / aspect / modality
+154	health	H260b	gpt-oss-120b	USR chunks	Which can be seen only with a microscope.	5	5	5	none (correct)	5	5	5	none (correct)
+155	geography	G089	Google Translate	Hindi	The conditions of the Moon are not favorable for life.	5	5	5	none (correct)	5	5	5	none (correct)
+156	geography	G192b	Gemma 3 4B	Hindi	Vertical lines represent longitude lines.	5	3	5	discourse / connective	3	3	4	discourse / connective
+157	health	H190	Ministral 14B	Hindi	The lack of proper sleep leaves me feeling exhausted all day.	5	5	5	none (correct)	3	3	4	tense / aspect / modality
+158	health	H093b	Gemma 3 4B	USR chunks	And for cough, mucus get checked.	5	5	5	none (correct)	4	4	4	untranslated / format
+159	geography	G066b	Gemma 3 4B	USR chunks	Its size and shape, almost similar to earth only, are because.	1	2	2	fluency / grammar only	4	4	4	untranslated / format
+160	health	H279	gpt-oss-120b	USR chunks	Separating people living with HIV or not doing treatment in hospitals is an offence.	5	5	5	none (correct)	5	5	5	none (correct)
+161	tourism	438b	Ministral 14B	Hindi	And has been renowned as a Shaiva (Shaivite) pilgrimage site.	5	5	5	addition / hallucination	5	5	5	none (correct)
+162	tourism	991	Google Translate	Hindi	Raja Ravi Varma lived in Mumbai and Baroda for many years.	5	5	5	none (correct)	5	5	5	none (correct)
+163	health	H067	Ministral 14B	Hindi	The X-ray and CT scan results are normal.	5	5	5	addition / hallucination	3	3	3	addition / hallucination
+164	health	H091b	gpt-oss-120b	Hindi	So what should be done?	5	5	5	none (correct)	5	5	5	none (correct)
+165	health	H168b	gpt-oss-120b	Hindi	By adopting them, you can open the closed windows of the mind.	5	5	5	particle / deixis	5	5	5	none (correct)
+166	geography	G347	gpt-oss-120b	USR chunks	Also different colours are used for this purpose.	5	5	5	none (correct)	4	4	4	untranslated / format
+167	health	H194	IndicTrans2	Hindi	They destroy homocysteine, which causes nerve damage.	5	5	5	none (correct)	5	5	5	none (correct)
+168	health	H230	gpt-oss-120b	Hindi	This method has many advantages compared to traditional surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+169	tourism	Sent_20	Gemma 3 4B	USR chunks	Cengalapata steshana, on main line going from cennai steshana of dakshina relave to dhanushkoti, is at a distance of 35 miles from cennai.	3	4	2	untranslated / format	4	4	2	omission
+170	health	H057	gpt-oss-120b	USR chunks	Kala-azar, malaria or high fever can happen.	5	5	5	none (correct)	5	5	4	none (correct)
+171	tourism	206b	IndicTrans2	Hindi	The columns that rise above the ground are called stalagmite and the roof and the large columns that meet the ground are called dripstones.	3	3	3	mistranslation	5	5	4	none (correct)
+172	tourism	174b	Google Translate	Hindi	That four idols of Lord Tirthankara are installed on the top of the Mann-Stambha.	5	5	5	none (correct)	5	5	5	none (correct)
+173	geography	G045	Google Translate	Hindi	It receives all its light and heat from the Sun,	5	5	5	none (correct)	5	5	5	none (correct)
+174	geography	G258	Ministral 14B	Hindi	Find out when the next leap year will be.	5	5	5	none (correct)	5	5	5	none (correct)
+175	health	H103b	Gemma 3 4B	Hindi	What kind of diet do you follow to maintain your eye health?	5	2	5	mistranslation	4	4	4	tense / aspect / modality
+176	tourism	460	IndicTrans2	Hindi	The temple lacks the ornamental connotations of the temple's pedestal.	4	4	5	cultural concept	3	3	4	mistranslation
+177	geography	G313	gpt-oss-120b	USR chunks	The distance between your school and your home, for example, is 10 kilometres.	5	5	5	none (correct)	5	5	4	untranslated / format
+178	health	H122b	Gemma 3 4B	Hindi	It is advised to eat fresh fruits in every case.	4	4	5	omission	3	3	4	omission
+179	health	H220b	Google Translate	Hindi	So that the affected family members can live a respectable and fulfilling life.	5	5	5	none (correct)	5	5	5	none (correct)
+180	geography	G317	Gemma 3 4B	Hindi	When large areas such as continents or countries need to be shown on paper.	5	5	5	none (correct)	5	5	5	none (correct)
+181	tourism	460	gpt-oss-120b	Hindi	The decorative elements of the temple’s rear wall are absent in this temple.	5	5	5	none (correct)	4	4	4	mistranslation
+182	health	H214	IndicTrans2	Hindi	The person starts falling sick again and again.	5	5	5	none (correct)	5	5	5	none (correct)
+183	tourism	664	gpt-oss-120b	Hindi	Cobras, vipers (duboiya), glossy snakes, mynas, bulbuls, kingfishers, ramchiraia, etc., are found.	5	3	5	omission	5	5	5	none (correct)
+184	tourism	942	Ministral 14B	USR chunks	From Komba, Uttarakayama can be reached by unsteadying a pedestrian in two kilometres from dense forest.	1	2	1	mistranslation	5	5	5	none (correct)
+185	geography	G178	Gemma 3 4B	USR chunks	This meridian is called as prime meridian.	5	5	5	none (correct)	5	5	5	none (correct)
+186	tourism	728	IndicTrans2	Hindi	Aralam is spread over an area of 55 km2 on the slope of the Sahyadri.	4	4	3	untranslated / format	5	5	5	none (correct)
+187	geography	G191	Gemma 3 4B	USR chunks	These small circles, by a, ba, sa, da and da names, express.	3	3	2	fluency / grammar only	4	4	4	untranslated / format
+188	tourism	836	Ministral 14B	USR chunks	This temple was made as a result.	4	4	4	fluency / grammar only	5	5	5	none (correct)
+189	geography	G100b	gpt-oss-120b	USR chunks	Pits on the surface get formed by which.	4	4	4	fluency / grammar only	3	3	4	tense / aspect / modality
+190	tourism	152b	Ministral 14B	Hindi	There, a magnificent statue of Lord Chandra Prabhu was installed.	5	2	5	mistranslation	4	4	4	tense / aspect / modality
+191	health	H279	Google Translate	Hindi	HIV in hospitals It is a crime to isolate or not treat people living with HIV.	3	3	3	fluency / grammar only	4	4	4	untranslated / format
+192	geography	G248b	gpt-oss-120b	Hindi	Because of that, that area will experience continuous heat.	5	5	5	none (correct)	5	5	5	none (correct)
+193	tourism	248	IndicTrans2	Hindi	The Mama-Bhanja temple is exquisite and spectacular in terms of craftsmanship.	5	5	5	none (correct)	4	3	4	addition / hallucination
+194	tourism	130	gpt-oss-120b	USR chunks	Here, three pillars also in memory of the four kalyanakas of Shri Shantinatha Bhagavana, Shri Kunthanatha Bhagavana and Arahanatha Bhagavana had been built.	4	3	4	fluency / grammar only	5	5	5	none (correct)
+195	health	H169b	IndicTrans2	Hindi	when paying attention to it.	5	4	5	fluency / grammar only	4	4	4	tense / aspect / modality
+196	geography	G328	Gemma 3 4B	Hindi	Now the distance between a post office and Karim’s house is 12 cm.	5	5	5	none (correct)	5	5	5	none (correct)
+197	geography	G066b	gpt-oss-120b	USR chunks	Because its size and shape are almost similar to Earth only.	5	5		particle / deixis	5	5	5	none (correct)
+198	tourism	382	Google Translate	Hindi	On the basis of inscriptional evidence, Kalika Mata temple can be dated to the early 8th century.	5	5	5	none (correct)	5	5	5	none (correct)
+199	geography	G146b	gpt-oss-120b	USR chunks	And the south half part, as the southern hemisphere, is called.	2	3	3	fluency / grammar only	5	5	5	none (correct)
+200	geography	G186b	Google Translate	Hindi	Where these two lines intersect each other.	5	5	5	none (correct)	5	5	5	none (correct)
+201	tourism	929	Ministral 14B	USR chunks	This institute, recognized by Bharata Sarakara and Kerala Sports Authority, is a training centre for the martial art named Kalarippayattu.	5	3	5	untranslated / format	4	4	4	none (correct)
+202	health	H279	Gemma 3 4B	USR chunks	People living with HIV or not doing treatment in hospitals are an offence.	1	2	2	mistranslation	3	3	2	mistranslation
+203	tourism	898	Gemma 3 4B	Hindi	The nearest airport to Ponnana is Mangalore, 120 km away, and the Kirippur International Airport is 180 km away.	4	3		named entity	5	5	5	none (correct)
+204	tourism	805	Google Translate	Hindi	The people of Talashsheri are adept at making sweets and experimenting with new sweets.	5	5	5	none (correct)	5	5	5	none (correct)
+205	geography	G221	Google Translate	Hindi	India is 82° 30' east of Greenwich. is located in	3	3	3	fluency / grammar only	3	3	3	untranslated / format
+206	geography	G313d	Gemma 3 4B	USR chunks	Five kilometres of ground will show a map one centimetre in length.	3	3	2	mistranslation	4	4	4	discourse / connective
+207	health	H122b	Ministral 14B	USR chunks	The advice of eating fresh fruits in meals is always given.	4	3	3	mistranslation	4	4	4	tense / aspect / modality
+208	geography	G304b	gpt-oss-120b	USR chunks	And there make some sketch.	3	3	3	particle / deixis	4	4	4	omission
+209	health	H186b	Gemma 3 4B	Hindi	Those that protect brain cells from destruction.	5	4	5	tense / aspect / modality	5	5	5	none (correct)
+210	health	H065	Gemma 3 4B	Hindi	Check for a fever.	5	5	5	none (correct)	3	3	3	tense / aspect / modality
+211	geography	G297	Ministral 14B	Hindi	Some of which are described below.	5	5	5	none (correct)	5	5	5	none (correct)
+212	geography	G297	Ministral 14B	USR chunks	Some of the things below have been described.	5	4	5	voice	4	4	4	addition / hallucination
+213	tourism	675	Gemma 3 4B	USR chunks	Buses go from Munnara, Kottayama, and Ernakulama to Ramakkalmedu in the morning at 9:30, 10:30, and 9:30.	5	5	5	none (correct)	3	3	2	mistranslation
+214	geography	G313	Ministral 14B	USR chunks	The distance between your school and your home, for example, is 10 kilometres.	5	4	5	fluency / grammar only	4	4	4	untranslated / format
+215	tourism	474a	Gemma 3 4B	Hindi	A temple dedicated to Shiva is built on the corner to the right of the temple.	2	2	5	mistranslation	4	4	4	named entity
+216	geography	G317	Gemma 3 4B	USR chunks	When large area parts like continents or countries have to be shown on paper.	5	5	5	none (correct)	5	5	5	none (correct)
+217	geography	G332	gpt-oss-120b	USR chunks	All distances add.	4	4		fluency / grammar only	5	5	5	none (correct)
+218	tourism	728	gpt-oss-120b	Hindi	It is spread over an area of 55 square kilometres on the slope of the Arlam Sahyadri.	4	3	4	named entity	4	3	4	mistranslation
+219	health	H260b	gpt-oss-120b	Hindi	Only visible under a microscope.	5	4	5	omission	4	3	4	omission
+220	tourism	675	IndicTrans2	Hindi	Buses leave from Munnar at 9: 30 a.m., Kottayam at 10: 30 a.m., and Ernakulam at 9: 30 a.m. for Ramakkalmedu.	5	5	5	none (correct)	5	5	5	none (correct)
+221	geography	G192b	gpt-oss-120b	USR chunks	The vertical lines express east longitudes.	5	4	5	discourse / connective	5	5	5	discourse / connective
+222	tourism	130	Google Translate	Hindi	Three pillars were also built here in memory of the four Kalyanak of Shri Shantinath Bhagwan, Shri Kunthanath Bhagwan and Arhanath Bhagwan.	5	4	5	number	5	5	5	none (correct)
+223	tourism	206b	Google Translate	Hindi	The pillars rising above the ground are called stalagmites and the large pillars found above the roof and the ground are called dropstones.	4	3	4	mistranslation	4	4	4	mistranslation
+224	health	H011	Ministral 14B	Hindi	This makes your breath smell foul.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+225	health	H242	IndicTrans2	Hindi	एच.आई.वी. that virus or virus is called,	4	4	4	fluency / grammar only	3	1	1	mistranslation
+226	tourism	897	Gemma 3 4B	Hindi	Paddanna is 9 km away from the nearest bus station and railway station.	2	2	5	mistranslation	4	4	4	tense / aspect / modality
+227	health	H014	IndicTrans2	Hindi	Saliva destroys the bacteria that cause bad breath.	5	4	4	fluency / grammar only	4	4	4	mistranslation
+228	health	H082b	Gemma 3 4B	USR chunks	Then take an anti-allergic tablet for ten days.	5	5	5	none (correct)	5	5	5	none (correct)
+229	tourism	Sent_5a	gpt-oss-120b	Hindi	It has been said.	5	5	5	none (correct)	5	5	5	none (correct)
+230	health	H214	Ministral 14B	USR chunks	The person falls ill again and again.	5	5	4	none (correct)	4	4	4	tense / aspect / modality
+231	tourism	460	Gemma 3 4B	USR chunks	The lack of decorative meanings of the base of the temple is in this temple.	2	2	2	fluency / grammar only	4	4	4	mistranslation
+232	health	H182	Gemma 3 4B	USR chunks	Remembering any information through words and pictures, try.	4	3	4	sentence type	4	4	4	fluency / grammar only
+233	health	H011	gpt-oss-120b	USR chunks	The stink from breath starts coming because of this.	5	4	5	sentence type	5	5	5	none (correct)
+234	geography	G359	Google Translate	Hindi	Thus the rough diagram is drawn without the help of scale.	5	5	5	none (correct)	5	5	5	none (correct)
+235	health	H014	Gemma 3 4B	USR chunks	Which stink create [in breath] [those bacteria] destroy saliva.	2	2	4	mistranslation	3	3	3	fluency / grammar only
+236	tourism	130	IndicTrans2	Hindi	Three pillars were also built here in memory of the four well-wishers of Shri Shantinath Bhagwan, Shri Kunthanath Bhagwan and Arhanath Bhagwan.	4	4	5	mistranslation	4	4	4	mistranslation
+237	tourism	130	gpt-oss-120b	Hindi	In memory of the four Kalyanaks of Shri Shantinath Bhagwan, Shri Kunthnath Bhagwan, and Arhanath Bhagwan, three pillars were also erected here.	5	5	5	none (correct)	5	5	5	none (correct)
+238	geography	G059	Ministral 14B	Hindi	In our solar system, there are eight planets.	5	5	5	none (correct)	5	5	5	none (correct)
+239	tourism	688	Gemma 3 4B	USR chunks	Leka and aranyanivasa are located in a small island in the shore of lake.	2	2	4	mistranslation	3	3	3	named entity
+240	geography	G323	Gemma 3 4B	USR chunks	Let us learn doing some.	4	4	4	fluency / grammar only	4	3	4	mistranslation
+241	tourism	620	Gemma 3 4B	Hindi	Another significant object is a pyre ash urn from the second century BC, which you can see.	5	4	5	none (correct)	5	5	5	none (correct)
+242	geography	G317	gpt-oss-120b	USR chunks	When large area parts like continents or countries have to be shown on paper.	4	4	5	fluency / grammar only	3	3	4	addition / hallucination
+243	tourism	531a	Google Translate	Hindi	There is a history of progress in education and progress in scientific fields.	5	5	5	none (correct)	4	4	4	omission
+244	health	H186	gpt-oss-120b	USR chunks	And some such chemicals, along with that only, are secreted.	4	4	4	fluency / grammar only	5	5	5	none (correct)
+245	geography	G297	IndicTrans2	Hindi	Some of them are described below.	5	5	5	none (correct)	5	5	5	none (correct)
+246	geography	G351	Gemma 3 4B	Hindi	What kind of road passes by Dumri village?	5	5	5	none (correct)	5	5	5	particle / deixis
+247	health	H201	gpt-oss-120b	Hindi	The immune system is a mechanism of arrangements within our body.	5	4	5	particle / deixis	5	5	5	none (correct)
+248	health	H202	IndicTrans2	Hindi	The immune system defense mechanism identifies pathogens or external invaders in the body such as viruses, bacteria, etc.	5	5	5	none (correct)	5	5	5	none (correct)
+249	health	H004b	gpt-oss-120b	USR chunks	And these breath make stinking.	1	2	3	fluency / grammar only	4	4	4	fluency / grammar only
+250	tourism	769	Gemma 3 4B	Hindi	Many natural pools were formed due to these rocks.	5	5	5	none (correct)	5	5	5	none (correct)
+251	geography	G313d	gpt-oss-120b	USR chunks	A 1 centimetre of map will show 5 kilometres of ground.	5	4	5	discourse / connective	4	4	4	discourse / connective
+252	health	H186	Ministral 14B	Hindi	Some enzymes are also secreted alongside.	5	5	5	none (correct)	4	4	4	addition / hallucination
+253	health	H220b	Gemma 3 4B	Hindi	so that the affected family members can live a respected and fulfilling life.	5	5	5	none (correct)	5	5	5	none (correct)
+254	tourism	726	gpt-oss-120b	USR chunks	The Kocci international airport is 155 kilometres away from Vattavada.	5	5	5	none (correct)	5	5	5	none (correct)
+255	geography	G001	Google Translate	Hindi	How nice it feels to look at the sky after sunset.	5	5	5	none (correct)	5	5	5	none (correct)
+256	tourism	675	gpt-oss-120b	USR chunks	Buses at 9:30, 10:30 and 9:30 in the morning from Munnara, Kottayama and Ernakulama go to Ramakkalmedu.	5	5	5	none (correct)	3	3	3	fluency / grammar only
+257	tourism	964	IndicTrans2	Hindi	The nearest railway station from Kallar is Thiruvananthapuram at a distance of 61 km.	5	5	5	none (correct)	5	5	5	none (correct)
+258	geography	G351	IndicTrans2	Hindi	What kind of road passes near Dumri village?	5	5	5	none (correct)	4	4	4	particle / deixis
+259	geography	G342b	Ministral 14B	USR chunks	You cannot ask anyone about directions.	5	4	5	omission	5	4	5	discourse / connective
+260	tourism	190	Ministral 14B	USR chunks	The rocks on the downside of the river had sunk from the moon, which was formed from some earthquake in crore years before ruin, in low.	2	2	1	mistranslation	3	3	3	mistranslation
+261	health	H143	Gemma 3 4B	USR chunks	The method of practice of Janushirasana here is presented.	5	5	5	none (correct)	5	5	5	none (correct)
+262	health	H023	Gemma 3 4B	USR chunks	After meal, the mouth cleans.	3	3	4	sentence type	4	4	4	untranslated / format
+263	health	H186	Gemma 3 4B	USR chunks	Some such chemicals and along with that only are secreted.	1	2	1	fluency / grammar only	3	3	4	addition / hallucination
+264	geography	G143b	Google Translate	Hindi	Which is an imaginary line.	5	5	5	none (correct)	5	5	5	none (correct)
+265	health	H270	Gemma 3 4B	Hindi	Swelling of the lymph nodes in multiple locations.	5	3	5	mistranslation	4	4	4	mistranslation
+266	geography	G123	gpt-oss-120b	USR chunks	Prepare a chart of the solar system.	5	5	5	none (correct)	5	5	5	none (correct)
+267	health	H198	IndicTrans2	Hindi	Eating fish, walnuts, and almonds also stimulates the brain.	5	5	5	none (correct)	4	4	4	mistranslation
+268	health	H209b	Gemma 3 4B	Hindi	And this process is repeated again and again.	5	5	5	none (correct)	5	5	5	none (correct)
+269	health	H182	gpt-oss-120b	Hindi	Try to remember any information through words and images.	5	5	5	none (correct)	5	5	5	none (correct)
+270	geography	G285b	Gemma 3 4B	Hindi	Then the globe proved to be quite useful for us.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+271	health	H023	Google Translate	Hindi	Clean mouth after eating.	5	5	5	none (correct)	5	5	5	none (correct)
+272	tourism	406	Gemma 3 4B	Hindi	According to Shri Daki, the inscription praising the victory of Kirti stambh was dedicated to the ancient Tipur victory.	4	3	5	omission	4	4	4	named entity
+273	tourism	991	gpt-oss-120b	USR chunks	Raja Ravi Varma lived for many years in Mumbai and Badauda.	5	4	5	named entity	5	5	5	none (correct)
+274	health	H178	IndicTrans2	Hindi	Even if you're a visual learner	5	5	5	none (correct)	5	5	5	none (correct)
+275	health	H014	Google Translate	Hindi	Saliva destroys the bacteria that cause bad breath.	5	5	5	none (correct)	4	4	4	mistranslation
+276	tourism	166a	Gemma 3 4B	Hindi	It is believed.	5	5	5	none (correct)	5	5	5	none (correct)
+277	health	H169b	Ministral 14B	USR chunks	Attention should be paid when there is a need.	5	2	5	addition / hallucination	4	3	4	addition / hallucination
+278	health	H271	IndicTrans2	Hindi	A lump or swelling on the breast or elsewhere in the body.	5	5	5	none (correct)	5	5	5	none (correct)
+279	tourism	939	Ministral 14B	Hindi	Uttarakhand is a small yet diverse region teeming with a variety of medicinal herbs and an array of bird species.	5	3	5	named entity	1	1	3	addition / hallucination
+280	tourism	524	gpt-oss-120b	USR chunks	Historians used to consider ancient Kerala as part of the Tamil region.	5	5	5	none (correct)	5	5	5	none (correct)
+281	tourism	822a	IndicTrans2	Hindi	There are many other pictures as well.	5	5	5	none (correct)	5	5	5	none (correct)
+282	health	H186	Ministral 14B	USR chunks	Some such chemicals, along with that only secreted, are produced.	2	3	2	fluency / grammar only	3	3	3	addition / hallucination
+283	geography	G162b	Ministral 14B	USR chunks	This is called the torrid zone.	5	4	5	omission	4	4	4	discourse / connective
+284	geography	G347	IndicTrans2	Hindi	Different colours are also used for the same purpose.	5	4	5	particle / deixis	5	5	5	none (correct)
+285	tourism	772	Google Translate	Hindi	Mushappilangadu beach is 15 km from Kannur. m. And 8 km from Talashsheri. m. Is at a distance of .	2	3	3	fluency / grammar only	4	4	4	addition / hallucination
+286	health	H011	Gemma 3 4B	Hindi	It starts to smell of breath.	2	2	2	fluency / grammar only	5	5	5	none (correct)
+287	tourism	769	gpt-oss-120b	Hindi	Because of these rocks, many natural pools have formed.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+288	tourism	Sent_20	Gemma 3 4B	Hindi	Chengalpattu station is located 35 miles from Chennai on the main line from Southern Railway's Chennai station to Dhanushkoti.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+289	tourism	474a	Google Translate	Hindi	A Shakti temple is built on the right side corner of the Saas temple.	5	5	5	none (correct)	5	5	5	none (correct)
+290	geography	G178	Ministral 14B	Hindi	This meridian is called the **Prime Meridian**.	5	5	5	none (correct)	5	5	5	none (correct)
+291	geography	G304b	gpt-oss-120b	Hindi	And draw a diagram on it.	5	4	5	mistranslation	5	5	5	none (correct)
+292	tourism	206b	Ministral 14B	Hindi	The vertical columns that rise from the ground are called **stalagmites**, while the large, hanging columns that form from the ceiling and floor are known as **stalactites** (or **stalagmite-stalactite columns** when they merge). Alternatively, the combined formations are often referred to as **pillars** or **columns** in cave terminology.	3	3	5	addition / hallucination	4	4	4	addition / hallucination
+293	health	H202	Google Translate	Hindi	The immune system is a defense mechanism that detects pathogens or foreign invaders such as viruses, bacteria, etc. in the body.	5	5	5	none (correct)	3	3	4	mistranslation
+294	health	H093b	gpt-oss-120b	USR chunks	And get the cough mucus checked.	5	3	5	addition / hallucination	4	4	4	omission
+295	tourism	174b	IndicTrans2	Hindi	That four idols of the Tirthankara God are installed on the top of the Man-stambha.	5	5	5	none (correct)	5	5	5	none (correct)
+296	health	H202	gpt-oss-120b	USR chunks	The immune system in the body identifies disease carriers or external invaders like viruses, bacteria, etc., as security.	3	3	4	mistranslation	5	5	5	none (correct)
+297	health	H178	gpt-oss-120b	USR chunks	Although you are only a visual learner.	5	2	5	discourse / connective	4	4	4	discourse / connective
+298	health	H182	Ministral 14B	USR chunks	People try to remember any information through words and pictures.	5	3	5	sentence type	4	4	5	addition / hallucination
+299	health	H091b	Google Translate	Hindi	So what should be done?	5	5	5	none (correct)	5	5	5	none (correct)
+300	geography	G323	Ministral 14B	Hindi	Let’s learn by doing something.	5	5	5	none (correct)	5	5	5	none (correct)
+301	geography	G219	Ministral 14B	Hindi	That is, the match will begin at 7:30 PM **Indian Standard Time**.	5	5	5	none (correct)	4	4	4	addition / hallucination
+302	tourism	778	gpt-oss-120b	Hindi	The nearest railway station to Payyambalam Beach, Kannur, is located 2 km away.	5	5	5	none (correct)	5	5	5	none (correct)
+303	geography	G071	Gemma 3 4B	USR chunks	This is near poles, slightly flat.	3	4	3	fluency / grammar only	5	5	5	none (correct)
+304	geography	G162b	Google Translate	Hindi	And it is called tropical zone.	5	5	5	none (correct)	5	5	5	none (correct)
+305	tourism	634b	Ministral 14B	USR chunks	Many waterfalls are here.	5	5	3	fluency / grammar only	5	5	5	none (correct)
+306	health	H048	Gemma 3 4B	USR chunks	Flexibility with these in the body remains.	4	5	3	fluency / grammar only	5	5	5	none (correct)
+307	tourism	43a	IndicTrans2	Hindi	They came up with this idea.	2	1	5	mistranslation	3	3	4	tense / aspect / modality
+308	tourism	151	gpt-oss-120b	USR chunks	Sarasvati Devi, on the third day at night of the fast, in a dream about a place situated near her house, had seen something unprecedented.	4	4	4	fluency / grammar only	3	3	3	fluency / grammar only
+309	health	H259	Ministral 14B	Hindi	The sentence can be translated into fluent English as:	5	1	5	mistranslation	1	1	1	addition / hallucination
+310	geography	G123	Ministral 14B	Hindi	Create a chart of the solar system.	5	5	5	none (correct)	4	4	4	mistranslation
+311	health	H214	Gemma 3 4B	USR chunks	Person starts falling ill again and again.	5	5	5	none (correct)	5	5	5	none (correct)
+312	health	H194	Ministral 14B	USR chunks	These homocysteine-caused nerve damages are destroyed.	3	2	4	mistranslation	3	3	3	tense / aspect / modality
+313	health	H014	Gemma 3 4B	Hindi	Saliva destroys bacteria that cause bad breath.	5	5	5	none (correct)	4	4	4	mistranslation
+314	geography	G317	Ministral 14B	Hindi	When mapping large areas such as continents or countries onto paper,	5	5	5	none (correct)	4	4	4	mistranslation
+315	tourism	406	Ministral 14B	Hindi	According to Shri Dhaki, the Kirti Stambha inscription refers to the ancient **Kumbha-swamin Alam** as the **Tripura Victory**.	4	4	5	fluency / grammar only	3	3	4	mistranslation
+316	geography	G338	Ministral 14B	Hindi	It is impossible to accurately depict the true size and form of various features—such as buildings, roads, bridges, trees, railway tracks, or wells—on any map.	5	5	5	none (correct)	5	5	5	none (correct)
+317	health	H109	gpt-oss-120b	Hindi	Make sure to eat two or three eggs for breakfast every day.	5	5	5	none (correct)	4	4	4	mistranslation
+318	geography	G338	Google Translate	Hindi	It is not possible to show various shapes like buildings, roads, bridges, trees, railway tracks or wells in their actual size and shape on any map.	5	5	5	none (correct)	5	5	5	none (correct)
+319	geography	G328	Gemma 3 4B	USR chunks	The distance between one post office and the house of Karima is now 12 centimetres.	5	5	5	none (correct)	4	4	4	discourse / connective
+320	health	H057	Ministral 14B	Hindi	The illness could be kala-azar, malaria, or simply a high fever.	5	5	5	none (correct)	5	5	5	none (correct)
+321	tourism	939	gpt-oss-120b	Hindi	Uttaram Kayam is a small area filled with a variety of herbs and different kinds of birds.	5	5	5	none (correct)	5	5	5	none (correct)
+322	health	H271	Google Translate	Hindi	Lump or swelling on the breast or elsewhere in the body.	5	5	5	none (correct)	5	5		
+323	tourism	822a	gpt-oss-120b	USR chunks	And several other pictures are.	2	2	4	fluency / grammar only	4	4	4	discourse / connective
+324	geography	G146b	Gemma 3 4B	Hindi	That southern half of the Earth is known as the Southern Hemisphere.	5	4	5	discourse / connective	4	4	4	tense / aspect / modality
+325	geography	G332	Gemma 3 4B	Hindi	Add up all the distances.	5	5	5	none (correct)	5	5	5	none (correct)
+326	tourism	130	Gemma 3 4B	Hindi	Here, three pillars were erected in memory of the four Arhats, Shantinath, Kunthnath, and Arhatnath.	2	2	5	omission	3	2	3	mistranslation
+327	health	H186b	gpt-oss-120b	USR chunks	Which cells of the brain will save from becoming destroyed.	1	2	5	mistranslation	3	3	4	tense / aspect / modality
+328	tourism	898	Google Translate	Hindi	Nearest airport from Padanna - Mangalore, 120 km. m. And Karippur International Airport, 180 km. It is at a distance of m.	2	3	2	fluency / grammar only	2	2	1	untranslated / format
+329	geography	G248b	Google Translate	Hindi	Due to which there will be continuous heat in that area.	5	5	5	none (correct)	5	5	5	none (correct)
+330	tourism	991	gpt-oss-120b	Hindi	King Ravi Verma lived for several years in Mumbai and Baroda.	5	5	5	named entity	4	4	4	named entity
+331	geography	G317	Ministral 14B	USR chunks	When large areas like continents or countries on paper have to be shown,	4	4	4	fluency / grammar only	4	4	4	omission
+332	health	H194	gpt-oss-120b	Hindi	They eliminate the homocysteine that damages the nerves.	5	5	5	none (correct)	5	5	5	none (correct)
+333	health	H270	gpt-oss-120b	USR chunks	The size of lymph nodes in more than one place increases.	5	5	5	none (correct)	5	5	5	none (correct)
+334	health	H004b	Gemma 3 4B	USR chunks	These breaths make a stinking smell and.	2	2	2	fluency / grammar only	3	3	3	addition / hallucination
+335	health	H230	gpt-oss-120b	USR chunks	There are many advantages of this method than traditional surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+336	tourism	650	Gemma 3 4B	Hindi	It is a forest region characterized by dense forests and expanses of grasslands.	5	2	5	named entity	3	3	4	addition / hallucination
+337	geography	G066b	Gemma 3 4B	Hindi	Because its size and shape are almost identical to Earth's.	5	5	5	none (correct)	5	5	5	none (correct)
+338	health	H057	gpt-oss-120b	Hindi	It could be kala‑azar, malaria, or a high fever.	5	5	5	none (correct)	5	5	5	none (correct)
+339	geography	G192b	Google Translate	Hindi	that vertical lines express former longitudes	5	3	5	omission	4	4	4	mistranslation
+340	tourism	Sent_5a	gpt-oss-120b	USR chunks	This has been stated.	5	5	5	none (correct)	5	5	5	none (correct)
+341	geography	G258	gpt-oss-120b	USR chunks	Find out.	5	2	5	omission	1	1	1	untranslated / format
+342	health	H177b	Ministral 14B	USR chunks	Use it for remembering.	5	4	5	discourse / connective	3	3	4	discourse / connective
+343	geography	G290	Gemma 3 4B	USR chunks	Maps are necessary for our different needs.	5	5	5	none (correct)	5	5	5	none (correct)
+344	health	H023	Ministral 14B	Hindi	After eating, always remember to clean your mouth—rinse or brush your teeth.	5	5		addition / hallucination	3	3	3	tense / aspect / modality
+345	tourism	664	IndicTrans2	Hindi	Nagas, Viper (Duboya), Shiny Snake, Myna, Bulbul, Woodpecker, Ramchiraiya etc. (found).	5	4	5	untranslated / format	4	4	4	named entity
+346	health	H273	Ministral 14B	USR chunks	Several such diseases are present.	5	5	5	none (correct)	3	3	3	addition / hallucination
+347	health	H214	Ministral 14B	Hindi	The individual keeps falling ill repeatedly.	5	5	5	none (correct)	3	3	4	addition / hallucination
+348	health	H214	Google Translate	Hindi	the person starts falling ill again and again	5	5	5	none (correct)	5	5	5	none (correct)
+349	tourism	474a	Gemma 3 4B	USR chunks	A shakti mandira built on the corner of the right side of the sasa mandira is.	4	4	4	untranslated / format	4	4	4	fluency / grammar only
+350	tourism	769	Ministral 14B	Hindi	These rocks have given rise to numerous natural pools.	5	5	5	none (correct)	3	3	3	mistranslation
+351	geography	G290	Ministral 14B	Hindi	Maps are indispensable for meeting our diverse needs.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+352	tourism	805	Gemma 3 4B	USR chunks	People of talashsheri are adept in make sweetmeats, seeing by piloting new sweetmeats and by piloting new sweetmeats.	2	3	2	mistranslation	3	3	3	mistranslation
+353	geography	G045	gpt-oss-120b	Hindi	It receives all its light and heat from the sun.	5	5	5	none (correct)	5	5	5	none (correct)
+354	tourism	778	Gemma 3 4B	USR chunks	Kannura is situated at a distance of 2 kilometres from Payyambalama samudratata, nearest railway station.	3	3	3	untranslated / format	4	4	4	tense / aspect / modality
+355	tourism	921	IndicTrans2	Hindi	The nearest railway station from Anchuthengu is Varkala, 8 km away.	5	5	5	none (correct)	5	5	5	none (correct)
+356	tourism	688	Gemma 3 4B	Hindi	The lake palace is located on a small island at the shore of the Sarnarovar lake.	4	3	5	named entity	3	3	3	addition / hallucination
+357	tourism	523	Gemma 3 4B	USR chunks	People from Kerala knew of Islam since 800 AD.	5	4	5	fluency / grammar only	3	3	3	omission
+358	tourism	524	Gemma 3 4B	USR chunks	Historians considered ancient Kerala as part of the Tamil region, used to consider.	5	5		addition / hallucination	4	4	4	addition / hallucination
+359	tourism	581	Google Translate	Hindi	Kanjar is between Munnar and Pallivasal.	5	5	5	none (correct)	5	5	5	none (correct)
+360	geography	G009	IndicTrans2	Hindi	Along with these bright objects, you also see the moon almost every day.	5	5	5	none (correct)	5	5	5	none (correct)
+361	tourism	531a	Gemma 3 4B	USR chunks	History of progress in education and promotion in scientist areas is	2	2		fluency / grammar only	4	4	4	omission
+362	health	H118	Gemma 3 4B	Hindi	The use of nuts and other ingredients in Indian cuisine has been a long-standing tradition.	5	5	5	none (correct)	4	4	4	addition / hallucination
+363	health	H169b	gpt-oss-120b	Hindi	When attention is paid to it.	5	5	5	none (correct)	5	5	5	none (correct)
+364	tourism	531a	Ministral 14B	Hindi	The history bears witness to the progress made in education and the advancements achieved in scientific fields.	5	3	5	addition / hallucination	4	4	4	addition / hallucination
+365	tourism	664	gpt-oss-120b	USR chunks	Cobra, duboiya viper, shining snake, myna, nightingale, woodpecker, kingfisher, etc are found.	5	4	5	number	5	5	5	none (correct)
+366	geography	G285b	IndicTrans2	Hindi	The globe then turns out to be quite useful to us.	5	5	5	none (correct)	5	5	5	none (correct)
+367	health	H048	gpt-oss-120b	USR chunks	Flexibility with these in the body remains.	3	2	3	fluency / grammar only	5	5	5	none (correct)
+368	health	H209b	Ministral 14B	USR chunks	This process is again and again repeated.	5	4	5	discourse / connective	4	4	4	discourse / connective
+369	health	H065	Ministral 14B	Hindi	Check for fever.	5	5	5	none (correct)	5	5	5	none (correct)
+370	geography	G123	gpt-oss-120b	Hindi	Prepare a chart of the solar system.	5	5	5	none (correct)	5	5	5	none (correct)
+371	tourism	822a	Gemma 3 4B	USR chunks	Several other pictures and are.	1	2	3	fluency / grammar only	4	4	4	omission
+372	geography	G313c	gpt-oss-120b	Hindi	It means that 1 cm on the map will represent 5 km on the ground.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+373	geography	G203b	gpt-oss-120b	USR chunks	The time in 15 degrees east of Grinica will be 60 minutes, 1 hour ahead.	5	3	3	omission	4	4	4	omission
+374	health	H279	IndicTrans2	Hindi	Isolation or non-treatment of people living with एच.आई.वी in hospitals is criminal.	5	5	4	untranslated / format	3	3	3	addition / hallucination
+375	tourism	726	Google Translate	Hindi	Kochi International Airport is 155 km from Vattavada. m. Is far away.	3	4	3	fluency / grammar only	5	5	5	none (correct)
+376	health	H277	Gemma 3 4B	Hindi	Pay attention to personal hygiene.	5	5	5	none (correct)	4	4	4	mistranslation
+377	tourism	822a	gpt-oss-120b	Hindi	There are also many other pictures.	5	5	5	none (correct)	5	5	5	none (correct)
+378	health	H258b	gpt-oss-120b	Hindi	And the medicines don't work.	5	5	5	none (correct)	5	5	5	none (correct)
+379	tourism	822a	Gemma 3 4B	Hindi	Furthermore, there are many other pictures.	5	5	5	none (correct)	5	5	5	none (correct)
+380	health	H082	Google Translate	Hindi	If this doesn't make you feel right	5	4	5	omission	4	4	4	omission
+381	geography	G004b	Gemma 3 4B	Hindi	Some of which are bright.	5	5	5	none (correct)	5	5	5	none (correct)
+382	health	H259	gpt-oss-120b	Hindi	TB, pneumonia, and the like can overwhelm.	3	4	5	tense / aspect / modality	3	3	3	addition / hallucination
+383	tourism	726	Gemma 3 4B	Hindi	Cochin International Airport is 155 km away from Vattavada.	5	5	5	none (correct)	5	5	5	none (correct)
+384	health	H109	Ministral 14B	USR chunks	Certainly, two or three eggs are eaten daily at breakfast.	5	5	5	none (correct)	4	3	3	tense / aspect / modality
+385	tourism	531a	IndicTrans2	Hindi	There is a history of advances in education and advances in scientific fields.	5	5	5	none (correct)	4	4	4	omission
+386	geography	G313	Ministral 14B	Hindi	For example, the distance between your school and your home is 10 kilometers.	5	5	5	none (correct)	5	5	5	none (correct)
+387	health	H118	gpt-oss-120b	Hindi	Nuts and similar ingredients have been used in Indian cuisine for centuries.	5	5	5	none (correct)	4	4	4	none (correct)
+388	geography	G058	Ministral 14B	Hindi	The Sun is approximately **150 million kilometers** away from Earth.	5	5	5	none (correct)	5	5	5	none (correct)
+389	tourism	460	Ministral 14B	Hindi	The decorative symbolism typically found on temple pediments is entirely absent in this one.	5	5	5	none (correct)	3	3	3	addition / hallucination
+390	tourism	728	Gemma 3 4B	USR chunks	Aralama has spread in slope of Sahyadri in expanse of 55 square kilometres.	5	5	5	none (correct)	5	5	5	none (correct)
+391	geography	G290	IndicTrans2	Hindi	Maps are essential for our various needs.	5	5	5	none (correct)	5	5	5	none (correct)
+392	health	H103b	Ministral 14B	USR chunks	What should your diet for keeping eyesight healthy be?	5	4	5	discourse / connective	4	4	4	discourse / connective
+393	geography	G221	gpt-oss-120b	Hindi	India is located at 82° 30′ E longitude.	5	3	5	omission	4	4	4	omission
+394	tourism	474a	IndicTrans2	Hindi	A Shakti temple is built on the right-hand corner of the Saas temple.	5	5	5	none (correct)	5	5	5	none (correct)
+395	tourism	174b	Gemma 3 4B	Hindi	On the peak of the Manastambh, four idols of the divine Tirthankaras are installed.	5	4	5	discourse / connective	5	5	5	none (correct)
+396	geography	G357	gpt-oss-120b	Hindi	Assume that you want to go to your friend's house.	5	5	5	none (correct)	5	5	5	none (correct)
+397	geography	G285b	gpt-oss-120b	USR chunks	The globe proves considerably useful for us.	5	5	5	none (correct)	5	5	5	none (correct)
+398	geography	G313c	Google Translate	Hindi	This means that 1 cm of the map. 5 km from the site. Will represent.	4	3	3	fluency / grammar only	3	3	3	addition / hallucination
+399	health	H190	Gemma 3 4B	Hindi	The feeling of fatigue persists throughout the day due to not getting enough sleep.	5	5	5	none (correct)	5	5	5	none (correct)
+400	health	H014	gpt-oss-120b	Hindi	Saliva destroys the bacteria that cause bad breath.	5	5	5	none (correct)	4	4	4	mistranslation
+401	health	H209b	Google Translate	Hindi	And this process is repeated again and again.	5	5	5	none (correct)	5	5	5	none (correct)
+402	geography	G178	Gemma 3 4B	Hindi	This meridian is called the prime meridian.	5	5	5	none (correct)	5	5	5	none (correct)
+403	tourism	942	Google Translate	Hindi	Uttarakayam can be reached by walking two kilometers from Komba through dense forest.	5	5	5	none (correct)	5	5	5	none (correct)
+404	tourism	770a	gpt-oss-120b	USR chunks	This only reason is.	3	2	2	fluency / grammar only	4	4	4	addition / hallucination
+405	tourism	581	gpt-oss-120b	USR chunks	The kanjara is between Munnara and Pallivasala.	5	5	5	none (correct)	5	5	5	none (correct)
+406	tourism	805	Gemma 3 4B	Hindi	The people of Talasari are adept at making sweets and experimenting with new ones.	5	5	5	none (correct)	5	5	5	none (correct)
+407	tourism	726	Ministral 14B	Hindi	The Kochi International Airport is **155 kilometers (km)** away from Vattavada.	5	5	5	none (correct)	5	5	5	none (correct)
+408	tourism	438b	Ministral 14B	USR chunks	This has remained popular in Shaivapitha.	5	2	5	mistranslation	3	3	3	tense / aspect / modality
+409	health	H250	gpt-oss-120b	Hindi	AIDS is transmitted by using unboiled or previously used needles.	5	5	5	none (correct)	5	5	5	none (correct)
+410	tourism	561	Gemma 3 4B	Hindi	There is a village pond near Eco Lodge.	5	3	5	mistranslation	3	3	3	named entity
+411	geography	G342b	gpt-oss-120b	Hindi	And you cannot ask anyone about directions.	5	5	5	none (correct)	5	5	5	none (correct)
+412	geography	G307	Ministral 14B	Hindi	Let’s observe how the shape of the line drawing gets distorted.	5	5	5	none (correct)	4	4	4	addition / hallucination
+413	health	H091b	gpt-oss-120b	USR chunks	Then what should be done.	5	5	5	none (correct)	5	5	5	none (correct)
+414	tourism	675	Ministral 14B	USR chunks	Buses from Munnara, Kottayam, and Ernakulam go to Ramakkalmedu in the mornings at 9:30, 10:30, and 9:30.	5	5	5	none (correct)	4	4	4	untranslated / format
+415	geography	G111	gpt-oss-120b	Hindi	We have no information about its size.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+416	health	H190	Google Translate	Hindi	Feeling tired throughout the day due to lack of sleep	5	5	4	none (correct)	5	5	5	none (correct)
+417	health	H103b	IndicTrans2	Hindi	That's how your diet should be to keep your eyes healthy.	5	2	5	mistranslation	4	3	3	addition / hallucination
+418	geography	G178	Ministral 14B	USR chunks	This meridian is called the prime meridian.	5	5	5	none (correct)	5	5	5	none (correct)
+419	health	H259	Gemma 3 4B	USR chunks	Pneumonia and other illnesses surround people.	5	5	5	addition / hallucination	3	3	3	addition / hallucination
+420	tourism	675	Google Translate	Hindi	9 in the morning. From Munnar at 30, 10. 30 from Kottayam and 9. There are buses from Ernakulam to Ramakalmedu at 30.00.	1	2	1	mistranslation	1	2	2	mistranslation
+421	health	H190	Gemma 3 4B	USR chunks	Tiredness remains for whole day because of sleep not becoming complete.	4	5	2	fluency / grammar only	4	4	4	fluency / grammar only
+422	geography	G143b	Gemma 3 4B	USR chunks	Which one imaginary line is	1	3	1	fluency / grammar only	4	4	4	tense / aspect / modality
+423	geography	G100b	IndicTrans2	Hindi	This leads to the formation of potholes on the ground.	5	5	5	none (correct)	4	4	4	mistranslation
+424	tourism	921	gpt-oss-120b	USR chunks	The nearest railway station, Varkala, is at a distance of 8 kilometres from Ancutengu.	5	5	5	none (correct)	5	5	5	none (correct)
+425	geography	G203b	Ministral 14B	USR chunks	Time in 15 degrees east of Greenwich will be 60 minutes, or 1 hour, ahead.	5	3	4	omission	3	3	3	discourse / connective
+426	health	H260b	Google Translate	Hindi	Which can be seen only through a microscope.	5	5	5	none (correct)	5	5	5	none (correct)
+427	tourism	921	Ministral 14B	Hindi	The nearest railway station to Anchutengu is **Varkala**, located approximately **8 kilometers** away.	5	5	5	addition / hallucination	4	4	4	addition / hallucination
+428	geography	G285b	Gemma 3 4B	USR chunks	The globe proves considerably useful for us.	5	4	5	discourse / connective	4	4	4	discourse / connective
+429	geography	G359	Ministral 14B	USR chunks	A rough drawing is drawn in this way without the help of a scale.	5	5	5	none (correct)	5	5	5	none (correct)
+430	health	H242	gpt-oss-120b	Hindi	HIV is the name given to that virus.	5	5	5	none (correct)	4	4	4	mistranslation
+431	tourism	770a	gpt-oss-120b	Hindi	That is the reason.	5	5	5	none (correct)	5	5	5	none (correct)
+432	health	H143	gpt-oss-120b	Hindi	Here is the method for practicing Janushirshana.	5	4	5	none (correct)	4	4	4	omission
+433	geography	G219	gpt-oss-120b	USR chunks	That is, the match will start at 7:30 in the evening according to Indian time.	5	5	5	none (correct)	5	5	5	none (correct)
+434	health	H067	gpt-oss-120b	Hindi	The X‑ray and TC‑DC are normal.	5	5	5	none (correct)	5	5	5	none (correct)
+435	health	H215	Gemma 3 4B	USR chunks	People start to experience very easily infections.	3	2	3	fluency / grammar only	3	3	3	mistranslation
+436	health	H198	Ministral 14B	USR chunks	The brain also becomes sharp because of eating fish, walnuts, and almonds.	5	5	5	none (correct)	4	4	4	addition / hallucination
+437	tourism	561	Gemma 3 4B	USR chunks	Gavi sarovara is near iko lauja.	5	5	5	untranslated / format	5	5	5	none (correct)
+438	health	H082b	Gemma 3 4B	Hindi	Take the anti-allergy tablet for ten days.	5	4	5	discourse / connective	4	4	4	discourse / connective
+439	health	H178	Gemma 3 4B	USR chunks	Although you are a visual learner only	5	4	5	discourse / connective	4	4	4	addition / hallucination
+440	health	H258b	IndicTrans2	Hindi	And the drugs don't work.	5	5	5	none (correct)	4	4	4	mistranslation
+441	health	H259	IndicTrans2	Hindi	टी.बी. Surrounds pneumonia, etc.	5	2	5	mistranslation	3	2	4	mistranslation
+442	geography	G146b	Ministral 14B	Hindi	The southern half is called the Southern Hemisphere.	5	4	5	discourse / connective	4	4	4	discourse / connective
+443	health	H254	gpt-oss-120b	Hindi	AIDS is not transmitted by living together or through casual contact.	5	3	5	omission	4	4	4	mistranslation
+444	geography	G009	Gemma 3 4B	Hindi	You can almost see the moon with these bright objects every day.	5	4	5	tense / aspect / modality	4	4	4	none (correct)
+445	geography	G100b	Gemma 3 4B	USR chunks	Pits get formed on the surface by which.	5	4	4	fluency / grammar only	5	5	5	none (correct)
+446	health	H294e	Google Translate	Hindi	The other is 15 percent.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+447	tourism	912	Gemma 3 4B	USR chunks	The Portuguese, Dutch, and British empires here had ruled.	5	4	4	fluency / grammar only	5	5	5	none (correct)
+448	geography	G342b	gpt-oss-120b	USR chunks	And you cannot ask anyone about directions.	5	5	5	none (correct)	5	5	5	none (correct)
+449	tourism	939	Google Translate	Hindi	Uttaram Kayam is a small land filled with various types of herbs and different types of birds.	5	5	5	none (correct)	4	4	4	omission
+450	tourism	664	Gemma 3 4B	USR chunks	Cobras, duboiya vipers, shining snakes, mynas, nightingales, woodpeckers, and kingfishers etc are found.	5	5	5	none (correct)	5	5	5	none (correct)
+451	geography	G359	IndicTrans2	Hindi	The raw diagram is thus drawn without the aid of a scale.	5	5	5	none (correct)	5	5	3	fluency / grammar only
+452	geography	G323	gpt-oss-120b	Hindi	Let's learn by doing something.	5	5	5	none (correct)	5	5	5	none (correct)
+453	geography	G059	gpt-oss-120b	USR chunks	Eight planets in our solar system are.	4	5	3	fluency / grammar only	5	5	5	none (correct)
+454	geography	G285b	Ministral 14B	USR chunks	The globe proves considerably useful for us.	5	4	5	discourse / connective	4	4	4	discourse / connective
+455	geography	G328	Google Translate	Hindi	Now the distance between a post office and Karim's house is 12 cm. Is.	5	5	5	none (correct)	5	5	5	none (correct)
+456	tourism	166a	IndicTrans2	Hindi	There is recognition.	5	2	5	mistranslation	1	2	4	tense / aspect / modality
+457	health	H048	Gemma 3 4B	Hindi	This helps maintain flexibility in the body.	5	5	5	none (correct)	4	4	4	addition / hallucination
+458	tourism	438b	IndicTrans2	Hindi	and has been popular as a Shaivite shrine.	5	4	5	mistranslation	5	5	5	none (correct)
+459	geography	G111	Ministral 14B	Hindi	We currently have no information regarding its size.	5	5	5	addition / hallucination	4	4	4	addition / hallucination
+460	geography	G136b	Gemma 3 4B	Hindi	How could this be described in terms of a particular location?	5	2	5	mistranslation	3	3	3	mistranslation
+461	geography	G304b	Ministral 14B	USR chunks	There were some sketches made.	5	1	5	mistranslation	3	3	3	tense / aspect / modality
+462	tourism	524	IndicTrans2	Hindi	Ancient Kerala was considered by historians to be part of the Tamil territory.	5	5	5	none (correct)	5	5	5	none (correct)
+463	geography	G338	gpt-oss-120b	USR chunks	Showing different features like buildings, roads, bridges, trees, tracks of rail or well in real size and type on any map is not possible.	5	5	5	none (correct)	5	5	5	none (correct)
+464	health	H201	Ministral 14B	USR chunks	The immune system in our body is a system of such arrangements.	5	5	5	none (correct)	4	4	4	untranslated / format
+465	health	H242	Gemma 3 4B	USR chunks	That virus or microbe, as HIV, is called.	2	2	2	mistranslation	3	3	4	tense / aspect / modality
+466	health	H091b	Ministral 14B	USR chunks	Then, what should be done?	5	5	5	none (correct)	5	5	5	none (correct)
+467	tourism	991	Ministral 14B	Hindi	King Raja Ravi Varma lived in Mumbai and Baroda for several years.	5	5	5	addition / hallucination	4	4	4	named entity
+468	tourism	248	gpt-oss-120b	Hindi	The uncle and nephew's temple is outstanding and visually striking in terms of architecture.	5	3	5	named entity	4	4	4	named entity
+469	geography	G058	Gemma 3 4B	USR chunks	The sun, almost 15 crore kilometres far away from the earth, is.	4	5	3	fluency / grammar only	5	5	4	fluency / grammar only
+470	tourism	206b	Gemma 3 4B	Hindi	Stalagmites and columns rising from the ground, and large columns found at the ceiling and floor, are called stalagmites and stalactites, respectively.	1	1	1	mistranslation	3	3	3	addition / hallucination
+471	health	H103b	gpt-oss-120b	USR chunks	What should be your diet for keeping eyesight healthy?	5	5	5	none (correct)	5	5	5	none (correct)
+472	tourism	650	gpt-oss-120b	Hindi	Idukki is a forest region composed of dense jungles and grasslands.	5	5	5	none (correct)	4	4	4	omission
+473	health	H270	Ministral 14B	Hindi	The enlargement of lymph nodes in multiple locations.	5	5	5	none (correct)	5	5	5	none (correct)
+474	health	H242	Ministral 14B	USR chunks	That virus or microbe, such as HIV, is called	2	2	2	mistranslation	4	4	4	tense / aspect / modality
+475	geography	G203b	gpt-oss-120b	Hindi	At that point, 15° east of Greenwich corresponds to 15 × 4 = 60 minutes, i.e., one hour ahead of Greenwich time.	5	4	5	discourse / connective	3	3	3	discourse / connective
+476	geography	G001	Gemma 3 4B	Hindi	It’s so lovely to watch the sky after sunset.	5	4	5	none (correct)	5	5	5	none (correct)
+477	tourism	152b	Gemma 3 4B	Hindi	There, I found a magnificent statue of Lord Chandra.	5	3	5	addition / hallucination	4	4	4	addition / hallucination
+478	health	H060	Ministral 14B	Hindi	For the past two and a half to three years, I’ve been getting a fever every two to three months.	5	4	5	addition / hallucination	4	4	4	addition / hallucination
+479	health	H294e	gpt-oss-120b	Hindi	The remaining 15 percent is.	3	2	2	mistranslation	3	3	3	addition / hallucination
+480	tourism	729	Ministral 14B	Hindi	In Aral, deer, elephants, bison, wild boars, and other such animals are commonly found roaming.	5	3	5	named entity	4	4	4	addition / hallucination
+481	geography	G338	gpt-oss-120b	Hindi	It is not possible to depict various features such as buildings, roads, bridges, trees, railway tracks, or wells on any map in their actual size and shape.	5	5	5	none (correct)	5	5	5	none (correct)
+482	health	H103b	Ministral 14B	Hindi	What should your diet look like to maintain healthy eyes?	5	4	5	discourse / connective	4	4	4	tense / aspect / modality
+483	tourism	581	Gemma 3 4B	USR chunks	Kanjara is between Munnara and Pallivasala.	5	5	5	none (correct)	5	5	5	none (correct)
+484	geography	G045	Gemma 3 4B	USR chunks	This own whole light and heat attains from the sun.	2	2	1	mistranslation	5	5	5	none (correct)
+485	health	H294e	Gemma 3 4B	Hindi	Another 15 percent.	3	3	4	omission	4	4	4	fluency / grammar only
+486	health	H182	Google Translate	Hindi	Try to remember any information through words and pictures.	5	5	5	none (correct)	5	5	5	none (correct)
+487	geography	G323	Ministral 14B	USR chunks	Let us learn by doing some.	5	5	5	fluency / grammar only	4	4	4	fluency / grammar only
+488	geography	G162b	IndicTrans2	Hindi	And this is called the tropics.	5	5	5	none (correct)	5	5	5	none (correct)
+489	tourism	523	Google Translate	Hindi	The people of Kerala became familiar with the religion of Islam from the eighth century AD.	5	5	5	none (correct)	5	5	5	none (correct)
+490	tourism	138	Google Translate	Hindi	Atishay Kshetra Tijara: You get more than you wish for here.	5	5	5	addition / hallucination	4	4	4	addition / hallucination
+491	geography	G058	gpt-oss-120b	USR chunks	The sun is almost 15 crore kilometres far away from Earth.	5	5	5	none (correct)	5	5	5	none (correct)
+492	geography	G221	Ministral 14B	Hindi	India is located **east of Greenwich at 82°30' East longitude**.	5	5	5	none (correct)	5	5	5	none (correct)
+493	tourism	778	Google Translate	Hindi	Nearest railway station from Payyambalam Beach – Kannur, 2 km. m. Is located at a distance .	2	5	2	fluency / grammar only	4	4	4	fluency / grammar only
+494	tourism	772	Ministral 14B	USR chunks	Mushappilangadu is 15 kilometres away from Kannura and 8 kilometres away from Talashsheri.	5	4	5	omission	5	5	5	none (correct)
+495	geography	G143b	IndicTrans2	Hindi	which is an imaginary line.	5	5	5	none (correct)	5	5	5	none (correct)
+496	health	H004b	Google Translate	Hindi	And makes the breath smelly.	5	5	5	none (correct)	5	5	4	none (correct)
+497	tourism	634b	gpt-oss-120b	USR chunks	There are many waterfalls here.	5	5	5	none (correct)	5	5	5	none (correct)
+498	tourism	406	Google Translate	Hindi	According to Shri Dhaki, the Kumbhaswamin Alam of Kirtistambha Prashasti was the ancient Tripura Vijay.	5	5	5	none (correct)	4	4	4	particle / deixis
+499	tourism	474a	Ministral 14B	Hindi	There is a temple dedicated to the goddess Shakti constructed in the far-right corner of the Sasan temple complex.	5	3	5	named entity	4	4	4	addition / hallucination
+500	health	H182	IndicTrans2	Hindi	Try to remember any information through words and pictures.	5	5	5	none (correct)	5	5	5	none (correct)
+501	tourism	190	Gemma 3 4B	Hindi	Billions of years ago, the rocks on the downstream side of the river had slid down from a mountain range formed by a seismic event.	3	2	3	mistranslation	3	3	3	addition / hallucination
+502	health	H250	Gemma 3 4B	USR chunks	AIDS spreads through use of without boil or using previously needle.	2	2	1	fluency / grammar only	5	5	5	none (correct)
+503	geography	G058	gpt-oss-120b	Hindi	The Sun is about 150 million kilometers away from Earth.	5	5	5	none (correct)	5	5	5	none (correct)
+504	health	H294e	Ministral 14B	Hindi	The remaining 15 percent is accounted for.	4	3	4	addition / hallucination	1	1	2	addition / hallucination
+505	health	H091b	IndicTrans2	Hindi	So what should be done?	5	5	5	none (correct)	5	5	5	none (correct)
+506	tourism	406	Ministral 14B	USR chunks	According to Shri Dhaki, the ancient Tripura Vijaya was written by Kumbhasvamina Alama of Kirtistambha Prashasti.	4	2	4	addition / hallucination	4	4	4	tense / aspect / modality
+507	health	H241	Ministral 14B	Hindi	**Keyhole surgery is a revolutionary innovation in the field of surgical science.**	5	5	5	none (correct)	4	4	4	addition / hallucination
+508	tourism	844	Ministral 14B	USR chunks	The wood industry of Valapattanama depends on woods of teak, iruli, ilava, karimurikku, sandalwood, and other trees obtained from the dense forest on the bank of the Valappattanama Nadi.	5	5	5	untranslated / format	4	4	4	named entity
+509	tourism	43a	Ministral 14B	USR chunks	They fell into this thinking.	5	5	5	none (correct)	4	4	4	mistranslation
+510	geography	G187	gpt-oss-120b	Hindi	This point will be the correct location of Dhubri.	5	5	5	none (correct)	4	4	4	mistranslation
+511	health	H023	Ministral 14B	USR chunks	After a meal, she cleans her mouth.	5	3	5	addition / hallucination	4	4	4	addition / hallucination
+512	health	H091b	Ministral 14B	Hindi	What should we do then? / So, what’s the way forward? / Then what’s the solution?	5	5	5	none (correct)	1	1	1	untranslated / format
+513	geography	G069	Ministral 14B	Hindi	Earth is the third planet from the Sun in terms of distance.	5	5	5	none (correct)	5	5	5	none (correct)
+514	geography	G032b	Ministral 14B	USR chunks	The part of the constellation Arsa Mejara which is	2	2	1	mistranslation	4	4	4	untranslated / format
+515	tourism	728	Ministral 14B	Hindi	The **Aarey Colony** sprawls across a **55-square-kilometre** expanse along the **Western Ghats** slopes.	2	1	3	mistranslation	1	1	1	mistranslation
+516	geography	G332	IndicTrans2	Hindi	Add up all the distances.	5	5	5	none (correct)	5	5	5	none (correct)
+517	health	H011	IndicTrans2	Hindi	This leads to bad breath.	5	5	5	none (correct)	3	3	3	tense / aspect / modality
+518	health	H118	Ministral 14B	USR chunks	The use of dry fruits and similar ingredients in Indian cuisines has been happening for centuries.	5	5	5	addition / hallucination	4	4	4	addition / hallucination
+519	geography	G328	gpt-oss-120b	Hindi	Now the distance between a post office and Karim's house is 12 cm.	5	5	5	none (correct)	5	5	5	none (correct)
+520	geography	G186b	gpt-oss-120b	Hindi	Where these two lines intersect each other.	5	5	5	none (correct)	5	5	5	none (correct)
+521	geography	G258	IndicTrans2	Hindi	Find out when the next leap year will be.	5	5	5	none (correct)	5	5	5	none (correct)
+522	geography	G146b	Ministral 14B	USR chunks	The southern hemisphere is also called the south half part.	4	2	4	mistranslation	4	5	4	named entity
+523	geography	G001	gpt-oss-120b	Hindi	It feels so wonderful to look at the sky after sunset.	5	3	5	mistranslation	5	5	5	none (correct)
+524	geography	G313c	Ministral 14B	Hindi	This means that the map scale will represent **1 centimeter on the map as 5 kilometers on the ground**.	5	5	5	none (correct)	5	5	5	none (correct)
+525	health	H209b	gpt-oss-120b	Hindi	And this process is repeated over and over.	5	5	5	none (correct)	5	5	5	none (correct)
+526	tourism	942	Gemma 3 4B	Hindi	One can reach Utrakayam by foot from Kambha, two kilometers away, through dense forests.	5	3	4	named entity	4	4	4	mistranslation
+527	geography	G248b	Gemma 3 4B	USR chunks	Heat will fall continuously on that part because of which.	2	3	3	fluency / grammar only	1	1	1	untranslated / format
+528	geography	G024	IndicTrans2	Hindi	The countless stars that shine at night are the same as the sun.	5	5	5	none (correct)	5	5	5	none (correct)
+529	health	H277	Ministral 14B	USR chunks	Pay attention to physical cleanliness.	5	5	5	none (correct)	5	5	5	none (correct)
+530	tourism	688	Ministral 14B	Hindi	Lake Palace is situated on a small island along the shore of Lake Pichola.	5	2	5	addition / hallucination	4	4	4	fluency / grammar only
+531	geography	G058	Gemma 3 4B	Hindi	The Sun is approximately 150 million kilometers away from Earth.	5	4	5	number	5	5	5	none (correct)
+532	geography	G118	Ministral 14B	USR chunks	The planet by the name of Earth's twin is known **as** which.	3	2	2	fluency / grammar only	4	4	4	tense / aspect / modality
+533	health	H122b	Google Translate	Hindi	Eating fresh fruits is advisable in all cases.	5	3	5	omission	4	3	4	omission
+534	health	H067	Gemma 3 4B	USR chunks	X-ray and TC-DC are normal.	5	5	5	none (correct)	5	5	5	none (correct)
+535	health	H260b	IndicTrans2	Hindi	which can only be seen with a microscope.	5	5	5	none (correct)	5	5	5	none (correct)
+536	tourism	929	IndicTrans2	Hindi	Recognized by the Government of India and the Kerala Sports Council, it is a training institute for the martial arts called Kalaripayattu.	5	5	5	none (correct)	5	5	5	none (correct)
+537	tourism	190	Google Translate	Hindi	Millions of years ago, the rocks on the downstream side of the river were pushed down by a moon fracture caused by an earthquake.	4	2	3	mistranslation	4	3	3	mistranslation
+538	geography	G347	Google Translate	Hindi	Different colors are also used for the same purpose.	5	5	5	none (correct)	5	5	5	none (correct)
+539	tourism	206b	Gemma 3 4B	USR chunks	The big pillars, going from the ground and joined with the roof and ground, are termed as stalegamaita and drapistona.	3	3	4	omission	3	3	3	addition / hallucination
+540	geography	G313d	gpt-oss-120b	Hindi	That 1 cm on the map will represent 5 km on the ground.	5	5	5	none (correct)	4	4	4	mistranslation
+541	geography	G001	Ministral 14B	USR chunks	After sunset, seeing the sky feels so good.	5	4	5	mistranslation	4	4	4	mistranslation
+542	health	H271	Ministral 14B	USR chunks	A lump or swelling on the breast or anywhere else in the body happens.	5	4	5	addition / hallucination	4	4	4	addition / hallucination
+543	tourism	572a	gpt-oss-120b	USR chunks	The area of Ikko Pvainta with hills Mankunnu, Kodiyatturamala, Tonippara etc is surrounded.	3	2	3	fluency / grammar only	5	5	5	none (correct)
+544	health	H277	Ministral 14B	Hindi	Pay attention to personal hygiene.	5	5	5	none (correct)	4	4	4	addition / hallucination
+545	health	H254	Gemma 3 4B	USR chunks	AIDS does not spread through living together or sitting together.	5	5	5	none (correct)	5	5	5	none (correct)
+546	health	H198	Google Translate	Hindi	Eating fish, walnuts and almonds also sharpens the brain.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+547	health	H023	Gemma 3 4B	Hindi	Brush your mouth after eating.	5	3	4	addition / hallucination	5	5	5	none (correct)
+548	tourism	138	Ministral 14B	USR chunks	In Atishaya Kshetra Tijara, more than desire gets here.	2	3	4	fluency / grammar only	5	5	5	none (correct)
+549	geography	G359	Gemma 3 4B	Hindi	This type of rough sketch is drawn without the aid of a scale.	5	4	5	discourse / connective	4	4	4	mistranslation
+550	health	H271	Ministral 14B	Hindi	Lump or swelling in the breast or elsewhere on the body.	5	5	5	none (correct)	5	5	5	none (correct)
+551	tourism	151	gpt-oss-120b	Hindi	On the night of the third day of the fast, Goddess Saraswati appeared in a dream, showing something marvelous about a place located near my house.	4	2	4	addition / hallucination	4	4	4	named entity
+552	tourism	844	Ministral 14B	Hindi	The exquisite wooden craftsmanship of Valapattanam, known as *Valapattanam woodwork*, is crafted from the dense forests along the banks of the Valapattanam River, using prized timbers like teak (*sagwan*), *iruli*, *ilwa*, *karimurikku*, and sandalwood (*chandan*), among others.	3	3	5	addition / hallucination	1	1	1	untranslated / format
+553	health	H209	Ministral 14B	USR chunks	HIV attacks other CD-4 cells after this.	5	5	5	none (correct)	5	5	5	none (correct)
+554	health	H214	Gemma 3 4B	Hindi	The person started falling ill repeatedly.	5	4	5	tense / aspect / modality	5	5	5	none (correct)
+555	geography	G351	Google Translate	Hindi	What type of road passes near Dumri village?	5	5	5	none (correct)	4	4	4	omission
+556	geography	G323	Gemma 3 4B	Hindi	Let's learn by doing something.	5	5	5	none (correct)	5	5	5	none (correct)
+557	geography	G004b	IndicTrans2	Hindi	Some of which are bright.	5	5	5	none (correct)	5	5	5	none (correct)
+558	tourism	770a	Ministral 14B	USR chunks	This is the only reason.	5	5	5	addition / hallucination	4	4	4	addition / hallucination
+559	tourism	650	Gemma 3 4B	USR chunks	Idukki is a jungle region filled with dense forests and fields of grass.	5	5	5	none (correct)	5	5	5	none (correct)
+560	health	H190	Ministral 14B	USR chunks	Tiredness remains because sleep does not become complete for the whole day.	5	4	3	fluency / grammar only	4	4	4	tense / aspect / modality
+561	health	H194	Gemma 3 4B	Hindi	They destroy homocysteine, which damages nerves.	5	5	5	none (correct)	5	5	5	none (correct)
+562	tourism	Sent_20	Ministral 14B	Hindi	The **Chennai Central** station of the **South Central Railway** lies on the main line to **Dhanushkodi**, located **35 miles (approximately 56 km) away from Chennai**, with **Chengalpattu** being the nearest major station along the route.	3	3	4	addition / hallucination	1	1	1	addition / hallucination
+563	geography	G069	Gemma 3 4B	USR chunks	The Earth, according to its distance from the sun, is the third planet.	5	5	5	none (correct)	4	4	4	untranslated / format
+564	health	H186b	IndicTrans2	Hindi	which will protect the brain cells from being destroyed.	5	5	5	none (correct)	5	5	5	none (correct)
+565	health	H082b	gpt-oss-120b	Hindi	Take the antiallergic tablet for ten days.	5	4	5	discourse / connective	4	4	4	discourse / connective
+566	geography	G097b	Ministral 14B	Hindi	The natural tendency of these is to fall toward the Earth.	5	4	5	discourse / connective	4	4	4	discourse / connective
+567	geography	G258	Gemma 3 4B	USR chunks	He finds out.	5	1	5	untranslated / format	1	1	1	untranslated / format
+568	geography	G186b	Ministral 14B	Hindi	At the point where these two lines intersect.	5	4	5	addition / hallucination	4	4	4	addition / hallucination
+569	tourism	43a	Gemma 3 4B	USR chunks	They fell in this thinking.	5	5	5	none (correct)	4	4	4	mistranslation
+570	tourism	174b	Ministral 14B	Hindi	At the pinnacle of the *manastambha* (monolithic pillar), four sacred statues of the *Tirthankara* deities are installed.	5	4	5	discourse / connective	1	1	2	mistranslation
+571	tourism	898	Ministral 14B	USR chunks	The nearest airport, Mangalura and Karippura Antarrashtriya Havai Adda, is 120 kilometres and 180 kilometres away from Padanna.	5	4	4	fluency / grammar only	4	4	4	untranslated / format
+572	tourism	Sent_20	Ministral 14B	USR chunks	Cengalapata station is located on the main line running from Chennai station of the Southern Railway to Dhanushkodi, at a distance of 35 miles from Chennai.	4	5	5	none (correct)	4	4	3	none (correct)
+573	tourism	572a	Ministral 14B	Hindi	The region of **Ikkipoint** is surrounded by hills such as **Mankunnu, Kodiyatturmalai, and Tonippara**.	5	4	5	named entity	5	5	5	none (correct)
+574	tourism	382	Gemma 3 4B	Hindi	Based on documentary evidence, the Kali Mata Temple can be dated to the early 8th century.	5	4	5	named entity	5	5	5	none (correct)
+575	health	H093b	Gemma 3 4B	Hindi	Get a phlegm test done for your cough.	5	4	5	discourse / connective	5	5	5	none (correct)
+576	tourism	382	Ministral 14B	Hindi	Based on archival evidence, the Kalika Mata Temple can be dated to the early 8th century.	5	5	5	none (correct)	5	5	5	none (correct)
+577	geography	G203b	Google Translate	Hindi	Then the time at 15° east of Greenwich will be 15 × 4 = 60 minutes i.e., 1 hour ahead of Greenwich time,	5	5	5	none (correct)	5	5	5	none (correct)
+578	geography	G346	gpt-oss-120b	USR chunks	Some conventional symbols in Figure 4.3 have been shown.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+579	health	H209	IndicTrans2	Hindi	Then एच.आई.वी. Attacks other CD-4 cells,	5	4	4	untranslated / format	3	3	3	discourse / connective
+580	health	H215	IndicTrans2	Hindi	The person starts getting the infection very easily.	5	4		particle / deixis	5	5	5	none (correct)
+581	tourism	728	Gemma 3 4B	Hindi	The resort is spread over an area of 55 square kilometers on the slopes of the Sahyadri range.	5	3	5	addition / hallucination	3	2	4	mistranslation
+582	tourism	729	gpt-oss-120b	USR chunks	The deer, elephant, bison, wild boar, etc., in Aralama, in common form, roam.	4	4	3	fluency / grammar only	4	4	4	mistranslation
+583	geography	G111	gpt-oss-120b	USR chunks	We do not have any information in relation to its size.	5	5	5	none (correct)	5	5	5	none (correct)
+584	tourism	897	Ministral 14B	Hindi	The nearest bus stand and railway station are approximately **9 kilometers** away from Padanna.	5	5	5	none (correct)	4	4	4	addition / hallucination
+585	health	H277	IndicTrans2	Hindi	Pay attention to physical hygiene.	5	5	5	none (correct)	4	4	4	mistranslation
+586	health	H258b	Gemma 3 4B	USR chunks	Medicines do not affect and.	4	3	3	fluency / grammar only	4	3	3	untranslated / format
+587	tourism	620	Google Translate	Hindi	Another important object that you can see is a pyre-ash-urn from the second century BC.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+588	geography	G069	Google Translate	Hindi	Earth is the third planet in terms of distance from the Sun.	5	5	5	none (correct)	5	5	5	none (correct)
+589	geography	G323	Google Translate	Hindi	Let's learn by doing something.	5	5	5	none (correct)	5	5	5	none (correct)
+590	geography	G342b	Gemma 3 4B	Hindi	And you cannot ask anyone about directions.	5	5	5	none (correct)	5	5	5	none (correct)
+591	geography	G071	Google Translate	Hindi	It is slightly flattened near the poles.	5	5	5	none (correct)	5	5	5	none (correct)
+592	geography	G248b	Gemma 3 4B	Hindi	That area will experience continued heat.	5	3	4	discourse / connective	4	4	4	omission
+593	health	H194	gpt-oss-120b	USR chunks	These homocysteine causing damage to nerves destroy.	2	2	1	mistranslation	3	3	3	tense / aspect / modality
+594	tourism	531a	Ministral 14B	USR chunks	The history of progress in education and promotion in scientist areas—and the history of progress in education and promotion in scientific areas—is advancing.	3	2	2	addition / hallucination	3	3	3	omission
+595	health	H209b	gpt-oss-120b	USR chunks	And this process again and again is repeated.	5	5	4	fluency / grammar only	5	5	5	none (correct)
+596	geography	G346	gpt-oss-120b	Hindi	Some conventional symbols are shown in Figure 4.3.	5	5	5	none (correct)	5	5	5	none (correct)
+597	tourism	620	Ministral 14B	Hindi	Here’s the fluent English translation:	5	1	5	mistranslation	1	1	1	untranslated / format
+598	geography	G338	Gemma 3 4B	USR chunks	Showing on any map in real size and type different features like buildings, roads, bridges, trees, tracks of rail or well is possible.	3	2	3	negation	4	4	4	omission
+599	tourism	769	Google Translate	Hindi	Many natural ponds were formed due to these rocks.	5	5	5	none (correct)	5	5	5	none (correct)
+600	health	H168b	gpt-oss-120b	USR chunks	Therefore we, adopting them, can open closed windows of brain.	4	4	3	fluency / grammar only	4	4	4	addition / hallucination
+601	geography	G192b	Gemma 3 4B	USR chunks	Vertical lines express the east longitudes.	5	4	5	discourse / connective	5	5	5	none (correct)
+602	tourism	836	Gemma 3 4B	USR chunks	This temple was made as a result.	5	5	5	none (correct)	5	5	5	none (correct)
+603	tourism	634b	gpt-oss-120b	Hindi	There are many waterfalls here.	5	5	5	none (correct)	5	5	5	none (correct)
+604	health	H190	gpt-oss-120b	Hindi	Because I can't get enough sleep, I feel tired all day.	5	4	5	addition / hallucination	3	3	4	tense / aspect / modality
+605	tourism	438b	Gemma 3 4B	USR chunks	This has remained popular in shaivapitha.	5	2	5	mistranslation	3	3	3	addition / hallucination
+606	tourism	650	IndicTrans2	Hindi	Idukki is a forested region with dense forests and grasslands.	5	5	5	none (correct)	5	5	5	none (correct)
+607	geography	G045	Gemma 3 4B	Hindi	This obtains its entire light and heat from the sun.	5	5	5	none (correct)	5	5	5	none (correct)
+608	tourism	202	Ministral 14B	Hindi	The world-famous Kotumsar caves are located 30 kilometers away from Jagdalpur.	5	3	5	omission	4	4	4	omission
+609	geography	G024	Ministral 14B	USR chunks	Innumerable stars shining at night are similar to the sun only.	5	5	5	none (correct)	5	5	5	none (correct)
+610	health	H159	Google Translate	Hindi	Use hot water for bathing.	5	5	5	none (correct)	5	5	5	none (correct)
+611	health	H190	gpt-oss-120b	USR chunks	Tiredness remains for the whole day because of sleep not becoming complete.	4	4	4	fluency / grammar only	5	5	5	none (correct)
+612	health	H277	gpt-oss-120b	Hindi	Pay attention to personal hygiene.	5	5	5	none (correct)	4	4	4	mistranslation
+613	health	H122b	gpt-oss-120b	USR chunks	Advice of eating fresh fruits in a meal is given in all cases.	5	5	5	none (correct)	5	5	5	none (correct)
+614	geography	G066b	Ministral 14B	Hindi	Because its size and shape are almost identical to that of Earth.	5	5	5	none (correct)	5	5	5	none (correct)
+615	geography	G328	gpt-oss-120b	USR chunks	The distance between one post office and the house of Karima is now 12 centimetres.	5	5	5	none (correct)	5	5	5	none (correct)
+616	health	H169b	Google Translate	Hindi	When attention is paid to it.	5	5	5	none (correct)	5	5	5	none (correct)
+617	tourism	844	IndicTrans2	Hindi	The wood of Valapattanam is derived from the wood of teak, iruli, ilva, karimurikku, sandalwood etc. obtained from the dense forest of Valapattanam river bank.	4	4	4	fluency / grammar only	4	4	4	fluency / grammar only
+618	health	H065	IndicTrans2	Hindi	Check for fever	5	5	5	none (correct)	5	5	5	none (correct)
+619	health	H241	IndicTrans2	Hindi	Keyhole surgery is a revolutionary invention in the field of surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+620	tourism	805	gpt-oss-120b	Hindi	The people of Talshsheri are skilled at making sweets and experimenting with new ones.	5	5	5	none (correct)	5	5	5	none (correct)
+621	geography	G136b	Ministral 14B	Hindi	How can one determine the location of a place based on this?	5	4	5	discourse / connective	3	3	3	mistranslation
+622	geography	G118	Gemma 3 4B	Hindi	Which planet is known as Earth's twin?	5	5	5	none (correct)	4	4	4	omission
+623	health	H177b	Ministral 14B	Hindi	Use the same method to keep it in mind.	4	4	5	discourse / connective	4	4	4	addition / hallucination
+624	tourism	620	Gemma 3 4B	USR chunks	Which you state revise a chief article is an urn of funeral ashes of ancient second century, which can see.	1	2	1	mistranslation	1	1	1	untranslated / format
+625	tourism	844	Gemma 3 4B	USR chunks	The wood industry of Valapattama depends on woods of teak, iruli, ilava, karimurikku, sandalwood etc. trees obtained from dense forest of the bank of Valapattanam nadi.	5	5	5	none (correct)	4	4	4	addition / hallucination
+626	health	H082b	gpt-oss-120b	USR chunks	Then take an anti-allergic tablet for ten days.	5	5	5	none (correct)	5	5	5	none (correct)
+627	geography	G089	Ministral 14B	USR chunks	Conditions of the moon for life are not favourable.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+628	tourism	43a	Google Translate	Hindi	they got into this thinking	5	5	5	none (correct)	3	3	3	addition / hallucination
+629	geography	G357	Google Translate	Hindi	Let's say you want to go to your friend's house,	5	5	5	none (correct)	5	4	4	addition / hallucination
+630	tourism	942	Ministral 14B	Hindi	You can reach **Uttarakayam** by trekking through dense forests for about **two kilometers** from Komba.	5	4	5	addition / hallucination	4	4	4	mistranslation
+631	geography	G097b	Gemma 3 4B	Hindi	That is their tendency to fall to earth.	5	5	5	none (correct)	5	5	5	none (correct)
+632	tourism	836	Ministral 14B	Hindi	As a result, this temple was constructed.	5	5	5	none (correct)	5	5	5	none (correct)
+633	tourism	728	Ministral 14B	USR chunks	Aralam has spread in the expanse of 55 square kilometres in the slope of the Sahyadri.	5	5	5	none (correct)	5	5	5	none (correct)
+634	health	H202	Gemma 3 4B	Hindi	The immune system identifies pathogens or external invaders such as viruses and bacteria, etc.	5	3	5	omission	5	5	5	none (correct)
+635	geography	G009	Gemma 3 4B	USR chunks	You see almost daily, along with these bright objects and also the moon.	4	3	2	fluency / grammar only	4	4	4	fluency / grammar only
+636	geography	G357	gpt-oss-120b	USR chunks	Suppose.	5	2	5	untranslated / format	1	1	1	untranslated / format
+637	health	H259	gpt-oss-120b	USR chunks	TB, pneumonia, etc. surround.	5	5	5	none (correct)	4	4	4	mistranslation
+638	tourism	174b	gpt-oss-120b	USR chunks	Four statues of Tirthankara Bhagavana are installed on top of the mana‑stambha.	5	4	5	discourse / connective	5	5	5	none (correct)
+639	tourism	836	Google Translate	Hindi	As a result this temple was built.	5	5	5	none (correct)	5	5	5	none (correct)
+640	health	H194	Gemma 3 4B	USR chunks	These homocysteine causing damage to nerves destroy.	2	2	2	mistranslation	3	3	3	tense / aspect / modality
+641	health	H259	Gemma 3 4B	Hindi	Tuberculosis, pneumonia, and other infections can encase them.	4	3	4	mistranslation	3	3	3	addition / hallucination
+642	geography	G111	IndicTrans2	Hindi	We have no information regarding its size,	5	5	5	none (correct)	4	4	4	fluency / grammar only
+643	geography	G024	gpt-oss-120b	Hindi	The countless stars that shine at night are just like the sun.	5	5	5	none (correct)	5	5	5	none (correct)
+644	geography	G059	gpt-oss-120b	Hindi	There are eight planets in our solar system.	5	5	5	none (correct)	5	5	5	none (correct)
+645	geography	G258	Google Translate	Hindi	Find out when the next leap year will be?	5	5	5	none (correct)	5	5	5	none (correct)
+646	geography	G328	Ministral 14B	USR chunks	The distance between one post office and Karima’s house is now 12 centimetres.	5	5	5	none (correct)	4	4	4	omission
+647	geography	G332	Ministral 14B	USR chunks	All distances are added.	4	3	5	sentence type	3	3	3	tense / aspect / modality
+648	geography	G351	Ministral 14B	Hindi	What kind of road passes near Dumri village?	5	5	5	none (correct)	4	4	4	fluency / grammar only
+649	health	H273	gpt-oss-120b	Hindi	There are many such diseases.	5	5	5	none (correct)	5	5	5	none (correct)
+650	tourism	991	Gemma 3 4B	Hindi	King Ravi Verma spent many years in Mumbai and Vadodara.	5	4	5	named entity	4	4	4	named entity
+651	health	H241	gpt-oss-120b	USR chunks	Key hole surgery is one revolutionary invention in the field of surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+652	health	H093b	Ministral 14B	Hindi	Also, get a sputum test done for coughing.	5	4	5	mistranslation	5	5	5	none (correct)
+653	tourism	650	gpt-oss-120b	USR chunks	Idukki is a jungle region filled with dense forests and fields of grass.	5	5	5	none (correct)	5	5	5	none (correct)
+654	geography	G307	IndicTrans2	Hindi	Look at how the appearance of the line diagram deteriorates.	5	5	5	none (correct)	4	4	4	omission
+655	health	H201	gpt-oss-120b	USR chunks	The immune system in our body is a system of such arrangements.	5	5	5	none (correct)	5	5	5	none (correct)
+656	geography	G123	Gemma 3 4B	USR chunks	One chart of the solar system prepares.	3	3	3	fluency / grammar only	4	4	4	fluency / grammar only
+657	geography	G089	Gemma 3 4B	Hindi	The lunar conditions are not favorable for life.	5	5	5	none (correct)	5	5	5	none (correct)
+658	tourism	523	Ministral 14B	USR chunks	Kerala residents who followed Islam since 800 AD knew	4	2	4	mistranslation	3	3	4	mistranslation
+659	tourism	897	Google Translate	Hindi	The nearest bus stand and railway station from Padanna is 9 km. m. Is at a distance of .	3	4	3	fluency / grammar only	4	4	4	fluency / grammar only
+660	geography	G058	Ministral 14B	USR chunks	The sun is almost 15 crore kilometres away from the Earth.	5	5	5	none (correct)	5	5	5	none (correct)
+661	geography	G248b	Ministral 14B	Hindi	The region will experience persistent heatwaves due to this reason.	5	3	5	mistranslation	3	3	3	addition / hallucination
+662	geography	G097b	gpt-oss-120b	Hindi	That they tend to fall to the Earth.	5	5	5	none (correct)	5	5	5	none (correct)
+663	geography	G285b	Google Translate	Hindi	Then the globe proves to be very useful for us.	5	5	5	none (correct)	5	5	5	none (correct)
+664	health	H242	gpt-oss-120b	USR chunks	That virus or microbe is called HIV.	5	4	5	fluency / grammar only	5	5	5	none (correct)
+665	geography	G186b	Gemma 3 4B	Hindi	Where these two lines intersect.	5	5	5	none (correct)	5	5	5	none (correct)
+666	tourism	772	Gemma 3 4B	Hindi	It is located 15 km from Kannur and 8 km from Talasseri.	5	3	5	omission	4	4	4	omission
+667	geography	G069	IndicTrans2	Hindi	Earth is the third planet in terms of distance from the Sun.	5	5	5	none (correct)	5	5	5	none (correct)
+668	geography	G024	Gemma 3 4B	Hindi	Countless stars shine at night, just like the sun.	5	5	5	none (correct)	5	5	5	none (correct)
+669	tourism	130	Ministral 14B	Hindi	In memory of the four Kalyanak events of Shri Shantinath Bhagwan, Shri Kunthanath Bhagwan, and Arhanath Bhagwan, three pillars were also erected here.	5	4	5	omission	4	4	5	none (correct)
+670	health	H178	Google Translate	Hindi	Even if you're a visual learner	5	5	5	none (correct)	5	5	5	none (correct)
+671	geography	G313	Gemma 3 4B	USR chunks	The distance between your school and your home, for example, is 10 kilometres.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+672	health	H109	Gemma 3 4B	USR chunks	Daily, in breakfast, one certainly eats two or three eggs.	5	5	5	none (correct)	4	4	4	addition / hallucination
+673	tourism	382	Gemma 3 4B	USR chunks	The Kalika Mata temple, on base of archival evidence, of the initial period of 8th century AD, can be defined.	3	3	4	fluency / grammar only	5	5	5	none (correct)
+674	geography	G290	Google Translate	Hindi	Maps are essential for our various needs.	5	5	5	none (correct)	5	5	5	none (correct)
+675	geography	G347	Gemma 3 4B	Hindi	Various colors are also used for this purpose.	5	5	5	none (correct)	5	5	5	none (correct)
+676	geography	G069	gpt-oss-120b	Hindi	Earth is the third planet from the Sun, based on its distance.	5	5	5	none (correct)	5	5	5	none (correct)
+677	geography	G136b	Ministral 14B	USR chunks	The position of some place here can be told.	4	3	5	fluency / grammar only	1	1	1	untranslated / format
+678	health	H057	IndicTrans2	Hindi	There may be kalajar, malaria, or high fever.	5	5	5	none (correct)	5	5	5	none (correct)
+679	tourism	Sent_5a	Google Translate	Hindi	It is stated that .	5	4	5	addition / hallucination	4	4	4	addition / hallucination
+680	tourism	964	gpt-oss-120b	Hindi	The nearest railway station to Kallar is Tiruvannamalpuram, which is 61 km away.	5	5	5	none (correct)	5	5	5	none (correct)
+681	geography	G219	Gemma 3 4B	Hindi	The match will begin at 7:30 PM local Indian time.	5	3	5	omission	4	4	4	omission
+682	health	H214	gpt-oss-120b	USR chunks	The person starts falling ill again and again.	5	5	5	none (correct)	5	5	5	none (correct)
+683	geography	G285b	Ministral 14B	Hindi	At that time, the globe proves to be quite useful for us.	5	4	5	discourse / connective	4	4	4	discourse / connective
+684	geography	G346	Google Translate	Hindi	Some conventional symbols are shown in Figure 4.3.	5	5	5	none (correct)	5	5	5	none (correct)
+685	geography	G297	Gemma 3 4B	USR chunks	Some of which have been described below.	5	5	5	none (correct)	5	5	5	none (correct)
+686	health	H118	Ministral 14B	Hindi	Indian cuisines have been incorporating nuts and dried fruits for centuries.	5	5	5	none (correct)	4	4	4	addition / hallucination
+687	geography	G359	gpt-oss-120b	Hindi	Thus, the raw diagram is drawn without the aid of a scale.	5	5	5	none (correct)	5	5	5	none (correct)
+688	geography	G313d	Google Translate	Hindi	That is 1 cm of the map. 5 km from the site. Will represent.	2	3	2	omission	3	3	3	fluency / grammar only
+689	tourism	561	Ministral 14B	Hindi	There is a small lake called **Gavi Sarovar** near the Eco Lodge.	5	4	5	addition / hallucination	1	1	1	tense / aspect / modality
+690	geography	G313c	Gemma 3 4B	Hindi	This indicates that 1 cm on the map represents 5 km on the ground.	5	5	5	none (correct)	3	3	4	mistranslation
+691	geography	G187	Google Translate	Hindi	This point will be the correct position of Dhubri.	5	5	5	none (correct)	5	5	5	none (correct)
+692	health	H258b	Ministral 14B	Hindi	The medicines just don’t seem to work anymore.	5	3	5	addition / hallucination	3	3	3	discourse / connective
+693	health	H230	Gemma 3 4B	USR chunks	Many advantages of this method are than traditional surgery.	4	4	3	fluency / grammar only	3	3	3	tense / aspect / modality
+694	geography	G186b	Gemma 3 4B	USR chunks	In which these both lines cut each other.	5	3	5	mistranslation	3	3	3	mistranslation
+695	tourism	581	Gemma 3 4B	Hindi	Kanjir is located between Munnar and Pallivasal.	5	3	5	named entity	4	4	4	addition / hallucination
+696	tourism	202	gpt-oss-120b	Hindi	The world‑famous natural caves of Kotamsar are located 30 kilometres from Jabalpur.	5	3	5	named entity	5	5	5	none (correct)
+697	health	H202	Ministral 14B	USR chunks	The immune system in the body identifies disease carriers or external invaders like viruses, bacteria, etc., as security.	4	3	4	mistranslation	5	5	5	none (correct)
+698	health	H273	Gemma 3 4B	USR chunks	Several such diseases are.	3	2	3	fluency / grammar only	5	5	5	none (correct)
+699	health	H201	Google Translate	Hindi	The immune system is a system of systems within our body,	2	2	3	fluency / grammar only	3	3	3	addition / hallucination
+700	geography	G123	Ministral 14B	USR chunks	One chart of the solar system was prepared.	5	2	5	sentence type	3	3	3	tense / aspect / modality
+701	geography	G071	Ministral 14B	Hindi	This is slightly flattened at the poles.	5	4	5	particle / deixis	4	4	4	omission
+702	health	H177b	Google Translate	Hindi	And use the same to remember.	5	5	5	none (correct)	5	5	5	none (correct)
+703	tourism	912	Ministral 14B	USR chunks	The Portuguese, Dutch, and British empires had ruled here.	5	5	5	none (correct)	5	5	5	none (correct)
+704	tourism	Sent_20	gpt-oss-120b	USR chunks	Cengalapata steshana, on the main line going from Cennai steshana of Dakshina Relave to Dhanushkoti, is at a distance of 35 miles from Cennai.	4	4	4	untranslated / format	4	4	4	named entity
+705	geography	G066b	Google Translate	Hindi	Because its size and shape are almost similar to the Earth.	5	5	5	none (correct)	5	5	5	none (correct)
+706	health	H057	Gemma 3 4B	Hindi	Dengue, malaria, or high fever could be the cause.	5	3	5	addition / hallucination	3	3	4	tense / aspect / modality
+707	tourism	561	IndicTrans2	Hindi	There is Gavi Sarovar near Eco Lodge.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+708	geography	G004b	gpt-oss-120b	Hindi	Some of them are bright.	5	5	5	none (correct)	5	5	5	none (correct)
+709	tourism	634b	IndicTrans2	Hindi	There are many waterfalls here.	5	5	5	none (correct)	5	5	5	none (correct)
+710	health	H004b	gpt-oss-120b	Hindi	And they make the breath smell foul.	5	4	5	addition / hallucination	3	3	3	tense / aspect / modality
+711	tourism	898	gpt-oss-120b	USR chunks	The nearest airport Mangalura and Karippura Antarrashtriya Havai Adda is 120 kilometres and 180 kilometres away from Padanna.	4	4	4	untranslated / format	4	4	4	named entity
+712	tourism	912	gpt-oss-120b	Hindi	The Portuguese, Dutch, and British empires had ruled here.	5	5	5	none (correct)	5	5	5	none (correct)
+713	geography	G111	Google Translate	Hindi	We have no information regarding its size,	5	5	5	none (correct)	5	5	5	none (correct)
+714	tourism	929	Google Translate	Hindi	Recognized by the Government of India and the Kerala Sports Council, this institution is a training center for the martial arts called Kalarippayattu.	5	5	5	none (correct)	4	4	4	addition / hallucination
+715	health	H011	gpt-oss-120b	Hindi	It starts to smell bad when you breathe.	5	4	5	addition / hallucination	3	3	3	tense / aspect / modality
+716	tourism	130	Ministral 14B	USR chunks	The three pillars were also built here in memory of the four *kalyanakas* of Shri Shantinatha Bhagavana, Shri Kunthanatha Bhagavana, and Arahanatha Bhagavana.	5	5	5	none (correct)	5	5	5	none (correct)
+717	health	H168b	IndicTrans2	Hindi	By adopting them, you can open the closed windows of the mind.	5	4	5	addition / hallucination	5	5	5	none (correct)
+718	geography	G186b	IndicTrans2	Hindi	where these two lines intersect each other.	5	5	5	none (correct)	5	5	5	none (correct)
+719	geography	G304b	Gemma 3 4B	USR chunks	And there is some sketch make.	2	2	2	mistranslation	4	4	4	fluency / grammar only
+720	health	H004b	Gemma 3 4B	Hindi	And they make the air smell bad.	5	1	5	mistranslation	3	3	3	addition / hallucination
+721	health	H270	Ministral 14B	USR chunks	The size of lymph nodes in more than one place increases.	5	4	5	fluency / grammar only	4	4	4	fluency / grammar only
+722	health	H143	Gemma 3 4B	Hindi	Here is the method for practicing Janushirasana –	5	5	5	none (correct)	4	4	4	omission
+723	geography	G191	Ministral 14B	USR chunks	These small circles express the names a, ba, sa, da, and da.	3	3	3	addition / hallucination	4	4	3	fluency / grammar only
+724	tourism	190	IndicTrans2	Hindi	Crores of years ago, the rocks on the down side of the river were pushed down by a lunar eclipse caused by an earthquake.	3	3	4	omission	3	2	3	omission
+725	tourism	202	Google Translate	Hindi	The world famous natural caves of Kotamsar are located at a distance of 30 kilometers from Jagdalpur.	5	5	5	none (correct)	5	5	5	none (correct)
+726	geography	G191	IndicTrans2	Hindi	Express these small circles by the names a, b, s, d, and d.	5	4	5	mistranslation	5	5	5	none (correct)
+727	health	H270	gpt-oss-120b	Hindi	Enlargement of the lacrimal glands at more than one site.	5	3	5	mistranslation	4	4	4	mistranslation
+728	tourism	912	IndicTrans2	Hindi	The Portuguese, Dutch, and British Empires ruled here.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+729	health	H093b	gpt-oss-120b	Hindi	Also have a sputum test done for the cough.	5	5	5	none (correct)	5	5	5	none (correct)
+730	tourism	921	Ministral 14B	USR chunks	The nearest railway station to Varkala is at a distance of 8 kilometres from Ancutengu.	5	2	5	mistranslation	5	5	5	none (correct)
+731	health	H186	IndicTrans2	Hindi	Also, some such chemicals are secreted.	5	5	4	omission	4	4	4	fluency / grammar only
+732	health	H186	gpt-oss-120b	Hindi	Along with that, some chemicals are also secreted.	5	5	5	none (correct)	5	5	5	none (correct)
+733	geography	G258	Gemma 3 4B	Hindi	Find out when the next leap year will be?	5	5	5	none (correct)	5	5	5	none (correct)
+734	health	H060	gpt-oss-120b	USR chunks	Fever occurs every two to three months for two and a half to three years.	5	5	5	tense / aspect / modality	5	5	5	none (correct)
+735	health	H271	Gemma 3 4B	Hindi	A lump or swelling in the breast or elsewhere in the body.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+736	tourism	664	Gemma 3 4B	Hindi	Snakes, wipers (made of rubber), bright snakes, mynah birds, bulbul, cuckoo, robin, etc. (are found)	4	3	4	mistranslation	3	2	3	mistranslation
+737	health	H014	Ministral 14B	USR chunks	In breath, which creates a stink, the saliva destroys those bacteria.	3	4	4	fluency / grammar only	4	4	4	fluency / grammar only
+738	tourism	822a	Ministral 14B	USR chunks	Several other pictures are also shown.	5	4	5	addition / hallucination	3	3	3	addition / hallucination
+739	geography	G248b	gpt-oss-120b	USR chunks	The heat on that part will continuously fall because of which.	3	2		fluency / grammar only	3	3	3	addition / hallucination
+740	tourism	572a	gpt-oss-120b	Hindi	The Ikkō point area is surrounded by hills such as Maankunnu, Kodiatturmla, Tonippara, and others.	5	5	5	none (correct)	5	5	5	none (correct)
+741	health	H190	IndicTrans2	Hindi	Unable to get enough sleep, fatigue persists throughout the day.	5	5	5	none (correct)	5	5	5	none (correct)
+742	tourism	991	Gemma 3 4B	USR chunks	Raja Ravi Varma lived for many years in Mumbai and badauda.	5	5	5	none (correct)	5	5	5	none (correct)
+743	health	H254	Google Translate	Hindi	AIDS does not spread by living or sitting together.	5	5	5	none (correct)	5	5	5	none (correct)
+744	geography	G143b	gpt-oss-120b	Hindi	It is an imaginary line.	5	3	5	discourse / connective	4	4	4	mistranslation
+745	geography	G100b	Ministral 14B	USR chunks	Pits on the surface get formed by which	3	3		fluency / grammar only	5	5	5	none (correct)
+746	geography	G346	Gemma 3 4B	Hindi	Some conventional symbolic images are shown in 4.3.	4	3	5	mistranslation	4	4	4	mistranslation
+747	tourism	248	gpt-oss-120b	USR chunks	From the view of sculpture, the mama-bhanja mandira is excellent and worth visiting.	5	4	5	untranslated / format	5	5	5	none (correct)
+748	health	H091b	Gemma 3 4B	USR chunks	Then what should be done.	5	5	5	none (correct)	5	5	5	none (correct)
+749	tourism	561	Google Translate	Hindi	Gavi Sarovar is near Eco Lodge.	5	5	5	particle / deixis	4	4	4	fluency / grammar only
+750	tourism	152b	Gemma 3 4B	USR chunks	There was obtained a grand statue of Chandra Prabhu Bhagavana.	4	4	4	fluency / grammar only	4	4	3	fluency / grammar only
+751	geography	G187	Gemma 3 4B	Hindi	This point will be in the correct position.	4	2	4	mistranslation	4	4	4	omission
+752	tourism	912	Google Translate	Hindi	The Portuguese, Dutch and British empires ruled here.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+753	tourism	561	gpt-oss-120b	Hindi	There is a village pond near Eco Lodge.	5	3	5	mistranslation	3	2	3	addition / hallucination
+754	geography	G162b	Ministral 14B	Hindi	Thus, it is also known as the **Tropic of Cancer** (or the **Torrid Zone** in a broader geographical sense).	5	2	5	addition / hallucination	1	1	1	untranslated / format
+755	geography	G032b	Ministral 14B	Hindi	That which is part of the constellation **Ursa Major**.	5	5	5	none (correct)	5	5	5	none (correct)
+756	health	H254	IndicTrans2	Hindi	Living together or sitting up does not spread AIDS.	4	3	5	mistranslation	5	5	5	none (correct)
+757	health	H178	Ministral 14B	USR chunks	Although you are only a visual learner,	5	3	5	mistranslation	4	4	4	addition / hallucination
+758	health	H242	Gemma 3 4B	Hindi	HIV is a virus that causes AIDS.	5	2	5	addition / hallucination	3	2	2	tense / aspect / modality
+759	health	H091b	Gemma 3 4B	Hindi	What should be done?	5	3	5	discourse / connective	4	4	4	discourse / connective
+760	tourism	382	Ministral 14B	USR chunks	The Kalika Mata Mandir can be defined, on the basis of archival evidence, as belonging to the initial period of the 8th century AD.	5	5	4	untranslated / format	5	5	5	none (correct)
+761	geography	G032b	Gemma 3 4B	USR chunks	Which part of constellation Arsa Mejara is	2	2	2	fluency / grammar only	4	4	4	sentence type
+762	geography	G146b	IndicTrans2	Hindi	And the southern half is called the southern hemisphere.	5	5	5	none (correct)	5	5	5	none (correct)
+763	health	H260b	Gemma 3 4B	Hindi	Which can only be seen with a microscope.	5	5	5	none (correct)	5	5	5	none (correct)
+764	health	H198	Ministral 14B	Hindi	Eating fish, walnuts, and almonds can also sharpen your mind.	5	5	5	addition / hallucination	4	4	4	tense / aspect / modality
+765	tourism	778	Ministral 14B	USR chunks	The nearest railway station, Kannura, is situated at a distance of 2 kilometres from Payyambalama Samudratata.	5	5	5	untranslated / format	5	5	5	none (correct)
+766	geography	G187	Ministral 14B	Hindi	This point would be the correct location for Dhubri.	5	5	5	none (correct)	3	3	3	tense / aspect / modality
+767	health	H082b	IndicTrans2	Hindi	So take antiallergic tablets for ten days.	5	4	5	discourse / connective	5	5	5	none (correct)
+768	tourism	151	IndicTrans2	Hindi	On the night of the fast on the third day, Goddess Saraswati saw something wonderful about a place near her house in a dream.	5	4	5	named entity	3	2	3	tense / aspect / modality
+769	health	H023	gpt-oss-120b	Hindi	Clean your mouth after eating.	5	4	5	addition / hallucination	5	5	5	none (correct)
+770	tourism	942	IndicTrans2	Hindi	Uttarkayam can be reached by walking through a dense forest two kilometres from Komba.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+771	tourism	634b	Gemma 3 4B	Hindi	There are many waterfalls here.	5	5	5	none (correct)	5	5	5	none (correct)
+772	geography	G118	gpt-oss-120b	Hindi	Which planet is known as Earth's twin planet?	5	5	5	none (correct)	3	3	3	omission
+773	health	H186	Gemma 3 4B	Hindi	Additionally, some chemicals are released.	5	4	5	omission	2	2	2	mistranslation
+774	health	H048	IndicTrans2	Hindi	This helps in maintaining the body's elasticity.	5	5	5	none (correct)	3	3	3	fluency / grammar only
+775	health	H250	Google Translate	Hindi	AIDS is spread through the use of unboiled or previously used needles.	5	5	5	none (correct)	5	5	5	none (correct)
+776	health	H014	gpt-oss-120b	USR chunks	Which creates a stink in breath, those bacteria destroy saliva.	3	2	2	mistranslation	4	4	4	fluency / grammar only
+777	geography	G032b	Google Translate	Hindi	Which is part of the constellation Ursa Major.	5	4	5	particle / deixis	5	5	5	none (correct)
+778	tourism	912	Ministral 14B	Hindi	The Portuguese, Dutch, and British empires once ruled over these lands.	5	4	5	addition / hallucination	3	3	3	addition / hallucination
+779	geography	G045	IndicTrans2	Hindi	It receives all its light and heat from the sun,	5	5	5	none (correct)	5	5	5	none (correct)
+780	health	H279	Ministral 14B	USR chunks	People living with HIV who are not doing treatment in hospitals are committing an offence.	4	2	5	mistranslation	3	3	3	omission
+781	health	H220b	gpt-oss-120b	Hindi	So that the affected family members can lead a respected and fulfilling life.	5	5	5	none (correct)	5	5	5	none (correct)
+782	geography	G001	IndicTrans2	Hindi	How nice it is to see the sky after sunset.	5	5	5	none (correct)	4	4	4	omission
+783	tourism	460	Gemma 3 4B	Hindi	The temple lacks decorative embellishments on its shrine.	5	2	5	mistranslation	3	3	3	addition / hallucination
+784	tourism	151	Gemma 3 4B	USR chunks	Sarasvati devi had seen, in a dream, about a place situated near her house, something unprecedented on the third day at night of the fast.	4	4	5	tense / aspect / modality	4	4	4	mistranslation
+785	geography	G191	Gemma 3 4B	Hindi	Express the following small circles by the names A, B, C, D, and Dh.	5	3	5	mistranslation	5	5	5	none (correct)
+786	health	H178	Ministral 14B	Hindi	No matter how much of a visual learner you are,	5	3	5	mistranslation	2	2	2	addition / hallucination
+787	geography	G359	Gemma 3 4B	USR chunks	A rough drawing is in this way drawn without help of scale.	5	5	5	none (correct)	5	5	5	none (correct)
+788	geography	G191	Google Translate	Hindi	Express these small circles with the names A, B, S, Da and Dh.	5	5	5	none (correct)	5	5	5	none (correct)
+789	health	H048	gpt-oss-120b	Hindi	This keeps the body flexible.	5	4	5	fluency / grammar only	4	4	4	omission
+790	tourism	138	IndicTrans2	Hindi	Atishay Kshetra Tijara: More than desired is found here.	5	5	5	none (correct)	4	4	4	mistranslation
+791	tourism	805	Ministral 14B	USR chunks	The people of Talashsheri are adept at making sweetmeats and at piloting new sweetmeats.	5	3	5	mistranslation	5	5	5	none (correct)
+792	tourism	Sent_5a	Gemma 3 4B	Hindi	It is said.	5	3	5	tense / aspect / modality	4	4	4	tense / aspect / modality
+793	tourism	778	IndicTrans2	Hindi	The nearest railway station from Payyambalam beach - Kannur, is located at a distance of 2 km.	5	5	5	none (correct)	5	5	5	none (correct)
+794	health	H177b	Gemma 3 4B	USR chunks	Use it and for remembering.	1	1	1	mistranslation	4	4	4	discourse / connective
+795	health	H060	gpt-oss-120b	Hindi	I have been getting a fever every two to three months for the past two and a half to three years.	5	3	5	addition / hallucination	3	3	3	addition / hallucination
+796	health	H169b	Ministral 14B	Hindi	When attention is paid to it.	5	5	5	none (correct)	5	5	5	none (correct)
+797	geography	G332	gpt-oss-120b	Hindi	Connect all distances.	5	2	5	mistranslation	5	5	5	none (correct)
+798	tourism	524	Gemma 3 4B	Hindi	Ancient Kerala was considered part of the Tamil geographical region by historians.	5	5	5	none (correct)	4	4	4	mistranslation
+799	health	H168b	Ministral 14B	Hindi	Embracing these can help unlock the closed windows of your mind.	5	5	5	none (correct)	3	3	3	tense / aspect / modality
+800	geography	G111	Gemma 3 4B	Hindi	We have no information about its size.	5	5	5	none (correct)	5	5	5	none (correct)
+801	geography	G192b	gpt-oss-120b	Hindi	The vertical lines represent the prime meridians.	5	1	5	mistranslation	5	5	5	none (correct)
+802	health	H048	Ministral 14B	USR chunks	Flexibility in the body remains.	5	2	5	omission	4	4	4	fluency / grammar only
+803	geography	G297	Gemma 3 4B	Hindi	Some of which are described below.	5	5	5	none (correct)	5	5	5	none (correct)
+804	tourism	778	Gemma 3 4B	Hindi	Payyambalam is located 2 km away from Kannur railway station.	5	3	5	omission	3	3	3	omission
+805	tourism	822a	Google Translate	Hindi	There are many other pictures as well.	5	5	5	none (correct)	5	5	5	none (correct)
+806	geography	G342b	IndicTrans2	Hindi	And you can't ask anyone for directions.	5	5	5	none (correct)	4	4	4	addition / hallucination
+807	tourism	844	Gemma 3 4B	Hindi	The wood of Valapattanam is made from teak, ebony, ilva, karimurikkun, sandalwood, and other woods obtained from the dense forests along the banks of the Valapattanam River.	4	3	4	mistranslation	3	3	3	mistranslation
+808	health	H103b	Gemma 3 4B	USR chunks	Your diet should be what is for keeping eyesight healthy.	2	2	2	mistranslation	3	3	3	tense / aspect / modality
+809	tourism	248	Gemma 3 4B	Hindi	The temple is excellent and beautiful from an architectural and aesthetic point of view.	5	2	5	omission	4	4	4	mistranslation
+810	tourism	474a	Ministral 14B	USR chunks	A Shakti Mandira was built on the corner of the right side of Sasa Mandira.	5	4	5	untranslated / format	5	5	5	none (correct)
+811	tourism	438b	gpt-oss-120b	Hindi	And it has remained popular as a Shaivite seat.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+812	health	H067	Google Translate	Hindi	X-ray, TC-DC are normal.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+813	tourism	523	gpt-oss-120b	USR chunks	The Keralavasi from 800 AD only with the Islam religion knew.	1	2	1	mistranslation	2	2	2	mistranslation
+814	geography	G059	IndicTrans2	Hindi	There are eight planets in our solar system.	5	5	5	none (correct)	5	5	5	none (correct)
+815	tourism	729	Ministral 14B	USR chunks	Wild deer, elephants, bison, wild boar and other animals in their common form roam in Aralama.	4	3	4	fluency / grammar only	3	3	3	mistranslation
+816	tourism	523	Gemma 3 4B	Hindi	Malayalis had become acquainted with Islam from the 8th century onwards.	5	3	5	addition / hallucination	2	2	2	mistranslation
+817	tourism	Sent_20	IndicTrans2	Hindi	Chengalpattu station is 35 miles from Chennai on the Southern Railway's main line from Chennai station to Dhanushkoti.	5	5	5	none (correct)	3	3	3	omission
+818	tourism	524	Ministral 14B	USR chunks	Historians used to consider ancient Kerala as part of the Tamil region.	5	5	5	none (correct)	5	5	5	none (correct)
+819	geography	G100b	Google Translate	Hindi	Due to which potholes are formed on the ground.	5	4	5	mistranslation	3	3	3	mistranslation
+820	health	H277	gpt-oss-120b	USR chunks	Pay attention to physical cleanliness.	5	5	5	none (correct)	5	5	5	none (correct)
+821	geography	G136b	gpt-oss-120b	Hindi	How can the location of a place be indicated on this?	5	5	5	none (correct)	3	3	3	omission
+822	health	H065	Google Translate	Hindi	check fever	5	2	5	mistranslation	4	4	4	none (correct)
+823	tourism	620	gpt-oss-120b	USR chunks	Which you can see is an urn of funeral ashes of the ancient second century.	3	3	4	omission	3	3	3	omission
+824	tourism	844	gpt-oss-120b	USR chunks	The wood industry of Valapattanama depends on the woods of teak, iruli, ilava, karimurikku, sandalwood, etc., obtained from the dense forest on the bank of the Valappattanama Nadi.	5	4	5	untranslated / format	3	3	3	addition / hallucination
+825	tourism	964	Google Translate	Hindi	The nearest railway station from Kallar is Thiruvananthapuram 61 km. m. Is at a distance of .	4	5	3	fluency / grammar only	4	4	4	fluency / grammar only
+826	tourism	805	IndicTrans2	Hindi	The people of Thalassery are adept at making sweets and experimenting with new ones.	5	5	5	none (correct)	5	5	5	none (correct)
+827	geography	G097b	gpt-oss-120b	USR chunks	Therefore their tendency to fall on earth is.	1	2	2	fluency / grammar only	4	4	4	addition / hallucination
+828	tourism	206b	gpt-oss-120b	Hindi	The columns that rise above the ground are called stalagmites, while the large columns that connect the ceiling and the floor are called dripstones.	5	5	5	none (correct)	3	3	3	fluency / grammar only
+829	health	H143	IndicTrans2	Hindi	Here is the method of practicing Janushirasana:	5	5	5	none (correct)	4	4	4	omission
+830	health	H122b	gpt-oss-120b	Hindi	It is always recommended to eat fresh fruit in meals.	5	5	5	none (correct)	4	4	4	mistranslation
+831	health	H109	IndicTrans2	Hindi	Be sure to eat two or three eggs daily for breakfast.	5	5	5	none (correct)	4	4	4	addition / hallucination
+832	health	H194	Ministral 14B	Hindi	These destroy homocysteine, a compound that damages blood vessels.	5	2	5	mistranslation	3	3	3	addition / hallucination
+833	health	H241	Gemma 3 4B	USR chunks	Key hole surgery, a one revolutionary invention, is in the field of surgery.	5	4	4	fluency / grammar only	4	4	4	fluency / grammar only
+834	tourism	166a	Gemma 3 4B	USR chunks	Belief is.	2	2	2	fluency / grammar only	4	4	4	fluency / grammar only
+835	geography	G313	gpt-oss-120b	Hindi	For example, the distance between your school and your home is 10 km.	5	5	5	none (correct)	5	5	5	none (correct)
+836	tourism	726	Gemma 3 4B	USR chunks	The international airport, 155 kilometres away from Vattavada, is.	2	3	2	omission	4	4	4	omission
+837	tourism	572a	Gemma 3 4B	Hindi	The Echo Point area is surrounded by hills such as Kodiyatturmal, Tonnippara, etc.	5	3	5	omission	4	4	4	omission
+838	health	H186b	Google Translate	Hindi	Which will protect the brain cells from destruction.	5	5	5	none (correct)	5	5	5	none (correct)
+839	geography	G143b	gpt-oss-120b	USR chunks	Which one imaginary line is?	1	2	1	fluency / grammar only	4	4	4	sentence type
+840	geography	G069	Ministral 14B	USR chunks	Earth is the third planet according to its distance from the sun.	5	5	5	none (correct)	5	5	5	none (correct)
+841	tourism	939	Ministral 14B	USR chunks	Uttarama Kayama is a small region filled with medicinal herbs of different sorts and birds of different types.	5	5	5	none (correct)	4	4	4	addition / hallucination
+842	geography	G071	gpt-oss-120b	USR chunks	This near the poles is slightly flat.	3	3	3	fluency / grammar only	5	5	5	none (correct)
+843	health	H014	Ministral 14B	Hindi	Saliva helps eliminate the bacteria responsible for causing bad breath.	5	5	5	none (correct)	5	5	5	none (correct)
+844	tourism	460	Ministral 14B	USR chunks	The lack of decorative meanings at the base of this temple is noticeable.	5	3	5	mistranslation	2	2	3	mistranslation
+845	health	H065	Ministral 14B	USR chunks	A doctor checks for fever.	5	2	5	mistranslation	3	2	2	addition / hallucination
+846	geography	G009	gpt-oss-120b	Hindi	With these shiny objects, you even see the moon almost every day.	5	5	5	none (correct)	1	2	2	addition / hallucination
+847	health	H143	Ministral 14B	USR chunks	The practice method of Janushirasana is presented here.	5	5	5	none (correct)	5	5	5	none (correct)
+848	geography	G071	Gemma 3 4B	Hindi	It is slightly flattened near the poles.	5	5	5	none (correct)	5	5	5	none (correct)
+849	tourism	929	Gemma 3 4B	Hindi	This institution, recognized by the Government of India and the Kerala State Sports Council, is a training center for Kalarippayattu, an indigenous martial art.	5	5	5	addition / hallucination	4	4	4	addition / hallucination
+850	health	H011	Google Translate	Hindi	This causes bad breath.	5	5	5	none (correct)	3	3	3	mistranslation
+851	health	H202	Ministral 14B	Hindi	The immune system is the body’s defense mechanism that identifies and combats pathogens or external invaders such as viruses, bacteria, and other harmful agents.	5	3	5	addition / hallucination	3	3	3	addition / hallucination
+852	health	H122b	Gemma 3 4B	USR chunks	Advice of eating fresh fruits in meal is given in all cases.	5	5	5	none (correct)	5	5	5	none (correct)
+853	health	H209	Gemma 3 4B	Hindi	After that, HIV attacks other CD4 cells.	5	5	5	none (correct)	5	5	4	fluency / grammar only
+854	tourism	581	IndicTrans2	Hindi	Kanjar is between Munnar and Pallivasal.	5	5	5	none (correct)	5	5	5	none (correct)
+855	geography	G032b	IndicTrans2	Hindi	which is part of the constellation Arsa Major.	5	3	5	named entity	5	5	5	none (correct)
+856	health	H230	Gemma 3 4B	Hindi	This method has many advantages over traditional surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+857	geography	G004b	gpt-oss-120b	USR chunks	Some of which are bright.	5	5	5	none (correct)	5	5	5	none (correct)
+858	tourism	769	gpt-oss-120b	USR chunks	Many natural pools have formed because of these rocks.	5	5	5	none (correct)	5	5	5	none (correct)
+859	tourism	897	IndicTrans2	Hindi	The nearest bus stand and railway station are at a distance of 9 km from Padanna.	5	5	5	none (correct)	5	5	5	none (correct)
+860	tourism	929	gpt-oss-120b	USR chunks	The institute recognized by Bharata Sarakara and Kerala Sportsa Kaumsila is a training centre of the martial art named Kalarippayattu.	5	3	4	untranslated / format	5	5	5	none (correct)
+861	tourism	675	Gemma 3 4B	Hindi	Buses depart for Ramakkalmedu from Munnar at 9.30 am, Kottayam at 10.30 am, and Ernakulam at 9.30 am.	5	5	5	none (correct)	5	5	5	none (correct)
+862	geography	G285b	gpt-oss-120b	Hindi	Then the globe proves to be quite useful for us.	5	5	5	none (correct)	4	4	4	addition / hallucination
+863	tourism	664	Ministral 14B	USR chunks	In India, cobras, Duboiya vipers, shining snakes, mynas, nightingales, woodpeckers, kingfishers, and other species are found.	5	5	5	addition / hallucination	3	3	3	addition / hallucination
+864	tourism	664	Ministral 14B	Hindi	Snakes like cobras, vipers (Russell’s viper), and glossy snakes, as well as birds such as mynas, nightingales, woodpeckers, and drongos, are found here.	5	5	5	addition / hallucination	3	3	3	addition / hallucination
+865	tourism	726	Ministral 14B	USR chunks	The Kocci International Airport is 155 kilometres away from Vattavada.	5	5	5	none (correct)	5	5	5	none (correct)
+866	tourism	688	gpt-oss-120b	Hindi	Lake Palace Aranyanivas is situated on a small island on the shore of the reservoir.	5	2	5	mistranslation	4	4	4	addition / hallucination
+867	geography	G187	Ministral 14B	USR chunks	At this point, the correct position of Dhubari will be determined.	5	3	5	mistranslation	3	3	3	addition / hallucination
+868	geography	G009	Google Translate	Hindi	Along with these bright objects, you also see the Moon almost every day.	5	5	5	none (correct)	5	5	5	none (correct)
+869	health	H260b	Ministral 14B	USR chunks	Microscopic organisms can be seen only with a microscope.	5	3	5	addition / hallucination	3	2	4	addition / hallucination
+870	health	H254	Ministral 14B	Hindi	AIDS does not spread through living together, sitting, or sharing meals.	5	3	5	addition / hallucination	4	4	4	addition / hallucination
+871	tourism	406	gpt-oss-120b	Hindi	According to Shri Dhaki, the Kirti Stambh was the ancient Tripur victory of the great Kumbhsvamin Alam.	4	2	4	mistranslation	4	4	4	named entity
+872	tourism	772	gpt-oss-120b	USR chunks	Mushappilangadu bica is 15 kilometres away from Kannura and 8 kilometres away from Talashsheri.	5	4	5	untranslated / format	5	5	5	none (correct)
+873	tourism	248	Ministral 14B	Hindi	The **Mama-Bhanja Temple** is an architectural marvel and a sight to behold.	5	5	5	none (correct)	3	3	3	mistranslation
+874	geography	G004b	Ministral 14B	USR chunks	Some of which are bright.	5	5	5	none (correct)	5	5	5	none (correct)
+875	tourism	912	gpt-oss-120b	USR chunks	The Portuguese, Dutch, and British empires here had ruled.	5	5	5	none (correct)	5	5	5	none (correct)
+876	tourism	769	Ministral 14B	USR chunks	Many natural pools have formed because of these rocks.	5	5	5	none (correct)	5	5	5	none (correct)
+877	health	H067	Ministral 14B	USR chunks	X-ray and TC-DC are normal.	5	5	5	none (correct)	5	5	5	none (correct)
+878	tourism	572a	IndicTrans2	Hindi	The area of Iko Point is surrounded by hills such as Mankunnu, Kodiyatturmala, Tonippara, etc.	5	4	5	named entity	5	5	5	none (correct)
+879	tourism	Sent_5a	Gemma 3 4B	USR chunks	This has been stated.	5	5	5	none (correct)	4	3	3	tense / aspect / modality
+880	tourism	523	Ministral 14B	Hindi	The people of Kerala have been acquainted with Islam since the 8th century CE.	5	5	5	none (correct)	5	5	5	none (correct)
+881	geography	G111	Gemma 3 4B	USR chunks	We do not have any information in relation to its size.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+882	geography	G100b	gpt-oss-120b	Hindi	Which causes holes to form on the ground.	5	4	5	mistranslation	3	3	3	mistranslation
+883	geography	G313	IndicTrans2	Hindi	For example, the distance between your school and your home is 10 km.	5	5	5	none (correct)	5	5	5	none (correct)
+884	health	H122b	Ministral 14B	Hindi	While it is generally recommended to include fresh fruits in your diet, this advice may vary depending on individual health conditions and dietary needs.	5	2	5	addition / hallucination	3	3	3	addition / hallucination
+885	geography	G357	Gemma 3 4B	USR chunks	Suppose he is active.	5	1	5	mistranslation	1	1	1	untranslated / format
+886	health	H168b	Google Translate	Hindi	By adopting these, you can open the closed windows of your mind.	5	5	5	none (correct)	5	5	5	none (correct)
+887	health	H065	Gemma 3 4B	USR chunks	He checked for fever.	4	2	5	addition / hallucination	4	4	4	addition / hallucination
+888	tourism	474a	gpt-oss-120b	USR chunks	A Shakti Mandira on the corner of the right side of Sasa Mandira is built.	5	5	5	untranslated / format	4	4	4	fluency / grammar only
+889	geography	G123	Google Translate	Hindi	Prepare a chart of the solar system.	5	5	5	none (correct)	5	5	5	none (correct)
+890	tourism	406	gpt-oss-120b	USR chunks	According to Shri Dhaki, the Kumbhasvamina alama of Kirtistambha Prashasti was only ancient Tripura Vijaya.	4	4	5	mistranslation	5	5	5	none (correct)
+891	health	H271	gpt-oss-120b	Hindi	A lump or swelling on the breast or elsewhere in the body.	5	5	5	none (correct)	5	5	5	none (correct)
+892	tourism	772	gpt-oss-120b	Hindi	Mushappilangadu is located 15 km from Kannur and 8 km from Talasseri.	5	4	5	omission	5	5	5	none (correct)
+893	geography	G032b	gpt-oss-120b	Hindi	Which is part of the Ursa Major constellation.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+894	health	H118	Google Translate	Hindi	Nuts etc. have been used in Indian cuisine for centuries.	5	5	5	none (correct)	4	4	3	omission
+895	geography	G066b	IndicTrans2	Hindi	Because its shape and shape are almost the same as that of the Earth.	5	3	5	mistranslation	2	2	3	mistranslation
+896	geography	G221	Ministral 14B	USR chunks	India is situated in the east of Grinica, in 82°30' east.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+897	tourism	620	Ministral 14B	USR chunks	You can see an urn of funeral ashes of an ancient second-century chief article which isa state to be revised.	1	2	1	mistranslation	3	3	4	omission
+898	health	H065	gpt-oss-120b	Hindi	Check for fever.	5	5	5	none (correct)	4	4	4	addition / hallucination
+899	tourism	921	gpt-oss-120b	Hindi	The nearest railway station to Anchutengu, Workla, is 8 km away.	5	5	5	none (correct)	5	5	5	none (correct)
+900	tourism	190	Gemma 3 4B	USR chunks	Rocks of down side of river, formed from moon from some earthquake in crore years before ruin, had sunk in low.	1	2	1	mistranslation	3	3	3	addition / hallucination
+901	health	H254	gpt-oss-120b	USR chunks	AIDS does not spread through living together or sitting together.	5	5	5	none (correct)	5	5	5	none (correct)
+902	health	H004b	Ministral 14B	Hindi	And they make the very air reek.	5	2	5	none (correct)	3	3	3	mistranslation
+903	geography	G143b	Gemma 3 4B	Hindi	Which is an imaginary line.	5	5	5	none (correct)	5	5	5	none (correct)
+904	geography	G059	Gemma 3 4B	Hindi	Our solar system has eight planets.	5	5	5	none (correct)	5	5	5	none (correct)
+905	health	H067	Gemma 3 4B	Hindi	The X-ray and ECG are normal.	5	3	5	omission	4	4	4	addition / hallucination
+906	health	H186b	Gemma 3 4B	USR chunks	Cells of brain which are from becoming destroyed will save.	1	2	1	mistranslation	4	4	4	fluency / grammar only
+907	tourism	964	gpt-oss-120b	USR chunks	The nearest railway station, Tiruvanantapurama, is at a distance of 61 kilometres from Kallara.	5	5	5	none (correct)	5	5	5	none (correct)
+908	tourism	844	gpt-oss-120b	Hindi	The timber of Valappattanam, obtained from the dense forest along the banks of the Valappattanam River, consists of wood from trees such as teak, iruli, ilva, karimurukku, sandalwood, and others.	5	5	5	none (correct)	5	5	5	none (correct)
+909	tourism	Sent_5a	Ministral 14B	USR chunks	This has been stated.	5	5	5	none (correct)	3	3	4	tense / aspect / modality
+910	tourism	634b	Google Translate	Hindi	There are many waterfalls here.	5	5	5	none (correct)	5	5	5	none (correct)
+911	health	H258b	Ministral 14B	USR chunks	Medicines do not affect	3	3	5	omission	5	5	5	none (correct)
+912	geography	G069	Gemma 3 4B	Hindi	Earth is the third planet from the Sun.	5	3	5	omission	2	2	2	omission
+913	geography	G338	Ministral 14B	USR chunks	Showing on any map in real size and type, different features like buildings, roads, bridges, trees, tracks of rail or wells is not possible.	4	4	4	fluency / grammar only	5	5	5	none (correct)
+914	health	H198	gpt-oss-120b	Hindi	Eating fish, walnuts, and almonds also sharpens the mind.	5	5	5	none (correct)	5	5	5	none (correct)
+915	health	H118	Gemma 3 4B	USR chunks	The use of dry fruits etc. in Indian cuisines for centuries is happening.	4	5	3	fluency / grammar only	5	5	5	none (correct)
+916	health	H168b	Gemma 3 4B	USR chunks	Therefore, we can open closed windows of brain adopting them.	4	4	4	addition / hallucination	3	3	3	addition / hallucination
+917	geography	G024	Gemma 3 4B	USR chunks	Innumerable stars, shining at the time of night, are similar to the sun only.	5	5	5	none (correct)	5	5	5	none (correct)
+918	geography	G346	IndicTrans2	Hindi	Some of the traditional symbols are shown in Fig. 4. 3.	5	5	5	none (correct)	4	4	4	mistranslation
+919	geography	G219	Ministral 14B	USR chunks	Match will start at 7:30 in the evening, that is according to *The Times of India*.	4	3	4	mistranslation	4	4	4	discourse / connective
+920	tourism	206b	gpt-oss-120b	USR chunks	The pillars going from the ground on and big pillars joined with the roof and ground, as Stalegamaita and Drapistona, are termed.	2	3	2	fluency / grammar only	3	3	4	fluency / grammar only
+921	geography	G313d	Ministral 14B	Hindi	This map will represent **1 centimeter on the map as 5 kilometers in reality**.	4	3	4	untranslated / format	3	3	3	tense / aspect / modality
+922	health	H259	Google Translate	Hindi	T.B. Pneumonia etc. surrounds.	5	5	5	none (correct)	4	4	4	mistranslation
+923	tourism	382	gpt-oss-120b	USR chunks	Kalika Mata Mandira can be defined on the basis of archival evidence of the initial period of the 8th century AD.	5	5	5	untranslated / format	5	5	5	none (correct)
+924	health	H198	Gemma 3 4B	Hindi	Eating fish, walnuts, and almonds can also sharpen the mind.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+925	health	H159	Ministral 14B	Hindi	Use warm water for bathing.	5	5	5	none (correct)	5	5	5	none (correct)
+926	tourism	726	gpt-oss-120b	Hindi	Kochi International Airport is 155 km away from Vattavada.	5	5	5	none (correct)	5	5	5	none (correct)
+927	geography	G123	IndicTrans2	Hindi	Prepare a chart of the solar system.	5	5	5	none (correct)	5	5	5	none (correct)
+928	tourism	772	Gemma 3 4B	USR chunks	Mushappilangadu bica is 15 kilometres away from kannura and 8 kilometres away from talashsheri.	5	5	5	none (correct)	5	5	5	none (correct)
+929	health	H177b	gpt-oss-120b	Hindi	And use it to remember.	5	4	5	particle / deixis	4	4	4	omission
+930	health	H270	IndicTrans2	Hindi	Increased size of lymph nodes at more than one location.	5	5	5	none (correct)	3	3	3	tense / aspect / modality
+931	geography	G187	Gemma 3 4B	USR chunks	This point indicates the correct position of dhubari will be.	3	5	3	tense / aspect / modality	3	3	3	addition / hallucination
+932	geography	G313d	Ministral 14B	USR chunks	One centimetre on the map will show five kilometres on the ground.	5	4	5	discourse / connective	5	5	5	none (correct)
+933	health	H273	gpt-oss-120b	USR chunks	Several such diseases are.	5	5	5	none (correct)	5	5	5	none (correct)
+934	geography	G357	Ministral 14B	USR chunks	Suppose.	2	2	5	omission	1	1	1	untranslated / format
+935	health	H093b	IndicTrans2	Hindi	And get the mucus checked for coughing.	5	5	5	none (correct)	5	5	5	none (correct)
+936	health	H060	Gemma 3 4B	Hindi	He/She has a fever every two to three months for the past three years, approximately every six months.	5	3	5	addition / hallucination	3	3	3	addition / hallucination
+937	health	H258b	Gemma 3 4B	Hindi	And the medicines aren't working.	5	3	5	tense / aspect / modality	5	5	5	none (correct)
+938	health	H060	Ministral 14B	USR chunks	A fever occurs in [fever]_SUBJ [for two and a half to three years] every two to three months.	3	3	2	fluency / grammar only	3	3	3	fluency / grammar only
+939	tourism	929	Gemma 3 4B	USR chunks	This institute, recognized by the Bharata Sarakara and Kerala Sportsa Kaumsila, is a training centre of martial art named kalarippayattu.	5	4	5	untranslated / format	5	5	5	none (correct)
+940	geography	G342b	Gemma 3 4B	USR chunks	You can not ask for directions and you can not ask from anyone about directions.	4	5	3	addition / hallucination	3	3	3	addition / hallucination
+941	tourism	942	gpt-oss-120b	USR chunks	Uttarakayama can be reached from Komba by unsteadying in two kilometres from the dense forest pedestrian.	2	2	1	mistranslation	3	2	3	mistranslation
+942	geography	G071	IndicTrans2	Hindi	It is slightly flattened near the poles.	5	5	5	none (correct)	5	5	5	none (correct)
+943	tourism	202	Gemma 3 4B	USR chunks	The world acclaimed natural caves of Kotamasara, at a distance of 30 kilometres from Jagadalapura, are located.	5	5	5	none (correct)	5	5	5	none (correct)
+944	geography	G162b	gpt-oss-120b	Hindi	And it is called the tropical zone.	5	5	5	none (correct)	5	5	5	none (correct)
+945	geography	G089	IndicTrans2	Hindi	The Moon's conditions are not conducive to life.	5	5	5	none (correct)	5	5	5	none (correct)
+946	health	H057	Gemma 3 4B	USR chunks	Kala-azar, malaria or high fever can happen.	5	5	5	none (correct)	5	5	5	none (correct)
+947	tourism	991	Ministral 14B	USR chunks	Raja Ravi Varma lived in Mumbai and Badauda for many years.	5	5	5	none (correct)	5	5	5	none (correct)
+948	geography	G338	IndicTrans2	Hindi	It is not possible to show different shapes such as buildings, roads, bridges, trees, railway tracks or wells in real size and type on any map.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+949	tourism	728	Google Translate	Hindi	Aralam is 55 square kilometers on the slopes of Sahyadri. m. Spread in detail.	3	3	3	fluency / grammar only	3	3	3	fluency / grammar only
+950	health	H109	Gemma 3 4B	Hindi	Eat two or three eggs every day for breakfast.	5	5	5	none (correct)	4	3	4	omission
+951	health	H186	Google Translate	Hindi	Some chemicals are also secreted	5	3	5	discourse / connective	4	4	4	discourse / connective
+952	geography	G307	Gemma 3 4B	Hindi	See how the lines distort.	5	3	5	mistranslation	1	1	1	untranslated / format
+953	geography	G136b	Gemma 3 4B	USR chunks	How the position of some place here can be told	3	3	2	fluency / grammar only	4	3	3	discourse / connective
+954	health	H230	Ministral 14B	Hindi	This method offers numerous advantages over traditional surgery.	5	5	5	none (correct)	4	4	4	addition / hallucination
+955	geography	G045	gpt-oss-120b	USR chunks	This attains its own whole light and heat from the sun.	4	4	4	fluency / grammar only	5	5	5	none (correct)
+956	tourism	382	gpt-oss-120b	Hindi	Based on documentary evidence, the Kalika Mata Temple can be dated to the early 8th century.	5	5	5	none (correct)	5	5	5	none (correct)
+957	geography	G071	gpt-oss-120b	Hindi	It is slightly flattened near the poles.	5	5	5	none (correct)	5	5	5	none (correct)
+958	health	H241	Google Translate	Hindi	Keyhole surgery is a revolutionary invention in the field of surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+959	health	H270	Gemma 3 4B	USR chunks	The size of lymph nodes increases in places more than one.	3	4	3	fluency / grammar only	5	5	5	none (correct)
+960	tourism	151	Ministral 14B	Hindi	On the third night of her fast, Saraswati Devi had a remarkable vision in her dream—a mysterious place near her home.	5	4	5	addition / hallucination	3	2	3	mistranslation
+961	tourism	898	Ministral 14B	Hindi	The nearest airport to Padanna is Mangaluru, 120 km away, and the Karipur International Airport is 180 km distant.	5	5	5	none (correct)	5	5	5	none (correct)
+962	geography	G178	gpt-oss-120b	USR chunks	This meridian is called the prime meridian.	5	5	5	none (correct)	5	5	5	none (correct)
+963	geography	G351	Gemma 3 4B	USR chunks	The road, near Dumari village, passes.	4	3	4	omission	3	2	3	omission
+964	geography	G162b	gpt-oss-120b	USR chunks	And this is called the torrid zone.	5	5	5	none (correct)	5	5	5	none (correct)
+965	tourism	581	Ministral 14B	Hindi	Kanjir is located between Munnar and Pallivasal.	5	4	5	named entity	4	4	4	addition / hallucination
+966	geography	G203b	Gemma 3 4B	Hindi	Then the time will be 15 degrees east of Greenwich, which is 15 x 4 = 60 minutes, or one hour ahead of Greenwich time.	4	4	3	fluency / grammar only	4	4	4	mistranslation
+967	health	H250	IndicTrans2	Hindi	AIDS is spread by the use of unboiled or pre-used needles.	5	5	5	none (correct)	5	5	5	none (correct)
+968	tourism	898	IndicTrans2	Hindi	The nearest airports from Padanna are Mangalore, 120 km and Karipur International Airport, 180 km away.	5	5	5	none (correct)	5	5	5	none (correct)
+969	tourism	152b	gpt-oss-120b	USR chunks	There was obtained a grand statue of Candra Prabhu Bhagavana.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+970	health	H230	Google Translate	Hindi	This method has many advantages compared to traditional surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+971	health	H178	Gemma 3 4B	Hindi	No matter how you are a visual learner.	2	2	2	discourse / connective	4	4	4	addition / hallucination
+972	health	H168b	Gemma 3 4B	Hindi	You can open the closed windows of the mind by adopting this.	5	4	5	number	4	4	4	addition / hallucination
+973	health	H258b	Google Translate	Hindi	And medicines do not work.	5	5	5	none (correct)	5	5	5	none (correct)
+974	tourism	202	Gemma 3 4B	Hindi	The world-famous Kotamsar natural caves are located 30 kilometers from Jagdalpur.	5	5	5	none (correct)	5	5	5	none (correct)
+975	geography	G248b	IndicTrans2	Hindi	Due to which there will be continuous heat in that part.	5	5	5	none (correct)	5	5	5	none (correct)
+976	geography	G346	Gemma 3 4B	USR chunks	Some conventional symbols in figure 4.3 have been shown.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+977	geography	G004b	Gemma 3 4B	USR chunks	Some of which are bright.	5	5	5	none (correct)	5	5	5	none (correct)
+978	geography	G089	Ministral 14B	Hindi	The conditions on the Moon are not conducive to life.	5	5	5	none (correct)	5	5	5	none (correct)
+979	geography	G071	Ministral 14B	USR chunks	The area near the poles is slightly flat.	5	3	5	mistranslation	4	4	4	fluency / grammar only
+980	health	H209b	IndicTrans2	Hindi	And this process is repeated over and over again.	5	5	5	none (correct)	4	3	3	addition / hallucination
+981	tourism	174b	Ministral 14B	USR chunks	Four statues of Tirthankara Bhagavana are installed on top of the Mana-Stambha.	5	4	5	discourse / connective	4	4	4	discourse / connective
+982	geography	G032b	Gemma 3 4B	Hindi	Which is part of the Milky Way galaxy.	5	1	5	mistranslation	3	3	3	addition / hallucination
+983	tourism	634b	Gemma 3 4B	USR chunks	Many waterfalls are here.	5	5	3	fluency / grammar only	5	5	5	none (correct)
+984	geography	G203b	Ministral 14B	Hindi	At that point, the time would be 15° east of Greenwich, which is 15 × 4 = 60 minutes—or **one hour ahead** of Greenwich Mean Time.	4	3	4	mistranslation	4	4	4	fluency / grammar only
+985	tourism	138	Ministral 14B	Hindi	Excessive generosity: Here, you get more than you ask for.	4	2	5	named entity	3	3	2	named entity
+986	health	H260b	Gemma 3 4B	USR chunks	Which can be seen with microscope only, it is.	4	5	3	fluency / grammar only	4	4	4	fluency / grammar only
+987	health	H159	IndicTrans2	Hindi	Use warm water for bathing.	5	5	5	none (correct)	5	5	5	none (correct)
+988	geography	G347	Ministral 14B	USR chunks	Different colours are also used for this purpose.	5	5	5	none (correct)	3	3	3	tense / aspect / modality
+989	tourism	897	gpt-oss-120b	USR chunks	The nearest bus stand and railway station are at a distance of 9 kilometres from Padanna.	5	5	5	none (correct)	5	5	5	none (correct)
+990	tourism	152b	gpt-oss-120b	Hindi	There, a magnificent statue of Lord Chandra was obtained.	5	4	5	mistranslation	5	5	5	none (correct)
+991	geography	G069	gpt-oss-120b	USR chunks	The earth, according to its distance from the sun, is the third planet.	5	5	5	none (correct)	5	5	5	none (correct)
+992	tourism	248	Ministral 14B	USR chunks	The Mama-Bhanja Mandir looks excellent from the sculpture and is worth visiting.	4	3	4	fluency / grammar only	4	5	3	fluency / grammar only
+993	health	H201	Ministral 14B	Hindi	The immune system is a complex network of biological structures and processes within our body that works to protect against harmful pathogens.	5	2	5	addition / hallucination	2	1	2	addition / hallucination
+994	health	H202	gpt-oss-120b	Hindi	The immune system identifies pathogens or external invaders such as viruses, bacteria, etc., in the body.	5	3	5	omission	3	3	3	omission
+995	geography	G111	Ministral 14B	USR chunks	We do not have any information in relation to its size.	5	5	5	none (correct)	4	4	4	mistranslation
+996	tourism	43a	Ministral 14B	Hindi	They got trapped in that mindset.	5	1	5	mistranslation	1	2	2	tense / aspect / modality
+997	tourism	921	Google Translate	Hindi	The nearest railway station to Anchutengu is Varkala, 8 km. m. Is at a distance of .	4	4	3	fluency / grammar only	4	4	3	fluency / grammar only
+998	tourism	921	Gemma 3 4B	USR chunks	The nearest railway station, at a distance of 8 kilometres from Ancutengu, is.	3	3	2	omission	4	4	4	fluency / grammar only
+999	tourism	991	IndicTrans2	Hindi	Raja Ravi Varma lived for many years in Mumbai and Baroda.	5	5	5	none (correct)	5	5	5	none (correct)
+1000	tourism	572a	Gemma 3 4B	USR chunks	The area of Ikko is surrounded with hills, mankunnu, kodiyatturamala, tonippara, etc.	5	4	5	untranslated / format	4	4	4	fluency / grammar only
+1001	geography	G187	gpt-oss-120b	USR chunks	At this point, the correct position of Dhubari will be.	3	3	3	mistranslation	4	4	3	tense / aspect / modality
+1002	tourism	836	gpt-oss-120b	USR chunks	As a result, this temple was made.	5	5	5	none (correct)	5	5	5	none (correct)
+1003	geography	G219	gpt-oss-120b	Hindi	The match will start at 7:30 PM Indian time.	5	4	5	discourse / connective	4	4	4	discourse / connective
+1004	health	H215	Ministral 14B	USR chunks	Infections easily start happening to a person.	4	5	3	fluency / grammar only	3	3	3	mistranslation
+1005	health	H057	Google Translate	Hindi	Kala-azar, malaria or high fever may occur.	5	4	5	none (correct)	5	5	5	none (correct)
+1006	health	H169b	Gemma 3 4B	Hindi	If attention is paid to it.	5	4	5	discourse / connective	3	3	3	tense / aspect / modality
+1007	health	H186b	gpt-oss-120b	Hindi	Who will protect the brain cells from being destroyed.	5	4	5	mistranslation	3	4	4	mistranslation
+1008	geography	G219	Gemma 3 4B	USR chunks	That is a match according to time of India, which will start at 7:30 of evening.	3	4	2	fluency / grammar only	5	5	5	none (correct)
+1009	health	H004b	Ministral 14B	USR chunks	These breath-stinking things make	1	2	1	mistranslation	3	3	3	discourse / connective
+1010	health	H250	gpt-oss-120b	USR chunks	AIDS spreads through use of a needle without boiling or using a previously used needle.	5	5	4	fluency / grammar only	5	5	5	none (correct)
+1011	tourism	939	gpt-oss-120b	USR chunks	Uttarama Kayama is a small region filled with medicinal herbs of different sorts and birds of different types.	5	5	5	none (correct)	4	4	4	addition / hallucination
+1012	health	H186b	Ministral 14B	Hindi	Those that will protect brain cells from destruction.	5	5	5	none (correct)	4	4	4	addition / hallucination
+1013	tourism	650	Ministral 14B	Hindi	Idukki is a forested region characterized by dense jungles and expansive grasslands.	4	4	4	addition / hallucination	4	4	4	fluency / grammar only
+1014	geography	G089	gpt-oss-120b	USR chunks	The conditions of the moon for life are not favourable.	5	5	5	none (correct)	4	4	4	untranslated / format
+1015	health	H082	IndicTrans2	Hindi	If you don't feel right about yourself	5	3	5	mistranslation	4	4	4	mistranslation
+1016	geography	G118	Google Translate	Hindi	Which planet is known as Earth's twin planet?	5	5	5	none (correct)	4	4	4	omission
+1017	health	H250	Ministral 14B	USR chunks	AIDS spreads through the reuse of unboiled or previously used needles.	5	4	5	mistranslation	4	4	4	addition / hallucination
+1018	health	H201	Gemma 3 4B	USR chunks	The immune system is in our body, a system of such arrangements.	3	3	2	fluency / grammar only	5	5	5	none (correct)
+1019	health	H082	Ministral 14B	Hindi	If you don’t feel right about it on your own,	5	5	5	none (correct)	5	5	5	none (correct)
+1020	geography	G219	IndicTrans2	Hindi	That is, the match will start at\ 1: 30 pm India time.	5	3	4	addition / hallucination	4	4	4	omission
+1021	geography	G328	IndicTrans2	Hindi	Now the distance between a post office and Karim's house is 12 cm.	5	5	5	none (correct)	5	5	5	none (correct)
+1022	tourism	769	IndicTrans2	Hindi	Many natural ponds were formed due to these rocks.	5	5	5	none (correct)	4	4	4	tense / aspect / modality
+1023	health	H201	IndicTrans2	Hindi	The immune system is the mechanism of such systems within our body,	5	5	5	none (correct)	5	5	5	none (correct)
+1024	geography	G058	IndicTrans2	Hindi	The Sun is about 150 million kilometers from Earth.	5	4	5	mistranslation	5	5	5	none (correct)
+1025	tourism	836	gpt-oss-120b	Hindi	As a result, this temple was built.	5	5	5	none (correct)	5	5	5	none (correct)
+1026	geography	G221	gpt-oss-120b	USR chunks	India is situated in the east of Grinica at 82°30' east.	5	5	5	none (correct)	5	5	5	none (correct)
+1027	tourism	898	gpt-oss-120b	Hindi	The nearest airport from Padanna is Mangalore, 120 km away, and the Karipur International Airport is 180 km away.	5	5	5	none (correct)	5	5	5	none (correct)
+1028	health	H209	gpt-oss-120b	Hindi	After that, HIV attacks other CD4 cells.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+1029	health	H109	gpt-oss-120b	USR chunks	They certainly eat two or three eggs daily at breakfast.	5	4	5	addition / hallucination	4	4	4	addition / hallucination
+1030	tourism	836	IndicTrans2	Hindi	As a result, this temple was built.	5	5	5	none (correct)	4	4	4	none (correct)
+1031	tourism	438b	Gemma 3 4B	Hindi	It has remained popular as a Shaivite center.	5	4	5	discourse / connective	4	4	4	discourse / connective
+1032	tourism	531a	gpt-oss-120b	Hindi	It is a history of progress in education and advancement in scientific fields.	5	4	5	mistranslation	4	4	4	omission
+1033	geography	G178	gpt-oss-120b	Hindi	This Yamyottar is called a major Yamyottar.	4	3	3	untranslated / format	4	4	4	named entity
+1034	tourism	729	Gemma 3 4B	Hindi	Deer, elephants, bison, wild boars, and other animals are commonly seen (wandering) in the grasslands.	5	5	5	addition / hallucination	3	3	3	addition / hallucination
+1035	tourism	151	Ministral 14B	USR chunks	Sarasvati Devi had seen something unprecedented in a dream about a place situated near her house on the third night of her fast.	4	3	5	mistranslation	3	3	3	fluency / grammar only
+1036	tourism	166a	gpt-oss-120b	Hindi	It is recognized.	3	2	5	mistranslation	2	2	3	mistranslation
+1037	health	H215	Gemma 3 4B	Hindi	People become infected very easily.	5	4	5	tense / aspect / modality	3	4	4	omission
+1038	health	H169b	gpt-oss-120b	USR chunks	When there should be paid attention.	5	5	5	none (correct)	3	3	3	addition / hallucination
+1039	geography	G162b	Gemma 3 4B	USR chunks	This is called a torrid zone and.	4	4	3	fluency / grammar only	4	5	4	fluency / grammar only
+1040	health	H258b	gpt-oss-120b	USR chunks	And medicines do not affect.	5	4	5	none (correct)	5	5	5	none (correct)
+1041	geography	G024	gpt-oss-120b	USR chunks	The innumerable stars shining at night are similar only to the sun.	5	4	5	particle / deixis	5	5	4	none (correct)
+1042	health	H277	Google Translate	Hindi	Pay attention to physical hygiene.	5	5	5	none (correct)	5	5	5	none (correct)
+1043	tourism	524	gpt-oss-120b	Hindi	Historians considered ancient Kerala to be a part of the Tamil region.	5	5	5	none (correct)	5	5	5	none (correct)
+1044	health	H177b	IndicTrans2	Hindi	And use the same to remember.	5	5	5	none (correct)	5	5	5	none (correct)
+1045	geography	G118	Gemma 3 4B	USR chunks	Which planet, by name of twin planet of earth, is known.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+1046	health	H242	Google Translate	Hindi	H.I.V. That virus or virus is called,	5	5	4	none (correct)	3	3	3	tense / aspect / modality
+1047	tourism	770a	Google Translate	Hindi	This is the reason.	5	5	5	none (correct)	5	5	5	none (correct)
+1048	geography	G307	Ministral 14B	USR chunks	I see.	5	1	5	mistranslation	1	1	1	untranslated / format
+1049	tourism	166a	Ministral 14B	USR chunks	The belief is.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+1050	geography	G192b	IndicTrans2	Hindi	that the vertical lines express the former longitudes.	5	3	5	mistranslation	4	4	4	mistranslation
+1051	health	H177b	gpt-oss-120b	USR chunks	And use it for remembering.	5	5	5	none (correct)	3	3	3	omission
+1052	health	H082	Gemma 3 4B	Hindi	If this doesn't make you feel right.	5	4	5	omission	3	3	3	omission
+1053	health	H279	Ministral 14B	Hindi	It is a crime to segregate or deny treatment to people living with HIV in hospitals.	5	5	5	none (correct)	5	5	5	none (correct)
+1054	geography	G066b	gpt-oss-120b	Hindi	Because its size and shape are almost identical to those of the Earth.	5	5	5	none (correct)	4	4	4	addition / hallucination
+1055	health	H230	Ministral 14B	USR chunks	This method offers many more advantages than traditional surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+1056	tourism	531a	Gemma 3 4B	Hindi	The history is of progress in education and advancements in scientific fields.	5	5	5	none (correct)	4	4	4	omission
+1057	geography	G317	Google Translate	Hindi	When large areas such as continents or countries have to be represented on paper,	5	5	5	none (correct)	4	4	4	omission
+1058	geography	G045	Ministral 14B	Hindi	Earth receives all its light and heat from the Sun.	5	3	5	addition / hallucination	4	4	4	addition / hallucination
+1059	health	H220b	IndicTrans2	Hindi	So that the affected family members can live a dignified and full life.	5	5	5	none (correct)	5	5	5	none (correct)
+1060	health	H159	Gemma 3 4B	USR chunks	Use warm water for bathing.	5	5	5	none (correct)	5	5	5	none (correct)
+1061	geography	G357	Ministral 14B	Hindi	Suppose you want to go to your friend’s house,	5	5	5	none (correct)	4	4	4	discourse / connective
+1062	tourism	438b	gpt-oss-120b	USR chunks	This popular in Shaivapitha has remained.	2	2	1	mistranslation	3	3	3	tense / aspect / modality
+1063	geography	G297	gpt-oss-120b	USR chunks	Some of which below have been described.	4	5	4	none (correct)	4	4	4	tense / aspect / modality
+1064	health	H159	gpt-oss-120b	USR chunks	Use warm water for bathing.	5	5	5	none (correct)	5	5	5	none (correct)
+1065	health	H118	gpt-oss-120b	USR chunks	The use of dry fruits etc in Indian cuisines for centuries is happening.	4	5	4	fluency / grammar only	4	4	4	omission
+1066	tourism	688	Google Translate	Hindi	Lake Palace is situated on a small island on the banks of Aranya Niwas Sarovar.	5	5	5	none (correct)	5	5	5	none (correct)
+1067	tourism	524	Ministral 14B	Hindi	Ancient Kerala was historically considered a part of the Tamil region by historians.	5	5	5	none (correct)	3	3	3	addition / hallucination
+1068	health	H214	gpt-oss-120b	Hindi	The person keeps falling ill repeatedly.	5	5	5	none (correct)	3	2	3	tense / aspect / modality
+1069	tourism	406	Gemma 3 4B	USR chunks	According to Shri Dhaki, the ancient Tripura Vijaya, Kumbhasvamina alama of kirtistambha prashasti was only.	2	3	2	fluency / grammar only	4	4	4	fluency / grammar only
+1070	health	H273	IndicTrans2	Hindi	There are many such diseases.	5	5	5	none (correct)	5	5	5	none (correct)
+1071	geography	G192b	Ministral 14B	USR chunks	Vertical lines express east longitudes.	5	4	5	discourse / connective	4	4	4	discourse / connective
+1072	tourism	166a	gpt-oss-120b	USR chunks	The belief is.	5	4	3	fluency / grammar only	4	4	4	fluency / grammar only
+1073	tourism	939	Gemma 3 4B	USR chunks	Uttarama kayama is a small region filled by medicinal herbs of different sorts and birds of different types.	5	5	5	none (correct)	4	4	4	addition / hallucination
+1074	geography	G100b	Ministral 14B	Hindi	From which craters form on the ground.	5	5	5	none (correct)	3	3	3	mistranslation
+1075	health	H241	Ministral 14B	USR chunks	Keyhole surgery is one revolutionary invention in the field of surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+1076	geography	G123	Gemma 3 4B	Hindi	Prepare a chart of the solar system.	5	5	5	none (correct)	5	5	5	none (correct)
+1077	geography	G290	Ministral 14B	USR chunks	Maps for our different needs are necessary.	3	5	3	fluency / grammar only	4	4	4	fluency / grammar only
+1078	tourism	Sent_20	Google Translate	Hindi	Chengalpat station is 35 miles from Chennai on the main line from Chennai station of Southern Railway to Dhanushkoti.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+1079	health	H241	Gemma 3 4B	Hindi	Keyhole surgery is a revolutionary innovation in the field of surgery.	5	5	5	none (correct)	5	5	5	none (correct)
+1080	health	H168b	Ministral 14B	USR chunks	Therefore, we can open the closed windows of the brain by adopting them.	5	5	5	discourse / connective	4	4	4	addition / hallucination
+1081	tourism	729	gpt-oss-120b	Hindi	In the forest, deer, elephants, bison, wild boars, etc., normally roam.	5	3	5	addition / hallucination	4	4	4	addition / hallucination
+1082	health	H159	Gemma 3 4B	Hindi	Use warm water for bathing.	5	5	5	none (correct)	5	5	5	none (correct)
+1083	health	H177b	Gemma 3 4B	Hindi	And use it the same way as hers.	5	1	5	mistranslation	4	4	4	addition / hallucination
+1084	tourism	Sent_20	gpt-oss-120b	Hindi	Chengalpat station is on the main line from Chennai station of South Railway to Dhanushkoti, situated 35 miles from Chennai.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+1085	health	H093b	Ministral 14B	USR chunks	People with cough and mucus should get checked.	5	2	5	mistranslation	4	4	4	discourse / connective
+1086	health	H159	gpt-oss-120b	Hindi	Use warm water for bathing.	5	5	5	none (correct)	5	5	5	none (correct)
+1087	geography	G001	gpt-oss-120b	USR chunks	Seeing the sky after sunset feels how good.	3	4	3	fluency / grammar only	4	5	4	fluency / grammar only
+1088	geography	G100b	Gemma 3 4B	Hindi	Which create holes on the ground.	5	4	5	mistranslation	3	3	3	tense / aspect / modality
+1089	tourism	964	Ministral 14B	Hindi	The nearest railway station to Kallara is **Trivandrum (Thiruvananthapuram)**, located **61 kilometers** away.	5	5	5	addition / hallucination	4	4	4	addition / hallucination
+1090	health	H004b	IndicTrans2	Hindi	and make the breath stinky.	5	5	5	none (correct)	5	5	5	none (correct)
+1091	tourism	822a	Ministral 14B	Hindi	Along with this, there are numerous other pictures as well.	5	5	5	none (correct)	3	2	4	addition / hallucination
+1092	geography	G290	gpt-oss-120b	USR chunks	Maps for our different needs are necessary.	4	5	4	fluency / grammar only	3	3	3	fluency / grammar only
+1093	tourism	202	Ministral 14B	USR chunks	The world-acclaimed natural caves of Kotamasara are located at a distance of 30 kilometres from Jagadalapura.	5	5	5	none (correct)	5	5	5	none (correct)
+1094	geography	G307	gpt-oss-120b	USR chunks	I see.	5	2	5	omission	1	1	1	untranslated / format
+1095	tourism	688	gpt-oss-120b	USR chunks	Leka Pailasa and Aranyanivasa are on a small island on the shore of a lake.	4	2	4	mistranslation	3	2	3	mistranslation
+1096	health	H182	Gemma 3 4B	Hindi	Try to memorize any information through words and pictures.	5	5	5	none (correct)	5	5	5	none (correct)
+1097	tourism	942	Gemma 3 4B	USR chunks	From komba, it can be reached by unsteadying in two kilometres from dense forest pedestrian, uttarakayama.	1	2	1	mistranslation	3	3	3	fluency / grammar only
+1098	tourism	248	Gemma 3 4B	USR chunks	Mama bhanja mandira, from view of sculpture, is excellent and worth visiting.	5	4	4	fluency / grammar only	5	5	5	none (correct)
+1099	health	H065	gpt-oss-120b	USR chunks	Check the fever.	4	4	4	fluency / grammar only	5	5	5	none (correct)
+1100	health	H260b	Ministral 14B	Hindi	Those that can only be seen under a microscope.	5	5	5	none (correct)	4	4	4	addition / hallucination
+1101	health	H011	Gemma 3 4B	USR chunks	The breath starts coming, because of this, and it stinks from it.	2	2	2	mistranslation	3	2	2	addition / hallucination
+1102	health	H057	Ministral 14B	USR chunks	Kala-azar, malaria, or high fever can happen.	5	5	5	none (correct)	5	5	5	none (correct)
+1103	tourism	151	Google Translate	Hindi	On the night of the fast on the third day, Goddess Saraswati saw something wonderful in her dream about a place near her house.	5	4	5	named entity	4	4	4	named entity
+1104	health	H220b	Ministral 14B	Hindi	So that the affected family members can lead a dignified and fulfilling life.	5	5	5	none (correct)	5	5	5	none (correct)
+1105	geography	G248b	Ministral 14B	USR chunks	Because of which, the heat on that part will continuously fall.	4	3	5	mistranslation	4	4	4	fluency / grammar only
+1106	geography	G118	Ministral 14B	Hindi	Which planet is known as Earth's twin?	5	5	5	none (correct)	3	3	3	omission
+1107	tourism	152b	IndicTrans2	Hindi	A grand statue of Chandra Prabhu Bhagwan was found there.	5	5	5	none (correct)	5	5	5	none (correct)
+1108	health	H109	Google Translate	Hindi	Eat two or three eggs every day for breakfast.	5	4	5	particle / deixis	4	4	4	omission
+1109	tourism	770a	Gemma 3 4B	USR chunks	This only reason is.	5	4	2	fluency / grammar only	4	4	4	addition / hallucination
+1110	tourism	728	gpt-oss-120b	USR chunks	Aralama, on the slope of the Sahyadri, in an expanse of 55 square kilometres, has spread.	4	5	3	fluency / grammar only	5	5	5	none (correct)
+1111	geography	G346	Ministral 14B	Hindi	Some conventional symbolic illustrations are shown in Figure 4.3.	5	3	5	mistranslation	4	4	4	addition / hallucination
+1112	health	H250	Gemma 3 4B	Hindi	AIDS spreads through the use of uncooked needles or needles that have been previously used.	4	3	4	mistranslation	3	3	3	addition / hallucination
+1113	geography	G297	gpt-oss-120b	Hindi	Some of them are described below.	5	5	5	none (correct)	5	5	5	none (correct)
+1114	tourism	650	Ministral 14B	USR chunks	Idukki, a jungle region filled with dense forests and grassy fields, is active.	4	3	5	addition / hallucination	3	3	3	fluency / grammar only
+1115	tourism	581	gpt-oss-120b	Hindi	Kanjur is located between Munna and Pallivasal.	5	3	5	named entity	4	4	4	addition / hallucination
+1116	health	H023	IndicTrans2	Hindi	Rinse your mouth after eating.	5	4	5	mistranslation	4	4	4	mistranslation
+1117	health	H011	Ministral 14B	USR chunks	The stink from breath starts coming because of this.	5	5	5	none (correct)	5	5	5	none (correct)
+1118	tourism	688	IndicTrans2	Hindi	Lake Palace Aranya Niwas is in a small island on the shore of the lake.	4	3	5	mistranslation	3	3	3	mistranslation
+1119	health	H093b	Google Translate	Hindi	And get the sputum checked for cough.	5	5	5	none (correct)	5	5	5	none (correct)
+1120	geography	G089	gpt-oss-120b	Hindi	The conditions on the Moon are not suitable for life.	5	5	5	none (correct)	5	5	5	none (correct)
+1121	geography	G089	Gemma 3 4B	USR chunks	The conditions of the moon for life are not favourable.	5	5	5	none (correct)	5	5	5	none (correct)
+1122	tourism	531a	gpt-oss-120b	USR chunks	And the history of progress in education and promotion in scientist areas is.	3	3	3	mistranslation	4	4	4	omission
+1123	geography	G186b	Ministral 14B	USR chunks	In which these two lines cut each other	5	3	5	discourse / connective	4	4	4	mistranslation
+1124	geography	G143b	Ministral 14B	Hindi	That is an imaginary line.	5	3	5	discourse / connective	4	4	4	mistranslation
+1125	geography	G146b	Gemma 3 4B	USR chunks	South half part is called as southern hemisphere.	5	4	4	discourse / connective	4	4	4	discourse / connective
+1126	geography	G059	Google Translate	Hindi	There are eight planets in our solar system.	5	5	5	none (correct)	5	5	5	none (correct)
+1127	tourism	929	gpt-oss-120b	Hindi	This institution, recognized by the Government of India and the Kerala Sports Council, is a training center for the traditional art form called Kalippayattu.	5	5	5	none (correct)	5	5	5	none (correct)
+1128	geography	G191	gpt-oss-120b	USR chunks	These small circles by a, ba, sa, da and da names express.	2	3	2	fluency / grammar only	4	4	4	fluency / grammar only
+1129	health	H271	gpt-oss-120b	USR chunks	A lump or swelling on the breast or elsewhere in the body happens.	5	5	5	addition / hallucination	4	4	4	addition / hallucination
+1130	geography	G024	Ministral 14B	Hindi	At night, the countless twinkling stars are like the sun itself.	5	5	5	none (correct)	5	5	5	none (correct)
+1131	geography	G351	Ministral 14B	USR chunks	The road near Dumari village is of which type.	4	2	4	mistranslation	3	3	3	omission
+1132	geography	G045	Ministral 14B	USR chunks	This whole light and heat from the sun is attained by this.	2	2	2	fluency / grammar only	4	4	4	sentence type
+1133	health	H182	Ministral 14B	Hindi	Try to remember any information by associating it with words and visual images.	5	5	5	addition / hallucination	4	4	4	mistranslation
+1134	tourism	778	gpt-oss-120b	USR chunks	The nearest railway station, Kannura, is situated at a distance of 2 kilometres from Payyambalama Samudratata.	5	5	5	untranslated / format	5	5	5	none (correct)
+1135	health	H082b	Google Translate	Hindi	So take antiallergic tablets for ten days.	5	5	5	none (correct)	5	5	5	none (correct)
+1136	tourism	964	Gemma 3 4B	USR chunks	The nearest railway station, at a distance of 61 kilometres from Tiruvannapuram, is active.	3	3	2	omission	3	3	3	omission
+1137	health	H103b	Google Translate	Hindi	What should your diet be like to keep your eyesight healthy?	5	4	5	discourse / connective	4	4	4	fluency / grammar only
+1138	health	H143	Google Translate	Hindi	Here the method of practicing Janushirasana is presented -	5	5	5	none (correct)	5	5	5	none (correct)
+1139	tourism	726	IndicTrans2	Hindi	Kochi International Airport is 155 km from Vattavada.	5	5	5	none (correct)	5	5	5	none (correct)
+1140	geography	G024	Google Translate	Hindi	Countless stars shining at night are similar to the Sun.	5	5	5	none (correct)	4	4	4	particle / deixis
+1141	geography	G192b	Ministral 14B	Hindi	The vertical lines represent the meridians of longitude.	5	3	5	omission	4	4	4	mistranslation
+1142	geography	G221	Gemma 3 4B	USR chunks	India is situated in east of grinica in 82°30' easts.	5	5	5	named entity	5	5	5	none (correct)
+1143	health	H186b	Ministral 14B	USR chunks	The brain cells will be saved from becoming destroyed.	5	3	5	voice	4	4	4	omission
+1144	health	H082	Ministral 14B	USR chunks	If you do not feel right doing this on your own,	5	4	5	mistranslation	4	4	4	addition / hallucination
+1145	tourism	964	Gemma 3 4B	Hindi	The nearest railway station to Kallar is 61 km away from Thiruvananthapuram.	5	2	4	mistranslation	5	5	5	none (correct)
+1146	tourism	729	Google Translate	Hindi	Deer, elephant, bison, wild boar etc. commonly roam in Aralam.	5	5	5	none (correct)	5	5	5	none (correct)
+1147	tourism	43a	gpt-oss-120b	Hindi	They fell into that line of thinking.	4	5	4	none (correct)	3	2	3	mistranslation
+1148	geography	G146b	gpt-oss-120b	Hindi	The southern half is called the Southern Hemisphere.	5	4	5	discourse / connective	4	4	4	discourse / connective
+1149	health	H220b	Gemma 3 4B	USR chunks	So that members of the affected family can live one dignified and complete life.	5	5	5	none (correct)	5	5	5	none (correct)
+1150	geography	G032b	gpt-oss-120b	USR chunks	Which part of the constellation Arsa Mejara is?	4	2	4	mistranslation	3	3	3	sentence type
+1151	tourism	248	Google Translate	Hindi	Mama-Bhanja Temple is excellent and worth seeing from the point of view of sculpture.	5	5	5	none (correct)	5	5	5	none (correct)
+1152	tourism	406	IndicTrans2	Hindi	According to Shri Dhaki, the Kumbhaswamin Alam of Kirtistambha Praxis was the ancient Tripuri victory.	3	2	3	named entity	4	4	4	particle / deixis
+1153	geography	G143b	Ministral 14B	USR chunks	The one imaginary line which is	3	4	3	fluency / grammar only	3	2	3	mistranslation
+1154	tourism	474a	gpt-oss-120b	Hindi	A Shakti temple has been constructed at the right-hand corner of the Saas temple.	5	5	5	none (correct)	5	5	5	none (correct)
+1155	geography	G136b	gpt-oss-120b	USR chunks	How the position of some place here can be told.	5	4	4	discourse / connective	4	4	4	discourse / connective
+1156	tourism	190	gpt-oss-120b	Hindi	Millions of years ago, the rocks on the downstream side of the river had tumbled down from a lunar crater formed by an earthquake.	5	2	5	mistranslation	3	3	3	mistranslation
+1157	geography	G004b	Ministral 14B	Hindi	Some of which are luminous.	5	5	5	none (correct)	5	5	5	none (correct)
+1158	tourism	138	Gemma 3 4B	Hindi	The farthest reaches of the mind are found here – more than one can imagine.	2	2	5	mistranslation	1	1	1	untranslated / format
+1159	tourism	778	Ministral 14B	Hindi	Payyambalam is the nearest railway station to the beach, located about 2 kilometers away in Kannur.	3	2	3	mistranslation	4	4	4	fluency / grammar only
+1160	health	H215	Google Translate	Hindi	The person starts getting infections very easily.	5	5	5	none (correct)	5	5	5	none (correct)
+1161	tourism	805	gpt-oss-120b	USR chunks	The people of Talashsheri are adept at making sweetmeats, seeing by piloting new sweetmeats and by piloting new sweetmeats.	3	3	2	fluency / grammar only	3	3	3	addition / hallucination
+1162	geography	G323	IndicTrans2	Hindi	Let's learn something.	5	3	5	omission	3	3	3	omission
+1163	geography	G219	Google Translate	Hindi	That is, the match will start at 7:30 pm Indian time.	5	5	5	none (correct)	4	4	4	omission
+1164	tourism	897	Ministral 14B	USR chunks	The nearest bus stand and railway station are at a distance of 9 kilometres from Padanna.	5	5	5	none (correct)	5	5	5	none (correct)
+1165	health	H023	gpt-oss-120b	USR chunks	After the meal, the mouth cleans.	3	2	3	mistranslation	3	3	3	fluency / grammar only
+1166	geography	G332	Ministral 14B	Hindi	Let all distances merge into one.	3	4	5	addition / hallucination	3	3	3	addition / hallucination
+1167	health	H270	Google Translate	Hindi	Enlargement of lymph nodes in more than one location.	5	5	5	none (correct)	4	5	4	mistranslation
+1168	geography	G307	Google Translate	Hindi	Notice how the shape of the drawing gets distorted.	5	5	5	none (correct)	5	5	5	none (correct)
+1169	health	H198	Gemma 3 4B	USR chunks	The brain becomes sharp also because of eating fish, walnut and almond.	5	5	5	none (correct)	4	4	4	addition / hallucination
+1170	geography	G178	Google Translate	Hindi	This meridian is called the prime meridian.	5	5	5	none (correct)	5	5	5	none (correct)
+1171	tourism	772	Ministral 14B	Hindi	Mushapilangad Beach is located 15 km from Kannur and 8 km from Thalassery.	5	5	5	none (correct)	5	5	5	none (correct)
+1172	tourism	202	gpt-oss-120b	USR chunks	The world‑acclaimed natural caves of Kotamasara, at a distance of 30 kilometres from Jagadalapura, are located.	5	5	5	none (correct)	5	5	5	none (correct)
+1173	geography	G351	gpt-oss-120b	Hindi	What type of road passes near Dumri village?	5	5	5	none (correct)	4	4	4	fluency / grammar only
+1174	geography	G191	Ministral 14B	Hindi	These small circles should be represented by the names **a, b, s, d, and dh**.	5	5	5	none (correct)	4	4	4	fluency / grammar only
+1175	geography	G009	Ministral 14B	Hindi	You see the moon almost every day alongside these luminous objects.	5	5	5	none (correct)	5	5	5	none (correct)
+1176	tourism	524	Google Translate	Hindi	Historians considered ancient Kerala to be a part of the Tamil region.	5	5	5	none (correct)	5	5	5	none (correct)
+1177	health	H209b	Ministral 14B	Hindi	This process is repeatedly carried out.	5	5	5	discourse / connective	3	3	3	addition / hallucination
+1178	geography	G136b	IndicTrans2	Hindi	How can the position of a place be stated on this?	5	5	5	discourse / connective	4	4	4	discourse / connective
+1179	health	H209	gpt-oss-120b	USR chunks	After this, HIV attacks other CD-4 cells.	5	5	5	none (correct)	5	5	5	none (correct)
+1180	health	H209b	Gemma 3 4B	USR chunks	This process is repeated again and again.	5	4	5	discourse / connective	4	4	4	discourse / connective
+1181	geography	G258	Ministral 14B	USR chunks	You must find out.	5	2	5	omission	1	1	1	untranslated / format
+1182	geography	G313c	gpt-oss-120b	USR chunks	Its meaning is.	2	2	3	omission	1	1	1	untranslated / format
+1183	geography	G059	Gemma 3 4B	USR chunks	Eight planets are in our solar system.	5	5	3	fluency / grammar only	5	5	5	none (correct)
+1184	tourism	770a	Gemma 3 4B	Hindi	That is the reason.	5	4	5	mistranslation	5	5	5	none (correct)
+1185	health	H109	Ministral 14B	Hindi	For breakfast, make sure to have two or three eggs daily.	5	5	5	none (correct)	4	4	4	omission
+1186	health	H082b	Ministral 14B	USR chunks	Then take an anti-allergic tablet for ten days.	5	5	5	none (correct)	5	5	5	none (correct)
+1187	tourism	523	IndicTrans2	Hindi	The Keralites became acquainted with Islam as early as the eighth century CE.	5	5	5	none (correct)	4	4	3	named entity
+1188	tourism	572a	Ministral 14B	USR chunks	The area of Ikkō Pvainta, with hills like Mankunnu, Kodiyatturamala, and Tonippara, is surrounded.	4	4	2	fluency / grammar only	4	4	4	fluency / grammar only
+1189	health	H082	gpt-oss-120b	USR chunks	If you do not feel right on one's own with this.	1	2	1	fluency / grammar only	4	4	4	addition / hallucination
+1190	tourism	620	IndicTrans2	Hindi	Another prominent item is a pyre-basm-kalash from the 2nd century BCE that you can see.	4	4	5	untranslated / format	4	4	4	fluency / grammar only
+1191	tourism	939	Gemma 3 4B	Hindi	The area is a small patch of land filled with a variety of herbs and different kinds of birds.	5	5	5	none (correct)	3	3	3	omission
+1192	health	H178	gpt-oss-120b	Hindi	Even if you are a visual learner.	5	5	5	none (correct)	5	5	5	none (correct)
+1193	health	H215	gpt-oss-120b	Hindi	A person gets infected very easily.	5	4	5	tense / aspect / modality	4	4	4	addition / hallucination
+1194	geography	G178	IndicTrans2	Hindi	This posture is called the principal posture.	5	2	5	mistranslation	3	3	3	mistranslation
+1195	tourism	844	Google Translate	Hindi	Valappatnam wood is obtained from the wood of trees like teak, iruli, ilva, karimurikku, sandalwood etc. obtained from the dense forests of the banks of river Valappatnam.	3	3	4	fluency / grammar only	4	4	4	addition / hallucination
+1196	health	H082	Gemma 3 4B	USR chunks	If you do not feel right with this on one’s own right,	3	3	3	fluency / grammar only	4	4	4	addition / hallucination
+1197	geography	G304b	Ministral 14B	Hindi	Draw a diagram or sketch based on that.	4	3	5	fluency / grammar only	4	4	4	mistranslation
+1198	geography	G001	Gemma 3 4B	USR chunks	Seeing the sky after sunset, it feels how good.	3	3	2	fluency / grammar only	4	4	4	fluency / grammar only
+1199	health	H103b	gpt-oss-120b	Hindi	What should your diet be to keep your eyesight healthy?	5	4	5	discourse / connective	4	4	4	discourse / connective
+1200	tourism	561	gpt-oss-120b	USR chunks	The Gavi Sarovara near Iko Lauja is.	3	3	2	untranslated / format	4	4	4	fluency / grammar only

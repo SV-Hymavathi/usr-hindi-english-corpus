@@ -12,6 +12,8 @@ expert, with a recorded reason. Candidates concerning negation were decided by t
 | `candidates.tsv` | 1,251 candidates: domain, sentence id, system, layer, error type, Hindi, reference, output, claimed error |
 | `judgements.tsv` | first and second judgement, final label and the source of the final label |
 | `adjudication.tsv` | 359 adjudicated disagreements: decision and the reason recorded by the annotators (verbatim) |
+| `third_judgement.tsv` | independent third judgement of 100 adjudicated candidates (stratified by layer), by an annotator who took part neither in the two rounds nor in the adjudication and saw no earlier verdict |
+| `cause_label_check.tsv` | check of the cause assigned by keyword rules to 100 adjudication reasons |
 | `results/` | precision by layer and system, agreement, error rates with Wilson intervals and McNemar tests, causes of disagreement |
 | `scripts/` | the scripts that computed the results (paths refer to the authors' working copy) |
 

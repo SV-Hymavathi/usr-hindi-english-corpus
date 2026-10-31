@@ -1,0 +1,101 @@
+{
+ "items": 100,
+ "third_verdicts": {
+  "2": 71,
+  "1": 29
+ },
+ "third_error_share": 0.29,
+ "final_error_share": 0.33,
+ "vs_final": {
+  "n": 100,
+  "raw": 0.82,
+  "kappa": 0.58,
+  "ac1": 0.685
+ },
+ "vs_first": {
+  "n": 100,
+  "raw": 0.32,
+  "kappa": 0.001,
+  "ac1": -0.297
+ },
+ "vs_second": {
+  "n": 98,
+  "raw": 0.694,
+  "kappa": 0.005,
+  "ac1": 0.571
+ },
+ "first_second_opposite": {
+  "n": 98,
+  "third_with_first": 30,
+  "third_with_second": 68,
+  "third_with_final": 81
+ },
+ "by_layer": {
+  "L2": {
+   "n": 36,
+   "third_error": 7,
+   "final_error": 5,
+   "agree_final": 30
+  },
+  "L3": {
+   "n": 11,
+   "third_error": 0,
+   "final_error": 0,
+   "agree_final": 11
+  },
+  "L4": {
+   "n": 13,
+   "third_error": 4,
+   "final_error": 3,
+   "agree_final": 10
+  },
+  "L5": {
+   "n": 37,
+   "third_error": 15,
+   "final_error": 22,
+   "agree_final": 28
+  },
+  "L6": {
+   "n": 3,
+   "third_error": 3,
+   "final_error": 3,
+   "agree_final": 3
+  }
+ },
+ "cause_labels": {
+  "checked": 100,
+  "correct": 81,
+  "share_correct": 0.81,
+  "blank": 0,
+  "corrections": [
+   [
+    "other -> meaning expressed by another form",
+    5
+   ],
+   [
+    "meaning expressed by another form -> device lost",
+    4
+   ],
+   [
+    "device lost -> meaning expressed by another form",
+    4
+   ],
+   [
+    "other -> device lost",
+    2
+   ],
+   [
+    "meaning expressed by another form -> device not in the Hindi sentence",
+    2
+   ],
+   [
+    "device lost -> device not in the Hindi sentence",
+    1
+   ],
+   [
+    "context needed or source ambiguous -> meaning expressed by another form",
+    1
+   ]
+  ]
+ }
+}

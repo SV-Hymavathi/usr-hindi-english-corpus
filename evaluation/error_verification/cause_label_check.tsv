@@ -1,0 +1,101 @@
+candidate	assigned_cause	assigned_cause_correct	corrected_cause
+C710	meaning expressed by another form	yes	
+C726	device lost	yes	
+C905	meaning expressed by another form	yes	
+C453	device lost	yes	
+C790	meaning expressed by another form	yes	
+C528	other	no	device lost
+C563	device lost	yes	
+C1039	meaning expressed by another form	no	device lost
+C778	other	yes	
+C1026	meaning expressed by another form	yes	
+C672	meaning expressed by another form	yes	
+C667	meaning expressed by another form	yes	
+C967	meaning expressed by another form	yes	
+C599	meaning expressed by another form	yes	
+C1088	meaning expressed by another form	yes	
+C760	meaning expressed by another form	yes	
+C968	device not in the Hindi sentence	yes	
+C690	meaning expressed by another form	yes	
+C510	meaning expressed by another form	yes	
+C356	device not in the Hindi sentence	yes	
+C562	context needed or source ambiguous	yes	
+C767	meaning expressed by another form	yes	
+C1447	meaning expressed by another form	yes	
+C380	device lost	yes	
+C472	device lost	no	meaning expressed by another form
+C993	meaning expressed by another form	yes	
+C394	meaning expressed by another form	yes	
+C542	device lost	no	meaning expressed by another form
+C607	other	no	meaning expressed by another form
+C526	other	no	meaning expressed by another form
+C676	device lost	yes	
+C1332	meaning expressed by another form	yes	
+C653	device lost	yes	
+C1686	device not in the Hindi sentence	yes	
+C802	meaning expressed by another form	yes	
+C463	device lost	no	device not in the Hindi sentence
+C798	meaning expressed by another form	yes	device not in the Hindi sentence
+C1005	meaning expressed by another form	yes	
+C1158	device lost	yes	
+C581	device lost	no	meaning expressed by another form
+C459	meaning expressed by another form	yes	
+C600	meaning expressed by another form	yes	
+C1217	device lost	yes	
+C592	meaning expressed by another form	yes	
+C746	context needed or source ambiguous	no	meaning expressed by another form
+C1142	meaning expressed by another form	yes	
+C909	device lost	yes	
+C919	meaning expressed by another form	yes	
+C761	device not in the Hindi sentence	yes	
+C1517	device lost	yes	
+C879	context needed or source ambiguous	yes	
+C554	other	no	meaning expressed by another form
+C594	meaning expressed by another form	yes	
+C634	device lost	no	meaning expressed by another form
+C847	meaning expressed by another form	yes	
+C1344	meaning expressed by another form	no	device not in the Hindi sentence
+C861	device not in the Hindi sentence	yes	
+C718	other	no	device lost
+C830	device not in the Hindi sentence	yes	
+C702	device lost	yes	
+C1497	meaning expressed by another form	no	device lost
+C833	meaning expressed by another form	yes	
+C992	meaning expressed by another form	yes	
+C882	device not in the Hindi sentence	yes	
+C407	meaning expressed by another form	yes	
+C1060	device not in the Hindi sentence	yes	
+C832	device lost	yes	
+C912	device not in the Hindi sentence	yes	
+C1624	meaning expressed by another form	yes	
+C835	device lost	yes	
+C385	meaning expressed by another form	yes	
+C416	device lost	yes	
+C1067	context needed or source ambiguous	yes	
+C1607	meaning expressed by another form	yes	
+C736	other	no	meaning expressed by another form
+C764	meaning expressed by another form	yes	
+C1120	device not in the Hindi sentence	yes	
+C355	meaning expressed by another form	yes	
+C1006	meaning expressed by another form	yes	
+C742	device lost	yes	
+C1318	meaning expressed by another form	no	device lost
+C962	other	no	meaning expressed by another form
+C857	other	yes	
+C951	meaning expressed by another form	yes	
+C391	device lost	yes	
+C1195	meaning expressed by another form	yes	
+C458	meaning expressed by another form	yes	
+C422	meaning expressed by another form	yes	
+C1057	device not in the Hindi sentence	yes	
+C994	meaning expressed by another form	yes	
+C365	meaning expressed by another form	no	device not in the Hindi sentence
+C606	meaning expressed by another form	yes	
+C1073	meaning expressed by another form	yes	
+C1038	meaning expressed by another form	no	device lost
+C680	meaning expressed by another form	yes	
+C801	meaning expressed by another form	yes	
+C1252	context needed or source ambiguous	yes	
+C454	device lost	yes	
+C633	device lost	yes	
+C1463	meaning expressed by another form	yes	

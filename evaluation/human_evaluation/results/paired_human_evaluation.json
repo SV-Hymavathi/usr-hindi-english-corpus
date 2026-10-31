@@ -1,0 +1,1372 @@
+{
+ "n_outputs": 1200,
+ "n_complete": 1184,
+ "n_sentences": 150,
+ "agreement": {
+  "comp": {
+   "qwk": 0.294,
+   "exact": 0.501,
+   "within1": 0.832
+  },
+  "ad": {
+   "qwk": 0.542,
+   "exact": 0.51,
+   "within1": 0.865
+  },
+  "fl": {
+   "qwk": 0.241,
+   "exact": 0.478,
+   "within1": 0.824
+  },
+  "anyerr": {
+   "kappa": 0.485,
+   "ac1": 0.483,
+   "raw": 0.742
+  },
+  "meaning": {
+   "kappa": 0.424,
+   "ac1": 0.48,
+   "raw": 0.726
+  },
+  "type": {
+   "kappa": 0.319,
+   "raw": 0.507
+  }
+ },
+ "systems": {
+  "all": {
+   "exp1:google_translate": {
+    "name": "Google Translate",
+    "outputs": 148,
+    "comp": 4.62,
+    "ad": 4.56,
+    "fl": 4.61,
+    "anyerr": 31.4,
+    "meaning": 21.3,
+    "surface": 10.1,
+    "halluc": 5.1,
+    "fluent_wrong": 3.7,
+    "visible": 66.7,
+    "n_wrong": 33,
+    "top": [
+     [
+      "fluency / grammar only",
+      27
+     ],
+     [
+      "mistranslation",
+      16
+     ],
+     [
+      "addition / hallucination",
+      15
+     ],
+     [
+      "omission",
+      15
+     ]
+    ]
+   },
+   "exp1:indictrans2_local": {
+    "name": "IndicTrans2",
+    "outputs": 149,
+    "comp": 4.67,
+    "ad": 4.48,
+    "fl": 4.66,
+    "anyerr": 36.2,
+    "meaning": 28.9,
+    "surface": 7.4,
+    "halluc": 3.0,
+    "fluent_wrong": 6.7,
+    "visible": 45.9,
+    "n_wrong": 37,
+    "top": [
+     [
+      "mistranslation",
+      35
+     ],
+     [
+      "fluency / grammar only",
+      16
+     ],
+     [
+      "omission",
+      15
+     ],
+     [
+      "tense / aspect / modality",
+      11
+     ]
+    ]
+   },
+   "exp1:groq_gpt-oss-120b": {
+    "name": "gpt-oss-120b (Hindi)",
+    "outputs": 150,
+    "comp": 4.65,
+    "ad": 4.39,
+    "fl": 4.68,
+    "anyerr": 39.7,
+    "meaning": 36.3,
+    "surface": 3.3,
+    "halluc": 6.7,
+    "fluent_wrong": 9.7,
+    "visible": 40.8,
+    "n_wrong": 49,
+    "top": [
+     [
+      "mistranslation",
+      33
+     ],
+     [
+      "addition / hallucination",
+      20
+     ],
+     [
+      "omission",
+      18
+     ],
+     [
+      "discourse / connective",
+      13
+     ]
+    ]
+   },
+   "exp3:groq_gpt-oss-120b": {
+    "name": "gpt-oss-120b (USR)",
+    "outputs": 147,
+    "comp": 4.3,
+    "ad": 4.19,
+    "fl": 4.27,
+    "anyerr": 52.0,
+    "meaning": 28.9,
+    "surface": 23.1,
+    "halluc": 5.8,
+    "fluent_wrong": 6.1,
+    "visible": 73.1,
+    "n_wrong": 67,
+    "top": [
+     [
+      "fluency / grammar only",
+      50
+     ],
+     [
+      "mistranslation",
+      22
+     ],
+     [
+      "untranslated / format",
+      18
+     ],
+     [
+      "addition / hallucination",
+      17
+     ]
+    ]
+   },
+   "exp1:ollama_gemma3-4b": {
+    "name": "Gemma 3 4B (Hindi)",
+    "outputs": 149,
+    "comp": 4.46,
+    "ad": 4.03,
+    "fl": 4.52,
+    "anyerr": 54.4,
+    "meaning": 51.3,
+    "surface": 3.0,
+    "halluc": 10.4,
+    "fluent_wrong": 20.1,
+    "visible": 34.1,
+    "n_wrong": 91,
+    "top": [
+     [
+      "mistranslation",
+      42
+     ],
+     [
+      "addition / hallucination",
+      31
+     ],
+     [
+      "omission",
+      30
+     ],
+     [
+      "tense / aspect / modality",
+      20
+     ]
+    ]
+   },
+   "exp3:ollama_gemma3-4b": {
+    "name": "Gemma 3 4B (USR)",
+    "outputs": 148,
+    "comp": 3.94,
+    "ad": 3.86,
+    "fl": 3.86,
+    "anyerr": 67.6,
+    "meaning": 36.1,
+    "surface": 31.4,
+    "halluc": 7.8,
+    "fluent_wrong": 7.1,
+    "visible": 78.6,
+    "n_wrong": 98,
+    "top": [
+     [
+      "fluency / grammar only",
+      73
+     ],
+     [
+      "mistranslation",
+      31
+     ],
+     [
+      "addition / hallucination",
+      23
+     ],
+     [
+      "untranslated / format",
+      20
+     ]
+    ]
+   },
+   "exp1:mistral_ministral-14b": {
+    "name": "Ministral 14B (Hindi)",
+    "outputs": 149,
+    "comp": 4.33,
+    "ad": 3.97,
+    "fl": 4.42,
+    "anyerr": 58.7,
+    "meaning": 53.7,
+    "surface": 5.0,
+    "halluc": 27.2,
+    "fluent_wrong": 15.1,
+    "visible": 48.3,
+    "n_wrong": 87,
+    "top": [
+     [
+      "addition / hallucination",
+      81
+     ],
+     [
+      "mistranslation",
+      32
+     ],
+     [
+      "discourse / connective",
+      17
+     ],
+     [
+      "tense / aspect / modality",
+      13
+     ]
+    ]
+   },
+   "exp3:mistral_ministral-14b": {
+    "name": "Ministral 14B (USR)",
+    "outputs": 144,
+    "comp": 4.17,
+    "ad": 3.83,
+    "fl": 4.2,
+    "anyerr": 68.8,
+    "meaning": 49.3,
+    "surface": 19.4,
+    "halluc": 12.8,
+    "fluent_wrong": 18.4,
+    "visible": 48.0,
+    "n_wrong": 102,
+    "top": [
+     [
+      "mistranslation",
+      44
+     ],
+     [
+      "fluency / grammar only",
+      41
+     ],
+     [
+      "addition / hallucination",
+      37
+     ],
+     [
+      "discourse / connective",
+      21
+     ]
+    ]
+   }
+  },
+  "geography": {
+   "exp1:google_translate": {
+    "name": "Google Translate",
+    "outputs": 50,
+    "comp": 4.76,
+    "ad": 4.72,
+    "fl": 4.75,
+    "anyerr": 22.0,
+    "meaning": 16.0,
+    "surface": 6.0,
+    "halluc": 3.0,
+    "fluent_wrong": 1.0,
+    "visible": 87.5,
+    "n_wrong": 8,
+    "top": [
+     [
+      "omission",
+      7
+     ],
+     [
+      "fluency / grammar only",
+      5
+     ],
+     [
+      "mistranslation",
+      3
+     ],
+     [
+      "addition / hallucination",
+      3
+     ]
+    ]
+   },
+   "exp1:indictrans2_local": {
+    "name": "IndicTrans2",
+    "outputs": 50,
+    "comp": 4.78,
+    "ad": 4.59,
+    "fl": 4.76,
+    "anyerr": 31.0,
+    "meaning": 27.0,
+    "surface": 4.0,
+    "halluc": 2.0,
+    "fluent_wrong": 7.0,
+    "visible": 30.0,
+    "n_wrong": 10,
+    "top": [
+     [
+      "mistranslation",
+      12
+     ],
+     [
+      "omission",
+      6
+     ],
+     [
+      "fluency / grammar only",
+      4
+     ],
+     [
+      "discourse / connective",
+      3
+     ]
+    ]
+   },
+   "exp1:groq_gpt-oss-120b": {
+    "name": "gpt-oss-120b (Hindi)",
+    "outputs": 50,
+    "comp": 4.71,
+    "ad": 4.52,
+    "fl": 4.71,
+    "anyerr": 32.0,
+    "meaning": 27.0,
+    "surface": 5.0,
+    "halluc": 3.0,
+    "fluent_wrong": 6.0,
+    "visible": 50.0,
+    "n_wrong": 12,
+    "top": [
+     [
+      "mistranslation",
+      10
+     ],
+     [
+      "discourse / connective",
+      7
+     ],
+     [
+      "omission",
+      4
+     ],
+     [
+      "fluency / grammar only",
+      4
+     ]
+    ]
+   },
+   "exp3:groq_gpt-oss-120b": {
+    "name": "gpt-oss-120b (USR)",
+    "outputs": 47,
+    "comp": 4.2,
+    "ad": 4.09,
+    "fl": 4.17,
+    "anyerr": 56.4,
+    "meaning": 29.8,
+    "surface": 26.6,
+    "halluc": 2.1,
+    "fluent_wrong": 7.4,
+    "visible": 69.6,
+    "n_wrong": 23,
+    "top": [
+     [
+      "fluency / grammar only",
+      17
+     ],
+     [
+      "discourse / connective",
+      8
+     ],
+     [
+      "untranslated / format",
+      8
+     ],
+     [
+      "omission",
+      7
+     ]
+    ]
+   },
+   "exp1:ollama_gemma3-4b": {
+    "name": "Gemma 3 4B (Hindi)",
+    "outputs": 50,
+    "comp": 4.68,
+    "ad": 4.38,
+    "fl": 4.68,
+    "anyerr": 36.0,
+    "meaning": 34.0,
+    "surface": 2.0,
+    "halluc": 1.0,
+    "fluent_wrong": 13.0,
+    "visible": 27.8,
+    "n_wrong": 18,
+    "top": [
+     [
+      "mistranslation",
+      12
+     ],
+     [
+      "discourse / connective",
+      7
+     ],
+     [
+      "omission",
+      7
+     ],
+     [
+      "tense / aspect / modality",
+      5
+     ]
+    ]
+   },
+   "exp3:ollama_gemma3-4b": {
+    "name": "Gemma 3 4B (USR)",
+    "outputs": 50,
+    "comp": 3.94,
+    "ad": 3.8,
+    "fl": 3.81,
+    "anyerr": 70.0,
+    "meaning": 33.0,
+    "surface": 37.0,
+    "halluc": 3.0,
+    "fluent_wrong": 8.0,
+    "visible": 75.8,
+    "n_wrong": 33,
+    "top": [
+     [
+      "fluency / grammar only",
+      29
+     ],
+     [
+      "omission",
+      8
+     ],
+     [
+      "mistranslation",
+      8
+     ],
+     [
+      "discourse / connective",
+      8
+     ]
+    ]
+   },
+   "exp1:mistral_ministral-14b": {
+    "name": "Ministral 14B (Hindi)",
+    "outputs": 50,
+    "comp": 4.53,
+    "ad": 4.28,
+    "fl": 4.57,
+    "anyerr": 49.0,
+    "meaning": 43.0,
+    "surface": 6.0,
+    "halluc": 14.0,
+    "fluent_wrong": 12.0,
+    "visible": 40.0,
+    "n_wrong": 20,
+    "top": [
+     [
+      "addition / hallucination",
+      14
+     ],
+     [
+      "discourse / connective",
+      11
+     ],
+     [
+      "mistranslation",
+      10
+     ],
+     [
+      "fluency / grammar only",
+      4
+     ]
+    ]
+   },
+   "exp3:mistral_ministral-14b": {
+    "name": "Ministral 14B (USR)",
+    "outputs": 46,
+    "comp": 4.04,
+    "ad": 3.64,
+    "fl": 4.1,
+    "anyerr": 77.2,
+    "meaning": 52.2,
+    "surface": 25.0,
+    "halluc": 4.3,
+    "fluent_wrong": 17.4,
+    "visible": 51.5,
+    "n_wrong": 33,
+    "top": [
+     [
+      "fluency / grammar only",
+      17
+     ],
+     [
+      "mistranslation",
+      16
+     ],
+     [
+      "discourse / connective",
+      10
+     ],
+     [
+      "omission",
+      8
+     ]
+    ]
+   }
+  },
+  "health": {
+   "exp1:google_translate": {
+    "name": "Google Translate",
+    "outputs": 48,
+    "comp": 4.71,
+    "ad": 4.58,
+    "fl": 4.69,
+    "anyerr": 28.1,
+    "meaning": 21.9,
+    "surface": 6.2,
+    "halluc": 3.1,
+    "fluent_wrong": 5.2,
+    "visible": 50.0,
+    "n_wrong": 10,
+    "top": [
+     [
+      "omission",
+      6
+     ],
+     [
+      "mistranslation",
+      6
+     ],
+     [
+      "fluency / grammar only",
+      5
+     ],
+     [
+      "addition / hallucination",
+      3
+     ]
+    ]
+   },
+   "exp1:indictrans2_local": {
+    "name": "IndicTrans2",
+    "outputs": 49,
+    "comp": 4.69,
+    "ad": 4.46,
+    "fl": 4.62,
+    "anyerr": 39.8,
+    "meaning": 30.6,
+    "surface": 9.2,
+    "halluc": 6.1,
+    "fluent_wrong": 5.1,
+    "visible": 61.5,
+    "n_wrong": 13,
+    "top": [
+     [
+      "mistranslation",
+      13
+     ],
+     [
+      "fluency / grammar only",
+      7
+     ],
+     [
+      "addition / hallucination",
+      6
+     ],
+     [
+      "tense / aspect / modality",
+      5
+     ]
+    ]
+   },
+   "exp1:groq_gpt-oss-120b": {
+    "name": "gpt-oss-120b (Hindi)",
+    "outputs": 50,
+    "comp": 4.57,
+    "ad": 4.32,
+    "fl": 4.64,
+    "anyerr": 47.0,
+    "meaning": 45.0,
+    "surface": 2.0,
+    "halluc": 10.0,
+    "fluent_wrong": 9.0,
+    "visible": 47.1,
+    "n_wrong": 17,
+    "top": [
+     [
+      "mistranslation",
+      11
+     ],
+     [
+      "omission",
+      10
+     ],
+     [
+      "addition / hallucination",
+      10
+     ],
+     [
+      "tense / aspect / modality",
+      7
+     ]
+    ]
+   },
+   "exp3:groq_gpt-oss-120b": {
+    "name": "gpt-oss-120b (USR)",
+    "outputs": 50,
+    "comp": 4.5,
+    "ad": 4.41,
+    "fl": 4.5,
+    "anyerr": 43.0,
+    "meaning": 28.0,
+    "surface": 15.0,
+    "halluc": 10.0,
+    "fluent_wrong": 5.0,
+    "visible": 66.7,
+    "n_wrong": 15,
+    "top": [
+     [
+      "fluency / grammar only",
+      15
+     ],
+     [
+      "addition / hallucination",
+      10
+     ],
+     [
+      "mistranslation",
+      6
+     ],
+     [
+      "tense / aspect / modality",
+      4
+     ]
+    ]
+   },
+   "exp1:ollama_gemma3-4b": {
+    "name": "Gemma 3 4B (Hindi)",
+    "outputs": 50,
+    "comp": 4.44,
+    "ad": 3.98,
+    "fl": 4.48,
+    "anyerr": 60.0,
+    "meaning": 56.0,
+    "surface": 4.0,
+    "halluc": 16.0,
+    "fluent_wrong": 21.0,
+    "visible": 34.4,
+    "n_wrong": 32,
+    "top": [
+     [
+      "addition / hallucination",
+      16
+     ],
+     [
+      "omission",
+      11
+     ],
+     [
+      "tense / aspect / modality",
+      11
+     ],
+     [
+      "mistranslation",
+      10
+     ]
+    ]
+   },
+   "exp3:ollama_gemma3-4b": {
+    "name": "Gemma 3 4B (USR)",
+    "outputs": 50,
+    "comp": 3.91,
+    "ad": 3.86,
+    "fl": 3.88,
+    "anyerr": 65.0,
+    "meaning": 39.0,
+    "surface": 26.0,
+    "halluc": 14.0,
+    "fluent_wrong": 8.0,
+    "visible": 77.8,
+    "n_wrong": 36,
+    "top": [
+     [
+      "fluency / grammar only",
+      22
+     ],
+     [
+      "addition / hallucination",
+      14
+     ],
+     [
+      "mistranslation",
+      11
+     ],
+     [
+      "tense / aspect / modality",
+      7
+     ]
+    ]
+   },
+   "exp1:mistral_ministral-14b": {
+    "name": "Ministral 14B (Hindi)",
+    "outputs": 49,
+    "comp": 4.35,
+    "ad": 3.93,
+    "fl": 4.43,
+    "anyerr": 57.1,
+    "meaning": 55.1,
+    "surface": 2.0,
+    "halluc": 32.7,
+    "fluent_wrong": 16.3,
+    "visible": 48.4,
+    "n_wrong": 31,
+    "top": [
+     [
+      "addition / hallucination",
+      32
+     ],
+     [
+      "mistranslation",
+      9
+     ],
+     [
+      "tense / aspect / modality",
+      6
+     ],
+     [
+      "discourse / connective",
+      5
+     ]
+    ]
+   },
+   "exp3:mistral_ministral-14b": {
+    "name": "Ministral 14B (USR)",
+    "outputs": 49,
+    "comp": 4.23,
+    "ad": 3.87,
+    "fl": 4.26,
+    "anyerr": 68.4,
+    "meaning": 57.1,
+    "surface": 11.2,
+    "halluc": 20.4,
+    "fluent_wrong": 18.4,
+    "visible": 47.1,
+    "n_wrong": 34,
+    "top": [
+     [
+      "addition / hallucination",
+      20
+     ],
+     [
+      "mistranslation",
+      14
+     ],
+     [
+      "fluency / grammar only",
+      10
+     ],
+     [
+      "discourse / connective",
+      9
+     ]
+    ]
+   }
+  },
+  "tourism": {
+   "exp1:google_translate": {
+    "name": "Google Translate",
+    "outputs": 50,
+    "comp": 4.41,
+    "ad": 4.39,
+    "fl": 4.39,
+    "anyerr": 44.0,
+    "meaning": 26.0,
+    "surface": 18.0,
+    "halluc": 9.0,
+    "fluent_wrong": 5.0,
+    "visible": 66.7,
+    "n_wrong": 15,
+    "top": [
+     [
+      "fluency / grammar only",
+      17
+     ],
+     [
+      "addition / hallucination",
+      9
+     ],
+     [
+      "mistranslation",
+      7
+     ],
+     [
+      "named entity",
+      3
+     ]
+    ]
+   },
+   "exp1:indictrans2_local": {
+    "name": "IndicTrans2",
+    "outputs": 50,
+    "comp": 4.54,
+    "ad": 4.4,
+    "fl": 4.61,
+    "anyerr": 38.0,
+    "meaning": 29.0,
+    "surface": 9.0,
+    "halluc": 1.0,
+    "fluent_wrong": 8.0,
+    "visible": 42.9,
+    "n_wrong": 14,
+    "top": [
+     [
+      "mistranslation",
+      10
+     ],
+     [
+      "omission",
+      6
+     ],
+     [
+      "fluency / grammar only",
+      5
+     ],
+     [
+      "named entity",
+      5
+     ]
+    ]
+   },
+   "exp1:groq_gpt-oss-120b": {
+    "name": "gpt-oss-120b (Hindi)",
+    "outputs": 50,
+    "comp": 4.66,
+    "ad": 4.34,
+    "fl": 4.69,
+    "anyerr": 40.0,
+    "meaning": 37.0,
+    "surface": 3.0,
+    "halluc": 7.0,
+    "fluent_wrong": 14.0,
+    "visible": 30.0,
+    "n_wrong": 20,
+    "top": [
+     [
+      "mistranslation",
+      12
+     ],
+     [
+      "named entity",
+      9
+     ],
+     [
+      "addition / hallucination",
+      7
+     ],
+     [
+      "omission",
+      4
+     ]
+    ]
+   },
+   "exp3:groq_gpt-oss-120b": {
+    "name": "gpt-oss-120b (USR)",
+    "outputs": 50,
+    "comp": 4.19,
+    "ad": 4.06,
+    "fl": 4.14,
+    "anyerr": 57.0,
+    "meaning": 29.0,
+    "surface": 28.0,
+    "halluc": 5.0,
+    "fluent_wrong": 6.0,
+    "visible": 79.3,
+    "n_wrong": 29,
+    "top": [
+     [
+      "fluency / grammar only",
+      18
+     ],
+     [
+      "mistranslation",
+      13
+     ],
+     [
+      "untranslated / format",
+      10
+     ],
+     [
+      "addition / hallucination",
+      5
+     ]
+    ]
+   },
+   "exp1:ollama_gemma3-4b": {
+    "name": "Gemma 3 4B (Hindi)",
+    "outputs": 49,
+    "comp": 4.24,
+    "ad": 3.73,
+    "fl": 4.4,
+    "anyerr": 67.3,
+    "meaning": 64.3,
+    "surface": 3.1,
+    "halluc": 14.3,
+    "fluent_wrong": 26.5,
+    "visible": 36.6,
+    "n_wrong": 41,
+    "top": [
+     [
+      "mistranslation",
+      20
+     ],
+     [
+      "addition / hallucination",
+      14
+     ],
+     [
+      "omission",
+      12
+     ],
+     [
+      "named entity",
+      10
+     ]
+    ]
+   },
+   "exp3:ollama_gemma3-4b": {
+    "name": "Gemma 3 4B (USR)",
+    "outputs": 48,
+    "comp": 3.98,
+    "ad": 3.94,
+    "fl": 3.89,
+    "anyerr": 67.7,
+    "meaning": 36.5,
+    "surface": 31.2,
+    "halluc": 6.2,
+    "fluent_wrong": 5.2,
+    "visible": 82.8,
+    "n_wrong": 29,
+    "top": [
+     [
+      "fluency / grammar only",
+      22
+     ],
+     [
+      "mistranslation",
+      12
+     ],
+     [
+      "omission",
+      9
+     ],
+     [
+      "untranslated / format",
+      8
+     ]
+    ]
+   },
+   "exp1:mistral_ministral-14b": {
+    "name": "Ministral 14B (Hindi)",
+    "outputs": 50,
+    "comp": 4.11,
+    "ad": 3.71,
+    "fl": 4.25,
+    "anyerr": 70.0,
+    "meaning": 63.0,
+    "surface": 7.0,
+    "halluc": 35.0,
+    "fluent_wrong": 17.0,
+    "visible": 52.8,
+    "n_wrong": 36,
+    "top": [
+     [
+      "addition / hallucination",
+      35
+     ],
+     [
+      "mistranslation",
+      13
+     ],
+     [
+      "named entity",
+      8
+     ],
+     [
+      "fluency / grammar only",
+      4
+     ]
+    ]
+   },
+   "exp3:mistral_ministral-14b": {
+    "name": "Ministral 14B (USR)",
+    "outputs": 49,
+    "comp": 4.22,
+    "ad": 3.97,
+    "fl": 4.24,
+    "anyerr": 61.2,
+    "meaning": 38.8,
+    "surface": 22.4,
+    "halluc": 13.3,
+    "fluent_wrong": 19.4,
+    "visible": 45.7,
+    "n_wrong": 35,
+    "top": [
+     [
+      "fluency / grammar only",
+      14
+     ],
+     [
+      "mistranslation",
+      14
+     ],
+     [
+      "addition / hallucination",
+      13
+     ],
+     [
+      "untranslated / format",
+      8
+     ]
+    ]
+   }
+  }
+ },
+ "paired": {
+  "gpt-oss-120b": {
+   "n": 147,
+   "meaning": {
+    "ann1": {
+     "hindi_only": 30,
+     "usr_only": 22,
+     "p": 0.3317
+    },
+    "ann2": {
+     "hindi_only": 39,
+     "usr_only": 25,
+     "p": 0.1034
+    },
+    "pooled": {
+     "hindi_only": 69,
+     "usr_only": 47,
+     "p": 0.0507
+    }
+   },
+   "halluc": {
+    "ann1": {
+     "hindi_only": 8,
+     "usr_only": 4,
+     "p": 0.3877
+    },
+    "ann2": {
+     "hindi_only": 10,
+     "usr_only": 12,
+     "p": 0.8318
+    },
+    "pooled": {
+     "hindi_only": 18,
+     "usr_only": 16,
+     "p": 0.8642
+    }
+   },
+   "surface": {
+    "ann1": {
+     "hindi_only": 2,
+     "usr_only": 45,
+     "p": 0.0
+    },
+    "ann2": {
+     "hindi_only": 4,
+     "usr_only": 19,
+     "p": 0.0026
+    },
+    "pooled": {
+     "hindi_only": 6,
+     "usr_only": 64,
+     "p": 0.0
+    }
+   },
+   "anyerr": {
+    "ann1": {
+     "hindi_only": 15,
+     "usr_only": 50,
+     "p": 0.0
+    },
+    "ann2": {
+     "hindi_only": 33,
+     "usr_only": 34,
+     "p": 1.0
+    },
+    "pooled": {
+     "hindi_only": 48,
+     "usr_only": 84,
+     "p": 0.0022
+    }
+   },
+   "fluent_wrong": {
+    "ann1": {
+     "hindi_only": 21,
+     "usr_only": 12,
+     "p": 0.1628
+    },
+    "ann2": {
+     "hindi_only": 5,
+     "usr_only": 4,
+     "p": 1.0
+    },
+    "pooled": {
+     "hindi_only": 26,
+     "usr_only": 16,
+     "p": 0.1641
+    }
+   },
+   "ad": {
+    "mean_diff": -0.21,
+    "p": 0.0553
+   },
+   "fl": {
+    "mean_diff": -0.4,
+    "p": 0.0
+   },
+   "comp": {
+    "mean_diff": -0.34,
+    "p": 0.0
+   }
+  },
+  "Gemma 3 4B": {
+   "n": 147,
+   "meaning": {
+    "ann1": {
+     "hindi_only": 54,
+     "usr_only": 23,
+     "p": 0.0005
+    },
+    "ann2": {
+     "hindi_only": 39,
+     "usr_only": 26,
+     "p": 0.136
+    },
+    "pooled": {
+     "hindi_only": 93,
+     "usr_only": 49,
+     "p": 0.0003
+    }
+   },
+   "halluc": {
+    "ann1": {
+     "hindi_only": 10,
+     "usr_only": 5,
+     "p": 0.3018
+    },
+    "ann2": {
+     "hindi_only": 15,
+     "usr_only": 12,
+     "p": 0.7011
+    },
+    "pooled": {
+     "hindi_only": 25,
+     "usr_only": 17,
+     "p": 0.28
+    }
+   },
+   "surface": {
+    "ann1": {
+     "hindi_only": 2,
+     "usr_only": 57,
+     "p": 0.0
+    },
+    "ann2": {
+     "hindi_only": 6,
+     "usr_only": 33,
+     "p": 0.0
+    },
+    "pooled": {
+     "hindi_only": 8,
+     "usr_only": 90,
+     "p": 0.0
+    }
+   },
+   "anyerr": {
+    "ann1": {
+     "hindi_only": 22,
+     "usr_only": 46,
+     "p": 0.0049
+    },
+    "ann2": {
+     "hindi_only": 29,
+     "usr_only": 43,
+     "p": 0.1249
+    },
+    "pooled": {
+     "hindi_only": 51,
+     "usr_only": 89,
+     "p": 0.0017
+    }
+   },
+   "fluent_wrong": {
+    "ann1": {
+     "hindi_only": 44,
+     "usr_only": 11,
+     "p": 0.0
+    },
+    "ann2": {
+     "hindi_only": 11,
+     "usr_only": 5,
+     "p": 0.2101
+    },
+    "pooled": {
+     "hindi_only": 55,
+     "usr_only": 16,
+     "p": 0.0
+    }
+   },
+   "ad": {
+    "mean_diff": -0.17,
+    "p": 0.157
+   },
+   "fl": {
+    "mean_diff": -0.66,
+    "p": 0.0
+   },
+   "comp": {
+    "mean_diff": -0.52,
+    "p": 0.0
+   }
+  },
+  "Ministral 14B": {
+   "n": 143,
+   "meaning": {
+    "ann1": {
+     "hindi_only": 29,
+     "usr_only": 32,
+     "p": 0.7982
+    },
+    "ann2": {
+     "hindi_only": 38,
+     "usr_only": 22,
+     "p": 0.0519
+    },
+    "pooled": {
+     "hindi_only": 67,
+     "usr_only": 54,
+     "p": 0.2753
+    }
+   },
+   "halluc": {
+    "ann1": {
+     "hindi_only": 29,
+     "usr_only": 8,
+     "p": 0.0008
+    },
+    "ann2": {
+     "hindi_only": 36,
+     "usr_only": 13,
+     "p": 0.0014
+    },
+    "pooled": {
+     "hindi_only": 65,
+     "usr_only": 21,
+     "p": 0.0
+    }
+   },
+   "surface": {
+    "ann1": {
+     "hindi_only": 5,
+     "usr_only": 30,
+     "p": 0.0
+    },
+    "ann2": {
+     "hindi_only": 8,
+     "usr_only": 24,
+     "p": 0.007
+    },
+    "pooled": {
+     "hindi_only": 13,
+     "usr_only": 54,
+     "p": 0.0
+    }
+   },
+   "anyerr": {
+    "ann1": {
+     "hindi_only": 18,
+     "usr_only": 46,
+     "p": 0.0006
+    },
+    "ann2": {
+     "hindi_only": 27,
+     "usr_only": 27,
+     "p": 1.0
+    },
+    "pooled": {
+     "hindi_only": 45,
+     "usr_only": 73,
+     "p": 0.0126
+    }
+   },
+   "fluent_wrong": {
+    "ann1": {
+     "hindi_only": 27,
+     "usr_only": 33,
+     "p": 0.519
+    },
+    "ann2": {
+     "hindi_only": 8,
+     "usr_only": 10,
+     "p": 0.8145
+    },
+    "pooled": {
+     "hindi_only": 35,
+     "usr_only": 43,
+     "p": 0.4282
+    }
+   },
+   "ad": {
+    "mean_diff": -0.13,
+    "p": 0.2709
+   },
+   "fl": {
+    "mean_diff": -0.21,
+    "p": 0.0093
+   },
+   "comp": {
+    "mean_diff": -0.15,
+    "p": 0.0745
+   }
+  }
+ }
+}

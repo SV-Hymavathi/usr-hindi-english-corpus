@@ -1,0 +1,120 @@
+{
+ "S1": {
+  "n_pairs": 437,
+  "always_hindi": {
+   "adequacy": 4.129,
+   "meaning_error": 33.4,
+   "any_meaning": 60.6,
+   "serious": null,
+   "usr_share": 0
+  },
+  "always_usr": {
+   "adequacy": 3.961,
+   "meaning_error": 24.3,
+   "any_meaning": 51.7,
+   "serious": null,
+   "usr_share": 100
+  },
+  "humans": {
+   "adequacy": 4.511,
+   "meaning_error": 16.7,
+   "any_meaning": 41.6,
+   "serious": null,
+   "usr_share": 31.6
+  },
+  "by_chrf": {
+   "adequacy": 4.253,
+   "meaning_error": 22.9,
+   "any_meaning": 47.4,
+   "serious": null,
+   "usr_share": 53.5
+  },
+  "by_bleu": {
+   "adequacy": 4.231,
+   "meaning_error": 25.2,
+   "any_meaning": 49.2,
+   "serious": null,
+   "usr_share": 49.7
+  },
+  "by_bert": {
+   "adequacy": 4.323,
+   "meaning_error": 24.3,
+   "any_meaning": 48.1,
+   "serious": null,
+   "usr_share": 39.4
+  },
+  "by_comet": {
+   "adequacy": 4.331,
+   "meaning_error": 23.6,
+   "any_meaning": 49.0,
+   "serious": null,
+   "usr_share": 38.7
+  },
+  "by_metricx": {
+   "adequacy": 4.358,
+   "meaning_error": 24.5,
+   "any_meaning": 51.0,
+   "serious": null,
+   "usr_share": 29.1
+  }
+ },
+ "S2": {
+  "n_pairs": 450,
+  "always_hindi": {
+   "adequacy": 4.15,
+   "meaning_error": 32.7,
+   "any_meaning": 57.3,
+   "serious": 17.1,
+   "usr_share": 0
+  },
+  "always_usr": {
+   "adequacy": 4.529,
+   "meaning_error": 16.7,
+   "any_meaning": 37.8,
+   "serious": 6.2,
+   "usr_share": 100
+  },
+  "humans": {
+   "adequacy": 4.739,
+   "meaning_error": 8.0,
+   "any_meaning": 28.4,
+   "serious": 2.2,
+   "usr_share": 45.8
+  },
+  "by_chrf": {
+   "adequacy": 4.508,
+   "meaning_error": 19.1,
+   "any_meaning": 40.9,
+   "serious": 7.1,
+   "usr_share": 57.1
+  },
+  "by_bleu": {
+   "adequacy": 4.467,
+   "meaning_error": 20.7,
+   "any_meaning": 42.7,
+   "serious": 8.4,
+   "usr_share": 55.3
+  },
+  "by_bert": {
+   "adequacy": 4.489,
+   "meaning_error": 19.3,
+   "any_meaning": 42.7,
+   "serious": 7.3,
+   "usr_share": 48.2
+  },
+  "by_comet": {
+   "adequacy": 4.53,
+   "meaning_error": 18.9,
+   "any_meaning": 39.8,
+   "serious": 6.2,
+   "usr_share": 48.4
+  },
+  "by_metricx": {
+   "adequacy": 4.487,
+   "meaning_error": 20.0,
+   "any_meaning": 41.3,
+   "serious": 7.3,
+   "usr_share": 40.2
+  }
+ }
+}

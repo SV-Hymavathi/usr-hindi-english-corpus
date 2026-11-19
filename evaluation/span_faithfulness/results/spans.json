@@ -1,0 +1,720 @@
+{
+ "n": 1200,
+ "configurations": {
+  "google_translate|Hindi sentence": {
+   "n": 150,
+   "missing_items_per100": 7.7,
+   "missing_both_pct": 5.3,
+   "missing_either_pct": 10.0,
+   "added_items_per100": 4.0,
+   "added_both_pct": 2.0,
+   "added_either_pct": 5.3,
+   "wrong_items_per100": 13.0,
+   "wrong_both_pct": 5.3,
+   "wrong_either_pct": 17.3,
+   "any_both_pct": 12.7,
+   "clean_pct": 72.0
+  },
+  "indictrans2|Hindi sentence": {
+   "n": 150,
+   "missing_items_per100": 13.0,
+   "missing_both_pct": 2.7,
+   "missing_either_pct": 18.7,
+   "added_items_per100": 3.7,
+   "added_both_pct": 0.7,
+   "added_either_pct": 5.3,
+   "wrong_items_per100": 16.7,
+   "wrong_both_pct": 6.7,
+   "wrong_either_pct": 16.7,
+   "any_both_pct": 9.3,
+   "clean_pct": 68.7
+  },
+  "gpt-oss-120b|Hindi sentence": {
+   "n": 150,
+   "missing_items_per100": 17.0,
+   "missing_both_pct": 8.0,
+   "missing_either_pct": 20.0,
+   "added_items_per100": 8.0,
+   "added_both_pct": 1.3,
+   "added_either_pct": 12.0,
+   "wrong_items_per100": 23.7,
+   "wrong_both_pct": 8.7,
+   "wrong_either_pct": 27.3,
+   "any_both_pct": 16.7,
+   "clean_pct": 54.0
+  },
+  "gpt-oss-120b|USR chunks": {
+   "n": 150,
+   "missing_items_per100": 8.3,
+   "missing_both_pct": 6.0,
+   "missing_either_pct": 9.3,
+   "added_items_per100": 8.3,
+   "added_both_pct": 0.7,
+   "added_either_pct": 12.0,
+   "wrong_items_per100": 20.3,
+   "wrong_both_pct": 4.0,
+   "wrong_either_pct": 20.0,
+   "any_both_pct": 10.7,
+   "clean_pct": 66.7
+  },
+  "gemma3-4b|Hindi sentence": {
+   "n": 150,
+   "missing_items_per100": 31.3,
+   "missing_both_pct": 17.3,
+   "missing_either_pct": 33.3,
+   "added_items_per100": 14.0,
+   "added_both_pct": 4.0,
+   "added_either_pct": 16.0,
+   "wrong_items_per100": 39.3,
+   "wrong_both_pct": 16.0,
+   "wrong_either_pct": 36.0,
+   "any_both_pct": 34.0,
+   "clean_pct": 38.0
+  },
+  "gemma3-4b|USR chunks": {
+   "n": 150,
+   "missing_items_per100": 24.0,
+   "missing_both_pct": 10.7,
+   "missing_either_pct": 24.0,
+   "added_items_per100": 6.7,
+   "added_both_pct": 2.7,
+   "added_either_pct": 8.7,
+   "wrong_items_per100": 25.0,
+   "wrong_both_pct": 4.7,
+   "wrong_either_pct": 25.3,
+   "any_both_pct": 17.3,
+   "clean_pct": 54.0
+  },
+  "ministral-14b|Hindi sentence": {
+   "n": 150,
+   "missing_items_per100": 22.0,
+   "missing_both_pct": 8.0,
+   "missing_either_pct": 25.3,
+   "added_items_per100": 59.0,
+   "added_both_pct": 17.3,
+   "added_either_pct": 42.0,
+   "wrong_items_per100": 28.7,
+   "wrong_both_pct": 7.3,
+   "wrong_either_pct": 29.3,
+   "any_both_pct": 31.3,
+   "clean_pct": 30.7
+  },
+  "ministral-14b|USR chunks": {
+   "n": 150,
+   "missing_items_per100": 11.7,
+   "missing_both_pct": 6.7,
+   "missing_either_pct": 14.0,
+   "added_items_per100": 18.3,
+   "added_both_pct": 5.3,
+   "added_either_pct": 18.7,
+   "wrong_items_per100": 27.7,
+   "wrong_both_pct": 9.3,
+   "wrong_either_pct": 29.3,
+   "any_both_pct": 20.7,
+   "clean_pct": 50.7
+  }
+ },
+ "paired": {
+  "gpt-oss-120b": {
+   "missing": {
+    "mean_diff_per100": -8.7,
+    "ci": [
+     -16.3,
+     -1.7
+    ],
+    "p": 0.0349,
+    "hindi_only": 11,
+    "usr_only": 8
+   },
+   "added": {
+    "mean_diff_per100": 0.3,
+    "ci": [
+     -5.0,
+     6.0
+    ],
+    "p": 0.9543,
+    "hindi_only": 2,
+    "usr_only": 1
+   },
+   "wrong": {
+    "mean_diff_per100": -3.3,
+    "ci": [
+     -12.7,
+     6.3
+    ],
+    "p": 0.4395,
+    "hindi_only": 13,
+    "usr_only": 6
+   }
+  },
+  "gemma3-4b": {
+   "missing": {
+    "mean_diff_per100": -7.3,
+    "ci": [
+     -19.0,
+     4.3
+    ],
+    "p": 0.2217,
+    "hindi_only": 23,
+    "usr_only": 13
+   },
+   "added": {
+    "mean_diff_per100": -7.3,
+    "ci": [
+     -15.0,
+     -0.7
+    ],
+    "p": 0.0716,
+    "hindi_only": 6,
+    "usr_only": 4
+   },
+   "wrong": {
+    "mean_diff_per100": -14.3,
+    "ci": [
+     -28.0,
+     -0.7
+    ],
+    "p": 0.0389,
+    "hindi_only": 22,
+    "usr_only": 5
+   }
+  },
+  "ministral-14b": {
+   "missing": {
+    "mean_diff_per100": -10.3,
+    "ci": [
+     -18.0,
+     -2.7
+    ],
+    "p": 0.0131,
+    "hindi_only": 11,
+    "usr_only": 9
+   },
+   "added": {
+    "mean_diff_per100": -40.7,
+    "ci": [
+     -55.7,
+     -25.0
+    ],
+    "p": 0.0,
+    "hindi_only": 25,
+    "usr_only": 7
+   },
+   "wrong": {
+    "mean_diff_per100": -1.0,
+    "ci": [
+     -12.0,
+     9.3
+    ],
+    "p": 0.8725,
+    "hindi_only": 10,
+    "usr_only": 13
+   }
+  }
+ },
+ "agreement": {
+  "missing": {
+   "raw": 0.887,
+   "kappa": 0.525,
+   "ac1": 0.853,
+   "n1": 159,
+   "n2": 170
+  },
+  "added": {
+   "raw": 0.892,
+   "kappa": 0.383,
+   "ac1": 0.87,
+   "n1": 127,
+   "n2": 104
+  },
+  "wrong": {
+   "raw": 0.826,
+   "kappa": 0.37,
+   "ac1": 0.76,
+   "n1": 166,
+   "n2": 229
+  }
+ },
+ "categories": {
+  "missing": {
+   "counts": {
+    "content word": 137,
+    "clause or phrase": 42,
+    "discourse connective": 13,
+    "quantifier or determiner": 5,
+    "postposition or case": 1,
+    "particle (emphasis, inclusion)": 1
+   },
+   "examples": {
+    "content word": [
+     [
+      "google_translate",
+      "Hindi sentence",
+      "नाम",
+      "This is known as Indian Standard Time."
+     ],
+     [
+      "google_translate",
+      "Hindi sentence",
+      "उतरने का",
+      "Due to the inaccessible route, extra caution is necessary."
+     ],
+     [
+      "google_translate",
+      "Hindi sentence",
+      "उतरने का",
+      "Due to the inaccessible route, extra caution is necessary."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "मामलों",
+      "Eating fresh fruits with meals is always advised."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "भाषा",
+      "Malayalam is spoken in Kerala."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "भाषा",
+      "Malayalam is spoken in Kerala."
+     ]
+    ],
+    "clause or phrase": [
+     [
+      "google_translate",
+      "Hindi sentence",
+      "के नाम से",
+      "This is known as Indian Standard Time."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "सभी मामलों में",
+      "Eating fresh fruits with meals is always advised."
+     ],
+     [
+      "gpt-oss-120b",
+      "Hindi sentence",
+      "के . के .",
+      "On average, 16 freight trains run daily on the railway line."
+     ],
+     [
+      "indictrans2",
+      "Hindi sentence",
+      "के नाम से",
+      "It is known as Indian Standard Time."
+     ],
+     [
+      "gpt-oss-120b",
+      "USR chunks",
+      "के नाम से",
+      "This is known as Indian Standard Time."
+     ],
+     [
+      "gpt-oss-120b",
+      "USR chunks",
+      "एवं तंत्रिका तंत्र को क्रियाशील",
+      "Nadishodhan and Ujjayi pranayama play the role of a panacea for making the brain and centr"
+     ]
+    ],
+    "discourse connective": [
+     [
+      "gemma3-4b",
+      "USR chunks",
+      "अर्थात",
+      "Mahesh Murti and Vamadev seem to be from the style of the later than 15th century AD."
+     ],
+     [
+      "gemma3-4b",
+      "USR chunks",
+      "अर्थात",
+      "Mahesh Murti and Vamadev seem to be from the style of the later than 15th century AD."
+     ],
+     [
+      "gpt-oss-120b",
+      "USR chunks",
+      "अर्थात",
+      "Mahesh Murti, Vamadev seems, from a stylistic viewpoint, to be later than the 15th century"
+     ],
+     [
+      "gpt-oss-120b",
+      "USR chunks",
+      "अर्थात",
+      "Mahesh Murti, Vamadev seems, from a stylistic viewpoint, to be later than the 15th century"
+     ],
+     [
+      "gemma3-4b",
+      "USR chunks",
+      "इसलिए",
+      "They are shown by using certain letters, shades, colours, pictures and lines."
+     ],
+     [
+      "gemma3-4b",
+      "USR chunks",
+      "इसलिए",
+      "They are shown by using certain letters, shades, colours, pictures and lines."
+     ]
+    ],
+    "quantifier or determiner": [
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "पूरे",
+      "Vendors selling sugarcane juice are found along the way."
+     ],
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "पूरे",
+      "Vendors selling sugarcane juice are found along the way."
+     ],
+     [
+      "google_translate",
+      "Hindi sentence",
+      "दोनों",
+      "Children also like boating and children's park very much."
+     ],
+     [
+      "google_translate",
+      "Hindi sentence",
+      "दोनों",
+      "Children also like boating and children's park very much."
+     ],
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "यह",
+      "When the idol was removed after the excavation, the devotees interpreted its meaning."
+     ]
+    ],
+    "postposition or case": [
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "में",
+      "The Battaisa Temple houses beautiful statues of Shiva and Nandi."
+     ]
+    ],
+    "particle (emphasis, inclusion)": [
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "भी",
+      "Boating and the children’s park are both incredibly popular with kids."
+     ]
+    ]
+   }
+  },
+  "added": {
+   "counts": {
+    "content word": 48,
+    "clause or phrase added": 38,
+    "function word": 11,
+    "speaker or addressee invented": 10,
+    "name or proper noun": 10,
+    "evaluative or decorative modifier": 3
+   },
+   "examples": {
+    "function word": [
+     [
+      "gemma3-4b",
+      "USR chunks",
+      "namely",
+      "Daman is divided into two parts, namely, Motta Daman and Nani Daman."
+     ],
+     [
+      "gemma3-4b",
+      "USR chunks",
+      "namely",
+      "Daman is divided into two parts, namely, Motta Daman and Nani Daman."
+     ],
+     [
+      "gpt-oss-120b",
+      "USR chunks",
+      "and",
+      "And brown colour, yellow colour and green colour are used for showing mountains, plateaus "
+     ],
+     [
+      "gpt-oss-120b",
+      "USR chunks",
+      "and",
+      "And brown colour, yellow colour and green colour are used for showing mountains, plateaus "
+     ],
+     [
+      "google_translate",
+      "Hindi sentence",
+      "is",
+      "Nearest airport from Kappil Beach is Mangalore, 50 km. m. Is far away."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "and",
+      "and the Hindu Murugan temple is"
+     ]
+    ],
+    "content word": [
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "houses",
+      "The Battaisa Temple houses beautiful statues of Shiva and Nandi."
+     ],
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "houses",
+      "The Battaisa Temple houses beautiful statues of Shiva and Nandi."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "produce",
+      "Vandiperiyar is the centre for hill fruits, flowers, edible roots, and other produce."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "edible",
+      "Vandiperiyar is the centre for hill fruits, flowers, edible roots, and other produce."
+     ],
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "the sweetness",
+      "I love eating fruits that are dripping with the sweetness of toddy."
+     ],
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "whitewashed",
+      "A small island is covered in whitewashed greenery."
+     ]
+    ],
+    "clause or phrase added": [
+     [
+      "ministral-14b",
+      "USR chunks",
+      "and other produce",
+      "Vandiperiyar is the centre for hill fruits, flowers, edible roots, and other produce."
+     ],
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "seven holy abodes",
+      "These seven sacred sites are described in scriptures as seven cities—or the **Sapta Puri**"
+     ],
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "(seven holy abodes).",
+      "These seven sacred sites are described in scriptures as seven cities—or the **Sapta Puri**"
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "was the only thing he did not want to do.",
+      "Going back from Tirathagadha was the only thing he did not want to do."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "he did not want to do",
+      "Going back from Tirathagadha was the only thing he did not want to do."
+     ],
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "(National Mineral Development Corporation) operates",
+      "The **NMDC** (National Mineral Development Corporation) operates mines in **Bacheli and Ki"
+     ]
+    ],
+    "evaluative or decorative modifier": [
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "dripping",
+      "I love eating fruits that are dripping with the sweetness of toddy."
+     ],
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "deep",
+      "It has deep connections to the period of European colonial rule in India."
+     ],
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "deep",
+      "It has deep connections to the period of European colonial rule in India."
+     ]
+    ],
+    "speaker or addressee invented": [
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "I",
+      "I love eating fruits that are dripping with the sweetness of toddy."
+     ],
+     [
+      "google_translate",
+      "Hindi sentence",
+      "you",
+      "You can find sellers of juicy toddy fruits all along the way."
+     ],
+     [
+      "google_translate",
+      "Hindi sentence",
+      "I",
+      "I don't feel like going back from Tirathgarh."
+     ],
+     [
+      "google_translate",
+      "Hindi sentence",
+      "I",
+      "I don't feel like going back from Tirathgarh."
+     ],
+     [
+      "gpt-oss-120b",
+      "Hindi sentence",
+      "I",
+      "I enjoy eating the juicy, sweet fruits of the palm."
+     ],
+     [
+      "gpt-oss-120b",
+      "Hindi sentence",
+      "I",
+      "I enjoy eating the juicy, sweet fruits of the palm."
+     ]
+    ],
+    "name or proper noun": [
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "International Airport",
+      "The nearest airport to Kappil Beach is Mangaluru International Airport, located approximat"
+     ],
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "International Airport",
+      "The nearest airport to Kappil Beach is Mangaluru International Airport, located approximat"
+     ],
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "Central",
+      "Mughalsarai is a major station on the North Central Railway’s main line connecting Mughals"
+     ],
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "Mughalsarai",
+      "Mughalsarai is a major station on the North Central Railway’s main line connecting Mughals"
+     ],
+     [
+      "google_translate",
+      "Hindi sentence",
+      "You can",
+      "You can find sellers of juicy toddy fruits all along the way."
+     ],
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "The island",
+      "The island connected by two bridges."
+     ]
+    ]
+   }
+  },
+  "wrong": {
+   "counts": {
+    "common word or phrase": 124,
+    "name or proper noun": 66
+   },
+   "examples": {
+    "name or proper noun": [
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "Chittagong",
+      "Chittagong is a small island enveloped in lush greenery."
+     ],
+     [
+      "ministral-14b",
+      "Hindi sentence",
+      "Chittagong",
+      "Chittagong is a small island enveloped in lush greenery."
+     ],
+     [
+      "gemma3-4b",
+      "USR chunks",
+      "Motta Daman",
+      "Daman is divided into two parts, namely, Motta Daman and Nani Daman."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "Cingalpur",
+      "Archaeological ruins of importance are found in Chandragiri and Cingalpur."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "Gadhimai",
+      "A statue of Brahma Ji is also installed beside the Ganga Maiya statue in the Ganga Mandir "
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "Gadhimai.",
+      "A statue of Brahma Ji is also installed beside the Ganga Maiya statue in the Ganga Mandir "
+     ]
+    ],
+    "common word or phrase": [
+     [
+      "gemma3-4b",
+      "USR chunks",
+      "motta",
+      "Daman is divided into two parts, namely, Motta Daman and Nani Daman."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "cingalpur",
+      "Archaeological ruins of importance are found in Chandragiri and Cingalpur."
+     ],
+     [
+      "ministral-14b",
+      "USR chunks",
+      "archaeological",
+      "Archaeological ruins of importance are found in Chandragiri and Cingalpur."
+     ],
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "sugarcane",
+      "Vendors selling sugarcane juice are found along the way."
+     ],
+     [
+      "gemma3-4b",
+      "Hindi sentence",
+      "sugarcane juice",
+      "Vendors selling sugarcane juice are found along the way."
+     ],
+     [
+      "gpt-oss-120b",
+      "USR chunks",
+      "bic",
+      "The nearest airport, Mangalur, is 50 kilometres away from Kappil Bic."
+     ]
+    ]
+   }
+  }
+ }
+}

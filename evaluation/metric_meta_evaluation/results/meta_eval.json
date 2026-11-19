@@ -1,0 +1,495 @@
+{
+ "S1": {
+  "n": 1184,
+  "coverage": {
+   "chrf": 1184,
+   "bleu": 1184,
+   "bert": 1184,
+   "comet": 1184,
+   "metricx": 1184
+  },
+  "human_ceiling_kendall": 0.477,
+  "seg": {
+   "chrf": {
+    "n": 1184,
+    "kendall_ad": 0.385,
+    "spearman_ad": 0.507,
+    "kendall_fl": 0.335,
+    "auc_meaning_both": 0.79,
+    "auc_halluc_both": 0.745,
+    "auc_hidden": 0.803,
+    "ci_kendall_ad": [
+     0.336,
+     0.434
+    ]
+   },
+   "bleu": {
+    "n": 1184,
+    "kendall_ad": 0.354,
+    "spearman_ad": 0.464,
+    "kendall_fl": 0.334,
+    "auc_meaning_both": 0.757,
+    "auc_halluc_both": 0.732,
+    "auc_hidden": 0.759,
+    "ci_kendall_ad": [
+     0.307,
+     0.405
+    ]
+   },
+   "bert": {
+    "n": 1184,
+    "kendall_ad": 0.459,
+    "spearman_ad": 0.594,
+    "kendall_fl": 0.428,
+    "auc_meaning_both": 0.838,
+    "auc_halluc_both": 0.837,
+    "auc_hidden": 0.832,
+    "ci_kendall_ad": [
+     0.411,
+     0.509
+    ]
+   },
+   "comet": {
+    "n": 1184,
+    "kendall_ad": 0.514,
+    "spearman_ad": 0.661,
+    "kendall_fl": 0.483,
+    "auc_meaning_both": 0.874,
+    "auc_halluc_both": 0.86,
+    "auc_hidden": 0.881,
+    "ci_kendall_ad": [
+     0.479,
+     0.548
+    ]
+   },
+   "metricx": {
+    "n": 1184,
+    "kendall_ad": 0.47,
+    "spearman_ad": 0.607,
+    "kendall_fl": 0.452,
+    "auc_meaning_both": 0.838,
+    "auc_halluc_both": 0.819,
+    "auc_hidden": 0.845,
+    "ci_kendall_ad": [
+     0.429,
+     0.511
+    ]
+   }
+  },
+  "systems": {
+   "exp1:google_translate": {
+    "n": 148,
+    "ad": 4.564,
+    "fl": 4.608,
+    "chrf": 66.9419,
+    "bleu": 43.0469,
+    "bert": 0.7302,
+    "comet": 0.885,
+    "metricx": -2.5323
+   },
+   "exp1:groq_gpt-oss-120b": {
+    "n": 150,
+    "ad": 4.393,
+    "fl": 4.68,
+    "chrf": 60.2756,
+    "bleu": 35.9552,
+    "bert": 0.6779,
+    "comet": 0.8839,
+    "metricx": -2.2805
+   },
+   "exp1:indictrans2_local": {
+    "n": 149,
+    "ad": 4.483,
+    "fl": 4.664,
+    "chrf": 63.0406,
+    "bleu": 38.8696,
+    "bert": 0.7028,
+    "comet": 0.8867,
+    "metricx": -2.2744
+   },
+   "exp1:mistral_ministral-14b": {
+    "n": 149,
+    "ad": 3.973,
+    "fl": 4.416,
+    "chrf": 51.5785,
+    "bleu": 23.7398,
+    "bert": 0.5811,
+    "comet": 0.8507,
+    "metricx": -2.7415
+   },
+   "exp1:ollama_gemma3-4b": {
+    "n": 149,
+    "ad": 4.034,
+    "fl": 4.52,
+    "chrf": 55.927,
+    "bleu": 31.7075,
+    "bert": 0.638,
+    "comet": 0.8679,
+    "metricx": -2.9492
+   },
+   "exp3:groq_gpt-oss-120b": {
+    "n": 147,
+    "ad": 4.187,
+    "fl": 4.272,
+    "chrf": 59.7301,
+    "bleu": 30.7378,
+    "bert": 0.5896,
+    "comet": 0.8404,
+    "metricx": -4.3019
+   },
+   "exp3:mistral_ministral-14b": {
+    "n": 144,
+    "ad": 3.83,
+    "fl": 4.201,
+    "chrf": 58.0217,
+    "bleu": 28.7193,
+    "bert": 0.5691,
+    "comet": 0.8394,
+    "metricx": -4.2603
+   },
+   "exp3:ollama_gemma3-4b": {
+    "n": 148,
+    "ad": 3.865,
+    "fl": 3.858,
+    "chrf": 55.4682,
+    "bleu": 25.457,
+    "bert": 0.5418,
+    "comet": 0.8172,
+    "metricx": -5.6176
+   }
+  },
+  "perfect_by_route": {
+   "exp1": {
+    "n": 164,
+    "chrf": 69.1667,
+    "bleu": 45.0476,
+    "bert": 0.7424,
+    "comet": 0.9177,
+    "metricx": -1.4533
+   },
+   "exp3": {
+    "n": 126,
+    "chrf": 71.5319,
+    "bleu": 43.0876,
+    "bert": 0.7075,
+    "comet": 0.9101,
+    "metricx": -2.0624
+   },
+   "mt": {
+    "n": 159,
+    "chrf": 73.4654,
+    "bleu": 50.6732,
+    "bert": 0.7943,
+    "comet": 0.9202,
+    "metricx": -1.3865
+   }
+  },
+  "by_type": {
+   "none (correct)": {
+    "n": 427,
+    "ad": 4.99,
+    "chrf": 72.0334,
+    "bleu": 47.6019,
+    "bert": 0.7581,
+    "comet": 0.9192,
+    "metricx": -1.5069
+   },
+   "addition / hallucination": {
+    "n": 44,
+    "ad": 3.59,
+    "chrf": 54.3152,
+    "bleu": 24.9159,
+    "bert": 0.51,
+    "comet": 0.8223,
+    "metricx": -3.6068
+   },
+   "mistranslation": {
+    "n": 35,
+    "ad": 2.79,
+    "chrf": 44.7892,
+    "bleu": 20.6444,
+    "bert": 0.4861,
+    "comet": 0.7755,
+    "metricx": -6.2904
+   },
+   "fluency / grammar only": {
+    "n": 35,
+    "ad": 3.86,
+    "chrf": 57.0907,
+    "bleu": 23.5746,
+    "bert": 0.5758,
+    "comet": 0.8089,
+    "metricx": -5.9836
+   },
+   "discourse / connective": {
+    "n": 29,
+    "ad": 3.9,
+    "chrf": 59.034,
+    "bleu": 30.8524,
+    "bert": 0.6347,
+    "comet": 0.8753,
+    "metricx": -2.6666
+   },
+   "omission": {
+    "n": 22,
+    "ad": 3.14,
+    "chrf": 42.3684,
+    "bleu": 17.718,
+    "bert": 0.4865,
+    "comet": 0.7926,
+    "metricx": -6.0192
+   }
+  }
+ },
+ "S2": {
+  "n": 1200,
+  "coverage": {
+   "chrf": 1200,
+   "bleu": 1200,
+   "bert": 1200,
+   "comet": 1200,
+   "metricx": 1200
+  },
+  "human_ceiling_kendall": 0.548,
+  "seg": {
+   "chrf": {
+    "n": 1200,
+    "kendall_ad": 0.292,
+    "spearman_ad": 0.379,
+    "kendall_fl": 0.189,
+    "auc_meaning_both": 0.73,
+    "auc_halluc_both": 0.781,
+    "auc_hidden": 0.741,
+    "ci_kendall_ad": [
+     0.246,
+     0.338
+    ]
+   },
+   "bleu": {
+    "n": 1200,
+    "kendall_ad": 0.274,
+    "spearman_ad": 0.358,
+    "kendall_fl": 0.184,
+    "auc_meaning_both": 0.721,
+    "auc_halluc_both": 0.839,
+    "auc_hidden": 0.717,
+    "ci_kendall_ad": [
+     0.228,
+     0.318
+    ]
+   },
+   "bert": {
+    "n": 1200,
+    "kendall_ad": 0.308,
+    "spearman_ad": 0.399,
+    "kendall_fl": 0.258,
+    "auc_meaning_both": 0.742,
+    "auc_halluc_both": 0.819,
+    "auc_hidden": 0.781,
+    "ci_kendall_ad": [
+     0.26,
+     0.361
+    ]
+   },
+   "comet": {
+    "n": 1200,
+    "kendall_ad": 0.384,
+    "spearman_ad": 0.497,
+    "kendall_fl": 0.305,
+    "auc_meaning_both": 0.801,
+    "auc_halluc_both": 0.843,
+    "auc_hidden": 0.83,
+    "ci_kendall_ad": [
+     0.336,
+     0.419
+    ]
+   },
+   "metricx": {
+    "n": 1200,
+    "kendall_ad": 0.388,
+    "spearman_ad": 0.503,
+    "kendall_fl": 0.298,
+    "auc_meaning_both": 0.802,
+    "auc_halluc_both": 0.7,
+    "auc_hidden": 0.838,
+    "ci_kendall_ad": [
+     0.348,
+     0.431
+    ]
+   }
+  },
+  "systems": {
+   "exp1:google_translate": {
+    "n": 150,
+    "ad": 4.66,
+    "fl": 4.87,
+    "chrf": 65.8665,
+    "bleu": 41.0905,
+    "bert": 0.7375,
+    "comet": 0.893,
+    "metricx": -2.4943
+   },
+   "exp1:groq_gpt-oss-120b": {
+    "n": 150,
+    "ad": 4.447,
+    "fl": 4.933,
+    "chrf": 58.6438,
+    "bleu": 32.111,
+    "bert": 0.6811,
+    "comet": 0.884,
+    "metricx": -2.7327
+   },
+   "exp1:indictrans2_local": {
+    "n": 150,
+    "ad": 4.61,
+    "fl": 4.92,
+    "chrf": 64.3554,
+    "bleu": 39.6433,
+    "bert": 0.7387,
+    "comet": 0.8955,
+    "metricx": -2.5294
+   },
+   "exp1:mistral_ministral-14b": {
+    "n": 150,
+    "ad": 4.003,
+    "fl": 4.89,
+    "chrf": 48.6032,
+    "bleu": 18.6105,
+    "bert": 0.5699,
+    "comet": 0.8463,
+    "metricx": -3.2375
+   },
+   "exp1:ollama_gemma3-4b": {
+    "n": 150,
+    "ad": 4.0,
+    "fl": 4.797,
+    "chrf": 52.3414,
+    "bleu": 25.505,
+    "bert": 0.624,
+    "comet": 0.8666,
+    "metricx": -3.6509
+   },
+   "final:groq_gpt-oss-120b": {
+    "n": 150,
+    "ad": 4.627,
+    "fl": 4.867,
+    "chrf": 58.9031,
+    "bleu": 31.7183,
+    "bert": 0.6175,
+    "comet": 0.8631,
+    "metricx": -3.7676
+   },
+   "final:mistral_ministral-14b": {
+    "n": 150,
+    "ad": 4.477,
+    "fl": 4.87,
+    "chrf": 58.1452,
+    "bleu": 30.1816,
+    "bert": 0.6433,
+    "comet": 0.8742,
+    "metricx": -3.6756
+   },
+   "final:ollama_gemma3-4b": {
+    "n": 150,
+    "ad": 4.483,
+    "fl": 4.737,
+    "chrf": 55.7402,
+    "bleu": 27.7617,
+    "bert": 0.6033,
+    "comet": 0.8553,
+    "metricx": -4.4562
+   }
+  },
+  "perfect_by_route": {
+   "exp1": {
+    "n": 174,
+    "chrf": 60.5018,
+    "bleu": 34.277,
+    "bert": 0.7076,
+    "comet": 0.9076,
+    "metricx": -1.7187
+   },
+   "final": {
+    "n": 257,
+    "chrf": 62.1434,
+    "bleu": 35.0825,
+    "bert": 0.6597,
+    "comet": 0.8833,
+    "metricx": -2.875
+   },
+   "mt": {
+    "n": 201,
+    "chrf": 69.607,
+    "bleu": 46.2193,
+    "bert": 0.785,
+    "comet": 0.9191,
+    "metricx": -1.7595
+   }
+  },
+  "by_type": {
+   "none (correct)": {
+    "n": 610,
+    "ad": 5.0,
+    "chrf": 64.3255,
+    "bleu": 38.7705,
+    "bert": 0.718,
+    "comet": 0.9039,
+    "metricx": -2.1641
+   },
+   "named entity": {
+    "n": 46,
+    "ad": 2.97,
+    "chrf": 52.6805,
+    "bleu": 25.5323,
+    "bert": 0.5724,
+    "comet": 0.8211,
+    "metricx": -6.7106
+   },
+   "discourse / connective": {
+    "n": 28,
+    "ad": 3.96,
+    "chrf": 57.5536,
+    "bleu": 31.5786,
+    "bert": 0.6692,
+    "comet": 0.8831,
+    "metricx": -2.5956
+   },
+   "mistranslation": {
+    "n": 24,
+    "ad": 2.67,
+    "chrf": 35.2025,
+    "bleu": 14.3371,
+    "bert": 0.438,
+    "comet": 0.7443,
+    "metricx": -5.5495
+   },
+   "addition / hallucination": {
+    "n": 24,
+    "ad": 3.54,
+    "chrf": 46.2965,
+    "bleu": 12.7206,
+    "bert": 0.5072,
+    "comet": 0.8255,
+    "metricx": -3.1764
+   },
+   "omission": {
+    "n": 23,
+    "ad": 3.48,
+    "chrf": 49.9153,
+    "bleu": 21.7047,
+    "bert": 0.5804,
+    "comet": 0.8568,
+    "metricx": -3.9115
+   },
+   "fluency / grammar only": {
+    "n": 13,
+    "ad": 4.27,
+    "chrf": 51.456,
+    "bleu": 22.0043,
+    "bert": 0.4932,
+    "comet": 0.7809,
+    "metricx": -6.9982
+   }
+  }
+ }
+}

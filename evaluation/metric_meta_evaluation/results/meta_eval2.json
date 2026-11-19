@@ -1,0 +1,652 @@
+{
+ "S1": {
+  "pairwise": {
+   "chrf": {
+    "all": [
+     0.69,
+     2904
+    ],
+    "same_model_usr_better": [
+     0.761,
+     138
+    ],
+    "same_model_hindi_better": [
+     0.651,
+     195
+    ],
+    "mt_vs_usr": [
+     0.725,
+     643
+    ]
+   },
+   "bleu": {
+    "all": [
+     0.674,
+     2904
+    ],
+    "same_model_usr_better": [
+     0.667,
+     138
+    ],
+    "same_model_hindi_better": [
+     0.646,
+     195
+    ],
+    "mt_vs_usr": [
+     0.72,
+     643
+    ]
+   },
+   "bert": {
+    "all": [
+     0.75,
+     2904
+    ],
+    "same_model_usr_better": [
+     0.609,
+     138
+    ],
+    "same_model_hindi_better": [
+     0.815,
+     195
+    ],
+    "mt_vs_usr": [
+     0.813,
+     643
+    ]
+   },
+   "comet": {
+    "all": [
+     0.757,
+     2904
+    ],
+    "same_model_usr_better": [
+     0.645,
+     138
+    ],
+    "same_model_hindi_better": [
+     0.821,
+     195
+    ],
+    "mt_vs_usr": [
+     0.798,
+     643
+    ]
+   },
+   "metricx": {
+    "all": [
+     0.761,
+     2904
+    ],
+    "same_model_usr_better": [
+     0.58,
+     138
+    ],
+    "same_model_hindi_better": [
+     0.944,
+     195
+    ],
+    "mt_vs_usr": [
+     0.848,
+     643
+    ]
+   }
+  },
+  "equal_adequacy": {
+   "chrf": {
+    "5": {
+     "hindi": 69.1667,
+     "usr": 71.5319,
+     "mt": 73.4654,
+     "nH": 164,
+     "nU": 126,
+     "nT": 159
+    },
+    "4": {
+     "hindi": 54.1295,
+     "usr": 60.6259,
+     "mt": 50.8134,
+     "nH": 32,
+     "nU": 42,
+     "nT": 17
+    },
+    "3": {
+     "hindi": 44.963,
+     "usr": 51.7498,
+     "mt": 47.6682,
+     "nH": 18,
+     "nU": 19,
+     "nT": 7
+    }
+   },
+   "bleu": {
+    "5": {
+     "hindi": 45.0476,
+     "usr": 43.0876,
+     "mt": 50.6732,
+     "nH": 164,
+     "nU": 126,
+     "nT": 159
+    },
+    "4": {
+     "hindi": 24.3913,
+     "usr": 30.9126,
+     "mt": 23.0926,
+     "nH": 32,
+     "nU": 42,
+     "nT": 17
+    },
+    "3": {
+     "hindi": 16.6373,
+     "usr": 19.1615,
+     "mt": 20.716,
+     "nH": 18,
+     "nU": 19,
+     "nT": 7
+    }
+   },
+   "bert": {
+    "5": {
+     "hindi": 0.7424,
+     "usr": 0.7075,
+     "mt": 0.7943,
+     "nH": 164,
+     "nU": 126,
+     "nT": 159
+    },
+    "4": {
+     "hindi": 0.6141,
+     "usr": 0.5958,
+     "mt": 0.5643,
+     "nH": 32,
+     "nU": 42,
+     "nT": 17
+    },
+    "3": {
+     "hindi": 0.5124,
+     "usr": 0.4351,
+     "mt": 0.5563,
+     "nH": 18,
+     "nU": 19,
+     "nT": 7
+    }
+   },
+   "comet": {
+    "5": {
+     "hindi": 0.9177,
+     "usr": 0.9101,
+     "mt": 0.9202,
+     "nH": 164,
+     "nU": 126,
+     "nT": 159
+    },
+    "4": {
+     "hindi": 0.8683,
+     "usr": 0.8538,
+     "mt": 0.7978,
+     "nH": 32,
+     "nU": 42,
+     "nT": 17
+    },
+    "3": {
+     "hindi": 0.8072,
+     "usr": 0.7617,
+     "mt": 0.8102,
+     "nH": 18,
+     "nU": 19,
+     "nT": 7
+    }
+   },
+   "metricx": {
+    "5": {
+     "hindi": -1.4533,
+     "usr": -2.0624,
+     "mt": -1.3865,
+     "nH": 164,
+     "nU": 126,
+     "nT": 159
+    },
+    "4": {
+     "hindi": -2.349,
+     "usr": -3.8979,
+     "mt": -4.1549,
+     "nH": 32,
+     "nU": 42,
+     "nT": 17
+    },
+    "3": {
+     "hindi": -5.0024,
+     "usr": -6.9482,
+     "mt": -6.144,
+     "nH": 18,
+     "nU": 19,
+     "nT": 7
+    }
+   }
+  },
+  "regression": {
+   "chrf": {
+    "beta_adequacy": 0.516,
+    "beta_fluency": 0.016,
+    "fluency_share": 0.029,
+    "n": 1184
+   },
+   "bleu": {
+    "beta_adequacy": 0.31,
+    "beta_fluency": 0.157,
+    "fluency_share": 0.336,
+    "n": 1184
+   },
+   "bert": {
+    "beta_adequacy": 0.488,
+    "beta_fluency": 0.169,
+    "fluency_share": 0.258,
+    "n": 1184
+   },
+   "comet": {
+    "beta_adequacy": 0.527,
+    "beta_fluency": 0.223,
+    "fluency_share": 0.297,
+    "n": 1184
+   },
+   "metricx": {
+    "beta_adequacy": 0.379,
+    "beta_fluency": 0.352,
+    "fluency_share": 0.481,
+    "n": 1184
+   }
+  },
+  "types": {
+   "form only (fluency/grammar)": {
+    "n": 35,
+    "ad": 3.86,
+    "fl": 3.39,
+    "chrf": 57.0907,
+    "bleu": 23.5746,
+    "bert": 0.5758,
+    "comet": 0.8089,
+    "metricx": -5.9836
+   },
+   "discourse/connective": {
+    "n": 29,
+    "ad": 3.9,
+    "fl": 4.47,
+    "chrf": 59.034,
+    "bleu": 30.8524,
+    "bert": 0.6347,
+    "comet": 0.8753,
+    "metricx": -2.6666
+   },
+   "addition/hallucination": {
+    "n": 44,
+    "ad": 3.59,
+    "fl": 4.22,
+    "chrf": 54.3152,
+    "bleu": 24.9159,
+    "bert": 0.51,
+    "comet": 0.8223,
+    "metricx": -3.6068
+   },
+   "omission": {
+    "n": 22,
+    "ad": 3.14,
+    "fl": 3.89,
+    "chrf": 42.3684,
+    "bleu": 17.718,
+    "bert": 0.4865,
+    "comet": 0.7926,
+    "metricx": -6.0192
+   },
+   "mistranslation": {
+    "n": 35,
+    "ad": 2.79,
+    "fl": 3.63,
+    "chrf": 44.7892,
+    "bleu": 20.6444,
+    "bert": 0.4861,
+    "comet": 0.7755,
+    "metricx": -6.2904
+   },
+   "none (correct)": {
+    "n": 427,
+    "ad": 4.99,
+    "fl": 4.99,
+    "chrf": 72.0334,
+    "bleu": 47.6019,
+    "bert": 0.7581,
+    "comet": 0.9192,
+    "metricx": -1.5069
+   }
+  }
+ },
+ "S2": {
+  "pairwise": {
+   "chrf": {
+    "all": [
+     0.683,
+     2545
+    ],
+    "same_model_usr_better": [
+     0.67,
+     206
+    ],
+    "same_model_hindi_better": [
+     0.596,
+     89
+    ],
+    "mt_vs_usr": [
+     0.663,
+     487
+    ]
+   },
+   "bleu": {
+    "all": [
+     0.654,
+     2545
+    ],
+    "same_model_usr_better": [
+     0.631,
+     206
+    ],
+    "same_model_hindi_better": [
+     0.562,
+     89
+    ],
+    "mt_vs_usr": [
+     0.622,
+     487
+    ]
+   },
+   "bert": {
+    "all": [
+     0.685,
+     2545
+    ],
+    "same_model_usr_better": [
+     0.592,
+     206
+    ],
+    "same_model_hindi_better": [
+     0.73,
+     89
+    ],
+    "mt_vs_usr": [
+     0.698,
+     487
+    ]
+   },
+   "comet": {
+    "all": [
+     0.715,
+     2545
+    ],
+    "same_model_usr_better": [
+     0.631,
+     206
+    ],
+    "same_model_hindi_better": [
+     0.764,
+     89
+    ],
+    "mt_vs_usr": [
+     0.754,
+     487
+    ]
+   },
+   "metricx": {
+    "all": [
+     0.697,
+     2545
+    ],
+    "same_model_usr_better": [
+     0.539,
+     206
+    ],
+    "same_model_hindi_better": [
+     0.843,
+     89
+    ],
+    "mt_vs_usr": [
+     0.76,
+     487
+    ]
+   }
+  },
+  "equal_adequacy": {
+   "chrf": {
+    "5": {
+     "hindi": 60.5018,
+     "usr": 62.1434,
+     "mt": 69.607,
+     "nH": 174,
+     "nU": 257,
+     "nT": 201
+    },
+    "4": {
+     "hindi": 55.4729,
+     "usr": 53.3956,
+     "mt": 59.1723,
+     "nH": 32,
+     "nU": 35,
+     "nT": 20
+    },
+    "3": {
+     "hindi": 47.8784,
+     "usr": 52.1718,
+     "mt": 51.8326,
+     "nH": 51,
+     "nU": 28,
+     "nT": 9
+    }
+   },
+   "bleu": {
+    "5": {
+     "hindi": 34.277,
+     "usr": 35.0825,
+     "mt": 46.2193,
+     "nH": 174,
+     "nU": 257,
+     "nT": 201
+    },
+    "4": {
+     "hindi": 26.9126,
+     "usr": 26.8394,
+     "mt": 30.4922,
+     "nH": 32,
+     "nU": 35,
+     "nT": 20
+    },
+    "3": {
+     "hindi": 20.6592,
+     "usr": 23.2627,
+     "mt": 29.7546,
+     "nH": 51,
+     "nU": 28,
+     "nT": 9
+    }
+   },
+   "bert": {
+    "5": {
+     "hindi": 0.7076,
+     "usr": 0.6597,
+     "mt": 0.785,
+     "nH": 174,
+     "nU": 257,
+     "nT": 201
+    },
+    "4": {
+     "hindi": 0.6965,
+     "usr": 0.5751,
+     "mt": 0.7084,
+     "nH": 32,
+     "nU": 35,
+     "nT": 20
+    },
+    "3": {
+     "hindi": 0.531,
+     "usr": 0.5598,
+     "mt": 0.5075,
+     "nH": 51,
+     "nU": 28,
+     "nT": 9
+    }
+   },
+   "comet": {
+    "5": {
+     "hindi": 0.9076,
+     "usr": 0.8833,
+     "mt": 0.9191,
+     "nH": 174,
+     "nU": 257,
+     "nT": 201
+    },
+    "4": {
+     "hindi": 0.8928,
+     "usr": 0.854,
+     "mt": 0.8886,
+     "nH": 32,
+     "nU": 35,
+     "nT": 20
+    },
+    "3": {
+     "hindi": 0.8068,
+     "usr": 0.841,
+     "mt": 0.747,
+     "nH": 51,
+     "nU": 28,
+     "nT": 9
+    }
+   },
+   "metricx": {
+    "5": {
+     "hindi": -1.7187,
+     "usr": -2.875,
+     "mt": -1.7595,
+     "nH": 174,
+     "nU": 257,
+     "nT": 201
+    },
+    "4": {
+     "hindi": -2.6166,
+     "usr": -4.287,
+     "mt": -2.7801,
+     "nH": 32,
+     "nU": 35,
+     "nT": 20
+    },
+    "3": {
+     "hindi": -5.2639,
+     "usr": -6.8464,
+     "mt": -5.5812,
+     "nH": 51,
+     "nU": 28,
+     "nT": 9
+    }
+   }
+  },
+  "regression": {
+   "chrf": {
+    "beta_adequacy": 0.351,
+    "beta_fluency": 0.088,
+    "fluency_share": 0.2,
+    "n": 1200
+   },
+   "bleu": {
+    "beta_adequacy": 0.293,
+    "beta_fluency": 0.089,
+    "fluency_share": 0.234,
+    "n": 1200
+   },
+   "bert": {
+    "beta_adequacy": 0.349,
+    "beta_fluency": 0.184,
+    "fluency_share": 0.345,
+    "n": 1200
+   },
+   "comet": {
+    "beta_adequacy": 0.434,
+    "beta_fluency": 0.225,
+    "fluency_share": 0.342,
+    "n": 1200
+   },
+   "metricx": {
+    "beta_adequacy": 0.407,
+    "beta_fluency": 0.265,
+    "fluency_share": 0.394,
+    "n": 1200
+   }
+  },
+  "types": {
+   "form only (fluency/grammar)": {
+    "n": 13,
+    "ad": 4.27,
+    "fl": 3.77,
+    "chrf": 51.456,
+    "bleu": 22.0043,
+    "bert": 0.4932,
+    "comet": 0.7809,
+    "metricx": -6.9982
+   },
+   "discourse/connective": {
+    "n": 28,
+    "ad": 3.96,
+    "fl": 4.91,
+    "chrf": 57.5536,
+    "bleu": 31.5786,
+    "bert": 0.6692,
+    "comet": 0.8831,
+    "metricx": -2.5956
+   },
+   "named entity": {
+    "n": 46,
+    "ad": 2.97,
+    "fl": 4.76,
+    "chrf": 52.6805,
+    "bleu": 25.5323,
+    "bert": 0.5724,
+    "comet": 0.8211,
+    "metricx": -6.7106
+   },
+   "addition/hallucination": {
+    "n": 24,
+    "ad": 3.54,
+    "fl": 4.85,
+    "chrf": 46.2965,
+    "bleu": 12.7206,
+    "bert": 0.5072,
+    "comet": 0.8255,
+    "metricx": -3.1764
+   },
+   "omission": {
+    "n": 23,
+    "ad": 3.48,
+    "fl": 4.83,
+    "chrf": 49.9153,
+    "bleu": 21.7047,
+    "bert": 0.5804,
+    "comet": 0.8568,
+    "metricx": -3.9115
+   },
+   "mistranslation": {
+    "n": 24,
+    "ad": 2.67,
+    "fl": 4.58,
+    "chrf": 35.2025,
+    "bleu": 14.3371,
+    "bert": 0.438,
+    "comet": 0.7443,
+    "metricx": -5.5495
+   },
+   "none (correct)": {
+    "n": 610,
+    "ad": 5.0,
+    "fl": 4.99,
+    "chrf": 64.3255,
+    "bleu": 38.7705,
+    "bert": 0.718,
+    "comet": 0.9039,
+    "metricx": -2.1641
+   }
+  }
+ }
+}
